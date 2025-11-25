@@ -18,6 +18,7 @@ This folder contains your complete, actionable marketing strategy designed to he
 - Persona 1: Solo Entrepreneur
 - Persona 2: SME Operations Manager
 - Persona 3: Corporate Innovation Lead
+- **Social Media Intelligence Platform**: TOP 100 Brazil Target Companies
 
 ### **03-Marketing-Channels**
 - Complete channel strategy with priorities
@@ -55,12 +56,24 @@ This folder contains your complete, actionable marketing strategy designed to he
 - 5 content angles (themes)
 - 10 ready-to-post content ideas
 - 3 complete landing page outlines
+- **Social Media Intelligence Platform**: LinkedIn outreach templates
 
 ### **09-Immediate-Actions-Today**
 - 10 tasks to execute TODAY (5 hours total)
 - Week 1 daily priorities
 - 30-day milestone roadmap
 - Productivity tips and pitfall warnings
+
+### **10-Product-Strategies**
+#### Social Media Intelligence Platform (LATAM B2B)
+Complete marketing strategy for AI-powered social media intelligence targeting LATAM market:
+- Executive Summary & Product Analysis
+- Comprehensive Marketing Plan with Trojan Horse strategy
+- TOP 100 LATAM Target Companies list
+- TOP 30 Detailed Company Research profiles
+- Product One-Pager
+- Growth Opportunities analysis
+- Technical documentation (Comment Extractor, Customer Feedback App)
 
 ---
 
