@@ -1,0 +1,1173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Whisperers - Professional Training Course Catalog 2025-2026</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+        :root {
+            --primary: #2563eb;
+            --primary-dark: #1d4ed8;
+            --secondary: #7c3aed;
+            --success: #059669;
+            --warning: #d97706;
+            --text: #1f2937;
+            --text-light: #6b7280;
+            --bg: #ffffff;
+            --bg-light: #f9fafb;
+            --border: #e5e7eb;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            line-height: 1.6;
+            color: var(--text);
+            background: var(--bg);
+        }
+
+        @media print {
+            body { font-size: 11pt; }
+            .page-break { page-break-before: always; }
+            .no-print { display: none; }
+            h1, h2, h3 { page-break-after: avoid; }
+            table { page-break-inside: avoid; }
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px;
+        }
+
+        /* Cover Page */
+        .cover {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            padding: 60px;
+        }
+
+        .cover h1 {
+            font-size: 3.5em;
+            font-weight: 700;
+            margin-bottom: 10px;
+            letter-spacing: -1px;
+        }
+
+        .cover .subtitle {
+            font-size: 1.5em;
+            font-weight: 300;
+            margin-bottom: 40px;
+            opacity: 0.9;
+        }
+
+        .cover .year {
+            font-size: 2em;
+            font-weight: 600;
+            padding: 15px 40px;
+            border: 3px solid rgba(255,255,255,0.5);
+            border-radius: 50px;
+            margin-bottom: 60px;
+        }
+
+        .cover .tagline {
+            font-size: 1.1em;
+            font-weight: 400;
+            max-width: 500px;
+            opacity: 0.85;
+        }
+
+        /* Section Headers */
+        .section-header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            color: white;
+            padding: 40px;
+            margin: 40px -40px;
+            text-align: center;
+        }
+
+        .section-header h2 {
+            font-size: 2em;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+
+        .section-header p {
+            opacity: 0.9;
+            font-size: 1.1em;
+        }
+
+        /* Typography */
+        h1 { font-size: 2.5em; font-weight: 700; margin-bottom: 20px; color: var(--primary); }
+        h2 { font-size: 1.8em; font-weight: 600; margin: 30px 0 15px; color: var(--text); border-bottom: 2px solid var(--primary); padding-bottom: 10px; }
+        h3 { font-size: 1.3em; font-weight: 600; margin: 25px 0 10px; color: var(--text); }
+        h4 { font-size: 1.1em; font-weight: 600; margin: 20px 0 10px; color: var(--text-light); }
+
+        p { margin-bottom: 15px; }
+
+        /* Course Cards */
+        .course-card {
+            background: var(--bg-light);
+            border-radius: 12px;
+            padding: 30px;
+            margin: 25px 0;
+            border-left: 4px solid var(--primary);
+        }
+
+        .course-card.active {
+            border-left-color: var(--success);
+            background: linear-gradient(135deg, #f0fdf4 0%, #ecfdf5 100%);
+        }
+
+        .course-card.tier1 {
+            border-left-color: var(--primary);
+        }
+
+        .course-card.tier2 {
+            border-left-color: var(--secondary);
+        }
+
+        .course-card.tier3 {
+            border-left-color: var(--warning);
+        }
+
+        .course-title {
+            font-size: 1.5em;
+            font-weight: 700;
+            color: var(--text);
+            margin-bottom: 10px;
+        }
+
+        .course-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-bottom: 15px;
+        }
+
+        .meta-item {
+            display: inline-flex;
+            align-items: center;
+            font-size: 0.9em;
+            color: var(--text-light);
+            background: white;
+            padding: 5px 12px;
+            border-radius: 20px;
+            border: 1px solid var(--border);
+        }
+
+        .status-badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8em;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+
+        .status-active { background: #dcfce7; color: #166534; }
+        .status-planned { background: #dbeafe; color: #1e40af; }
+        .status-coming { background: #fef3c7; color: #92400e; }
+
+        /* Tables */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 0.95em;
+        }
+
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
+        }
+
+        th {
+            background: var(--bg-light);
+            font-weight: 600;
+            color: var(--text);
+        }
+
+        tr:hover {
+            background: var(--bg-light);
+        }
+
+        /* Lists */
+        ul, ol {
+            margin: 15px 0;
+            padding-left: 25px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        .check-list {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .check-list li {
+            padding-left: 28px;
+            position: relative;
+        }
+
+        .check-list li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: var(--success);
+            font-weight: bold;
+        }
+
+        /* Pricing Box */
+        .pricing-box {
+            background: white;
+            border: 2px solid var(--border);
+            border-radius: 12px;
+            padding: 25px;
+            margin: 20px 0;
+        }
+
+        .pricing-box h4 {
+            color: var(--primary);
+            margin-top: 0;
+        }
+
+        /* Stats Grid */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin: 25px 0;
+        }
+
+        .stat-card {
+            background: var(--bg-light);
+            padding: 25px;
+            border-radius: 12px;
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 2.5em;
+            font-weight: 700;
+            color: var(--primary);
+            line-height: 1;
+        }
+
+        .stat-label {
+            font-size: 0.9em;
+            color: var(--text-light);
+            margin-top: 8px;
+        }
+
+        /* Learning Path */
+        .learning-path {
+            background: linear-gradient(135deg, #eff6ff 0%, #f5f3ff 100%);
+            border-radius: 12px;
+            padding: 25px;
+            margin: 25px 0;
+        }
+
+        .path-steps {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .path-step {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .step-number {
+            width: 40px;
+            height: 40px;
+            background: var(--primary);
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            flex-shrink: 0;
+        }
+
+        .step-content {
+            flex: 1;
+        }
+
+        /* Contact Section */
+        .contact-section {
+            background: var(--bg-light);
+            border-radius: 12px;
+            padding: 30px;
+            margin: 30px 0;
+        }
+
+        .contact-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+
+        .contact-item {
+            padding: 15px;
+        }
+
+        .contact-item strong {
+            display: block;
+            color: var(--primary);
+            margin-bottom: 5px;
+        }
+
+        /* TOC */
+        .toc {
+            background: var(--bg-light);
+            padding: 30px;
+            border-radius: 12px;
+            margin: 30px 0;
+        }
+
+        .toc h3 {
+            margin-top: 0;
+            color: var(--primary);
+        }
+
+        .toc ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .toc li {
+            padding: 8px 0;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .toc a {
+            color: var(--text);
+            text-decoration: none;
+        }
+
+        .toc a:hover {
+            color: var(--primary);
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            padding: 40px;
+            color: var(--text-light);
+            border-top: 1px solid var(--border);
+            margin-top: 60px;
+        }
+
+        .footer strong {
+            color: var(--primary);
+        }
+    </style>
+</head>
+<body>
+    <!-- Cover Page -->
+    <div class="cover">
+        <h1>AI Whisperers</h1>
+        <p class="subtitle">Professional Training Course Catalog</p>
+        <div class="year">2025-2026</div>
+        <p class="tagline">Empowering professionals with practical skills to succeed in the AI-augmented future</p>
+    </div>
+
+    <div class="container">
+        <!-- Table of Contents -->
+        <div class="toc page-break">
+            <h3>Table of Contents</h3>
+            <ul>
+                <li><a href="#about">About AI Whisperers</a></li>
+                <li><a href="#overview">Course Catalog Overview</a></li>
+                <li><a href="#active">Active Courses - Enroll Now</a></li>
+                <li><a href="#tier1">Tier 1: Foundation Courses</a></li>
+                <li><a href="#tier2">Tier 2: Technical Courses</a></li>
+                <li><a href="#tier3">Tier 3: Specialized Courses</a></li>
+                <li><a href="#paths">Learning Paths</a></li>
+                <li><a href="#certifications">Certifications</a></li>
+                <li><a href="#corporate">Corporate Packages</a></li>
+                <li><a href="#contact">Contact Information</a></li>
+            </ul>
+        </div>
+
+        <!-- About Section -->
+        <section id="about">
+            <h2>About AI Whisperers</h2>
+            <p>AI Whisperers delivers professional training that combines solid fundamentals with cutting-edge AI integration. Our courses are designed to provide immediate, measurable productivity gains while building long-term competitive advantages.</p>
+
+            <h3>Our Philosophy</h3>
+            <ul class="check-list">
+                <li>Quality education accessible to all</li>
+                <li>Practical skills over theory alone</li>
+                <li>AI augmentation, not replacement</li>
+                <li>Continuous learning and improvement</li>
+                <li>Community support and collaboration</li>
+            </ul>
+        </section>
+
+        <!-- Overview Section -->
+        <section id="overview" class="page-break">
+            <h2>Course Catalog Overview</h2>
+
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-value">12</div>
+                    <div class="stat-label">Total Courses</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">100+</div>
+                    <div class="stat-label">Hours of Content</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">4</div>
+                    <div class="stat-label">Course Tiers</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">2</div>
+                    <div class="stat-label">Active Now</div>
+                </div>
+            </div>
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>Tier</th>
+                        <th>Focus</th>
+                        <th>Courses</th>
+                        <th>Target Audience</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><span class="status-badge status-active">Active</span></td>
+                        <td>Ready to Enroll</td>
+                        <td>2</td>
+                        <td>QA Engineers</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Tier 1</strong></td>
+                        <td>Foundation</td>
+                        <td>3</td>
+                        <td>All Professionals</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Tier 2</strong></td>
+                        <td>Technical</td>
+                        <td>3</td>
+                        <td>Developers & Engineers</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Tier 3</strong></td>
+                        <td>Specialized</td>
+                        <td>4</td>
+                        <td>Department Teams</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <!-- Active Courses -->
+        <div class="section-header page-break" id="active">
+            <h2>ACTIVE COURSES</h2>
+            <p>Enroll Now - 100% Ready for Deployment</p>
+        </div>
+
+        <div class="course-card active">
+            <span class="status-badge status-active">ACTIVE - 100% Complete</span>
+            <h3 class="course-title">QA Automation with AI (PRIMARY COURSE)</h3>
+
+            <div class="course-meta">
+                <span class="meta-item">40-60 hours</span>
+                <span class="meta-item">8-12 weeks self-paced</span>
+                <span class="meta-item">Beginner to Advanced</span>
+                <span class="meta-item">12 modules</span>
+            </div>
+
+            <p>Transform from Manual QA Engineer to AI-Augmented QA Automation Engineer. This comprehensive AI-first course teaches modern QA automation techniques enhanced with artificial intelligence tools.</p>
+
+            <h4>What's Included</h4>
+            <ul class="check-list">
+                <li>12 complete modules covering all QA fundamentals</li>
+                <li>AI integration throughout the curriculum</li>
+                <li>Comprehensive exercises and quizzes for each module</li>
+                <li>9 professional presentation templates</li>
+                <li>Extensive prompts library (50+ tested prompts)</li>
+                <li>Test examples (Playwright, Jest, Pytest, API)</li>
+            </ul>
+
+            <h4>Module Breakdown</h4>
+            <table>
+                <thead>
+                    <tr><th>Module</th><th>Topic</th><th>Duration</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td>1</td><td>Introduction to AI-Assisted Development</td><td>4 hours</td></tr>
+                    <tr><td>2</td><td>Context Engineering</td><td>4 hours</td></tr>
+                    <tr><td>3</td><td>Accessing Private Repositories</td><td>3 hours</td></tr>
+                    <tr><td>4</td><td>Documentation Generation</td><td>5 hours</td></tr>
+                    <tr><td>5</td><td>Test Planning</td><td>5 hours</td></tr>
+                    <tr><td>6</td><td>Test Implementation (Unit/Integration/E2E)</td><td>8 hours</td></tr>
+                    <tr><td>7</td><td>Test Validation</td><td>4 hours</td></tr>
+                    <tr><td>8</td><td>Agentic Patterns</td><td>4 hours</td></tr>
+                    <tr><td>9</td><td>CI/CD Integration</td><td>4 hours</td></tr>
+                    <tr><td>10</td><td>Final Project</td><td>8+ hours</td></tr>
+                    <tr><td>11</td><td>Infrastructure & Docker</td><td>Included</td></tr>
+                    <tr><td>12</td><td>Advanced Playwright</td><td>Included</td></tr>
+                </tbody>
+            </table>
+
+            <h4>Learning Outcomes</h4>
+            <ul class="check-list">
+                <li>Set up and configure AI coding assistants</li>
+                <li>Provide effective context for accurate AI responses</li>
+                <li>Access and document private codebases using AI</li>
+                <li>Generate comprehensive test plans</li>
+                <li>Implement automated tests (unit, integration, E2E)</li>
+                <li>Review and improve AI-generated code</li>
+                <li>Apply agentic design patterns to testing</li>
+                <li>Integrate AI tools into CI/CD pipelines</li>
+            </ul>
+
+            <h4>Tools Used (All Free)</h4>
+            <p>Playwright, Postman, GitHub Actions, VS Code, Node.js, Git, Claude Code, GitHub Copilot</p>
+        </div>
+
+        <div class="course-card active">
+            <span class="status-badge status-active">ACTIVE - 50% Complete</span>
+            <h3 class="course-title">MentorMate QA Automation (Alternative Format)</h3>
+
+            <div class="course-meta">
+                <span class="meta-item">45-60 hours</span>
+                <span class="meta-item">4 weeks intensive</span>
+                <span class="meta-item">Beginner to Advanced</span>
+                <span class="meta-item">Sunday classes</span>
+            </div>
+
+            <p>Traditional QA automation combined with optional AI enhancement. This intensive 4-week program is designed for learners with no programming experience required.</p>
+
+            <h4>Weekly Breakdown</h4>
+            <table>
+                <thead>
+                    <tr><th>Week</th><th>Focus</th><th>Deliverable</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td>1</td><td>QA Fundamentals & Setup</td><td>Development environment, first test</td></tr>
+                    <tr><td>2</td><td>JavaScript & Playwright</td><td>15+ automated tests</td></tr>
+                    <tr><td>3</td><td>Advanced & API Testing</td><td>Page Object Model framework, API test suite</td></tr>
+                    <tr><td>4</td><td>CI/CD & Final Project</td><td>Complete automation framework</td></tr>
+                </tbody>
+            </table>
+
+            <h4>Assessment Weights</h4>
+            <table>
+                <tbody>
+                    <tr><td>Attendance & Participation</td><td>20%</td></tr>
+                    <tr><td>Weekly Homework & Quizzes</td><td>30%</td></tr>
+                    <tr><td>Final Project</td><td>40%</td></tr>
+                    <tr><td>Code Quality</td><td>10%</td></tr>
+                </tbody>
+            </table>
+            <p><strong>Passing Grade:</strong> 70% | <strong>Certificate:</strong> MentorMate Certified QA Automation Engineer</p>
+        </div>
+
+        <!-- Tier 1 Courses -->
+        <div class="section-header page-break" id="tier1">
+            <h2>TIER 1: FOUNDATION COURSES</h2>
+            <p>Launch: Q1-Q2 2026 | No Technical Background Required</p>
+        </div>
+
+        <div class="course-card tier1">
+            <span class="status-badge status-planned">Q1 2026</span>
+            <h3 class="course-title">Introduction to AI for Business Professionals</h3>
+
+            <div class="course-meta">
+                <span class="meta-item">4 hours</span>
+                <span class="meta-item">Half-day workshop</span>
+                <span class="meta-item">Beginner</span>
+                <span class="meta-item">HIGH PRIORITY</span>
+            </div>
+
+            <p>Demystify AI and machine learning for business leaders. This practical, non-technical workshop helps executives and managers understand AI's potential, identify opportunities in their business, and make informed decisions about AI adoption.</p>
+
+            <h4>Module Structure</h4>
+            <table>
+                <thead><tr><th>Module</th><th>Topic</th><th>Duration</th></tr></thead>
+                <tbody>
+                    <tr><td>1</td><td>AI Demystified</td><td>60 min</td></tr>
+                    <tr><td>2</td><td>Business Value & ROI</td><td>45 min</td></tr>
+                    <tr><td>3</td><td>AI Tools Landscape</td><td>45 min</td></tr>
+                    <tr><td>4</td><td>Identifying Opportunities</td><td>45 min</td></tr>
+                    <tr><td>5</td><td>Risks & Governance</td><td>30 min</td></tr>
+                    <tr><td>6</td><td>Hands-On Session</td><td>45 min</td></tr>
+                </tbody>
+            </table>
+
+            <div class="pricing-box">
+                <h4>Pricing</h4>
+                <table>
+                    <tbody>
+                        <tr><td>Corporate Training (10-30 people)</td><td><strong>$2,500 - $5,000</strong></td></tr>
+                        <tr><td>Public Workshop</td><td><strong>$399 per person</strong></td></tr>
+                        <tr><td>Online Self-Paced</td><td><strong>$149 per person</strong></td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="course-card tier1">
+            <span class="status-badge status-planned">Q1 2026</span>
+            <h3 class="course-title">AI Tools for Productivity</h3>
+
+            <div class="course-meta">
+                <span class="meta-item">8 hours</span>
+                <span class="meta-item">Full-day workshop</span>
+                <span class="meta-item">Beginner to Intermediate</span>
+                <span class="meta-item">HIGH PRIORITY</span>
+            </div>
+
+            <p>Transform your daily work with AI-powered productivity tools. This comprehensive full-day workshop teaches employees how to leverage ChatGPT, Claude, and other AI tools to work faster, smarter, and more creatively.</p>
+
+            <h4>Real Productivity Gains</h4>
+            <table>
+                <thead><tr><th>Task</th><th>Time Savings</th></tr></thead>
+                <tbody>
+                    <tr><td>Email writing</td><td>70% faster</td></tr>
+                    <tr><td>Data analysis</td><td>5x faster</td></tr>
+                    <tr><td>Presentation creation</td><td>60% reduction</td></tr>
+                    <tr><td>Meeting notes</td><td>90% automated</td></tr>
+                    <tr><td>Customer responses</td><td>50% faster</td></tr>
+                    <tr><td>Repetitive tasks</td><td>80% automation</td></tr>
+                </tbody>
+            </table>
+            <p><strong>Average ROI:</strong> 5-10 hours saved per employee per week</p>
+
+            <div class="pricing-box">
+                <h4>Pricing</h4>
+                <table>
+                    <tbody>
+                        <tr><td>Corporate Training (10-25 people)</td><td><strong>$4,000 - $8,000</strong></td></tr>
+                        <tr><td>Public Workshop</td><td><strong>$599 per person</strong></td></tr>
+                        <tr><td>Online Self-Paced</td><td><strong>$249 per person</strong></td></tr>
+                        <tr><td>Team License (10+)</td><td><strong>$199 per person</strong></td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="course-card tier1">
+            <span class="status-badge status-planned">Q1 2026</span>
+            <h3 class="course-title">Prompt Engineering Masterclass</h3>
+
+            <div class="course-meta">
+                <span class="meta-item">4 hours</span>
+                <span class="meta-item">Half-day intensive</span>
+                <span class="meta-item">Intermediate</span>
+                <span class="meta-item">HIGH PRIORITY</span>
+            </div>
+
+            <p>Master the art and science of communicating with AI. This intensive masterclass teaches advanced prompt engineering techniques that unlock the full potential of ChatGPT, Claude, and other large language models.</p>
+
+            <h4>Advanced Techniques Covered</h4>
+            <ul class="check-list">
+                <li>Few-shot learning (examples-based prompting)</li>
+                <li>Chain-of-thought prompting</li>
+                <li>Tree-of-thought and reasoning</li>
+                <li>Self-consistency techniques</li>
+                <li>ReAct (Reasoning + Acting)</li>
+                <li>Meta-prompting</li>
+            </ul>
+
+            <p><strong>Included:</strong> 50+ professional prompts library, course workbook, prompt library starter pack</p>
+            <p><strong>Certification:</strong> Prompt Engineering Master Certificate</p>
+
+            <div class="pricing-box">
+                <h4>Pricing</h4>
+                <table>
+                    <tbody>
+                        <tr><td>Corporate Training (10-20 people)</td><td><strong>$3,000 - $6,000</strong></td></tr>
+                        <tr><td>Public Workshop</td><td><strong>$499 per person</strong></td></tr>
+                        <tr><td>Online Self-Paced</td><td><strong>$199 per person</strong></td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Tier 2 Courses -->
+        <div class="section-header page-break" id="tier2">
+            <h2>TIER 2: TECHNICAL COURSES</h2>
+            <p>Launch: Q2 2026 | For Developers & Engineers</p>
+        </div>
+
+        <div class="course-card tier2">
+            <span class="status-badge status-planned">Q2 2026</span>
+            <h3 class="course-title">AI-Assisted Software Development</h3>
+
+            <div class="course-meta">
+                <span class="meta-item">16 hours</span>
+                <span class="meta-item">2 days</span>
+                <span class="meta-item">Intermediate to Advanced</span>
+                <span class="meta-item">HIGH PRIORITY</span>
+            </div>
+
+            <p>Transform your development workflow with AI-powered coding assistants. Learn to use AI for code generation, review, documentation, testing, debugging, and architecture decisions.</p>
+            <p><strong>For companies:</strong> Increase developer velocity by 30-50% while maintaining code quality.</p>
+
+            <h4>Productivity Gains</h4>
+            <table>
+                <thead><tr><th>Area</th><th>Improvement</th></tr></thead>
+                <tbody>
+                    <tr><td>Code writing</td><td>40-60% faster</td></tr>
+                    <tr><td>Documentation</td><td>70% time reduction</td></tr>
+                    <tr><td>Test creation</td><td>80% faster</td></tr>
+                    <tr><td>Debugging</td><td>30-40% faster</td></tr>
+                    <tr><td>Code reviews</td><td>50% more thorough</td></tr>
+                </tbody>
+            </table>
+
+            <h4>ROI Example</h4>
+            <p>Developer earning $100k/year: Time saved 10 hours/week = $25,000 annual value. Course investment $2,000. <strong>Payback: &lt; 1 month</strong></p>
+
+            <div class="pricing-box">
+                <h4>Pricing</h4>
+                <table>
+                    <tbody>
+                        <tr><td>Corporate Training (8-20 devs)</td><td><strong>$8,000 - $15,000</strong></td></tr>
+                        <tr><td>Public Workshop</td><td><strong>$899 per person</strong></td></tr>
+                        <tr><td>Team License (5+)</td><td><strong>$699 per person</strong></td></tr>
+                        <tr><td>Enterprise (20+)</td><td><strong>$599 per person</strong></td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="course-card tier2">
+            <span class="status-badge status-planned">Q2 2026</span>
+            <h3 class="course-title">Building AI-Powered Applications</h3>
+
+            <div class="course-meta">
+                <span class="meta-item">24 hours</span>
+                <span class="meta-item">3 days</span>
+                <span class="meta-item">Advanced</span>
+                <span class="meta-item">HIGH PRIORITY</span>
+            </div>
+
+            <p>Build production-ready AI-powered applications. Learn LLM APIs, embeddings, vector databases, RAG, chatbots, deployment, monitoring, and cost optimization.</p>
+
+            <h4>Topics Covered</h4>
+            <ul class="check-list">
+                <li>LLM APIs (OpenAI, Anthropic, local models)</li>
+                <li>Embeddings and vector databases (Pinecone, Weaviate)</li>
+                <li>RAG (Retrieval-Augmented Generation)</li>
+                <li>Building intelligent chatbots</li>
+                <li>Cost optimization strategies (90% reduction possible)</li>
+                <li>Production deployment (AWS, GCP, Azure)</li>
+            </ul>
+
+            <div class="pricing-box">
+                <h4>Pricing</h4>
+                <table>
+                    <tbody>
+                        <tr><td>Corporate Training</td><td><strong>$12,000 - $20,000</strong></td></tr>
+                        <tr><td>Public Workshop</td><td><strong>$1,299 per person</strong></td></tr>
+                        <tr><td>Team License (5+)</td><td><strong>$999 per person</strong></td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="course-card tier2">
+            <span class="status-badge status-planned">Q2 2026</span>
+            <h3 class="course-title">QA Automation with AI (Advanced)</h3>
+
+            <div class="course-meta">
+                <span class="meta-item">16 hours</span>
+                <span class="meta-item">2 days</span>
+                <span class="meta-item">Intermediate</span>
+                <span class="meta-item">MEDIUM PRIORITY</span>
+            </div>
+
+            <p>Advanced QA automation leveraging AI. Master AI-powered test generation, visual testing, maintenance, natural language scripts, and performance testing.</p>
+            <p><em>Note: This course builds on the existing QA-Automation-with-AI course (12 modules).</em></p>
+
+            <h4>Learning Outcomes</h4>
+            <ul class="check-list">
+                <li>Generate test cases automatically from specs</li>
+                <li>Implement self-healing tests</li>
+                <li>Write tests in natural language</li>
+                <li>Reduce test maintenance by 60%</li>
+            </ul>
+
+            <div class="pricing-box">
+                <h4>Pricing</h4>
+                <table>
+                    <tbody>
+                        <tr><td>Corporate Training</td><td><strong>$8,000 - $15,000</strong></td></tr>
+                        <tr><td>Public Workshop</td><td><strong>$899 per person</strong></td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Tier 3 Courses -->
+        <div class="section-header page-break" id="tier3">
+            <h2>TIER 3: SPECIALIZED COURSES</h2>
+            <p>Launch: Q3 2026 | Department-Specific Training</p>
+        </div>
+
+        <div class="course-card tier3">
+            <span class="status-badge status-coming">Q3 2026</span>
+            <h3 class="course-title">AI for Customer Service Teams</h3>
+
+            <div class="course-meta">
+                <span class="meta-item">8 hours</span>
+                <span class="meta-item">1 day</span>
+                <span class="meta-item">Beginner to Intermediate</span>
+            </div>
+
+            <p>Transform customer service with AI. Learn chatbots, ticket categorization, response suggestions, sentiment analysis, quality assurance, and escalation handling.</p>
+
+            <h4>ROI</h4>
+            <table>
+                <tbody>
+                    <tr><td>Response time</td><td>60% reduction</td></tr>
+                    <tr><td>Escalations</td><td>40% reduction</td></tr>
+                    <tr><td>Customer satisfaction</td><td>90% improvement</td></tr>
+                    <tr><td>Team capacity</td><td>50% increase</td></tr>
+                </tbody>
+            </table>
+
+            <p><strong>Pricing:</strong> Corporate $5,000 - $10,000 | Public $599 per person</p>
+        </div>
+
+        <div class="course-card tier3">
+            <span class="status-badge status-coming">Q3 2026</span>
+            <h3 class="course-title">AI for Marketing Teams</h3>
+
+            <div class="course-meta">
+                <span class="meta-item">8 hours</span>
+                <span class="meta-item">1 day</span>
+                <span class="meta-item">Beginner to Intermediate</span>
+            </div>
+
+            <p>Accelerate marketing with AI. Master content creation, social media management, SEO, market research, personalization, and analytics.</p>
+
+            <h4>Learning Outcomes</h4>
+            <ul class="check-list">
+                <li>Create content 5x faster</li>
+                <li>Optimize SEO automatically</li>
+                <li>Generate campaign ideas instantly</li>
+                <li>Improve campaign ROI by 40%</li>
+            </ul>
+
+            <p><strong>Pricing:</strong> Corporate $5,000 - $10,000 | Public $599 per person</p>
+        </div>
+
+        <div class="course-card tier3">
+            <span class="status-badge status-coming">Q3 2026</span>
+            <h3 class="course-title">AI for Sales Teams</h3>
+
+            <div class="course-meta">
+                <span class="meta-item">4 hours</span>
+                <span class="meta-item">Half-day</span>
+                <span class="meta-item">Beginner</span>
+            </div>
+
+            <p>Close more deals with AI. Learn lead research, email personalization, proposal generation, call preparation, CRM enrichment, and forecasting.</p>
+
+            <h4>ROI</h4>
+            <table>
+                <tbody>
+                    <tr><td>Qualified leads contacted</td><td>40% more</td></tr>
+                    <tr><td>Research time</td><td>50% reduction</td></tr>
+                    <tr><td>Response rates</td><td>30% improvement</td></tr>
+                    <tr><td>Close rates</td><td>25% increase</td></tr>
+                </tbody>
+            </table>
+
+            <p><strong>Pricing:</strong> Corporate $3,000 - $6,000 | Public $449 per person</p>
+        </div>
+
+        <div class="course-card tier3">
+            <span class="status-badge status-planned">Q1 2026</span>
+            <h3 class="course-title">AI Ethics and Governance</h3>
+
+            <div class="course-meta">
+                <span class="meta-item">4 hours</span>
+                <span class="meta-item">Half-day</span>
+                <span class="meta-item">All levels</span>
+                <span class="meta-item">CRITICAL</span>
+            </div>
+
+            <p>Build responsible AI practices. Understand bias, privacy, regulations, risk management, and create company AI policies.</p>
+
+            <h4>Why This Matters</h4>
+            <ul class="check-list">
+                <li>Avoid legal liability</li>
+                <li>Protect company IP</li>
+                <li>Maintain customer trust</li>
+                <li>Comply with regulations (GDPR, AI Act)</li>
+                <li>Mitigate reputational risk</li>
+            </ul>
+
+            <h4>Deliverables</h4>
+            <ul>
+                <li>AI usage policy template</li>
+                <li>Risk assessment framework</li>
+                <li>Compliance checklist</li>
+                <li>Employee training materials</li>
+            </ul>
+
+            <p><strong>Pricing:</strong> Corporate $4,000 - $8,000 | Public $499 per person | Executive Briefing (2 hours) $2,000</p>
+        </div>
+
+        <!-- Learning Paths -->
+        <div class="section-header page-break" id="paths">
+            <h2>LEARNING PATHS</h2>
+            <p>Recommended Course Sequences by Role</p>
+        </div>
+
+        <div class="learning-path">
+            <h3>Path 1: Business Professional</h3>
+            <div class="path-steps">
+                <div class="path-step">
+                    <div class="step-number">1</div>
+                    <div class="step-content">
+                        <strong>Introduction to AI for Business Professionals</strong><br>
+                        <span style="color: var(--text-light);">4 hours</span>
+                    </div>
+                </div>
+                <div class="path-step">
+                    <div class="step-number">2</div>
+                    <div class="step-content">
+                        <strong>AI Tools for Productivity</strong><br>
+                        <span style="color: var(--text-light);">8 hours</span>
+                    </div>
+                </div>
+                <div class="path-step">
+                    <div class="step-number">3</div>
+                    <div class="step-content">
+                        <strong>Prompt Engineering Masterclass</strong><br>
+                        <span style="color: var(--text-light);">4 hours</span>
+                    </div>
+                </div>
+            </div>
+            <p style="margin-top: 20px;"><strong>Total Duration:</strong> 16 hours | <strong>Outcome:</strong> AI-literate business professional</p>
+        </div>
+
+        <div class="learning-path">
+            <h3>Path 2: Technical Developer</h3>
+            <div class="path-steps">
+                <div class="path-step">
+                    <div class="step-number">1</div>
+                    <div class="step-content">
+                        <strong>AI Tools for Productivity</strong><br>
+                        <span style="color: var(--text-light);">8 hours</span>
+                    </div>
+                </div>
+                <div class="path-step">
+                    <div class="step-number">2</div>
+                    <div class="step-content">
+                        <strong>AI-Assisted Software Development</strong><br>
+                        <span style="color: var(--text-light);">16 hours</span>
+                    </div>
+                </div>
+                <div class="path-step">
+                    <div class="step-number">3</div>
+                    <div class="step-content">
+                        <strong>Building AI-Powered Applications</strong><br>
+                        <span style="color: var(--text-light);">24 hours</span>
+                    </div>
+                </div>
+            </div>
+            <p style="margin-top: 20px;"><strong>Total Duration:</strong> 48 hours | <strong>Outcome:</strong> AI-augmented full-stack developer</p>
+        </div>
+
+        <div class="learning-path">
+            <h3>Path 3: QA Engineer</h3>
+            <div class="path-steps">
+                <div class="path-step">
+                    <div class="step-number">1</div>
+                    <div class="step-content">
+                        <strong>QA Automation with AI - 12 Modules</strong><br>
+                        <span style="color: var(--text-light);">40-60 hours</span>
+                    </div>
+                </div>
+                <div class="path-step">
+                    <div class="step-number">2</div>
+                    <div class="step-content">
+                        <strong>QA Automation with AI (Advanced)</strong><br>
+                        <span style="color: var(--text-light);">16 hours</span>
+                    </div>
+                </div>
+            </div>
+            <p style="margin-top: 20px;"><strong>Total Duration:</strong> 56-76 hours | <strong>Outcome:</strong> AI-Augmented QA Automation Engineer</p>
+        </div>
+
+        <div class="learning-path">
+            <h3>Path 4: Department Leader</h3>
+            <div class="path-steps">
+                <div class="path-step">
+                    <div class="step-number">1</div>
+                    <div class="step-content">
+                        <strong>Introduction to AI for Business Professionals</strong><br>
+                        <span style="color: var(--text-light);">4 hours</span>
+                    </div>
+                </div>
+                <div class="path-step">
+                    <div class="step-number">2</div>
+                    <div class="step-content">
+                        <strong>AI Ethics and Governance</strong><br>
+                        <span style="color: var(--text-light);">4 hours</span>
+                    </div>
+                </div>
+                <div class="path-step">
+                    <div class="step-number">3</div>
+                    <div class="step-content">
+                        <strong>Department-specific course</strong><br>
+                        <span style="color: var(--text-light);">4-8 hours</span>
+                    </div>
+                </div>
+            </div>
+            <p style="margin-top: 20px;"><strong>Total Duration:</strong> 12-16 hours | <strong>Outcome:</strong> AI-ready department leader</p>
+        </div>
+
+        <!-- Certifications -->
+        <section id="certifications" class="page-break">
+            <h2>Certifications</h2>
+            <p>Upon successful course completion, receive:</p>
+            <ul class="check-list">
+                <li>Course-specific certification</li>
+                <li>LinkedIn skill badge</li>
+                <li>Portfolio project (where applicable)</li>
+                <li>Professional recognition</li>
+            </ul>
+
+            <h3>Available Certifications</h3>
+            <ul>
+                <li><strong>AI Whisperers Certified QA Automation Engineer</strong></li>
+                <li><strong>MentorMate Certified QA Automation Engineer</strong></li>
+                <li><strong>Prompt Engineering Master Certificate</strong></li>
+                <li><strong>AI-Augmented Developer Certificate</strong></li>
+            </ul>
+        </section>
+
+        <!-- Corporate Packages -->
+        <section id="corporate">
+            <h2>Corporate Packages</h2>
+
+            <h3>Team Training Packages</h3>
+            <table>
+                <thead>
+                    <tr><th>Package</th><th>Courses Included</th><th>People</th><th>Price</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td>Foundation</td><td>3 Tier 1 courses</td><td>Up to 25</td><td><strong>$12,000</strong></td></tr>
+                    <tr><td>Technical</td><td>2 Tier 2 courses</td><td>Up to 20</td><td><strong>$18,000</strong></td></tr>
+                    <tr><td>Complete</td><td>All 12 courses</td><td>Unlimited</td><td><strong>Custom</strong></td></tr>
+                </tbody>
+            </table>
+
+            <h3>Enterprise Benefits</h3>
+            <ul class="check-list">
+                <li>Custom content integration</li>
+                <li>Company-specific examples</li>
+                <li>Flexible scheduling</li>
+                <li>Dedicated instructor</li>
+                <li>Progress tracking and reporting</li>
+                <li>Post-training support</li>
+                <li>Volume discounts</li>
+            </ul>
+        </section>
+
+        <!-- Tools Section -->
+        <section>
+            <h2>Tools & Technologies</h2>
+            <p>All courses use <strong>100% free tools</strong> where possible:</p>
+
+            <h3>Core Tools</h3>
+            <ul>
+                <li><strong>Playwright</strong> - Modern web automation</li>
+                <li><strong>Postman</strong> - API testing</li>
+                <li><strong>GitHub Actions</strong> - CI/CD automation</li>
+                <li><strong>VS Code</strong> - Code editor</li>
+                <li><strong>Node.js</strong> - JavaScript runtime</li>
+                <li><strong>Git & GitHub</strong> - Version control</li>
+            </ul>
+
+            <h3>AI Tools</h3>
+            <ul>
+                <li><strong>Claude Code</strong> - AI coding assistant</li>
+                <li><strong>GitHub Copilot</strong> - AI pair programming</li>
+                <li><strong>ChatGPT</strong> - AI assistance</li>
+                <li><strong>Cursor</strong> - AI-powered IDE</li>
+            </ul>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="page-break">
+            <h2>Contact Information</h2>
+
+            <div class="contact-section">
+                <div class="contact-grid">
+                    <div class="contact-item">
+                        <strong>Course Information</strong>
+                        training@ai-whisperers.com
+                    </div>
+                    <div class="contact-item">
+                        <strong>Corporate Bookings</strong>
+                        corporate@ai-whisperers.com
+                    </div>
+                    <div class="contact-item">
+                        <strong>Volume Discounts</strong>
+                        sales@ai-whisperers.com
+                    </div>
+                    <div class="contact-item">
+                        <strong>Partnerships</strong>
+                        partnerships@ai-whisperers.com
+                    </div>
+                </div>
+            </div>
+
+            <h3>Course Schedule 2025-2026</h3>
+            <table>
+                <thead><tr><th>Quarter</th><th>Courses Available</th></tr></thead>
+                <tbody>
+                    <tr><td><strong>Now</strong></td><td>QA Automation with AI, MentorMate QA Automation</td></tr>
+                    <tr><td><strong>Q1 2026</strong></td><td>Introduction to AI for Business, AI Tools for Productivity, Prompt Engineering, AI Ethics</td></tr>
+                    <tr><td><strong>Q2 2026</strong></td><td>AI-Assisted Software Development, Building AI-Powered Applications, QA Advanced</td></tr>
+                    <tr><td><strong>Q3 2026</strong></td><td>AI for Customer Service, AI for Marketing, AI for Sales</td></tr>
+                </tbody>
+            </table>
+        </section>
+
+        <!-- Footer -->
+        <div class="footer">
+            <p><strong>AI Whisperers</strong></p>
+            <p>Building the future of AI-augmented professionals</p>
+            <br>
+            <p>Version 1.0 | November 2025</p>
+            <p><a href="https://github.com/Ai-Whisperers">github.com/Ai-Whisperers</a></p>
+        </div>
+    </div>
+</body>
+</html>
