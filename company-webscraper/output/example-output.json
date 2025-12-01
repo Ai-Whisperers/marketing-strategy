@@ -1,0 +1,1045 @@
+{
+  "meta": {
+    "scrape_id": "{{scrape_id}}",
+    "scrape_timestamp": "{{scrape_timestamp}}",
+    "company_name": "{{company_name}}",
+    "website_url": "{{website_url}}",
+    "data_quality": {
+      "completeness_score": "{{completeness_score}}",
+      "confidence_level": "{{confidence_level}}",
+      "sources_scraped": ["{{sources_scraped}}"],
+      "sources_failed": ["{{sources_failed}}"],
+      "scrape_duration_seconds": "{{scrape_duration_seconds}}"
+    }
+  },
+
+  "company": {
+    "name": "{{company_name}}",
+    "legal_name": "{{legal_name}}",
+    "parent_company": "{{parent_company}}",
+    "brand_aliases": ["{{alias_1}}", "{{alias_2}}", "{{alias_3}}"],
+    "tagline": "{{company_tagline}}",
+    "description": "{{company_description}}",
+    "founded_year": "{{founded_year}}",
+    "headquarters": {
+      "address": "{{street_address}}",
+      "city": "{{city}}",
+      "state": "{{state}}",
+      "country": "{{country}}",
+      "postal_code": "{{postal_code}}",
+      "coordinates": {
+        "lat": "{{latitude}}",
+        "lng": "{{longitude}}"
+      }
+    },
+    "industry": "{{industry}}",
+    "sub_industries": ["{{sub_industry_1}}", "{{sub_industry_2}}", "{{sub_industry_3}}"],
+    "company_type": "{{company_type}}",
+    "legal_entity_type": "{{legal_entity_type}}",
+    "tax_ids": {
+      "primary_tax_id": "{{tax_id_1}}",
+      "secondary_tax_id": "{{tax_id_2}}"
+    },
+    "financials": {
+      "revenue": {
+        "amount": "{{revenue_amount}}",
+        "currency": "{{revenue_currency}}",
+        "period": "{{revenue_period}}",
+        "yoy_growth_percent": "{{revenue_yoy_growth}}"
+      },
+      "net_income": {
+        "amount": "{{net_income_amount}}",
+        "currency": "{{net_income_currency}}",
+        "period": "{{net_income_period}}"
+      },
+      "gross_margin_percent": "{{gross_margin_percent}}",
+      "operating_margin_percent": "{{operating_margin_percent}}",
+      "market_cap": {
+        "amount": "{{market_cap_amount}}",
+        "currency": "{{market_cap_currency}}",
+        "as_of_date": "{{market_cap_date}}"
+      },
+      "stock": {
+        "ticker": "{{stock_ticker}}",
+        "exchange": "{{stock_exchange}}",
+        "price": "{{stock_price}}",
+        "currency": "{{stock_currency}}",
+        "52_week_high": "{{stock_52_week_high}}",
+        "52_week_low": "{{stock_52_week_low}}",
+        "pe_ratio": "{{pe_ratio}}",
+        "dividend_yield": "{{dividend_yield}}"
+      },
+      "funding": {
+        "total_raised": "{{total_raised}}",
+        "last_round": "{{last_round}}",
+        "funding_stage": "{{funding_stage}}",
+        "investors": ["{{investor_1}}", "{{investor_2}}"]
+      }
+    },
+    "employees": {
+      "count_global": "{{employees_global}}",
+      "count_latam": "{{employees_latam}}",
+      "count_by_country": {
+        "{{country_1}}": "{{country_1_employees}}",
+        "{{country_2}}": "{{country_2_employees}}",
+        "{{country_3}}": "{{country_3_employees}}",
+        "{{country_4}}": "{{country_4_employees}}",
+        "{{country_5}}": "{{country_5_employees}}",
+        "{{country_6}}": "{{country_6_employees}}"
+      },
+      "yoy_growth_percent": "{{employee_growth_percent}}",
+      "linkedin_employee_count": "{{linkedin_employee_count}}",
+      "glassdoor_employee_estimate": "{{glassdoor_employee_estimate}}"
+    },
+    "business_lines": [
+      {
+        "name": "{{business_line_1}}",
+        "description": "{{business_line_1_description}}",
+        "is_primary": "{{business_line_1_is_primary}}",
+        "revenue_share_percent": "{{business_line_1_revenue_share}}"
+      },
+      {
+        "name": "{{business_line_2}}",
+        "description": "{{business_line_2_description}}",
+        "is_primary": "{{business_line_2_is_primary}}",
+        "revenue_share_percent": "{{business_line_2_revenue_share}}"
+      },
+      {
+        "name": "{{business_line_3}}",
+        "description": "{{business_line_3_description}}",
+        "is_primary": "{{business_line_3_is_primary}}",
+        "revenue_share_percent": "{{business_line_3_revenue_share}}"
+      },
+      {
+        "name": "{{business_line_4}}",
+        "description": "{{business_line_4_description}}",
+        "is_primary": "{{business_line_4_is_primary}}",
+        "revenue_share_percent": "{{business_line_4_revenue_share}}"
+      },
+      {
+        "name": "{{business_line_5}}",
+        "description": "{{business_line_5_description}}",
+        "is_primary": "{{business_line_5_is_primary}}",
+        "revenue_share_percent": "{{business_line_5_revenue_share}}"
+      }
+    ],
+    "geographic_presence": {
+      "total_countries": "{{total_countries}}",
+      "operating_countries": ["{{operating_country_1}}", "{{operating_country_2}}", "{{operating_country_3}}"],
+      "latam_countries": ["{{latam_country_1}}", "{{latam_country_2}}", "{{latam_country_3}}"],
+      "stores": {
+        "total_global": "{{stores_global}}",
+        "by_region": {
+          "europe": "{{stores_europe}}",
+          "americas": "{{stores_americas}}",
+          "asia": "{{stores_asia}}",
+          "middle_east_africa": "{{stores_mea}}"
+        },
+        "latam_total": "{{stores_latam}}",
+        "by_latam_country": {
+          "{{latam_country_1}}": "{{latam_country_1_stores}}",
+          "{{latam_country_2}}": "{{latam_country_2_stores}}",
+          "{{latam_country_3}}": "{{latam_country_3_stores}}",
+          "{{latam_country_4}}": "{{latam_country_4_stores}}",
+          "{{latam_country_5}}": "{{latam_country_5_stores}}",
+          "{{latam_country_6}}": "{{latam_country_6_stores}}",
+          "other": "{{latam_other_stores}}"
+        }
+      },
+      "distribution_centers": [
+        { "location": "{{dc_location_1}}", "type": "{{dc_type_1}}", "size_sqm": "{{dc_size_1}}" },
+        { "location": "{{dc_location_2}}", "type": "{{dc_type_2}}", "size_sqm": "{{dc_size_2}}" },
+        { "location": "{{dc_location_3}}", "type": "{{dc_type_3}}", "size_sqm": "{{dc_size_3}}" }
+      ]
+    },
+    "leadership": {
+      "ceo": {
+        "name": "{{ceo_name}}",
+        "title": "{{ceo_title}}",
+        "linkedin_url": "{{ceo_linkedin_url}}",
+        "tenure_years": "{{ceo_tenure_years}}",
+        "background": "{{ceo_background}}"
+      },
+      "chairman": {
+        "name": "{{chairman_name}}",
+        "title": "{{chairman_title}}",
+        "linkedin_url": "{{chairman_linkedin_url}}",
+        "tenure_years": "{{chairman_tenure_years}}",
+        "background": "{{chairman_background}}"
+      },
+      "other_executives": [
+        { "name": "{{exec_1_name}}", "title": "{{exec_1_title}}", "linkedin_url": "{{exec_1_linkedin}}" },
+        { "name": "{{exec_2_name}}", "title": "{{exec_2_title}}", "linkedin_url": "{{exec_2_linkedin}}" },
+        { "name": "{{exec_3_name}}", "title": "{{exec_3_title}}", "linkedin_url": "{{exec_3_linkedin}}" }
+      ],
+      "board_size": "{{board_size}}"
+    },
+    "contact_info": {
+      "website": "{{website_url}}",
+      "corporate_website": "{{corporate_website_url}}",
+      "email_general": "{{email_general}}",
+      "email_press": "{{email_press}}",
+      "phone_corporate": "{{phone_corporate}}",
+      "investor_relations": "{{investor_relations_url}}"
+    }
+  },
+
+  "digital_presence": {
+    "social_media": {
+      "instagram": {
+        "handle": "{{instagram_handle}}",
+        "url": "{{instagram_url}}",
+        "followers": "{{instagram_followers}}",
+        "following": "{{instagram_following}}",
+        "posts_count": "{{instagram_posts}}",
+        "engagement_rate": "{{instagram_engagement_rate}}",
+        "avg_likes_per_post": "{{instagram_avg_likes}}",
+        "avg_comments_per_post": "{{instagram_avg_comments}}",
+        "comment_volume_monthly": "{{instagram_monthly_comments}}",
+        "posting_frequency": "{{instagram_posting_frequency}}",
+        "is_verified": "{{instagram_is_verified}}",
+        "bio": "{{instagram_bio}}",
+        "bio_link": "{{instagram_bio_link}}",
+        "hashtags_used": ["{{instagram_hashtag_1}}", "{{instagram_hashtag_2}}", "{{instagram_hashtag_3}}"],
+        "top_content_types": ["{{instagram_content_type_1}}", "{{instagram_content_type_2}}", "{{instagram_content_type_3}}"],
+        "audience_demographics": {
+          "top_countries": ["{{instagram_top_country_1}}", "{{instagram_top_country_2}}", "{{instagram_top_country_3}}"],
+          "age_range": "{{instagram_age_range}}",
+          "gender_split": { "female": "{{instagram_female_percent}}", "male": "{{instagram_male_percent}}" }
+        },
+        "regional_accounts": [
+          { "handle": "{{instagram_regional_1_handle}}", "followers": "{{instagram_regional_1_followers}}" },
+          { "handle": "{{instagram_regional_2_handle}}", "followers": "{{instagram_regional_2_followers}}" }
+        ]
+      },
+      "facebook": {
+        "page_name": "{{facebook_page_name}}",
+        "url": "{{facebook_url}}",
+        "page_id": "{{facebook_page_id}}",
+        "followers": "{{facebook_followers}}",
+        "likes": "{{facebook_likes}}",
+        "engagement_rate": "{{facebook_engagement_rate}}",
+        "comment_volume_monthly": "{{facebook_monthly_comments}}",
+        "posting_frequency": "{{facebook_posting_frequency}}",
+        "is_verified": "{{facebook_is_verified}}",
+        "page_created": "{{facebook_page_created}}",
+        "about": "{{facebook_about}}",
+        "categories": ["{{facebook_category_1}}", "{{facebook_category_2}}"],
+        "response_rate": "{{facebook_response_rate}}",
+        "response_time": "{{facebook_response_time}}"
+      },
+      "twitter": {
+        "handle": "{{twitter_handle}}",
+        "url": "{{twitter_url}}",
+        "followers": "{{twitter_followers}}",
+        "following": "{{twitter_following}}",
+        "tweets_count": "{{twitter_tweets}}",
+        "engagement_rate": "{{twitter_engagement_rate}}",
+        "comment_volume_monthly": "{{twitter_monthly_comments}}",
+        "is_verified": "{{twitter_is_verified}}",
+        "bio": "{{twitter_bio}}",
+        "location": "{{twitter_location}}",
+        "joined_date": "{{twitter_joined_date}}",
+        "avg_retweets": "{{twitter_avg_retweets}}",
+        "avg_likes": "{{twitter_avg_likes}}"
+      },
+      "tiktok": {
+        "handle": "{{tiktok_handle}}",
+        "url": "{{tiktok_url}}",
+        "followers": "{{tiktok_followers}}",
+        "following": "{{tiktok_following}}",
+        "likes_total": "{{tiktok_total_likes}}",
+        "videos_count": "{{tiktok_videos}}",
+        "engagement_rate": "{{tiktok_engagement_rate}}",
+        "avg_views_per_video": "{{tiktok_avg_views}}",
+        "comment_volume_monthly": "{{tiktok_monthly_comments}}",
+        "is_verified": "{{tiktok_is_verified}}",
+        "bio": "{{tiktok_bio}}",
+        "top_performing_sounds": ["{{tiktok_sound_1}}", "{{tiktok_sound_2}}"],
+        "content_style": ["{{tiktok_style_1}}", "{{tiktok_style_2}}", "{{tiktok_style_3}}"]
+      },
+      "linkedin": {
+        "company_name": "{{linkedin_company_name}}",
+        "url": "{{linkedin_url}}",
+        "followers": "{{linkedin_followers}}",
+        "employees_on_linkedin": "{{linkedin_employees}}",
+        "engagement_rate": "{{linkedin_engagement_rate}}",
+        "industry": "{{linkedin_industry}}",
+        "company_size": "{{linkedin_company_size}}",
+        "headquarters": "{{linkedin_headquarters}}",
+        "specialties": ["{{linkedin_specialty_1}}", "{{linkedin_specialty_2}}", "{{linkedin_specialty_3}}"],
+        "about": "{{linkedin_about}}",
+        "recent_posts_engagement": {
+          "avg_likes": "{{linkedin_avg_likes}}",
+          "avg_comments": "{{linkedin_avg_comments}}",
+          "avg_shares": "{{linkedin_avg_shares}}"
+        },
+        "job_openings_count": "{{linkedin_job_openings}}"
+      },
+      "youtube": {
+        "channel_name": "{{youtube_channel_name}}",
+        "url": "{{youtube_url}}",
+        "subscribers": "{{youtube_subscribers}}",
+        "videos_count": "{{youtube_videos}}",
+        "total_views": "{{youtube_total_views}}",
+        "comment_volume_monthly": "{{youtube_monthly_comments}}",
+        "is_verified": "{{youtube_is_verified}}",
+        "channel_created": "{{youtube_channel_created}}",
+        "avg_views_per_video": "{{youtube_avg_views}}",
+        "content_types": ["{{youtube_content_type_1}}", "{{youtube_content_type_2}}", "{{youtube_content_type_3}}"],
+        "upload_frequency": "{{youtube_upload_frequency}}"
+      },
+      "pinterest": {
+        "handle": "{{pinterest_handle}}",
+        "url": "{{pinterest_url}}",
+        "followers": "{{pinterest_followers}}",
+        "monthly_views": "{{pinterest_monthly_views}}",
+        "boards_count": "{{pinterest_boards}}",
+        "pins_count": "{{pinterest_pins}}"
+      },
+      "whatsapp_business": {
+        "has_business_account": "{{whatsapp_has_account}}",
+        "phone_numbers": ["{{whatsapp_phone_1}}", "{{whatsapp_phone_2}}"]
+      }
+    },
+    "aggregate_metrics": {
+      "total_followers": "{{total_followers}}",
+      "total_engagement_monthly": "{{total_monthly_engagement}}",
+      "total_comment_volume_monthly": "{{total_monthly_comments}}",
+      "primary_platform": "{{primary_platform}}",
+      "platforms_active": "{{platforms_active}}",
+      "social_share_of_voice": "{{social_share_of_voice}}",
+      "brand_mentions_monthly": "{{brand_mentions_monthly}}"
+    },
+    "website": {
+      "primary_url": "{{website_url}}",
+      "regional_urls": {
+        "{{region_1}}": "{{region_1_url}}",
+        "{{region_2}}": "{{region_2_url}}",
+        "{{region_3}}": "{{region_3_url}}",
+        "{{region_4}}": "{{region_4_url}}",
+        "{{region_5}}": "{{region_5_url}}"
+      },
+      "traffic": {
+        "monthly_visits": "{{monthly_visits}}",
+        "monthly_unique_visitors": "{{monthly_unique_visitors}}",
+        "avg_visit_duration_seconds": "{{avg_visit_duration}}",
+        "pages_per_visit": "{{pages_per_visit}}",
+        "bounce_rate_percent": "{{bounce_rate}}"
+      },
+      "traffic_sources": {
+        "direct": "{{traffic_direct}}",
+        "organic_search": "{{traffic_organic}}",
+        "social": "{{traffic_social}}",
+        "referral": "{{traffic_referral}}",
+        "paid": "{{traffic_paid}}"
+      },
+      "top_traffic_countries": ["{{traffic_country_1}}", "{{traffic_country_2}}", "{{traffic_country_3}}"],
+      "seo_metrics": {
+        "domain_authority": "{{domain_authority}}",
+        "backlinks": "{{backlinks}}",
+        "referring_domains": "{{referring_domains}}",
+        "organic_keywords": "{{organic_keywords}}"
+      },
+      "ecommerce": {
+        "has_ecommerce": "{{has_ecommerce}}",
+        "online_sales_percentage": "{{online_sales_percentage}}",
+        "shipping_countries": "{{shipping_countries}}",
+        "payment_methods": ["{{payment_method_1}}", "{{payment_method_2}}", "{{payment_method_3}}"],
+        "currencies_supported": ["{{currency_1}}", "{{currency_2}}", "{{currency_3}}"]
+      },
+      "tech_stack": {
+        "cms": "{{cms}}",
+        "ecommerce_platform": "{{ecommerce_platform}}",
+        "analytics": ["{{analytics_1}}", "{{analytics_2}}"],
+        "marketing_tools": ["{{marketing_tool_1}}", "{{marketing_tool_2}}", "{{marketing_tool_3}}"],
+        "cdn": "{{cdn}}",
+        "hosting": "{{hosting}}",
+        "chat_widget": "{{chat_widget}}",
+        "crm": "{{crm}}"
+      },
+      "languages_supported": ["{{language_1}}", "{{language_2}}", "{{language_3}}"]
+    },
+    "mobile_apps": {
+      "ios": {
+        "app_name": "{{ios_app_name}}",
+        "url": "{{ios_app_url}}",
+        "rating": "{{ios_rating}}",
+        "ratings_count": "{{ios_ratings_count}}",
+        "reviews_count": "{{ios_reviews_count}}",
+        "current_version": "{{ios_version}}",
+        "last_updated": "{{ios_last_updated}}",
+        "size_mb": "{{ios_size}}",
+        "price": "{{ios_price}}",
+        "in_app_purchases": "{{ios_in_app_purchases}}",
+        "category": "{{ios_category}}",
+        "age_rating": "{{ios_age_rating}}",
+        "developer": "{{ios_developer}}",
+        "release_date": "{{ios_release_date}}",
+        "recent_reviews_sentiment": "{{ios_recent_sentiment}}",
+        "top_complaints": ["{{ios_complaint_1}}", "{{ios_complaint_2}}", "{{ios_complaint_3}}"]
+      },
+      "android": {
+        "app_name": "{{android_app_name}}",
+        "url": "{{android_app_url}}",
+        "rating": "{{android_rating}}",
+        "ratings_count": "{{android_ratings_count}}",
+        "reviews_count": "{{android_reviews_count}}",
+        "installs": "{{android_installs}}",
+        "current_version": "{{android_version}}",
+        "last_updated": "{{android_last_updated}}",
+        "size_mb": "{{android_size}}",
+        "price": "{{android_price}}",
+        "in_app_purchases": "{{android_in_app_purchases}}",
+        "category": "{{android_category}}",
+        "content_rating": "{{android_content_rating}}",
+        "developer": "{{android_developer}}",
+        "top_complaints": ["{{android_complaint_1}}", "{{android_complaint_2}}", "{{android_complaint_3}}"]
+      }
+    },
+    "review_platforms": {
+      "google_reviews": {
+        "overall_rating": "{{google_rating}}",
+        "total_reviews": "{{google_total_reviews}}",
+        "rating_distribution": { "5": "{{google_5_star}}", "4": "{{google_4_star}}", "3": "{{google_3_star}}", "2": "{{google_2_star}}", "1": "{{google_1_star}}" },
+        "recent_trend": "{{google_trend}}",
+        "response_rate_percent": "{{google_response_rate}}",
+        "top_keywords_positive": ["{{google_positive_1}}", "{{google_positive_2}}", "{{google_positive_3}}"],
+        "top_keywords_negative": ["{{google_negative_1}}", "{{google_negative_2}}", "{{google_negative_3}}"]
+      },
+      "trustpilot": {
+        "url": "{{trustpilot_url}}",
+        "rating": "{{trustpilot_rating}}",
+        "total_reviews": "{{trustpilot_total_reviews}}",
+        "trust_score": "{{trustpilot_trust_score}}",
+        "claimed_profile": "{{trustpilot_claimed}}",
+        "response_rate_percent": "{{trustpilot_response_rate}}",
+        "recent_reviews_sample": [
+          { "rating": "{{trustpilot_sample_1_rating}}", "title": "{{trustpilot_sample_1_title}}", "date": "{{trustpilot_sample_1_date}}" },
+          { "rating": "{{trustpilot_sample_2_rating}}", "title": "{{trustpilot_sample_2_title}}", "date": "{{trustpilot_sample_2_date}}" }
+        ]
+      },
+      "reclame_aqui": {
+        "url": "{{reclame_aqui_url}}",
+        "rating": "{{reclame_aqui_rating}}",
+        "score": "{{reclame_aqui_score}}",
+        "total_complaints": "{{reclame_aqui_complaints}}",
+        "resolved_percent": "{{reclame_aqui_resolved}}",
+        "response_rate_percent": "{{reclame_aqui_response_rate}}",
+        "avg_response_time_hours": "{{reclame_aqui_response_time}}",
+        "would_buy_again_percent": "{{reclame_aqui_would_buy_again}}",
+        "top_complaint_categories": ["{{reclame_aqui_category_1}}", "{{reclame_aqui_category_2}}", "{{reclame_aqui_category_3}}"],
+        "recent_trend": "{{reclame_aqui_trend}}"
+      },
+      "sitejabber": {
+        "url": "{{sitejabber_url}}",
+        "rating": "{{sitejabber_rating}}",
+        "total_reviews": "{{sitejabber_total_reviews}}"
+      },
+      "bbb": {
+        "accredited": "{{bbb_accredited}}",
+        "rating": "{{bbb_rating}}",
+        "complaints_last_3_years": "{{bbb_complaints}}"
+      }
+    }
+  },
+
+  "sentiment_analysis": {
+    "analysis_period": {
+      "start_date": "{{analysis_start_date}}",
+      "end_date": "{{analysis_end_date}}",
+      "days": "{{analysis_days}}"
+    },
+    "data_sources": ["{{sentiment_source_1}}", "{{sentiment_source_2}}", "{{sentiment_source_3}}"],
+    "comments_analyzed": "{{comments_analyzed}}",
+    "sentiment_breakdown": {
+      "positive_percent": "{{positive_percent}}",
+      "negative_percent": "{{negative_percent}}",
+      "neutral_percent": "{{neutral_percent}}"
+    },
+    "sentiment_by_platform": {
+      "{{platform_1}}": { "positive": "{{platform_1_positive}}", "negative": "{{platform_1_negative}}", "neutral": "{{platform_1_neutral}}" },
+      "{{platform_2}}": { "positive": "{{platform_2_positive}}", "negative": "{{platform_2_negative}}", "neutral": "{{platform_2_neutral}}" },
+      "{{platform_3}}": { "positive": "{{platform_3_positive}}", "negative": "{{platform_3_negative}}", "neutral": "{{platform_3_neutral}}" }
+    },
+    "sentiment_by_country": {
+      "{{country_1}}": { "positive": "{{country_1_positive}}", "negative": "{{country_1_negative}}", "neutral": "{{country_1_neutral}}" },
+      "{{country_2}}": { "positive": "{{country_2_positive}}", "negative": "{{country_2_negative}}", "neutral": "{{country_2_neutral}}" },
+      "{{country_3}}": { "positive": "{{country_3_positive}}", "negative": "{{country_3_negative}}", "neutral": "{{country_3_neutral}}" }
+    },
+    "sentiment_trend": {
+      "direction": "{{sentiment_direction}}",
+      "30_day_change": "{{sentiment_30_day_change}}",
+      "90_day_change": "{{sentiment_90_day_change}}"
+    },
+    "emotion_analysis": {
+      "joy": "{{emotion_joy}}",
+      "trust": "{{emotion_trust}}",
+      "anticipation": "{{emotion_anticipation}}",
+      "surprise": "{{emotion_surprise}}",
+      "sadness": "{{emotion_sadness}}",
+      "anger": "{{emotion_anger}}",
+      "fear": "{{emotion_fear}}",
+      "disgust": "{{emotion_disgust}}"
+    },
+    "top_complaints": [
+      {
+        "issue": "{{complaint_1}}",
+        "category": "{{complaint_1_category}}",
+        "mentions": "{{complaint_1_mentions}}",
+        "percentage_of_negative": "{{complaint_1_percentage}}",
+        "trend": "{{complaint_1_trend}}",
+        "severity": "{{complaint_1_severity}}",
+        "affected_products": ["{{complaint_1_product_1}}", "{{complaint_1_product_2}}", "{{complaint_1_product_3}}"],
+        "affected_markets": ["{{complaint_1_market_1}}", "{{complaint_1_market_2}}", "{{complaint_1_market_3}}"]
+      },
+      {
+        "issue": "{{complaint_2}}",
+        "category": "{{complaint_2_category}}",
+        "mentions": "{{complaint_2_mentions}}",
+        "percentage_of_negative": "{{complaint_2_percentage}}",
+        "trend": "{{complaint_2_trend}}",
+        "severity": "{{complaint_2_severity}}",
+        "typical_complaint": "{{complaint_2_typical}}"
+      },
+      {
+        "issue": "{{complaint_3}}",
+        "category": "{{complaint_3_category}}",
+        "mentions": "{{complaint_3_mentions}}",
+        "percentage_of_negative": "{{complaint_3_percentage}}",
+        "trend": "{{complaint_3_trend}}",
+        "severity": "{{complaint_3_severity}}",
+        "affected_markets": ["{{complaint_3_market_1}}"],
+        "specific_issues": ["{{complaint_3_specific_1}}", "{{complaint_3_specific_2}}", "{{complaint_3_specific_3}}"]
+      },
+      {
+        "issue": "{{complaint_4}}",
+        "category": "{{complaint_4_category}}",
+        "mentions": "{{complaint_4_mentions}}",
+        "percentage_of_negative": "{{complaint_4_percentage}}",
+        "trend": "{{complaint_4_trend}}",
+        "severity": "{{complaint_4_severity}}"
+      },
+      {
+        "issue": "{{complaint_5}}",
+        "category": "{{complaint_5_category}}",
+        "mentions": "{{complaint_5_mentions}}",
+        "percentage_of_negative": "{{complaint_5_percentage}}",
+        "trend": "{{complaint_5_trend}}",
+        "severity": "{{complaint_5_severity}}"
+      },
+      {
+        "issue": "{{complaint_6}}",
+        "category": "{{complaint_6_category}}",
+        "mentions": "{{complaint_6_mentions}}",
+        "percentage_of_negative": "{{complaint_6_percentage}}",
+        "trend": "{{complaint_6_trend}}",
+        "severity": "{{complaint_6_severity}}"
+      }
+    ],
+    "top_praises": [
+      {
+        "topic": "{{praise_1}}",
+        "category": "{{praise_1_category}}",
+        "mentions": "{{praise_1_mentions}}",
+        "percentage_of_positive": "{{praise_1_percentage}}"
+      },
+      {
+        "topic": "{{praise_2}}",
+        "category": "{{praise_2_category}}",
+        "mentions": "{{praise_2_mentions}}",
+        "percentage_of_positive": "{{praise_2_percentage}}"
+      },
+      {
+        "topic": "{{praise_3}}",
+        "category": "{{praise_3_category}}",
+        "mentions": "{{praise_3_mentions}}",
+        "percentage_of_positive": "{{praise_3_percentage}}"
+      },
+      {
+        "topic": "{{praise_4}}",
+        "category": "{{praise_4_category}}",
+        "mentions": "{{praise_4_mentions}}",
+        "percentage_of_positive": "{{praise_4_percentage}}"
+      }
+    ],
+    "trending_topics": [
+      { "topic": "{{trending_1}}", "mentions": "{{trending_1_mentions}}", "sentiment": "{{trending_1_sentiment}}", "trend": "{{trending_1_trend}}" },
+      { "topic": "{{trending_2}}", "mentions": "{{trending_2_mentions}}", "sentiment": "{{trending_2_sentiment}}", "trend": "{{trending_2_trend}}" },
+      { "topic": "{{trending_3}}", "mentions": "{{trending_3_mentions}}", "sentiment": "{{trending_3_sentiment}}", "trend": "{{trending_3_trend}}" }
+    ],
+    "influencer_mentions": {
+      "total_mentions": "{{influencer_total_mentions}}",
+      "positive_mentions": "{{influencer_positive_mentions}}",
+      "negative_mentions": "{{influencer_negative_mentions}}",
+      "neutral_mentions": "{{influencer_neutral_mentions}}",
+      "top_influencers": [
+        { "handle": "{{influencer_1_handle}}", "platform": "{{influencer_1_platform}}", "followers": "{{influencer_1_followers}}", "sentiment": "{{influencer_1_sentiment}}" },
+        { "handle": "{{influencer_2_handle}}", "platform": "{{influencer_2_platform}}", "followers": "{{influencer_2_followers}}", "sentiment": "{{influencer_2_sentiment}}" }
+      ]
+    },
+    "crisis_alerts": {
+      "active_crises": ["{{active_crisis_1}}"],
+      "potential_crises": [
+        {
+          "topic": "{{potential_crisis_1}}",
+          "severity": "{{potential_crisis_1_severity}}",
+          "mentions_last_7_days": "{{potential_crisis_1_mentions}}",
+          "trend": "{{potential_crisis_1_trend}}"
+        }
+      ],
+      "past_crises_90_days": ["{{past_crisis_1}}"]
+    },
+    "sample_comments": {
+      "negative": [
+        {
+          "text_original": "{{negative_comment_1_original}}",
+          "text_translated": "{{negative_comment_1_translated}}",
+          "language": "{{negative_comment_1_language}}",
+          "platform": "{{negative_comment_1_platform}}",
+          "date": "{{negative_comment_1_date}}",
+          "likes": "{{negative_comment_1_likes}}",
+          "replies": "{{negative_comment_1_replies}}",
+          "issue_category": "{{negative_comment_1_category}}"
+        },
+        {
+          "text_original": "{{negative_comment_2_original}}",
+          "text_translated": "{{negative_comment_2_translated}}",
+          "language": "{{negative_comment_2_language}}",
+          "platform": "{{negative_comment_2_platform}}",
+          "date": "{{negative_comment_2_date}}",
+          "issue_category": "{{negative_comment_2_category}}"
+        }
+      ],
+      "positive": [
+        {
+          "text_original": "{{positive_comment_1_original}}",
+          "text_translated": "{{positive_comment_1_translated}}",
+          "language": "{{positive_comment_1_language}}",
+          "platform": "{{positive_comment_1_platform}}",
+          "date": "{{positive_comment_1_date}}",
+          "likes": "{{positive_comment_1_likes}}",
+          "replies": "{{positive_comment_1_replies}}"
+        },
+        {
+          "text_original": "{{positive_comment_2_original}}",
+          "text_translated": "{{positive_comment_2_translated}}",
+          "language": "{{positive_comment_2_language}}",
+          "platform": "{{positive_comment_2_platform}}",
+          "date": "{{positive_comment_2_date}}"
+        }
+      ],
+      "neutral": [
+        {
+          "text_original": "{{neutral_comment_1_original}}",
+          "text_translated": "{{neutral_comment_1_translated}}",
+          "language": "{{neutral_comment_1_language}}",
+          "platform": "{{neutral_comment_1_platform}}",
+          "date": "{{neutral_comment_1_date}}"
+        }
+      ]
+    }
+  },
+
+  "employee_insights": {
+    "glassdoor": {
+      "url": "{{glassdoor_url}}",
+      "overall_rating": "{{glassdoor_rating}}",
+      "total_reviews": "{{glassdoor_total_reviews}}",
+      "recommend_to_friend_percent": "{{glassdoor_recommend}}",
+      "ceo_approval_percent": "{{glassdoor_ceo_approval}}",
+      "ratings_breakdown": {
+        "culture_values": "{{glassdoor_culture}}",
+        "diversity_inclusion": "{{glassdoor_diversity}}",
+        "work_life_balance": "{{glassdoor_work_life}}",
+        "senior_management": "{{glassdoor_management}}",
+        "compensation_benefits": "{{glassdoor_compensation}}",
+        "career_opportunities": "{{glassdoor_career}}"
+      },
+      "pros": ["{{glassdoor_pro_1}}", "{{glassdoor_pro_2}}", "{{glassdoor_pro_3}}", "{{glassdoor_pro_4}}"],
+      "cons": ["{{glassdoor_con_1}}", "{{glassdoor_con_2}}", "{{glassdoor_con_3}}", "{{glassdoor_con_4}}"],
+      "interview_difficulty": "{{glassdoor_interview_difficulty}}",
+      "interview_experience": { "positive": "{{glassdoor_interview_positive}}", "neutral": "{{glassdoor_interview_neutral}}", "negative": "{{glassdoor_interview_negative}}" }
+    },
+    "indeed_reviews": {
+      "rating": "{{indeed_rating}}",
+      "total_reviews": "{{indeed_total_reviews}}",
+      "work_life_balance": "{{indeed_work_life}}",
+      "pay_benefits": "{{indeed_pay}}",
+      "job_security": "{{indeed_security}}",
+      "management": "{{indeed_management}}",
+      "culture": "{{indeed_culture}}"
+    },
+    "linkedin_insights": {
+      "employee_growth_yoy_percent": "{{linkedin_employee_growth}}",
+      "median_tenure_years": "{{linkedin_median_tenure}}",
+      "top_skills": ["{{linkedin_skill_1}}", "{{linkedin_skill_2}}", "{{linkedin_skill_3}}", "{{linkedin_skill_4}}"],
+      "top_universities": ["{{linkedin_university_1}}", "{{linkedin_university_2}}", "{{linkedin_university_3}}"],
+      "gender_distribution": { "female": "{{linkedin_female}}", "male": "{{linkedin_male}}" }
+    },
+    "hiring_signals": {
+      "active_job_postings": "{{hiring_active_postings}}",
+      "jobs_by_department": {
+        "{{hiring_dept_1}}": "{{hiring_dept_1_count}}",
+        "{{hiring_dept_2}}": "{{hiring_dept_2_count}}",
+        "{{hiring_dept_3}}": "{{hiring_dept_3_count}}",
+        "{{hiring_dept_4}}": "{{hiring_dept_4_count}}",
+        "{{hiring_dept_5}}": "{{hiring_dept_5_count}}"
+      },
+      "jobs_by_location": {
+        "{{hiring_location_1}}": "{{hiring_location_1_count}}",
+        "{{hiring_location_2}}": "{{hiring_location_2_count}}",
+        "{{hiring_location_3}}": "{{hiring_location_3_count}}",
+        "{{hiring_location_4}}": "{{hiring_location_4_count}}",
+        "other": "{{hiring_other_count}}"
+      },
+      "hiring_trend": "{{hiring_trend}}",
+      "key_roles_hiring": ["{{hiring_role_1}}", "{{hiring_role_2}}", "{{hiring_role_3}}", "{{hiring_role_4}}"]
+    }
+  },
+
+  "news_media": {
+    "recent_news": [
+      {
+        "title": "{{news_1_title}}",
+        "source": "{{news_1_source}}",
+        "url": "{{news_1_url}}",
+        "date": "{{news_1_date}}",
+        "sentiment": "{{news_1_sentiment}}",
+        "topics": ["{{news_1_topic_1}}", "{{news_1_topic_2}}"]
+      },
+      {
+        "title": "{{news_2_title}}",
+        "source": "{{news_2_source}}",
+        "url": "{{news_2_url}}",
+        "date": "{{news_2_date}}",
+        "sentiment": "{{news_2_sentiment}}",
+        "topics": ["{{news_2_topic_1}}", "{{news_2_topic_2}}"]
+      },
+      {
+        "title": "{{news_3_title}}",
+        "source": "{{news_3_source}}",
+        "url": "{{news_3_url}}",
+        "date": "{{news_3_date}}",
+        "sentiment": "{{news_3_sentiment}}",
+        "topics": ["{{news_3_topic_1}}", "{{news_3_topic_2}}"]
+      }
+    ],
+    "news_volume_30_days": "{{news_volume}}",
+    "news_sentiment": {
+      "positive": "{{news_positive}}",
+      "negative": "{{news_negative}}",
+      "neutral": "{{news_neutral}}"
+    },
+    "top_news_topics": ["{{news_topic_1}}", "{{news_topic_2}}", "{{news_topic_3}}", "{{news_topic_4}}", "{{news_topic_5}}"],
+    "media_mentions_by_outlet": {
+      "tier_1": ["{{media_tier1_1}}", "{{media_tier1_2}}", "{{media_tier1_3}}", "{{media_tier1_4}}"],
+      "tier_2": ["{{media_tier2_1}}", "{{media_tier2_2}}", "{{media_tier2_3}}"],
+      "trade": ["{{media_trade_1}}", "{{media_trade_2}}"]
+    },
+    "press_releases_30_days": "{{press_releases}}",
+    "executive_media_appearances": "{{exec_appearances}}"
+  },
+
+  "patents_ip": {
+    "total_patents": "{{total_patents}}",
+    "recent_filings_12_months": "{{recent_patent_filings}}",
+    "patent_categories": ["{{patent_category_1}}", "{{patent_category_2}}", "{{patent_category_3}}"],
+    "trademarks": {
+      "registered": "{{trademarks_registered}}",
+      "pending": "{{trademarks_pending}}",
+      "key_marks": ["{{trademark_1}}", "{{trademark_2}}", "{{trademark_3}}"]
+    }
+  },
+
+  "sustainability_esg": {
+    "initiatives": [
+      {
+        "name": "{{esg_initiative_1}}",
+        "description": "{{esg_initiative_1_description}}",
+        "launch_year": "{{esg_initiative_1_year}}"
+      },
+      {
+        "name": "{{esg_initiative_2}}",
+        "description": "{{esg_initiative_2_description}}",
+        "locations": "{{esg_initiative_2_locations}}"
+      }
+    ],
+    "goals": {
+      "carbon_neutral_by": "{{carbon_neutral_year}}",
+      "sustainable_materials_by": "{{sustainable_materials_year}}",
+      "renewable_energy_percent_target": "{{renewable_energy_target}}"
+    },
+    "certifications": ["{{certification_1}}", "{{certification_2}}", "{{certification_3}}"],
+    "esg_ratings": {
+      "msci": "{{msci_rating}}",
+      "sustainalytics": "{{sustainalytics_rating}}",
+      "cdp_climate": "{{cdp_rating}}"
+    },
+    "controversy_flags": ["{{controversy_1}}", "{{controversy_2}}"]
+  },
+
+  "decision_makers": {
+    "identified_contacts": [
+      {
+        "name": "{{contact_1_name}}",
+        "title": "{{contact_1_title}}",
+        "linkedin_url": "{{contact_1_linkedin_url}}",
+        "email_guess": "{{contact_1_email}}",
+        "location": "{{contact_1_location}}",
+        "tenure_years": "{{contact_1_tenure}}",
+        "priority": "{{contact_1_priority}}",
+        "best_for": "{{contact_1_best_for}}",
+        "recent_activity": "{{contact_1_activity}}"
+      },
+      {
+        "name": "{{contact_2_name}}",
+        "title": "{{contact_2_title}}",
+        "linkedin_search": "{{contact_2_linkedin_search}}",
+        "priority": "{{contact_2_priority}}",
+        "best_for": "{{contact_2_best_for}}"
+      },
+      {
+        "name": "{{contact_3_name}}",
+        "title": "{{contact_3_title}}",
+        "linkedin_search": "{{contact_3_linkedin_search}}",
+        "priority": "{{contact_3_priority}}",
+        "best_for": "{{contact_3_best_for}}"
+      },
+      {
+        "name": "{{contact_4_name}}",
+        "title": "{{contact_4_title}}",
+        "linkedin_search": "{{contact_4_linkedin_search}}",
+        "priority": "{{contact_4_priority}}",
+        "best_for": "{{contact_4_best_for}}"
+      },
+      {
+        "name": "{{contact_5_name}}",
+        "title": "{{contact_5_title}}",
+        "linkedin_search": "{{contact_5_linkedin_search}}",
+        "priority": "{{contact_5_priority}}",
+        "best_for": "{{contact_5_best_for}}"
+      },
+      {
+        "name": "{{contact_6_name}}",
+        "title": "{{contact_6_title}}",
+        "linkedin_search": "{{contact_6_linkedin_search}}",
+        "priority": "{{contact_6_priority}}",
+        "best_for": "{{contact_6_best_for}}"
+      }
+    ],
+    "executive_team": [
+      { "name": "{{exec_1_name}}", "title": "{{exec_1_title}}", "linkedin_url": "{{exec_1_linkedin}}" },
+      { "name": "{{exec_2_name}}", "title": "{{exec_2_title}}", "linkedin_url": "{{exec_2_linkedin}}" },
+      { "name": "{{exec_3_name}}", "title": "{{exec_3_title}}", "linkedin_url": "{{exec_3_linkedin}}" },
+      { "name": "{{exec_4_name}}", "title": "{{exec_4_title}}", "linkedin_url": "{{exec_4_linkedin}}" }
+    ],
+    "regional_entry_points": [
+      { "market": "{{entry_point_1_market}}", "recommendation": "{{entry_point_1_recommendation}}", "rank": "{{entry_point_1_rank}}", "key_contact_title": "{{entry_point_1_contact}}" },
+      { "market": "{{entry_point_2_market}}", "recommendation": "{{entry_point_2_recommendation}}", "rank": "{{entry_point_2_rank}}", "key_contact_title": "{{entry_point_2_contact}}" },
+      { "market": "{{entry_point_3_market}}", "recommendation": "{{entry_point_3_recommendation}}", "rank": "{{entry_point_3_rank}}", "key_contact_title": "{{entry_point_3_contact}}" }
+    ],
+    "organizational_structure": {
+      "decision_making": "{{decision_making_style}}",
+      "regional_autonomy": "{{regional_autonomy}}",
+      "budget_authority_local": "{{budget_authority}}",
+      "typical_approval_chain": ["{{approval_chain_1}}", "{{approval_chain_2}}", "{{approval_chain_3}}"]
+    }
+  },
+
+  "competitors": [
+    {
+      "name": "{{competitor_1_name}}",
+      "website": "{{competitor_1_website}}",
+      "market_position": "{{competitor_1_position}}",
+      "sentiment": "{{competitor_1_sentiment}}",
+      "latam_presence": "{{competitor_1_latam}}",
+      "strengths": ["{{competitor_1_strength_1}}", "{{competitor_1_strength_2}}", "{{competitor_1_strength_3}}"],
+      "weaknesses": ["{{competitor_1_weakness_1}}", "{{competitor_1_weakness_2}}"],
+      "social_followers": "{{competitor_1_followers}}",
+      "differentiator": "{{competitor_1_differentiator}}"
+    },
+    {
+      "name": "{{competitor_2_name}}",
+      "website": "{{competitor_2_website}}",
+      "market_position": "{{competitor_2_position}}",
+      "sentiment": "{{competitor_2_sentiment}}",
+      "latam_presence": "{{competitor_2_latam}}",
+      "strengths": ["{{competitor_2_strength_1}}", "{{competitor_2_strength_2}}", "{{competitor_2_strength_3}}"],
+      "weaknesses": ["{{competitor_2_weakness_1}}", "{{competitor_2_weakness_2}}", "{{competitor_2_weakness_3}}"],
+      "social_followers": "{{competitor_2_followers}}",
+      "differentiator": "{{competitor_2_differentiator}}"
+    },
+    {
+      "name": "{{competitor_3_name}}",
+      "website": "{{competitor_3_website}}",
+      "market_position": "{{competitor_3_position}}",
+      "sentiment": "{{competitor_3_sentiment}}",
+      "latam_presence": "{{competitor_3_latam}}",
+      "strengths": ["{{competitor_3_strength_1}}", "{{competitor_3_strength_2}}", "{{competitor_3_strength_3}}"],
+      "weaknesses": ["{{competitor_3_weakness_1}}", "{{competitor_3_weakness_2}}"],
+      "social_followers": "{{competitor_3_followers}}",
+      "differentiator": "{{competitor_3_differentiator}}"
+    },
+    {
+      "name": "{{competitor_4_name}}",
+      "website": "{{competitor_4_website}}",
+      "market_position": "{{competitor_4_position}}",
+      "sentiment": "{{competitor_4_sentiment}}",
+      "latam_presence": "{{competitor_4_latam}}",
+      "strengths": ["{{competitor_4_strength_1}}", "{{competitor_4_strength_2}}", "{{competitor_4_strength_3}}"],
+      "weaknesses": ["{{competitor_4_weakness_1}}", "{{competitor_4_weakness_2}}"],
+      "social_followers": "{{competitor_4_followers}}",
+      "differentiator": "{{competitor_4_differentiator}}"
+    },
+    {
+      "name": "{{competitor_5_name}}",
+      "website": "{{competitor_5_website}}",
+      "market_position": "{{competitor_5_position}}",
+      "sentiment": "{{competitor_5_sentiment}}",
+      "latam_presence": "{{competitor_5_latam}}",
+      "strengths": ["{{competitor_5_strength_1}}", "{{competitor_5_strength_2}}"],
+      "weaknesses": ["{{competitor_5_weakness_1}}", "{{competitor_5_weakness_2}}"],
+      "social_followers": "{{competitor_5_followers}}",
+      "differentiator": "{{competitor_5_differentiator}}"
+    }
+  ],
+
+  "market_intelligence": {
+    "industry_trends": [
+      { "trend": "{{industry_trend_1}}", "relevance": "{{trend_1_relevance}}", "company_position": "{{trend_1_position}}" },
+      { "trend": "{{industry_trend_2}}", "relevance": "{{trend_2_relevance}}", "company_position": "{{trend_2_position}}" },
+      { "trend": "{{industry_trend_3}}", "relevance": "{{trend_3_relevance}}", "company_position": "{{trend_3_position}}" },
+      { "trend": "{{industry_trend_4}}", "relevance": "{{trend_4_relevance}}", "company_position": "{{trend_4_position}}" },
+      { "trend": "{{industry_trend_5}}", "relevance": "{{trend_5_relevance}}", "company_position": "{{trend_5_position}}" }
+    ],
+    "market_size": {
+      "global_industry": "{{global_market_size}}",
+      "latam_industry": "{{latam_market_size}}",
+      "latam_segment": "{{latam_segment_size}}"
+    },
+    "company_market_share": {
+      "global_segment": "{{global_market_share}}",
+      "latam_segment": "{{latam_market_share}}"
+    }
+  },
+
+  "scoring": {
+    "criteria": {
+      "size": { "score": "{{size_score}}", "max": "{{size_max}}", "notes": "{{size_notes}}" },
+      "social_media": { "score": "{{social_media_score}}", "max": "{{social_media_max}}", "notes": "{{social_media_notes}}" },
+      "digital_need": { "score": "{{digital_need_score}}", "max": "{{digital_need_max}}", "notes": "{{digital_need_notes}}" },
+      "cx_volume": { "score": "{{cx_volume_score}}", "max": "{{cx_volume_max}}", "notes": "{{cx_volume_notes}}" },
+      "training_budget": { "score": "{{training_budget_score}}", "max": "{{training_budget_max}}", "notes": "{{training_budget_notes}}" },
+      "accessibility": { "score": "{{accessibility_score}}", "max": "{{accessibility_max}}", "notes": "{{accessibility_notes}}" }
+    },
+    "total_score": "{{total_score}}",
+    "max_score": "{{max_score}}",
+    "tier": {
+      "level": "{{tier_level}}",
+      "name": "{{tier_name}}",
+      "action": "{{tier_action}}"
+    }
+  },
+
+  "service_fit": {
+    "comment_analyzer": {
+      "score": "{{comment_analyzer_score}}",
+      "label": "{{comment_analyzer_label}}",
+      "key_use_cases": [
+        "{{use_case_1}}",
+        "{{use_case_2}}",
+        "{{use_case_3}}",
+        "{{use_case_4}}",
+        "{{use_case_5}}",
+        "{{use_case_6}}",
+        "{{use_case_7}}",
+        "{{use_case_8}}"
+      ],
+      "estimated_roi": {
+        "return_reduction_savings": "{{roi_return_savings}}",
+        "crisis_prevention_value": "{{roi_crisis_value}}",
+        "optimization_value": "{{roi_optimization_value}}"
+      }
+    },
+    "training_courses": {
+      "score": "{{training_score}}",
+      "label": "{{training_label}}",
+      "recommended_courses": [
+        "{{recommended_course_1}}",
+        "{{recommended_course_2}}",
+        "{{recommended_course_3}}",
+        "{{recommended_course_4}}"
+      ],
+      "target_employees": "{{training_target_employees}}",
+      "departments": ["{{training_dept_1}}", "{{training_dept_2}}", "{{training_dept_3}}"]
+    },
+    "category": "{{service_category}}"
+  },
+
+  "deal_potential": {
+    "comment_analyzer": {
+      "annual_low": "{{comment_analyzer_annual_low}}",
+      "annual_high": "{{comment_analyzer_annual_high}}",
+      "currency": "{{deal_currency}}",
+      "rationale": "{{comment_analyzer_rationale}}",
+      "pricing_factors": ["{{pricing_factor_1}}", "{{pricing_factor_2}}", "{{pricing_factor_3}}", "{{pricing_factor_4}}"]
+    },
+    "training": {
+      "total_low": "{{training_total_low}}",
+      "total_high": "{{training_total_high}}",
+      "currency": "{{deal_currency}}",
+      "rationale": "{{training_rationale}}",
+      "pricing_factors": ["{{training_pricing_1}}", "{{training_pricing_2}}", "{{training_pricing_3}}", "{{training_pricing_4}}"]
+    },
+    "total_potential": {
+      "annual_low": "{{total_annual_low}}",
+      "annual_high": "{{total_annual_high}}",
+      "display": "{{total_potential_display}}"
+    },
+    "upsell_opportunities": [
+      "{{upsell_1}}",
+      "{{upsell_2}}",
+      "{{upsell_3}}",
+      "{{upsell_4}}",
+      "{{upsell_5}}"
+    ],
+    "sales_cycle": {
+      "months": "{{sales_cycle_months}}",
+      "complexity": "{{sales_cycle_complexity}}",
+      "factors": [
+        "{{sales_factor_1}}",
+        "{{sales_factor_2}}",
+        "{{sales_factor_3}}",
+        "{{sales_factor_4}}",
+        "{{sales_factor_5}}"
+      ]
+    },
+    "success_probability": "{{success_probability}}",
+    "next_steps": [
+      "{{next_step_1}}",
+      "{{next_step_2}}",
+      "{{next_step_3}}",
+      "{{next_step_4}}"
+    ]
+  },
+
+  "outreach_materials": {
+    "email_subject_lines": [
+      "{{email_subject_1}}",
+      "{{email_subject_2}}",
+      "{{email_subject_3}}"
+    ],
+    "key_talking_points": [
+      "{{talking_point_1}}",
+      "{{talking_point_2}}",
+      "{{talking_point_3}}",
+      "{{talking_point_4}}"
+    ],
+    "proof_points": [
+      "{{proof_point_1}}",
+      "{{proof_point_2}}",
+      "{{proof_point_3}}"
+    ]
+  }
+}
