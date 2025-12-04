@@ -1,231 +1,110 @@
 # AI-Whisperers Marketing Strategy
 
-## Complete Marketing Plan for AI Automation Company
-
-This folder contains your complete, actionable marketing strategy designed to help you expand reach, generate leads, improve branding, and position yourself as an AI automation expert.
+> Complete marketing system for AI automation services
 
 ---
 
-## 📁 What's Inside
+## Quick Start
 
-### **01-Quick-Audit**
-- Current state assessment based on your GitHub repositories
-- Strengths, gaps, and opportunities identified
-- Specific recommendations for Ai-Whisperers
+**All marketing content is in:** [AI-Whisperers-Marketing-Hub/](AI-Whisperers-Marketing-Hub/)
 
-### **02-ICPs (Ideal Customer Profiles)**
-- 3 detailed personas with demographics, pain points, and buying triggers
-- Persona 1: Solo Entrepreneur
-- Persona 2: SME Operations Manager
-- Persona 3: Corporate Innovation Lead
-- **Social Media Intelligence Platform**: TOP 100 Brazil Target Companies
-
-### **03-Marketing-Channels**
-- Complete channel strategy with priorities
-- Fast wins (0-3 months) vs. long-term (3-12 months)
-- 90-day rollout plan
-
-### **04-Brand-Positioning**
-- Core positioning statements
-- Brand pillars and personality
-- Differentiation from competitors
-- Tone of voice guidelines
-
-### **05-Messaging-Pillars**
-- 5 core messaging themes
-- Audience-specific messaging
-- Emotional drivers by funnel stage
-- Key phrases and language guide
-
-### **06-Full-Funnel-Plan**
-- Complete funnel architecture (Attract → Engage → Convert → Close → Retain → Expand)
-- Lead magnets and nurture sequences
-- Conversion strategies by price point
-- Customer success and expansion tactics
-
-### **07-AI-Tools**
-- Complete AI tools stack for marketing automation
-- Tool recommendations by category
-- Starter stack (< $300/mo)
-- Automation workflows
-
-### **08-Ready-to-Use-Materials**
-- 5 slogans and taglines
-- 30-second elevator pitches
-- 3 detailed audience personas
-- 5 content angles (themes)
-- 10 ready-to-post content ideas
-- 3 complete landing page outlines
-- **Social Media Intelligence Platform**: LinkedIn outreach templates
-
-### **09-Immediate-Actions-Today**
-- 10 tasks to execute TODAY (5 hours total)
-- Week 1 daily priorities
-- 30-day milestone roadmap
-- Productivity tips and pitfall warnings
-
-### **10-Product-Strategies**
-#### Social Media Intelligence Platform (LATAM B2B)
-Complete marketing strategy for AI-powered social media intelligence targeting LATAM market:
-- Executive Summary & Product Analysis
-- Comprehensive Marketing Plan with Trojan Horse strategy
-- TOP 100 LATAM Target Companies list
-- TOP 30 Detailed Company Research profiles
-- Product One-Pager
-- Growth Opportunities analysis
-- Technical documentation (Comment Extractor, Customer Feedback App)
+```
+Marketing/
+├── AI-Whisperers-Marketing-Hub/    ← MAIN CONTENT (start here)
+│   ├── 01-Strategy/                - Brand, positioning, funnel
+│   ├── 02-Audience/                - ICPs, brand briefs, research
+│   ├── 03-Content/                 - Posts, videos, lead magnets
+│   ├── 04-Channels/                - LinkedIn, Email, Video, SEO
+│   ├── 05-Sales/                   - Outreach, proposals, battle cards
+│   ├── 06-Analytics/               - KPIs, tracking, reports
+│   ├── 07-Assets/                  - Templates, case studies
+│   ├── 08-Tools/                   - AI stack, webscraper
+│   └── 09-Products/                - Product-specific marketing
+│
+├── .env.template                   ← MCP API keys configuration
+├── _archived/                      ← Legacy content (reference only)
+└── Root docs                       ← Quick reference files
+```
 
 ---
 
-## 🚀 How to Use This Plan
+## Navigation
 
-### **Step 1: Start with Immediate Actions (Today)**
-Go to `09-Immediate-Actions-Today/action-plan.md` and complete the 10 tasks. This will give you momentum and immediate results.
-
-### **Step 2: Review Your Audit**
-Read `01-Quick-Audit/audit-findings.md` to understand your current state and opportunities specific to Ai-Whisperers.
-
-### **Step 3: Understand Your Audience**
-Study the ICPs in `02-ICPs/` to know exactly who you're targeting and what messages resonate.
-
-### **Step 4: Implement the Funnel**
-Follow the `06-Full-Funnel-Plan/` to build your complete marketing system from awareness to expansion.
-
-### **Step 5: Execute Content Strategy**
-Use the `08-Ready-to-Use-Materials/` to start creating and posting content immediately.
-
-### **Step 6: Automate Your Marketing**
-Implement the AI tools from `07-AI-Tools/` to scale your marketing efficiently.
+| What You Need | Where To Go |
+|---------------|-------------|
+| **Start here** | [AI-Whisperers-Marketing-Hub/README.md](AI-Whisperers-Marketing-Hub/README.md) |
+| **Today's actions** | [01-Strategy/audit/action-plan.md](AI-Whisperers-Marketing-Hub/01-Strategy/audit/action-plan.md) |
+| **Who to target** | [02-Audience/personas/](AI-Whisperers-Marketing-Hub/02-Audience/personas/) |
+| **What to post** | [03-Content/ready-to-use/](AI-Whisperers-Marketing-Hub/03-Content/ready-to-use/) |
+| **How to reach out** | [05-Sales/outreach/](AI-Whisperers-Marketing-Hub/05-Sales/outreach/) |
+| **Brand positioning** | [01-Strategy/positioning/](AI-Whisperers-Marketing-Hub/01-Strategy/positioning/) |
+| **Company research** | [02-Audience/brand-briefs/](AI-Whisperers-Marketing-Hub/02-Audience/brand-briefs/) |
+| **MCP API keys** | [.env.template](.env.template) |
 
 ---
 
-## 🎯 Your 30-Day Roadmap
+## Root Level Files
 
-### **Week 1: Foundation**
-- ✅ Optimize LinkedIn profiles
-- ✅ Create and launch lead magnet
-- ✅ Post daily on LinkedIn
-- ✅ Document case studies
-- ✅ Launch free tool
-
-### **Week 2: Content Engine**
-- ✅ Publish 3 blog posts
-- ✅ Start YouTube channel
-- ✅ Build email list (100 subscribers)
-- ✅ Engage with 50 connections
-
-### **Week 3: Lead Generation**
-- ✅ Host first webinar
-- ✅ Product Hunt launch
-- ✅ Guest posting
-- ✅ Book 10+ strategy calls
-
-### **Week 4: Optimization & Closing**
-- ✅ Analyze performance
-- ✅ Double down on what works
-- ✅ Close first clients
-- ✅ Plan Month 2
+| File | Purpose |
+|------|---------|
+| `marketing-playbook.md` | Consolidated strategy overview |
+| `executive-summary.md` | Quick reference summary |
+| `improvements-roadmap.md` | Future enhancements planned |
+| `course-catalog.md` | AI courses offered |
+| `.env.template` | API keys for 26 MCP servers |
 
 ---
 
-## 📊 Success Metrics (30 Days)
+## MCP Servers Configured
 
-By the end of 30 days, you should have:
+This repo has **26 MCP servers** installed for Claude Code integration:
 
-- **LinkedIn**: 500+ new connections, 50+ posts, 10%+ engagement rate
-- **Email List**: 100-200 subscribers
-- **Website**: 1,000+ monthly visitors
-- **Leads**: 20-30 qualified leads
-- **Sales Calls**: 10+ strategy calls booked
-- **Clients**: 1-3 new clients signed
+| Category | MCPs |
+|----------|------|
+| **Working** | filesystem, memory, github, puppeteer, playwright, sequential-thinking, context7, exa, youtube-transcript |
+| **Need API Keys** | brave-search, slack, notion, firecrawl, twitter, discord, stripe, etc. |
 
----
-
-## 🛠️ Tools You'll Need (Starter Stack)
-
-**Essential** (< $150/mo):
-- ChatGPT Plus ($20) - Content creation
-- Canva Pro ($15) - Design
-- Descript ($24) - Video editing
-- Buffer ($6) - Social scheduling
-- HubSpot Free ($0) - Email + CRM
-- Perplexity Pro ($20) - Research
-- Fireflies.ai ($10) - Meeting notes
-- Notion ($10) - Project management
-
-**Total: $105/month**
+See [.env.template](.env.template) for all API key configuration.
 
 ---
 
-## 💡 Key Insights for Ai-Whisperers
+## Quick Actions
 
-Based on your GitHub analysis:
+### Day 1
+1. Read [Hub README](AI-Whisperers-Marketing-Hub/README.md)
+2. Review [action plan](AI-Whisperers-Marketing-Hub/01-Strategy/audit/action-plan.md)
+3. Check [ICPs](AI-Whisperers-Marketing-Hub/02-Audience/personas/)
 
-1. **Your Unique Angle**: "Practitioners who build in public"
-   - Show your GitHub repos as proof
-   - Share behind-the-scenes of building automations
-   - Position as transparent, technical experts
-
-2. **Content Goldmine**: Your repositories are marketing assets
-   - Turn work-hours-automated-reports into case study
-   - Launch yt-transcript-headless as free tool
-   - Document client projects as case studies
-
-3. **Differentiation**: Real technical credibility
-   - Unlike typical consultants who just talk strategy
-   - You build, you ship, you have proof
-   - "Check our GitHub—we don't just talk, we ship"
+### Week 1
+1. Post content from [ready-to-use](AI-Whisperers-Marketing-Hub/03-Content/ready-to-use/)
+2. Start outreach with [templates](AI-Whisperers-Marketing-Hub/05-Sales/outreach/)
+3. Set up [tracking](AI-Whisperers-Marketing-Hub/06-Analytics/)
 
 ---
 
-## 📞 Questions or Stuck?
+## 30-Day Goals
 
-Refer back to the specific sections:
-- **Need content ideas?** → `08-Ready-to-Use-Materials/10-post-ideas.md`
-- **Don't know what to say?** → `05-Messaging-Pillars/messaging-framework.md`
-- **Confused about channels?** → `03-Marketing-Channels/channel-strategy.md`
-- **Need landing page copy?** → `08-Ready-to-Use-Materials/landing-page-outlines.md`
-
----
-
-## 🔥 The Most Important Thing
-
-**Execute imperfectly today rather than planning perfectly tomorrow.**
-
-This strategy is comprehensive, but it's worthless if you don't take action.
-
-Start with `09-Immediate-Actions-Today/action-plan.md` RIGHT NOW.
-
-Ship. Learn. Iterate. Win.
+| Metric | Target |
+|--------|--------|
+| LinkedIn connections | 500+ |
+| Email subscribers | 100-200 |
+| Website visitors | 1,000/month |
+| Qualified leads | 20-30 |
+| Strategy calls | 10-15 |
+| New clients | 1-3 |
 
 ---
 
-## 📈 Next Steps After 30 Days
+## Key Insight
 
-Once you've completed the first 30 days:
+**"Practitioners who build in public"**
 
-1. Review what worked and what didn't
-2. Double down on highest-performing channels
-3. Expand content production
-4. Start paid acquisition (if needed)
-5. Build systems to scale
-6. Hire support as revenue grows
+- Show GitHub repos as proof
+- Share behind-the-scenes
+- Position as transparent, technical experts
+- "We don't just talk, we ship"
 
 ---
 
-## 🎉 Let's Build This
-
-You have the technical skills. You have the product. You have client experience.
-
-Now you have the marketing strategy.
-
-The only question is: Will you execute?
-
-**Start today. Your first client is waiting.**
-
----
-
-*Last Updated: November 2025*
-*Created for: Ai-Whisperers*
-*Purpose: Complete marketing strategy and implementation plan*
-
+*Last Updated: December 2025*
+*Main content: [AI-Whisperers-Marketing-Hub/](AI-Whisperers-Marketing-Hub/)*
