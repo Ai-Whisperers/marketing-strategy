@@ -112,7 +112,7 @@ First, let me set up the folder structure with all the sections you need:
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: 01-Quick-Audit/audit-template.md</summary>
+<details><summary>Tool use: **write** • Edit file: 01-Quick-Audit/audit-template.md</summary>
 
 **Chunk 1**
 Lines added: 46, lines removed: 1
@@ -150,10 +150,10 @@ Lines added: 46, lines removed: 1
 + - Courses
 + - AI-driven Services
 + 
-+ ### What&#39;s Working
++ ### What's Working
 + - [ ] To be completed after repo review
 + 
-+ ### What&#39;s Missing
++ ### What's Missing
 + - [ ] To be completed after repo review
 + 
 + ### Quick Wins Identified
@@ -176,7 +176,7 @@ Lines added: 46, lines removed: 1
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: 02-ICPs/persona-1-solo-entrepreneur.md</summary>
+<details><summary>Tool use: **write** • Edit file: 02-ICPs/persona-1-solo-entrepreneur.md</summary>
 
 **Chunk 1**
 Lines added: 64, lines removed: 1
@@ -209,7 +209,7 @@ Lines added: 64, lines removed: 1
 + 
 + ## Pain Points
 + 1. **Time Scarcity**: Wearing too many hats, drowning in admin work
-+ 2. **Limited Budget**: Can&#39;t afford to hire a full team
++ 2. **Limited Budget**: Can't afford to hire a full team
 + 3. **Knowledge Gap**: Knows AI exists but overwhelmed by options
 + 4. **Fear of Complexity**: Worried AI is too technical to implement
 + 5. **FOMO**: Competitors are using AI, feeling left behind
@@ -224,22 +224,22 @@ Lines added: 64, lines removed: 1
 + ## Where They Hang Out
 + - LinkedIn (following thought leaders)
 + - Twitter/X (tech communities)
-+ - YouTube (searching &quot;how to automate...&quot;)
++ - YouTube (searching "how to automate...")
 + - Reddit (r/Entrepreneur, r/SideProject)
 + - Indie Hackers
 + - Product Hunt
 + 
 + ## Key Messages That Resonate
-+ - &quot;Get your time back&quot;
-+ - &quot;Scale without hiring&quot;
-+ - &quot;AI that works for you, not against you&quot;
-+ - &quot;From overwhelmed to automated in 30 days&quot;
++ - "Get your time back"
++ - "Scale without hiring"
++ - "AI that works for you, not against you"
++ - "From overwhelmed to automated in 30 days"
 + 
 + ## Objections
-+ - &quot;Too expensive&quot;
-+ - &quot;Too complicated for someone like me&quot;
-+ - &quot;I don&#39;t have time to learn this&quot;
-+ - &quot;What if it doesn&#39;t work for my specific business?&quot;
++ - "Too expensive"
++ - "Too complicated for someone like me"
++ - "I don't have time to learn this"
++ - "What if it doesn't work for my specific business?"
 + 
 + ## How to Reach Them
 + - LinkedIn posts with personal stories
@@ -258,7 +258,7 @@ Lines added: 64, lines removed: 1
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: 02-ICPs/persona-2-sme-operations-manager.md</summary>
+<details><summary>Tool use: **write** • Edit file: 02-ICPs/persona-2-sme-operations-manager.md</summary>
 
 **Chunk 1**
 Lines added: 70, lines removed: 1
@@ -296,7 +296,7 @@ Lines added: 70, lines removed: 1
 + 3. **Data Chaos**: Information scattered across tools
 + 4. **Team Resistance**: Staff worried about AI replacing them
 + 5. **Budget Pressure**: Need to justify every expense
-+ 6. **Implementation Risk**: Can&#39;t afford failed projects
++ 6. **Implementation Risk**: Can't afford failed projects
 + 
 + ## Buying Triggers
 + - Industry-specific case studies
@@ -315,18 +315,18 @@ Lines added: 70, lines removed: 1
 + - G2, Capterra (researching solutions)
 + 
 + ## Key Messages That Resonate
-+ - &quot;Proven AI solutions for [their industry]&quot;
-+ - &quot;Reduce operational costs by 40%&quot;
-+ - &quot;From implementation to ROI in 90 days&quot;
-+ - &quot;Enterprise-grade AI for SMEs&quot;
-+ - &quot;Your team will love this&quot;
++ - "Proven AI solutions for [their industry]"
++ - "Reduce operational costs by 40%"
++ - "From implementation to ROI in 90 days"
++ - "Enterprise-grade AI for SMEs"
++ - "Your team will love this"
 + 
 + ## Objections
-+ - &quot;We need executive buy-in first&quot;
-+ - &quot;Concerned about data security&quot;
-+ - &quot;What if our team can&#39;t adopt it?&quot;
-+ - &quot;We&#39;ve tried automation before and it failed&quot;
-+ - &quot;Need to see more proof it works&quot;
++ - "We need executive buy-in first"
++ - "Concerned about data security"
++ - "What if our team can't adopt it?"
++ - "We've tried automation before and it failed"
++ - "Need to see more proof it works"
 + 
 + ## How to Reach Them
 + - LinkedIn thought leadership
@@ -346,7 +346,7 @@ Lines added: 70, lines removed: 1
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: 02-ICPs/persona-3-corporate-innovation-lead.md</summary>
+<details><summary>Tool use: **write** • Edit file: 02-ICPs/persona-3-corporate-innovation-lead.md</summary>
 
 **Chunk 1**
 Lines added: 71, lines removed: 1
@@ -404,18 +404,18 @@ Lines added: 71, lines removed: 1
 + - Private mastermind groups
 + 
 + ## Key Messages That Resonate
-+ - &quot;Strategic AI transformation partner&quot;
-+ - &quot;Future-proof your organization&quot;
-+ - &quot;From pilot to enterprise-wide adoption&quot;
-+ - &quot;Change management included&quot;
-+ - &quot;Join leading companies already using AI&quot;
++ - "Strategic AI transformation partner"
++ - "Future-proof your organization"
++ - "From pilot to enterprise-wide adoption"
++ - "Change management included"
++ - "Join leading companies already using AI"
 + 
 + ## Objections
-+ - &quot;Need board approval&quot;
-+ - &quot;Compliance and security requirements&quot;
-+ - &quot;Long procurement process&quot;
-+ - &quot;Need references from similar companies&quot;
-+ - &quot;What&#39;s your implementation methodology?&quot;
++ - "Need board approval"
++ - "Compliance and security requirements"
++ - "Long procurement process"
++ - "Need references from similar companies"
++ - "What's your implementation methodology?"
 + 
 + ## How to Reach Them
 + - Speaking at conferences
@@ -435,7 +435,7 @@ Lines added: 71, lines removed: 1
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: 03-Marketing-Channels/channel-strategy.md</summary>
+<details><summary>Tool use: **write** • Edit file: 03-Marketing-Channels/channel-strategy.md</summary>
 
 **Chunk 1**
 Lines added: 218, lines removed: 1
@@ -455,13 +455,13 @@ Lines added: 218, lines removed: 1
 + ## Recommended Channels - Fast Wins (0-3 months)
 + 
 + ### 1. **LinkedIn (Optimize &amp; Scale)** 🚀 PRIORITY
-+ **Why**: You&#39;re already there, B2B audience, high-intent traffic
++ **Why**: You're already there, B2B audience, high-intent traffic
 + **Investment**: Time (2-3 hours/day)
 + 
 + **Actions**:
 + - Post daily on personal profile (not company page)
 + - Use carousel posts, polls, and video
-+ - Engage 30 min/day on others&#39; content
++ - Engage 30 min/day on others' content
 + - Send 10-20 personalized connection requests/day
 + - Share client wins and case studies
 + 
@@ -477,11 +477,11 @@ Lines added: 218, lines removed: 1
 + **Investment**: Time (4-6 hours/week)
 + 
 + **Content Types**:
-+ - &quot;AI Automation Tutorial&quot; videos
-+ - &quot;How I automated [X] with AI&quot; 
++ - "AI Automation Tutorial" videos
++ - "How I automated [X] with AI" 
 + - Tool comparisons
 + - Case study breakdowns
-+ - &quot;No-code AI&quot; series
++ - "No-code AI" series
 + 
 + **Expected Results**:
 + - 1,000 subscribers in 6 months
@@ -512,7 +512,7 @@ Lines added: 218, lines removed: 1
 + **Investment**: Time + Email tool ($50-200/month)
 + 
 + **Build Strategy**:
-+ - Lead magnet: &quot;7 AI Automations to Save 10 Hours/Week&quot;
++ - Lead magnet: "7 AI Automations to Save 10 Hours/Week"
 + - Website popup
 + - LinkedIn bio link
 + - Content upgrades
@@ -551,7 +551,7 @@ Lines added: 218, lines removed: 1
 + 
 + **Strategy**:
 + - Blog 2-3x per week
-+ - Target long-tail keywords: &quot;how to automate [process] with AI&quot;
++ - Target long-tail keywords: "how to automate [process] with AI"
 + - Create ultimate guides (5,000+ word pillar posts)
 + - Internal linking strategy
 + - Build backlinks through guest posting
@@ -584,7 +584,7 @@ Lines added: 218, lines removed: 1
 + 
 + **Strategy**:
 + - Host monthly live webinar
-+ - Topic: &quot;How to [Solve Problem] with AI Automation&quot;
++ - Topic: "How to [Solve Problem] with AI Automation"
 + - Promote via email, LinkedIn, partners
 + - Record and repurpose
 + 
@@ -617,7 +617,7 @@ Lines added: 218, lines removed: 1
 + ❌ **TikTok**: Unless targeting solopreneurs/creators specifically
 + ❌ **Paid Ads**: Wait until you have proven offers and funnels
 + ❌ **Cold Email**: Risky, low ROI without proper infrastructure
-+ ❌ **Traditional PR**: Too expensive for stage you&#39;re at
++ ❌ **Traditional PR**: Too expensive for stage you're at
 + 
 + ---
 + 
@@ -671,7 +671,7 @@ Lines added: 218, lines removed: 1
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: 04-Brand-Positioning/positioning-strategy.md</summary>
+<details><summary>Tool use: **write** • Edit file: 04-Brand-Positioning/positioning-strategy.md</summary>
 
 **Chunk 1**
 Lines added: 201, lines removed: 1
@@ -702,7 +702,7 @@ Lines added: 201, lines removed: 1
 + - Real implementations, not just concepts
 + - Results in days, not months
 + - No fluff, no hype, just what works
-+ - Show, don&#39;t just tell
++ - Show, don't just tell
 + 
 + ### 2. **Accessible, Not Intimidating** 🤝
 + - AI for humans, not engineers
@@ -727,18 +727,18 @@ Lines added: 201, lines removed: 1
 + ## Value Proposition
 + 
 + ### Primary Value Proposition
-+ **&quot;Scale your business with AI automation—without the complexity, cost, or tech headaches.&quot;**
++ **"Scale your business with AI automation—without the complexity, cost, or tech headaches."**
 + 
 + ### Supporting Value Props by Audience
 + 
 + **For Solopreneurs:**
-+ &quot;Get your time back. Automate the work you hate, focus on what you love.&quot;
++ "Get your time back. Automate the work you hate, focus on what you love."
 + 
 + **For SMEs:**
-+ &quot;Reduce operational costs by 40% while doubling output. AI automation that actually works.&quot;
++ "Reduce operational costs by 40% while doubling output. AI automation that actually works."
 + 
 + **For Enterprises:**
-+ &quot;Future-proof your organization with strategic AI transformation—from pilot to company-wide adoption.&quot;
++ "Future-proof your organization with strategic AI transformation—from pilot to company-wide adoption."
 + 
 + ---
 + 
@@ -759,10 +759,10 @@ Lines added: 201, lines removed: 1
 + ## Brand Personality
 + 
 + ### Voice Attributes
-+ - **Confident but humble**: &quot;We know this works, but we&#39;re always learning&quot;
-+ - **Direct but warm**: &quot;No BS, but we genuinely care&quot;
-+ - **Expert but accessible**: &quot;We&#39;re nerds who speak human&quot;
-+ - **Ambitious but realistic**: &quot;Big goals, practical steps&quot;
++ - **Confident but humble**: "We know this works, but we're always learning"
++ - **Direct but warm**: "No BS, but we genuinely care"
++ - **Expert but accessible**: "We're nerds who speak human"
++ - **Ambitious but realistic**: "Big goals, practical steps"
 + 
 + ### Brand Archetypes
 + 1. **Primary: The Sage** (Expert, Trusted Advisor)
@@ -782,7 +782,7 @@ Lines added: 201, lines removed: 1
 + - Human and relatable
 + - Occasionally witty
 + 
-+ ### ❌ We&#39;re Not:
++ ### ❌ We're Not:
 + - Overly formal or corporate
 + - Hype-driven or salesy
 + - Overly technical or jargon-heavy
@@ -792,21 +792,21 @@ Lines added: 201, lines removed: 1
 + 
 + ### Tone Examples
 + 
-+ **❌ Bad**: &quot;Leverage our cutting-edge AI solutions to synergize your business processes and achieve unprecedented operational efficiency through digital transformation.&quot;
++ **❌ Bad**: "Leverage our cutting-edge AI solutions to synergize your business processes and achieve unprecedented operational efficiency through digital transformation."
 + 
-+ **✅ Good**: &quot;Automate the boring stuff. Grow your business. Keep your sanity. That&#39;s what we do.&quot;
++ **✅ Good**: "Automate the boring stuff. Grow your business. Keep your sanity. That's what we do."
 + 
 + ---
 + 
-+ **❌ Bad**: &quot;You&#39;re probably struggling with efficiency...&quot;
++ **❌ Bad**: "You're probably struggling with efficiency..."
 + 
-+ **✅ Good**: &quot;Spending 10 hours a week on admin work? Here&#39;s how we helped a client get that down to 1 hour.&quot;
++ **✅ Good**: "Spending 10 hours a week on admin work? Here's how we helped a client get that down to 1 hour."
 + 
 + ---
 + 
 + ## Brand Promise
 + 
-+ **&quot;You&#39;ll see measurable results in your first 30 days, or we&#39;ll work with you until you do.&quot;**
++ **"You'll see measurable results in your first 30 days, or we'll work with you until you do."**
 + 
 + ---
 + 
@@ -814,7 +814,7 @@ Lines added: 201, lines removed: 1
 + *(See Ready-to-Use Materials for full list)*
 + 
 + **Current Recommendation:**
-+ **&quot;AI Automation That Actually Works&quot;**
++ **"AI Automation That Actually Works"**
 + 
 + Why: Simple, clear, addresses skepticism, promises results.
 + 
@@ -836,10 +836,10 @@ Lines added: 201, lines removed: 1
 + 
 + ## Category Definition
 + 
-+ ### Current Category: &quot;AI Automation Consultancy&quot;
-+ ### Proposed Category: **&quot;AI Automation Partner&quot;**
++ ### Current Category: "AI Automation Consultancy"
++ ### Proposed Category: **"AI Automation Partner"**
 + 
-+ Why &quot;Partner&quot; over &quot;Consultancy&quot; or &quot;Agency&quot;:
++ Why "Partner" over "Consultancy" or "Agency":
 + - Implies long-term relationship
 + - Suggests collaboration, not just service delivery
 + - More approachable and less corporate
@@ -850,20 +850,20 @@ Lines added: 201, lines removed: 1
 + ## Positioning Against Competitors
 + 
 + ### vs. Traditional Consultants (McKinsey, Deloitte)
-+ - &quot;Faster, more affordable, and actually implements&quot;
-+ - &quot;Built for SMEs, not just Fortune 500&quot;
++ - "Faster, more affordable, and actually implements"
++ - "Built for SMEs, not just Fortune 500"
 + 
 + ### vs. Pure Course Platforms (Udemy, Coursera)
-+ - &quot;Learn AND get it done for you&quot;
-+ - &quot;Real business outcomes, not just certificates&quot;
++ - "Learn AND get it done for you"
++ - "Real business outcomes, not just certificates"
 + 
 + ### vs. DIY Tools (Make, Zapier)
-+ - &quot;We build it for you, or teach you how—your choice&quot;
-+ - &quot;Tools + expertise + support&quot;
++ - "We build it for you, or teach you how—your choice"
++ - "Tools + expertise + support"
 + 
 + ### vs. Freelancers on Upwork
-+ - &quot;Proven systems, not one-off projects&quot;
-+ - &quot;Strategic partner, not just a task executor&quot;
++ - "Proven systems, not one-off projects"
++ - "Strategic partner, not just a task executor"
 + 
 + ---
 + 
@@ -890,7 +890,7 @@ Lines added: 201, lines removed: 1
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: 05-Messaging-Pillars/messaging-framework.md</summary>
+<details><summary>Tool use: **write** • Edit file: 05-Messaging-Pillars/messaging-framework.md</summary>
 
 **Chunk 1**
 Lines added: 277, lines removed: 1
@@ -901,14 +901,14 @@ Lines added: 277, lines removed: 1
 + # Messaging Pillars Framework
 + 
 + ## Core Message
-+ **&quot;Transform your business with AI automation—without the complexity, cost, or tech nightmares. We make AI work for you, starting in days, not months.&quot;**
++ **"Transform your business with AI automation—without the complexity, cost, or tech nightmares. We make AI work for you, starting in days, not months."**
 + 
 + ---
 + 
 + ## Messaging Pillar 1: Speed &amp; Simplicity 🚀
 + 
 + ### Key Message
-+ **&quot;AI automation that works in days, not months—without a PhD in computer science.&quot;**
++ **"AI automation that works in days, not months—without a PhD in computer science."**
 + 
 + ### Supporting Points
 + - No-code and low-code solutions
@@ -918,9 +918,9 @@ Lines added: 277, lines removed: 1
 + - Simple handoff and training
 + 
 + ### Proof Points
-+ - &quot;Client X automated their sales pipeline in 2 weeks&quot;
-+ - &quot;From manual chaos to automated workflows in 10 days&quot;
-+ - &quot;Our average implementation: 14 days&quot;
++ - "Client X automated their sales pipeline in 2 weeks"
++ - "From manual chaos to automated workflows in 10 days"
++ - "Our average implementation: 14 days"
 + 
 + ### Use Cases
 + - First-time automation
@@ -929,17 +929,17 @@ Lines added: 277, lines removed: 1
 + - Time-sensitive opportunities
 + 
 + ### Content Angles
-+ - &quot;5 AI Automations You Can Implement This Week&quot;
-+ - &quot;The 3-Day AI Automation Challenge&quot;
-+ - &quot;Why Our Clients See Results in Week One&quot;
-+ - &quot;No-Code AI: Automate Without Engineers&quot;
++ - "5 AI Automations You Can Implement This Week"
++ - "The 3-Day AI Automation Challenge"
++ - "Why Our Clients See Results in Week One"
++ - "No-Code AI: Automate Without Engineers"
 + 
 + ---
 + 
 + ## Messaging Pillar 2: Real ROI &amp; Results 💰
 + 
 + ### Key Message
-+ **&quot;Measurable outcomes, not vague promises. Track every hour saved and every dollar earned.&quot;**
++ **"Measurable outcomes, not vague promises. Track every hour saved and every dollar earned."**
 + 
 + ### Supporting Points
 + - Average 40% operational cost reduction
@@ -961,17 +961,17 @@ Lines added: 277, lines removed: 1
 + - Budget allocation discussions
 + 
 + ### Content Angles
-+ - &quot;How Company X Saved $50K in Year One&quot;
-+ - &quot;The Real ROI of AI Automation (With Numbers)&quot;
-+ - &quot;Cut Your Admin Costs in Half: Here&#39;s How&quot;
-+ - &quot;10 Hours Saved Per Week: A Case Study&quot;
++ - "How Company X Saved $50K in Year One"
++ - "The Real ROI of AI Automation (With Numbers)"
++ - "Cut Your Admin Costs in Half: Here's How"
++ - "10 Hours Saved Per Week: A Case Study"
 + 
 + ---
 + 
 + ## Messaging Pillar 3: Practical Education 🎓
 + 
 + ### Key Message
-+ **&quot;We don&#39;t just do it for you—we teach you to fish. Empower your team with AI skills that last.&quot;**
++ **"We don't just do it for you—we teach you to fish. Empower your team with AI skills that last."**
 + 
 + ### Supporting Points
 + - Comprehensive training programs
@@ -993,17 +993,17 @@ Lines added: 277, lines removed: 1
 + - Continuous improvement mindset
 + 
 + ### Content Angles
-+ - &quot;From Zero to AI Expert in 90 Days&quot;
-+ - &quot;Why We Teach You How to Automate (And Don&#39;t Keep Secrets)&quot;
-+ - &quot;Build Your AI-Powered Team&quot;
-+ - &quot;The Skills Your Company Needs in 2025&quot;
++ - "From Zero to AI Expert in 90 Days"
++ - "Why We Teach You How to Automate (And Don't Keep Secrets)"
++ - "Build Your AI-Powered Team"
++ - "The Skills Your Company Needs in 2025"
 + 
 + ---
 + 
 + ## Messaging Pillar 4: Human-Centered AI 🤝
 + 
 + ### Key Message
-+ **&quot;AI that enhances humans, not replaces them. Automate the boring, amplify the brilliant.&quot;**
++ **"AI that enhances humans, not replaces them. Automate the boring, amplify the brilliant."**
 + 
 + ### Supporting Points
 + - Free your team for creative, strategic work
@@ -1025,17 +1025,17 @@ Lines added: 277, lines removed: 1
 + - Retention and recruitment
 + 
 + ### Content Angles
-+ - &quot;Why Your Team Will Love AI (Not Fear It)&quot;
-+ - &quot;The End of Busywork: What AI Means for Your Career&quot;
-+ - &quot;AI Isn&#39;t Here to Replace You—Here&#39;s What It&#39;s Really For&quot;
-+ - &quot;Making Work Human Again&quot;
++ - "Why Your Team Will Love AI (Not Fear It)"
++ - "The End of Busywork: What AI Means for Your Career"
++ - "AI Isn't Here to Replace You—Here's What It's Really For"
++ - "Making Work Human Again"
 + 
 + ---
 + 
 + ## Messaging Pillar 5: Comprehensive Partnership 🔄
 + 
 + ### Key Message
-+ **&quot;Not just a vendor, not just a course—a complete partnership from strategy to implementation to optimization.&quot;**
++ **"Not just a vendor, not just a course—a complete partnership from strategy to implementation to optimization."**
 + 
 + ### Supporting Points
 + - End-to-end solutions
@@ -1057,10 +1057,10 @@ Lines added: 277, lines removed: 1
 + - Comprehensive transformation
 + 
 + ### Content Angles
-+ - &quot;DIY, Done-With-You, or Done-For-You: Choose Your Path&quot;
-+ - &quot;What Makes a True AI Automation Partner&quot;
-+ - &quot;From Quick Win to Company-Wide Transformation&quot;
-+ - &quot;The 3-Phase AI Adoption Roadmap&quot;
++ - "DIY, Done-With-You, or Done-For-You: Choose Your Path"
++ - "What Makes a True AI Automation Partner"
++ - "From Quick Win to Company-Wide Transformation"
++ - "The 3-Phase AI Adoption Roadmap"
 + 
 + ---
 + 
@@ -1069,17 +1069,17 @@ Lines added: 277, lines removed: 1
 + ### For Solopreneurs
 + **Primary Pillar**: Speed &amp; Simplicity
 + **Secondary Pillar**: Real ROI &amp; Results
-+ **Key Promise**: &quot;Get your time back this month. Scale without hiring.&quot;
++ **Key Promise**: "Get your time back this month. Scale without hiring."
 + 
 + ### For SMEs
 + **Primary Pillar**: Real ROI &amp; Results
 + **Secondary Pillar**: Human-Centered AI
-+ **Key Promise**: &quot;Cut costs, boost output, keep your team happy.&quot;
++ **Key Promise**: "Cut costs, boost output, keep your team happy."
 + 
 + ### For Enterprises
 + **Primary Pillar**: Comprehensive Partnership
 + **Secondary Pillar**: Human-Centered AI
-+ **Key Promise**: &quot;Strategic AI transformation with proven methodology.&quot;
++ **Key Promise**: "Strategic AI transformation with proven methodology."
 + 
 + ---
 + 
@@ -1088,19 +1088,19 @@ Lines added: 277, lines removed: 1
 + ### Primary Messages to A/B Test
 + 
 + **Value Proposition Tests:**
-+ - A: &quot;AI automation in days, not months&quot;
-+ - B: &quot;Save 10+ hours per week with AI&quot;
-+ - C: &quot;Cut operational costs by 40% with AI automation&quot;
++ - A: "AI automation in days, not months"
++ - B: "Save 10+ hours per week with AI"
++ - C: "Cut operational costs by 40% with AI automation"
 + 
 + **Positioning Tests:**
-+ - A: &quot;AI automation partner&quot;
-+ - B: &quot;AI automation experts&quot;
-+ - C: &quot;Your AI implementation team&quot;
++ - A: "AI automation partner"
++ - B: "AI automation experts"
++ - C: "Your AI implementation team"
 + 
 + **Call-to-Action Tests:**
-+ - A: &quot;Book a free AI audit&quot;
-+ - B: &quot;Start your automation journey&quot;
-+ - C: &quot;See what AI can do for your business&quot;
++ - A: "Book a free AI audit"
++ - B: "Start your automation journey"
++ - C: "See what AI can do for your business"
 + 
 + ---
 + 
@@ -1108,27 +1108,27 @@ Lines added: 277, lines removed: 1
 + 
 + ### Problem Awareness Stage
 + **Emotion**: Frustration, overwhelm, FOMO
-+ **Message**: &quot;You&#39;re not alone. Every business faces this. Here&#39;s the modern solution.&quot;
++ **Message**: "You're not alone. Every business faces this. Here's the modern solution."
 + 
 + ### Solution Exploration Stage
 + **Emotion**: Hope, curiosity, skepticism
-+ **Message**: &quot;Yes, it really works. Here&#39;s proof. Let me show you how.&quot;
++ **Message**: "Yes, it really works. Here's proof. Let me show you how."
 + 
 + ### Decision Stage
 + **Emotion**: Excitement, nervousness, urgency
-+ **Message**: &quot;You&#39;re making the right choice. We&#39;ll be with you every step. Let&#39;s start today.&quot;
++ **Message**: "You're making the right choice. We'll be with you every step. Let's start today."
 + 
 + ### Implementation Stage
 + **Emotion**: Anxiety, anticipation
-+ **Message**: &quot;We&#39;ve got you. This is simpler than you think. First win coming in days.&quot;
++ **Message**: "We've got you. This is simpler than you think. First win coming in days."
 + 
 + ### Success Stage
 + **Emotion**: Relief, confidence, ambition
-+ **Message**: &quot;This is just the beginning. What else can we automate? Let&#39;s keep growing.&quot;
++ **Message**: "This is just the beginning. What else can we automate? Let's keep growing."
 + 
 + ---
 + 
-+ ## Messaging Do&#39;s and Don&#39;ts
++ ## Messaging Do's and Don'ts
 + 
 + ### ✅ Do:
 + - Use concrete examples
@@ -1136,16 +1136,16 @@ Lines added: 277, lines removed: 1
 + - Tell customer stories
 + - Address objections head-on
 + - Make it about them, not you
-+ - Use &quot;you&quot; language
++ - Use "you" language
 + - Be specific
 + 
-+ ### ❌ Don&#39;t:
-+ - Use vague buzzwords (&quot;synergy,&quot; &quot;leverage,&quot; &quot;paradigm&quot;)
++ ### ❌ Don't:
++ - Use vague buzzwords ("synergy," "leverage," "paradigm")
 + - Overpromise or hype
 + - Make it all about your features
 + - Use technical jargon
 + - Ignore the emotional side
-+ - Forget the &quot;why&quot;
++ - Forget the "why"
 + - Be defensive
 + 
 + ---
@@ -1153,23 +1153,23 @@ Lines added: 277, lines removed: 1
 + ## Key Phrases &amp; Language
 + 
 + ### Approved Phrases ✅
-+ - &quot;AI automation that actually works&quot;
-+ - &quot;Results in days, not months&quot;
-+ - &quot;Scale without hiring&quot;
-+ - &quot;Get your time back&quot;
-+ - &quot;Automate the boring stuff&quot;
-+ - &quot;AI for humans, not engineers&quot;
-+ - &quot;Learn it or we&#39;ll do it for you&quot;
-+ - &quot;Real results, real ROI&quot;
++ - "AI automation that actually works"
++ - "Results in days, not months"
++ - "Scale without hiring"
++ - "Get your time back"
++ - "Automate the boring stuff"
++ - "AI for humans, not engineers"
++ - "Learn it or we'll do it for you"
++ - "Real results, real ROI"
 + 
 + ### Phrases to Avoid ❌
-+ - &quot;Revolutionary AI&quot;
-+ - &quot;Game-changing technology&quot;
-+ - &quot;Unlock synergies&quot;
-+ - &quot;Leverage cutting-edge&quot;
-+ - &quot;Disruptive innovation&quot;
-+ - &quot;Next-generation solution&quot;
-+ - &quot;Best-in-class platform&quot;
++ - "Revolutionary AI"
++ - "Game-changing technology"
++ - "Unlock synergies"
++ - "Leverage cutting-edge"
++ - "Disruptive innovation"
++ - "Next-generation solution"
++ - "Best-in-class platform"
 + 
 + ---
 + 
@@ -1185,7 +1185,7 @@ Lines added: 277, lines removed: 1
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: 06-Full-Funnel-Plan/funnel-architecture.md</summary>
+<details><summary>Tool use: **write** • Edit file: 06-Full-Funnel-Plan/funnel-architecture.md</summary>
 
 **Chunk 1**
 Lines added: 428, lines removed: 1
@@ -1229,19 +1229,19 @@ Lines added: 428, lines removed: 1
 + #### YouTube Attraction
 + - **Upload Schedule**: 2-3 videos/week
 + - **Video Types**:
-+   - Tutorials: &quot;How to automate [X] with AI&quot;
-+   - Tool reviews: &quot;Best AI tools for [Y]&quot;
-+   - Case studies: &quot;How we saved Company X 20 hours/week&quot;
++   - Tutorials: "How to automate [X] with AI"
++   - Tool reviews: "Best AI tools for [Y]"
++   - Case studies: "How we saved Company X 20 hours/week"
 + - **SEO Focus**: Long-tail keywords, detailed descriptions
 + - **CTAs**: Free resources in description
 + 
 + #### SEO/Blog Attraction
 + - **Publishing**: 2-3 blog posts/week
 + - **Target Keywords**:
-+   - &quot;how to automate [process]&quot;
-+   - &quot;[industry] automation tools&quot;
-+   - &quot;AI for [specific role]&quot;
-+   - &quot;automate [task] without code&quot;
++   - "how to automate [process]"
++   - "[industry] automation tools"
++   - "AI for [specific role]"
++   - "automate [task] without code"
 + - **Content Types**: How-to guides, comparisons, case studies
 + - **Lead Magnets**: Embedded in every post
 + 
@@ -1278,21 +1278,21 @@ Lines added: 428, lines removed: 1
 + 
 + #### Tier 1: Low-Commitment (Awareness)
 + 1. **Free Tools**: ROI calculator, templates
-+ 2. **Checklists**: &quot;10-Point AI Readiness Checklist&quot;
-+ 3. **Cheat Sheets**: &quot;50 Best ChatGPT Prompts for Business&quot;
-+ 4. **Short Videos**: &quot;5-Minute AI Automation Crash Course&quot;
++ 2. **Checklists**: "10-Point AI Readiness Checklist"
++ 3. **Cheat Sheets**: "50 Best ChatGPT Prompts for Business"
++ 4. **Short Videos**: "5-Minute AI Automation Crash Course"
 + 
 + #### Tier 2: Medium-Commitment (Consideration)
-+ 1. **Ebooks**: &quot;The Complete Guide to AI Automation for [Industry]&quot;
-+ 2. **Webinar**: &quot;How to Automate Your [Department] in 30 Days&quot;
-+ 3. **Case Study Pack**: &quot;10 Real AI Automation Success Stories&quot;
-+ 4. **Email Course**: &quot;7-Day AI Automation Challenge&quot;
++ 1. **Ebooks**: "The Complete Guide to AI Automation for [Industry]"
++ 2. **Webinar**: "How to Automate Your [Department] in 30 Days"
++ 3. **Case Study Pack**: "10 Real AI Automation Success Stories"
++ 4. **Email Course**: "7-Day AI Automation Challenge"
 + 
 + #### Tier 3: High-Commitment (Decision)
-+ 1. **Free Audit**: &quot;Custom AI Opportunity Assessment&quot;
-+ 2. **Workshop**: &quot;90-Minute AI Strategy Session&quot;
-+ 3. **Consultation**: &quot;Free 30-Minute Implementation Roadmap&quot;
-+ 4. **Trial**: &quot;Try Our Done-For-You Service Free&quot;
++ 1. **Free Audit**: "Custom AI Opportunity Assessment"
++ 2. **Workshop**: "90-Minute AI Strategy Session"
++ 3. **Consultation**: "Free 30-Minute Implementation Roadmap"
++ 4. **Trial**: "Try Our Done-For-You Service Free"
 + 
 + ### Email Nurture Sequences
 + 
@@ -1305,7 +1305,7 @@ Lines added: 428, lines removed: 1
 + 
 + #### Sequence 2: Course Consideration (7 emails)
 + - Day 0: Why AI automation matters now
-+ - Day 2: What you&#39;ll learn in our course
++ - Day 2: What you'll learn in our course
 + - Day 4: Student success story
 + - Day 6: Common objections addressed
 + - Day 8: Behind the scenes of the course
@@ -1435,27 +1435,27 @@ Lines added: 428, lines removed: 1
 + - Follow-up within 48 hours
 + 
 + #### Closing Techniques
-+ - **Urgency**: &quot;We have 2 slots this month&quot;
-+ - **Risk Reversal**: &quot;60-day money-back guarantee&quot;
-+ - **Payment Plans**: &quot;3-month installments available&quot;
-+ - **Bonuses**: &quot;Book today, get X free&quot;
-+ - **Social Proof**: &quot;Join 50+ companies already using this&quot;
++ - **Urgency**: "We have 2 slots this month"
++ - **Risk Reversal**: "60-day money-back guarantee"
++ - **Payment Plans**: "3-month installments available"
++ - **Bonuses**: "Book today, get X free"
++ - **Social Proof**: "Join 50+ companies already using this"
 + 
 + ### Handling Objections
 + 
-+ **&quot;Too expensive&quot;**
++ **"Too expensive"**
 + → ROI breakdown, payment plans, compare to cost of not solving
 + 
-+ **&quot;Need to think about it&quot;**
++ **"Need to think about it"**
 + → Clarify concerns, deadline for decision, offer smaller commitment
 + 
-+ **&quot;Need to talk to my partner/boss&quot;**
++ **"Need to talk to my partner/boss"**
 + → Offer to join that conversation, send materials, set follow-up
 + 
-+ **&quot;Not the right time&quot;**
++ **"Not the right time"**
 + → Uncover real objection, discuss cost of waiting, nurture for future
 + 
-+ **&quot;We tried automation before and it didn&#39;t work&quot;**
++ **"We tried automation before and it didn't work"**
 + → Learn what failed, explain your different approach, offer pilot
 + 
 + ---
@@ -1531,7 +1531,7 @@ Lines added: 428, lines removed: 1
 + ### Expansion Opportunities
 + 
 + #### Natural Upsells
-+ 1. **Additional Automations**: &quot;What else can we automate?&quot;
++ 1. **Additional Automations**: "What else can we automate?"
 + 2. **Advanced Training**: Team-wide programs
 + 3. **Ongoing Optimization**: Monthly retainer
 + 4. **New Department**: Expand to other teams
@@ -1631,7 +1631,7 @@ Lines added: 428, lines removed: 1
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: 07-AI-Tools/ai-tools-stack.md</summary>
+<details><summary>Tool use: **write** • Edit file: 07-AI-Tools/ai-tools-stack.md</summary>
 
 **Chunk 1**
 Lines added: 482, lines removed: 1
@@ -1658,9 +1658,9 @@ Lines added: 482, lines removed: 1
 + 
 + **Prompts to Save**:
 + &#96;&#96;&#96;
-+ &quot;Turn this video transcript into a 1,500-word blog post with SEO optimization for [keyword]&quot;
-+ &quot;Create 10 LinkedIn posts from this case study, varying hooks and angles&quot;
-+ &quot;Write a 5-email nurture sequence for someone who downloaded [lead magnet]&quot;
++ "Turn this video transcript into a 1,500-word blog post with SEO optimization for [keyword]"
++ "Create 10 LinkedIn posts from this case study, varying hooks and angles"
++ "Write a 5-email nurture sequence for someone who downloaded [lead magnet]"
 + &#96;&#96;&#96;
 + 
 + ---
@@ -1724,7 +1724,7 @@ Lines added: 482, lines removed: 1
 + - AI voice cloning for corrections
 + - Filler word removal
 + 
-+ **Why It&#39;s Essential**: Edit videos 10x faster.
++ **Why It's Essential**: Edit videos 10x faster.
 + 
 + ---
 + 
@@ -2058,12 +2058,12 @@ Lines added: 482, lines removed: 1
 + ### Before Buying Any Tool, Ask:
 + 1. **Does it save time?** Calculate hours saved vs. cost
 + 2. **Does it improve quality?** Better results = worth paying
-+ 3. **Does it enable scale?** Can&#39;t do manually = valuable
-+ 4. **Is it actually AI or just marketing?** Many tools claim &quot;AI&quot; without real value
++ 3. **Does it enable scale?** Can't do manually = valuable
++ 4. **Is it actually AI or just marketing?** Many tools claim "AI" without real value
 + 5. **Does it integrate?** Works with existing stack?
 + 
 + ### Red Flags:
-+ - Tool doesn&#39;t have free trial
++ - Tool doesn't have free trial
 + - No clear pricing
 + - Makes unrealistic promises
 + - Requires long-term commitment upfront
@@ -2119,7 +2119,7 @@ Lines added: 482, lines removed: 1
 + 
 + ---
 + 
-+ *Start with the Starter Stack and add tools as you prove ROI. Don&#39;t buy everything at once.*
++ *Start with the Starter Stack and add tools as you prove ROI. Don't buy everything at once.*
 + 
 ```
 
@@ -2131,7 +2131,7 @@ Lines added: 482, lines removed: 1
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: 08-Ready-to-Use-Materials/slogans-and-taglines.md</summary>
+<details><summary>Tool use: **write** • Edit file: 08-Ready-to-Use-Materials/slogans-and-taglines.md</summary>
 
 **Chunk 1**
 Lines added: 243, lines removed: 1
@@ -2144,31 +2144,31 @@ Lines added: 243, lines removed: 1
 + ## Primary Taglines (5 Options)
 + 
 + ### Option 1: Direct &amp; Clear
-+ **&quot;AI Automation That Actually Works&quot;**
++ **"AI Automation That Actually Works"**
 + - **Why it works**: Addresses skepticism, promises results
 + - **Best for**: All audiences
 + - **Tone**: Confident, no-nonsense
 + 
 + ### Option 2: Benefit-Focused
-+ **&quot;Scale Your Business Without Scaling Headcount&quot;**
++ **"Scale Your Business Without Scaling Headcount"**
 + - **Why it works**: Clear value proposition, ROI-focused
 + - **Best for**: SMEs and growing businesses
 + - **Tone**: Strategic, growth-oriented
 + 
 + ### Option 3: Time-Based
-+ **&quot;From Manual to Automated in 30 Days&quot;**
++ **"From Manual to Automated in 30 Days"**
 + - **Why it works**: Specific timeframe, concrete promise
 + - **Best for**: Busy entrepreneurs and managers
 + - **Tone**: Action-oriented, efficient
 + 
 + ### Option 4: Empowerment
-+ **&quot;AI for Humans, Not Engineers&quot;**
++ **"AI for Humans, Not Engineers"**
 + - **Why it works**: Accessible, removes intimidation
 + - **Best for**: Non-technical audiences
 + - **Tone**: Friendly, inclusive
 + 
 + ### Option 5: Transformation
-+ **&quot;Automate the Boring. Amplify the Brilliant.&quot;**
++ **"Automate the Boring. Amplify the Brilliant."**
 + - **Why it works**: Emotional appeal, human-centered
 + - **Best for**: Teams and employee-focused messaging
 + - **Tone**: Inspirational, positive
@@ -2178,45 +2178,45 @@ Lines added: 243, lines removed: 1
 + ## Secondary Slogans (By Use Case)
 + 
 + ### For Solopreneurs
-+ - &quot;Get Your Time Back. Scale Without Hiring.&quot;
-+ - &quot;One Person. Unlimited Output.&quot;
-+ - &quot;The AI Team That Never Sleeps.&quot;
++ - "Get Your Time Back. Scale Without Hiring."
++ - "One Person. Unlimited Output."
++ - "The AI Team That Never Sleeps."
 + 
 + ### For SMEs
-+ - &quot;Cut Costs by 40%. Double Output.&quot;
-+ - &quot;Enterprise AI for Growing Businesses.&quot;
-+ - &quot;Efficiency That Scales With You.&quot;
++ - "Cut Costs by 40%. Double Output."
++ - "Enterprise AI for Growing Businesses."
++ - "Efficiency That Scales With You."
 + 
 + ### For Enterprises
-+ - &quot;Strategic AI Transformation Partner&quot;
-+ - &quot;From Pilot to Company-Wide in 90 Days&quot;
-+ - &quot;Future-Proof Your Organization&quot;
++ - "Strategic AI Transformation Partner"
++ - "From Pilot to Company-Wide in 90 Days"
++ - "Future-Proof Your Organization"
 + 
 + ---
 + 
 + ## 30-Second Elevator Pitches
 + 
 + ### Version 1: Problem → Solution
-+ *&quot;You know how most businesses waste 10-20 hours per week on repetitive tasks like data entry, follow-ups, and manual processes? We help companies automate those tasks using AI—without needing a technical team or six-month implementation. Our clients typically see results in the first two weeks and save 40% on operational costs within 90 days. We offer everything from training courses to done-for-you implementation, depending on what fits best.&quot;*
++ *"You know how most businesses waste 10-20 hours per week on repetitive tasks like data entry, follow-ups, and manual processes? We help companies automate those tasks using AI—without needing a technical team or six-month implementation. Our clients typically see results in the first two weeks and save 40% on operational costs within 90 days. We offer everything from training courses to done-for-you implementation, depending on what fits best."*
 + 
 + ### Version 2: Story-Based
-+ *&quot;Last month, a client came to us drowning in admin work—spending 15 hours a week just on follow-ups and data entry. Within two weeks, we automated 90% of that work. Now they&#39;re focused on growth, not busy work. That&#39;s what we do: we help businesses implement AI automation that actually works—fast, practical, and without the tech headaches. Whether you want to learn how to do it yourself or have us do it for you, we&#39;ve got you covered.&quot;*
++ *"Last month, a client came to us drowning in admin work—spending 15 hours a week just on follow-ups and data entry. Within two weeks, we automated 90% of that work. Now they're focused on growth, not busy work. That's what we do: we help businesses implement AI automation that actually works—fast, practical, and without the tech headaches. Whether you want to learn how to do it yourself or have us do it for you, we've got you covered."*
 + 
 + ### Version 3: Direct &amp; Confident
-+ *&quot;We help businesses automate their operations using AI. Not in six months—in weeks. Not with a team of engineers—with practical, no-code solutions. We&#39;ve helped over 50 companies cut costs by 40% while doubling their output. We offer courses if you want to learn, consulting if you need strategy, and done-for-you services if you just want results. Simple as that.&quot;*
++ *"We help businesses automate their operations using AI. Not in six months—in weeks. Not with a team of engineers—with practical, no-code solutions. We've helped over 50 companies cut costs by 40% while doubling their output. We offer courses if you want to learn, consulting if you need strategy, and done-for-you services if you just want results. Simple as that."*
 + 
 + ---
 + 
 + ## Value Proposition Statements
 + 
 + ### One-Liner
-+ **&quot;We implement AI automation for businesses who want results in weeks, not months—without the complexity or cost of traditional solutions.&quot;**
++ **"We implement AI automation for businesses who want results in weeks, not months—without the complexity or cost of traditional solutions."**
 + 
 + ### Extended (Website Hero)
-+ **&quot;Transform your business with AI automation—without the tech headaches. Get practical solutions that work in days, comprehensive training that sticks, and ongoing support that scales with you. From solopreneurs to enterprises, we make AI automation accessible, actionable, and actually profitable.&quot;**
++ **"Transform your business with AI automation—without the tech headaches. Get practical solutions that work in days, comprehensive training that sticks, and ongoing support that scales with you. From solopreneurs to enterprises, we make AI automation accessible, actionable, and actually profitable."**
 + 
 + ### Sales-Focused
-+ **&quot;What if you could cut operational costs by 40%, free up 10+ hours per week, and scale your business without hiring—all within 90 days? That&#39;s exactly what we deliver with our AI automation solutions. No complexity. No six-month implementations. Just real results, fast.&quot;**
++ **"What if you could cut operational costs by 40%, free up 10+ hours per week, and scale your business without hiring—all within 90 days? That's exactly what we deliver with our AI automation solutions. No complexity. No six-month implementations. Just real results, fast."**
 + 
 + ---
 + 
@@ -2235,7 +2235,7 @@ Lines added: 243, lines removed: 1
 + **Message**: No technical skills needed, comprehensive training, ongoing support
 + 
 + ### Pillar 4: **Comprehensive Solutions**
-+ **Headline**: Learn It or We&#39;ll Do It
++ **Headline**: Learn It or We'll Do It
 + **Message**: Courses, consulting, implementation—whatever you need
 + 
 + ### Pillar 5: **Human-Centered**
@@ -2247,63 +2247,63 @@ Lines added: 243, lines removed: 1
 + ## Brand Promise
 + 
 + ### Primary Promise
-+ **&quot;You&#39;ll see measurable results in your first 30 days, or we&#39;ll work with you until you do.&quot;**
++ **"You'll see measurable results in your first 30 days, or we'll work with you until you do."**
 + 
 + ### Supporting Promises
-+ - &quot;No jargon, no tech-speak—just clear solutions&quot;
-+ - &quot;Implementation support from day one to success&quot;
-+ - &quot;Flexible engagement: DIY, done-with-you, or done-for-you&quot;
-+ - &quot;Real humans, real support, real results&quot;
++ - "No jargon, no tech-speak—just clear solutions"
++ - "Implementation support from day one to success"
++ - "Flexible engagement: DIY, done-with-you, or done-for-you"
++ - "Real humans, real support, real results"
 + 
 + ---
 + 
 + ## Call-to-Action Variations
 + 
 + ### For Awareness Stage
-+ - &quot;See What AI Can Do For You&quot;
-+ - &quot;Get Your Free AI Audit&quot;
-+ - &quot;Download the Free Automation Guide&quot;
-+ - &quot;Watch a 5-Minute Demo&quot;
++ - "See What AI Can Do For You"
++ - "Get Your Free AI Audit"
++ - "Download the Free Automation Guide"
++ - "Watch a 5-Minute Demo"
 + 
 + ### For Consideration Stage
-+ - &quot;Book a Free Strategy Call&quot;
-+ - &quot;Start Your Free Trial&quot;
-+ - &quot;Join the Next Webinar&quot;
-+ - &quot;See Real Case Studies&quot;
++ - "Book a Free Strategy Call"
++ - "Start Your Free Trial"
++ - "Join the Next Webinar"
++ - "See Real Case Studies"
 + 
 + ### For Decision Stage
-+ - &quot;Let&#39;s Get Started&quot;
-+ - &quot;Book Your Implementation&quot;
-+ - &quot;Enroll Now&quot;
-+ - &quot;Schedule Your Kickoff Call&quot;
++ - "Let's Get Started"
++ - "Book Your Implementation"
++ - "Enroll Now"
++ - "Schedule Your Kickoff Call"
 + 
 + ### For Social Media
-+ - &quot;Comment &#39;AUTOMATE&#39; for the free guide&quot;
-+ - &quot;DM me &#39;AI&#39; to learn more&quot;
-+ - &quot;Link in bio to get started&quot;
-+ - &quot;Save this for later&quot;
++ - "Comment 'AUTOMATE' for the free guide"
++ - "DM me 'AI' to learn more"
++ - "Link in bio to get started"
++ - "Save this for later"
 + 
 + ---
 + 
 + ## LinkedIn Headline Options
 + 
 + ### For Personal Profile
-+ - &quot;I help businesses automate with AI | Cut costs 40% | Results in 30 days | AI Automation Consultant&quot;
-+ - &quot;Helping 50+ companies scale with AI automation | Courses + Done-For-You Services | DM &#39;AI&#39; to start&quot;
-+ - &quot;Turn manual chaos into automated growth | AI Automation Expert | Training + Implementation&quot;
++ - "I help businesses automate with AI | Cut costs 40% | Results in 30 days | AI Automation Consultant"
++ - "Helping 50+ companies scale with AI automation | Courses + Done-For-You Services | DM 'AI' to start"
++ - "Turn manual chaos into automated growth | AI Automation Expert | Training + Implementation"
 + 
 + ### For Company Page
-+ - &quot;AI Automation Solutions | Scale Without Hiring | Training + Implementation + Support&quot;
-+ - &quot;Practical AI Automation for Growing Businesses | Learn It or We&#39;ll Do It For You&quot;
-+ - &quot;Cut Operational Costs 40% with AI | From Strategy to Implementation in 30 Days&quot;
++ - "AI Automation Solutions | Scale Without Hiring | Training + Implementation + Support"
++ - "Practical AI Automation for Growing Businesses | Learn It or We'll Do It For You"
++ - "Cut Operational Costs 40% with AI | From Strategy to Implementation in 30 Days"
 + 
 + ---
 + 
 + ## Email Signature Taglines
 + 
-+ Option 1: &quot;Automate the boring. Focus on the brilliant.&quot;
-+ Option 2: &quot;Making AI work for your business, not against it.&quot;
-+ Option 3: &quot;Your AI automation partner—from training to implementation.&quot;
++ Option 1: "Automate the boring. Focus on the brilliant."
++ Option 2: "Making AI work for your business, not against it."
++ Option 3: "Your AI automation partner—from training to implementation."
 + 
 + ---
 + 
@@ -2319,7 +2319,7 @@ Lines added: 243, lines removed: 1
 + 
 + Courses • Consulting • Done-For-You Services
 + 
-+ DM me &quot;AI&quot; to start →
++ DM me "AI" to start →
 + &#96;&#96;&#96;
 + 
 + ### LinkedIn Company Bio
@@ -2330,7 +2330,7 @@ Lines added: 243, lines removed: 1
 + ✓ Implementation in weeks, not months
 + ✓ 40% average cost reduction
 + 
-+ Whether you want to learn or have us do it for you, we&#39;ve got you covered.
++ Whether you want to learn or have us do it for you, we've got you covered.
 + 
 + 📩 [email]
 + 🌐 [website]
@@ -2345,7 +2345,7 @@ Lines added: 243, lines removed: 1
 + 
 + Save 10+ hrs/week. Cut costs 40%.
 + 
-+ DM &quot;AI&quot; to start 👇
++ DM "AI" to start 👇
 + &#96;&#96;&#96;
 + 
 + ---
@@ -2353,30 +2353,30 @@ Lines added: 243, lines removed: 1
 + ## Website Headlines
 + 
 + ### Homepage Hero
-+ **Main**: &quot;AI Automation That Actually Works&quot;
-+ **Subhead**: &quot;Scale your business, cut costs by 40%, and get your time back—in 30 days, not 6 months.&quot;
-+ **CTA**: &quot;Book Your Free AI Audit&quot;
++ **Main**: "AI Automation That Actually Works"
++ **Subhead**: "Scale your business, cut costs by 40%, and get your time back—in 30 days, not 6 months."
++ **CTA**: "Book Your Free AI Audit"
 + 
 + ### Services Page
-+ **Main**: &quot;Choose Your Path: Learn, Partner, or Delegate&quot;
-+ **Subhead**: &quot;DIY courses, done-with-you consulting, or done-for-you implementation—whatever fits your needs.&quot;
++ **Main**: "Choose Your Path: Learn, Partner, or Delegate"
++ **Subhead**: "DIY courses, done-with-you consulting, or done-for-you implementation—whatever fits your needs."
 + 
 + ### About Page
-+ **Main**: &quot;We&#39;re Not Here to Sell You Hype&quot;
-+ **Subhead**: &quot;We&#39;re here to deliver real results with practical AI automation that works.&quot;
++ **Main**: "We're Not Here to Sell You Hype"
++ **Subhead**: "We're here to deliver real results with practical AI automation that works."
 + 
 + ### Case Studies Page
-+ **Main**: &quot;Real Businesses. Real Results.&quot;
-+ **Subhead**: &quot;See how we&#39;ve helped 50+ companies save time, cut costs, and scale with AI.&quot;
++ **Main**: "Real Businesses. Real Results."
++ **Subhead**: "See how we've helped 50+ companies save time, cut costs, and scale with AI."
 + 
 + ---
 + 
 + ## Zoom Background Text Ideas
 + 
-+ - &quot;AI Automation Expert&quot;
-+ - &quot;Automate the Boring Stuff&quot;
-+ - &quot;Scaling Business with AI&quot;
-+ - &quot;[Your Company Name] | AI Automation&quot;
++ - "AI Automation Expert"
++ - "Automate the Boring Stuff"
++ - "Scaling Business with AI"
++ - "[Your Company Name] | AI Automation"
 + 
 + ---
 + 
@@ -2429,7 +2429,7 @@ Perfect! I can see your Ai-Whisperers organization. Let me continue building out
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: 08-Ready-to-Use-Materials/audience-personas.md</summary>
+<details><summary>Tool use: **write** • Edit file: 08-Ready-to-Use-Materials/audience-personas.md</summary>
 
 **Chunk 1**
 Lines added: 289, lines removed: 1
@@ -2439,7 +2439,7 @@ Lines added: 289, lines removed: 1
 - 
 + # 3 Audience Personas (Detailed)
 + 
-+ ## Persona 1: &quot;Overwhelmed Omar&quot; - The Solopreneur
++ ## Persona 1: "Overwhelmed Omar" - The Solopreneur
 + 
 + ### Basic Info
 + - **Name**: Omar Rodriguez
@@ -2450,7 +2450,7 @@ Lines added: 289, lines removed: 1
 + - **Company Size**: Just him (considering first hire)
 + 
 + ### Background Story
-+ Omar left his corporate marketing job 3 years ago to start his own consulting business. Business is good—almost too good. He&#39;s turning down clients because he can&#39;t handle more work. He spends 15+ hours a week on admin tasks, proposals, follow-ups, and reporting. He knows he should be focusing on strategy and client work, not data entry.
++ Omar left his corporate marketing job 3 years ago to start his own consulting business. Business is good—almost too good. He's turning down clients because he can't handle more work. He spends 15+ hours a week on admin tasks, proposals, follow-ups, and reporting. He knows he should be focusing on strategy and client work, not data entry.
 + 
 + ### A Day in the Life
 + - **6:00 AM**: Wakes up, checks emails (30+ overnight)
@@ -2471,23 +2471,23 @@ Lines added: 289, lines removed: 1
 + 
 + ### Pain Points
 + - **Time poverty**: No time for strategic thinking or growth
-+ - **Revenue ceiling**: Can&#39;t take on more clients manually
-+ - **Technical overwhelm**: Knows he needs automation but doesn&#39;t know where to start
++ - **Revenue ceiling**: Can't take on more clients manually
++ - **Technical overwhelm**: Knows he needs automation but doesn't know where to start
 + - **Fear of complexity**: Worried AI will be too technical or expensive
 + - **FOMO**: Seeing competitors use AI, feeling left behind
 + 
 + ### Buying Triggers
 + - Seeing case study from similar solopreneur
 + - Calculation showing 10+ hours saved per week
-+ - &quot;Done-with-you&quot; option (not just DIY)
++ - "Done-with-you" option (not just DIY)
 + - Money-back guarantee
 + - Quick wins in first week
 + 
 + ### Objections
-+ - &quot;I don&#39;t have time to learn this&quot;
-+ - &quot;What if it&#39;s too complicated for me?&quot;
-+ - &quot;I can&#39;t afford expensive tools&quot;
-+ - &quot;What if it doesn&#39;t work for my specific niche?&quot;
++ - "I don't have time to learn this"
++ - "What if it's too complicated for me?"
++ - "I can't afford expensive tools"
++ - "What if it doesn't work for my specific niche?"
 + 
 + ### How to Reach Omar
 + - LinkedIn posts with personal stories
@@ -2497,23 +2497,23 @@ Lines added: 289, lines removed: 1
 + - Email sequences with quick wins
 + 
 + ### Ideal Message
-+ *&quot;What if you could get 15 hours back every week—without hiring anyone? We&#39;ll show you exactly how to automate your admin work in 14 days. No tech skills needed.&quot;*
++ *"What if you could get 15 hours back every week—without hiring anyone? We'll show you exactly how to automate your admin work in 14 days. No tech skills needed."*
 + 
 + ### Content That Resonates
-+ - &quot;How I automated my client reporting in 2 hours&quot;
-+ - &quot;The 5 tasks every solopreneur should automate first&quot;
-+ - &quot;From 60-hour weeks to 35-hour weeks: My AI journey&quot;
++ - "How I automated my client reporting in 2 hours"
++ - "The 5 tasks every solopreneur should automate first"
++ - "From 60-hour weeks to 35-hour weeks: My AI journey"
 + - Quick tutorial videos (under 10 minutes)
 + - Real cost breakdowns
 + 
 + ### Products/Services for Omar
-+ 1. **Starter Course**: &quot;Automate Your Solo Business in 30 Days&quot; ($497)
-+ 2. **Quick Win Package**: &quot;We&#39;ll automate your 3 biggest time-wasters&quot; ($1,500)
++ 1. **Starter Course**: "Automate Your Solo Business in 30 Days" ($497)
++ 2. **Quick Win Package**: "We'll automate your 3 biggest time-wasters" ($1,500)
 + 3. **Monthly Coaching**: Group implementation support ($97/mo)
 + 
 + ---
 + 
-+ ## Persona 2: &quot;Strategic Sarah&quot; - The SME Operations Manager
++ ## Persona 2: "Strategic Sarah" - The SME Operations Manager
 + 
 + ### Basic Info
 + - **Name**: Sarah Chen
@@ -2525,7 +2525,7 @@ Lines added: 289, lines removed: 1
 + - **Budget Authority**: Can approve up to $25K, influences $100K+ decisions
 + 
 + ### Background Story
-+ Sarah has been with the company for 5 years, promoted from Operations Manager to Director. The company is growing fast (40% YoY), but operational costs are growing faster than revenue. Her CEO is pressuring her to &quot;do more with less&quot; and &quot;look into AI.&quot; She&#39;s drowning in process inefficiencies across sales, customer success, and operations. Manual data entry, disconnected tools, and reporting chaos are slowing everything down.
++ Sarah has been with the company for 5 years, promoted from Operations Manager to Director. The company is growing fast (40% YoY), but operational costs are growing faster than revenue. Her CEO is pressuring her to "do more with less" and "look into AI." She's drowning in process inefficiencies across sales, customer success, and operations. Manual data entry, disconnected tools, and reporting chaos are slowing everything down.
 + 
 + ### A Day in the Life
 + - **8:00 AM**: Leadership meeting—CEO asks about AI strategy (again)
@@ -2546,9 +2546,9 @@ Lines added: 289, lines removed: 1
 + 
 + ### Pain Points
 + - **Budget pressure**: Must justify every dollar spent
-+ - **Failed initiatives**: Previous automation attempts didn&#39;t work
++ - **Failed initiatives**: Previous automation attempts didn't work
 + - **Vendor fatigue**: Tired of overpromising software salespeople
-+ - **Implementation risk**: Can&#39;t afford 6-month failed project
++ - **Implementation risk**: Can't afford 6-month failed project
 + - **Team resistance**: Staff worried AI will replace them
 + - **Data chaos**: Information scattered across 12+ tools
 + - **Reporting burden**: Spends 10 hours/week on manual reports for CEO
@@ -2563,12 +2563,12 @@ Lines added: 289, lines removed: 1
 + - Executive summary for leadership
 + 
 + ### Objections
-+ - &quot;We need to see proof it works first&quot;
-+ - &quot;What if our team can&#39;t adopt it?&quot;
-+ - &quot;We&#39;ve tried automation before and it failed&quot;
-+ - &quot;I need to get CEO/CFO approval&quot;
-+ - &quot;What about data security and compliance?&quot;
-+ - &quot;Can this integrate with our existing stack?&quot;
++ - "We need to see proof it works first"
++ - "What if our team can't adopt it?"
++ - "We've tried automation before and it failed"
++ - "I need to get CEO/CFO approval"
++ - "What about data security and compliance?"
++ - "Can this integrate with our existing stack?"
 + 
 + ### How to Reach Sarah
 + - LinkedIn thought leadership articles
@@ -2580,14 +2580,14 @@ Lines added: 289, lines removed: 1
 + - Referrals from peers
 + 
 + ### Ideal Message
-+ *&quot;Reduce operational costs by 35% while scaling faster. We&#39;ve helped 20+ SaaS companies automate their operations—with proof of ROI in 90 days. Start with a free process audit.&quot;*
++ *"Reduce operational costs by 35% while scaling faster. We've helped 20+ SaaS companies automate their operations—with proof of ROI in 90 days. Start with a free process audit."*
 + 
 + ### Content That Resonates
-+ - &quot;How [SaaS Company] Saved $200K/Year with AI Automation&quot;
-+ - &quot;The Operations Leader&#39;s Guide to AI Transformation&quot;
++ - "How [SaaS Company] Saved $200K/Year with AI Automation"
++ - "The Operations Leader's Guide to AI Transformation"
 + - ROI calculators and TCO analyses
 + - Executive briefing decks
-+ - &quot;Avoiding the 5 Biggest Automation Mistakes&quot;
++ - "Avoiding the 5 Biggest Automation Mistakes"
 + - Change management frameworks
 + 
 + ### Products/Services for Sarah
@@ -2598,7 +2598,7 @@ Lines added: 289, lines removed: 1
 + 
 + ---
 + 
-+ ## Persona 3: &quot;Visionary Victor&quot; - The Forward-Thinking Founder
++ ## Persona 3: "Visionary Victor" - The Forward-Thinking Founder
 + 
 + ### Basic Info
 + - **Name**: Victor Okafor
@@ -2610,15 +2610,15 @@ Lines added: 289, lines removed: 1
 + - **Stage**: Series A funded, scaling fast
 + 
 + ### Background Story
-+ Victor founded his e-commerce platform 4 years ago and just raised $2M in Series A. He&#39;s obsessed with efficiency and competitive advantage. He sees AI as a way to compete with much larger competitors. He&#39;s tech-savvy but not an engineer. He wants to build an AI-first company culture but doesn&#39;t know where to start beyond using ChatGPT. He&#39;s willing to invest in the right solutions that will help him scale to $10M+ revenue without proportionally scaling costs.
++ Victor founded his e-commerce platform 4 years ago and just raised $2M in Series A. He's obsessed with efficiency and competitive advantage. He sees AI as a way to compete with much larger competitors. He's tech-savvy but not an engineer. He wants to build an AI-first company culture but doesn't know where to start beyond using ChatGPT. He's willing to invest in the right solutions that will help him scale to $10M+ revenue without proportionally scaling costs.
 + 
 + ### A Day in the Life
 + - **7:00 AM**: Reading tech news, AI developments
 + - **8:00 AM**: Team standup (still too manual, needs automation)
-+ - **9:00 AM**: Investor update—they&#39;re asking about AI strategy
++ - **9:00 AM**: Investor update—they're asking about AI strategy
 + - **11:00 AM**: Customer support issues (team overwhelmed)
 + - **1:00 PM**: Product roadmap review
-+ - **3:00 PM**: Competitor analysis (they&#39;re using AI, need to catch up)
++ - **3:00 PM**: Competitor analysis (they're using AI, need to catch up)
 + - **5:00 PM**: Exploring AI tools on Twitter/X
 + - **7:00 PM**: Networking with other founders about AI
 + 
@@ -2632,12 +2632,12 @@ Lines added: 289, lines removed: 1
 + 
 + ### Pain Points
 + - **Competitive pressure**: Bigger players adopting AI faster
-+ - **Talent constraints**: Can&#39;t compete with big tech salaries
-+ - **Scaling challenges**: Manual processes won&#39;t work at $10M
++ - **Talent constraints**: Can't compete with big tech salaries
++ - **Scaling challenges**: Manual processes won't work at $10M
 + - **Customer experience**: Support response times too slow
 + - **Operational complexity**: Growing pains everywhere
 + - **Investor expectations**: Board wants to see AI strategy
-+ - **Knowledge gap**: Doesn&#39;t know what&#39;s possible with AI
++ - **Knowledge gap**: Doesn't know what's possible with AI
 + 
 + ### Buying Triggers
 + - Strategic partnership opportunity (not just vendor)
@@ -2649,12 +2649,12 @@ Lines added: 289, lines removed: 1
 + - Vision of future-state operations
 + 
 + ### Objections
-+ - &quot;We need something that scales with us&quot;
-+ - &quot;Will this work with our tech stack?&quot;
-+ - &quot;Can we implement incrementally?&quot;
-+ - &quot;What happens when we 3x in size?&quot;
-+ - &quot;Do you work with startups in our stage?&quot;
-+ - &quot;Can you help us build AI culture, not just tools?&quot;
++ - "We need something that scales with us"
++ - "Will this work with our tech stack?"
++ - "Can we implement incrementally?"
++ - "What happens when we 3x in size?"
++ - "Do you work with startups in our stage?"
++ - "Can you help us build AI culture, not just tools?"
 + 
 + ### How to Reach Victor
 + - Twitter/X thought leadership
@@ -2666,18 +2666,18 @@ Lines added: 289, lines removed: 1
 + - VC networks
 + 
 + ### Ideal Message
-+ *&quot;Build the AI-powered company your investors want to see. We&#39;ll help you implement strategic automation that scales from $3M to $30M—starting with quick wins in 30 days.&quot;*
++ *"Build the AI-powered company your investors want to see. We'll help you implement strategic automation that scales from $3M to $30M—starting with quick wins in 30 days."*
 + 
 + ### Content That Resonates
-+ - &quot;How Startups Use AI to Compete with Giants&quot;
-+ - &quot;The AI-First Company Playbook&quot;
++ - "How Startups Use AI to Compete with Giants"
++ - "The AI-First Company Playbook"
 + - Founder interviews and stories
-+ - &quot;From Series A to B: The AI Advantage&quot;
++ - "From Series A to B: The AI Advantage"
 + - Strategic frameworks, not just tactics
 + - Vision-driven content
 + 
 + ### Products/Services for Victor
-+ 1. **Founder Workshop**: &quot;Building Your AI Roadmap&quot; ($2,500)
++ 1. **Founder Workshop**: "Building Your AI Roadmap" ($2,500)
 + 2. **Strategic Consulting**: 6-month AI transformation partner ($50K-75K)
 + 3. **Hybrid Model**: Strategy + Implementation + Team Training ($100K+)
 + 4. **Ongoing Advisory**: Fractional AI Strategy Officer ($5K-10K/mo)
@@ -2705,10 +2705,10 @@ Lines added: 289, lines removed: 1
 + ### In Content Creation
 + - Write blog posts addressing specific persona pain points
 + - Create case studies featuring similar customers
-+ - Develop lead magnets targeted at each persona&#39;s needs
++ - Develop lead magnets targeted at each persona's needs
 + 
 + ### In Sales Conversations
-+ - Identify which persona you&#39;re speaking with in first 5 minutes
++ - Identify which persona you're speaking with in first 5 minutes
 + - Use their language and address their specific concerns
 + - Present appropriate service tier
 + 
@@ -2736,7 +2736,7 @@ Lines added: 289, lines removed: 1
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: 08-Ready-to-Use-Materials/content-angles.md</summary>
+<details><summary>Tool use: **write** • Edit file: 08-Ready-to-Use-Materials/content-angles.md</summary>
 
 **Chunk 1**
 Lines added: 365, lines removed: 1
@@ -2761,25 +2761,25 @@ Lines added: 365, lines removed: 1
 + ### Content Examples
 + 
 + **LinkedIn Posts:**
-+ - &quot;Here&#39;s what went wrong in our last client implementation (and what we learned)&quot;
-+ - &quot;Live-documenting a 30-day automation project—Week 1 update&quot;
-+ - &quot;The client asked for X, but we recommended Y. Here&#39;s why...&quot;
-+ - &quot;Honest look at our tools stack—what we use and what we&#39;ve abandoned&quot;
++ - "Here's what went wrong in our last client implementation (and what we learned)"
++ - "Live-documenting a 30-day automation project—Week 1 update"
++ - "The client asked for X, but we recommended Y. Here's why..."
++ - "Honest look at our tools stack—what we use and what we've abandoned"
 + 
 + **YouTube Videos:**
-+ - &quot;Watch me build an AI automation from scratch (unedited)&quot;
-+ - &quot;Client project walkthrough: From chaos to automated in 14 days&quot;
-+ - &quot;What a $10K automation project actually looks like&quot;
-+ - &quot;We failed at this automation 3 times. Here&#39;s what finally worked.&quot;
++ - "Watch me build an AI automation from scratch (unedited)"
++ - "Client project walkthrough: From chaos to automated in 14 days"
++ - "What a $10K automation project actually looks like"
++ - "We failed at this automation 3 times. Here's what finally worked."
 + 
 + **Blog Posts:**
-+ - &quot;Our Automation Process: The Good, Bad, and Ugly&quot;
-+ - &quot;Real Cost Breakdown: What You Actually Pay for AI Automation&quot;
-+ - &quot;Case Study: How We Saved Client X $50K (With Screenshots)&quot;
++ - "Our Automation Process: The Good, Bad, and Ugly"
++ - "Real Cost Breakdown: What You Actually Pay for AI Automation"
++ - "Case Study: How We Saved Client X $50K (With Screenshots)"
 + 
 + **Email Newsletter:**
-+ - Weekly &quot;This Week in Automations&quot; (what we built, what we learned)
-+ - Monthly &quot;Mistakes We Made&quot; (and how to avoid them)
++ - Weekly "This Week in Automations" (what we built, what we learned)
++ - Monthly "Mistakes We Made" (and how to avoid them)
 + 
 + ### Posting Frequency
 + - LinkedIn: 2-3x per week
@@ -2799,35 +2799,35 @@ Lines added: 365, lines removed: 1
 + - Builds goodwill and trust
 + - Demonstrates expertise
 + - Encourages sharing
-+ - Creates &quot;try before you buy&quot; experience
++ - Creates "try before you buy" experience
 + 
 + ### Content Examples
 + 
 + **LinkedIn Posts:**
-+ - &quot;Here&#39;s a 3-step automation you can build in 30 minutes (free tools only)&quot;
-+ - &quot;Copy this exact ChatGPT prompt to automate your [X]&quot;
-+ - &quot;5 Chrome extensions that&#39;ll save you 5 hours this week&quot;
-+ - Thread: &quot;10 AI automations every business needs (with tool recommendations)&quot;
++ - "Here's a 3-step automation you can build in 30 minutes (free tools only)"
++ - "Copy this exact ChatGPT prompt to automate your [X]"
++ - "5 Chrome extensions that'll save you 5 hours this week"
++ - Thread: "10 AI automations every business needs (with tool recommendations)"
 + 
 + **YouTube Shorts/TikTok:**
-+ - &quot;Automate your email follow-ups in 60 seconds&quot;
-+ - &quot;One Zapier workflow that&#39;ll save you 2 hours daily&quot;
-+ - &quot;The ChatGPT prompt I use 10x per day&quot;
++ - "Automate your email follow-ups in 60 seconds"
++ - "One Zapier workflow that'll save you 2 hours daily"
++ - "The ChatGPT prompt I use 10x per day"
 + 
 + **Twitter/X Threads:**
-+ - &quot;7 AI tools I use daily (most are free):&quot;
-+ - &quot;How to automate [common task] in 5 steps:&quot;
-+ - &quot;The automation every [role] needs:&quot;
++ - "7 AI tools I use daily (most are free):"
++ - "How to automate [common task] in 5 steps:"
++ - "The automation every [role] needs:"
 + 
 + **Free Resources:**
-+ - &quot;50 ChatGPT Prompts for Business&quot; (downloadable)
-+ - &quot;10 Copy-Paste Automations&quot; (Notion template)
-+ - &quot;The Ultimate AI Tools Cheat Sheet&quot; (PDF)
++ - "50 ChatGPT Prompts for Business" (downloadable)
++ - "10 Copy-Paste Automations" (Notion template)
++ - "The Ultimate AI Tools Cheat Sheet" (PDF)
 + 
 + **Blog Posts:**
-+ - &quot;10 AI Automations You Can Implement This Week&quot;
-+ - &quot;The 5-Minute Automation That Saved Me 10 Hours&quot;
-+ - &quot;15 No-Code Automations Anyone Can Build&quot;
++ - "10 AI Automations You Can Implement This Week"
++ - "The 5-Minute Automation That Saved Me 10 Hours"
++ - "15 No-Code Automations Anyone Can Build"
 + 
 + ### Posting Frequency
 + - LinkedIn: 3-4x per week
@@ -2852,29 +2852,29 @@ Lines added: 365, lines removed: 1
 + ### Content Examples
 + 
 + **LinkedIn Posts:**
-+ - &quot;Client update: 32 hours saved per week, $4,200 monthly cost reduction&quot;
-+ - Infographic: &quot;6 months of automation results across 10 clients&quot;
-+ - &quot;We analyzed 50 automation projects. Here&#39;s what we learned...&quot;
-+ - Poll: &quot;How many hours per week do you spend on [manual task]?&quot; → Follow-up with solution
++ - "Client update: 32 hours saved per week, $4,200 monthly cost reduction"
++ - Infographic: "6 months of automation results across 10 clients"
++ - "We analyzed 50 automation projects. Here's what we learned..."
++ - Poll: "How many hours per week do you spend on [manual task]?" → Follow-up with solution
 + 
 + **Case Studies:**
-+ - &quot;How [Company] Reduced Operational Costs by 47% in 90 Days&quot;
-+ - &quot;From 15 Hours to 2 Hours: Automating Sales Reporting at [Company]&quot;
-+ - &quot;ROI Analysis: $15K Investment, $78K First-Year Savings&quot;
++ - "How [Company] Reduced Operational Costs by 47% in 90 Days"
++ - "From 15 Hours to 2 Hours: Automating Sales Reporting at [Company]"
++ - "ROI Analysis: $15K Investment, $78K First-Year Savings"
 + 
 + **YouTube Videos:**
-+ - &quot;We tracked every minute: How automation saved 280 hours&quot;
-+ - &quot;Real client dashboard walkthrough: Before vs. After metrics&quot;
-+ - &quot;What does $10K in automation actually deliver?&quot;
++ - "We tracked every minute: How automation saved 280 hours"
++ - "Real client dashboard walkthrough: Before vs. After metrics"
++ - "What does $10K in automation actually deliver?"
 + 
 + **LinkedIn Carousels:**
-+ - &quot;10 Automation Projects: Investment vs. ROI&quot;
-+ - &quot;The Real Cost of NOT Automating (With Math)&quot;
-+ - &quot;Our Average Client Results After 6 Months&quot;
++ - "10 Automation Projects: Investment vs. ROI"
++ - "The Real Cost of NOT Automating (With Math)"
++ - "Our Average Client Results After 6 Months"
 + 
 + **Webinars:**
-+ - &quot;The ROI of AI Automation: Live Data from 50+ Projects&quot;
-+ - &quot;How to Calculate Your Automation ROI (With Template)&quot;
++ - "The ROI of AI Automation: Live Data from 50+ Projects"
++ - "How to Calculate Your Automation ROI (With Template)"
 + 
 + ### Posting Frequency
 + - LinkedIn: 2x per week
@@ -2899,18 +2899,18 @@ Lines added: 365, lines removed: 1
 + ### Content Examples
 + 
 + **LinkedIn Articles:**
-+ - &quot;Why Every Business Will Be an AI Business by 2027&quot;
-+ - &quot;The End of Busywork: What AI Means for Your Career&quot;
-+ - &quot;How AI Changes the Math on Hiring vs. Automating&quot;
-+ - &quot;The 10 Skills That Matter in an AI-Powered Workplace&quot;
++ - "Why Every Business Will Be an AI Business by 2027"
++ - "The End of Busywork: What AI Means for Your Career"
++ - "How AI Changes the Math on Hiring vs. Automating"
++ - "The 10 Skills That Matter in an AI-Powered Workplace"
 + 
 + **YouTube Deep Dives:**
-+ - &quot;The Future of Operations: What&#39;s Changing in 2025-2026&quot;
-+ - &quot;AI Won&#39;t Replace You—But Someone Using AI Will&quot;
-+ - &quot;How Top Companies Are Restructuring for the AI Era&quot;
++ - "The Future of Operations: What's Changing in 2025-2026"
++ - "AI Won't Replace You—But Someone Using AI Will"
++ - "How Top Companies Are Restructuring for the AI Era"
 + 
 + **Podcast Content:**
-+ - Guest appearances discussing AI&#39;s impact on business
++ - Guest appearances discussing AI's impact on business
 + - Interview series with founders using AI
 + - Roundtable discussions on AI adoption
 + 
@@ -2920,13 +2920,13 @@ Lines added: 365, lines removed: 1
 + - Predictions and analysis threads
 + 
 + **LinkedIn Lives/Webinars:**
-+ - &quot;State of AI Automation: 2025 Trends&quot;
-+ - &quot;Ask Me Anything: The Future of Your Industry&quot;
-+ - &quot;What&#39;s Coming in AI (That You Should Prepare For)&quot;
++ - "State of AI Automation: 2025 Trends"
++ - "Ask Me Anything: The Future of Your Industry"
++ - "What's Coming in AI (That You Should Prepare For)"
 + 
 + **Medium/Blog:**
-+ - &quot;The Automation Mindset: How Top Performers Think About AI&quot;
-+ - &quot;Why Most Companies Will Fail at AI (And How to Be Different)&quot;
++ - "The Automation Mindset: How Top Performers Think About AI"
++ - "Why Most Companies Will Fail at AI (And How to Be Different)"
 + 
 + ### Posting Frequency
 + - LinkedIn: 1x per week
@@ -2951,41 +2951,41 @@ Lines added: 365, lines removed: 1
 + ### Content Examples
 + 
 + **YouTube Series:**
-+ - &quot;AI Automation 101: Complete Beginner Course&quot; (10 episodes)
-+ - &quot;Tool Tutorials: Deep Dives into Zapier, Make, ChatGPT&quot;
-+ - &quot;Process Mapping: How to Identify Automation Opportunities&quot;
-+ - &quot;Implementation Workshops: Build Along With Me&quot;
++ - "AI Automation 101: Complete Beginner Course" (10 episodes)
++ - "Tool Tutorials: Deep Dives into Zapier, Make, ChatGPT"
++ - "Process Mapping: How to Identify Automation Opportunities"
++ - "Implementation Workshops: Build Along With Me"
 + 
 + **LinkedIn Posts:**
-+ - &quot;Framework: The 4 Types of Processes Worth Automating&quot;
-+ - &quot;How to audit your workflow for automation opportunities&quot;
-+ - &quot;The difference between automation, AI, and RPA (and when to use each)&quot;
-+ - &quot;Mental model: The Automation Decision Tree&quot;
++ - "Framework: The 4 Types of Processes Worth Automating"
++ - "How to audit your workflow for automation opportunities"
++ - "The difference between automation, AI, and RPA (and when to use each)"
++ - "Mental model: The Automation Decision Tree"
 + 
 + **Email Course:**
-+ - &quot;7-Day AI Automation Challenge&quot; (one task per day)
-+ - &quot;30 Days to Your First Automation&quot; (step-by-step)
-+ - &quot;The Complete Guide to [Specific Tool]&quot;
++ - "7-Day AI Automation Challenge" (one task per day)
++ - "30 Days to Your First Automation" (step-by-step)
++ - "The Complete Guide to [Specific Tool]"
 + 
 + **Blog Series:**
-+ - &quot;The Complete Guide to Business Process Automation&quot; (10-part series)
-+ - &quot;AI Tools Explained: What They Do and When to Use Them&quot;
-+ - &quot;How to Choose the Right Automation Solution&quot;
++ - "The Complete Guide to Business Process Automation" (10-part series)
++ - "AI Tools Explained: What They Do and When to Use Them"
++ - "How to Choose the Right Automation Solution"
 + 
 + **Live Training:**
-+ - Weekly &quot;Office Hours&quot; (Q&amp;A)
++ - Weekly "Office Hours" (Q&amp;A)
 + - Monthly workshops on specific topics
 + - Live build sessions (Twitch/YouTube)
 + 
 + **Free Courses:**
-+ - &quot;Introduction to No-Code Automation&quot; (Teachable/Thinkific)
-+ - &quot;AI Prompting for Business&quot; (mini-course)
-+ - &quot;Automation ROI Calculator&quot; (with tutorial)
++ - "Introduction to No-Code Automation" (Teachable/Thinkific)
++ - "AI Prompting for Business" (mini-course)
++ - "Automation ROI Calculator" (with tutorial)
 + 
 + **LinkedIn Carousels:**
-+ - &quot;The 5 Levels of Automation Maturity&quot;
-+ - &quot;Automation Frameworks Every Business Needs&quot;
-+ - &quot;How to Map Your First Automation&quot;
++ - "The 5 Levels of Automation Maturity"
++ - "Automation Frameworks Every Business Needs"
++ - "How to Map Your First Automation"
 + 
 + ### Posting Frequency
 + - YouTube: 2x per week
@@ -3067,7 +3067,7 @@ Lines added: 365, lines removed: 1
 + - LinkedIn: Question or poll
 + - YouTube Shorts: Quick tip
 + 
-+ ### Weekend: Batch create next week&#39;s content
++ ### Weekend: Batch create next week's content
 + 
 + ---
 + 
@@ -3119,7 +3119,7 @@ Lines added: 365, lines removed: 1
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: 08-Ready-to-Use-Materials/10-post-ideas.md</summary>
+<details><summary>Tool use: **write** • Edit file: 08-Ready-to-Use-Materials/10-post-ideas.md</summary>
 
 **Chunk 1**
 Lines added: 634, lines removed: 1
@@ -3133,10 +3133,10 @@ Lines added: 634, lines removed: 1
 + 
 + **Platform**: LinkedIn (Text + Image)
 + 
-+ **Hook**: &quot;6 months ago, our client was spending 20 hours/week on manual reporting. Today? 2 hours.&quot;
++ **Hook**: "6 months ago, our client was spending 20 hours/week on manual reporting. Today? 2 hours."
 + 
 + **Body**:
-+ Here&#39;s what changed:
++ Here's what changed:
 + 
 + Before:
 + • Manual data entry from 5 different tools
@@ -3158,12 +3158,12 @@ Lines added: 634, lines removed: 1
 + Time saved annually: 936 hours
 + Cost reduction: $47,000/year
 + 
-+ Here&#39;s the interesting part—they didn&#39;t need a tech team. We used no-code tools they already had licenses for.
++ Here's the interesting part—they didn't need a tech team. We used no-code tools they already had licenses for.
 + 
-+ Most businesses are sitting on automation opportunities like this and don&#39;t even know it.
++ Most businesses are sitting on automation opportunities like this and don't even know it.
 + 
 + **Call to Action**: 
-+ Comment &quot;AUDIT&quot; if you want me to send you our free process audit framework 👇
++ Comment "AUDIT" if you want me to send you our free process audit framework 👇
 + 
 + **Image**: Before/after dashboard screenshot or simple infographic
 + 
@@ -3175,17 +3175,17 @@ Lines added: 634, lines removed: 1
 + 
 + **Platform**: LinkedIn or Twitter/X (Text only)
 + 
-+ **Hook**: &quot;Unpopular opinion: Most businesses don&#39;t need expensive AI consultants.&quot;
++ **Hook**: "Unpopular opinion: Most businesses don't need expensive AI consultants."
 + 
 + **Body**:
 + What they need:
-+ • Someone to show them what&#39;s possible
++ • Someone to show them what's possible
 + • 3-5 quick win automations
 + • Simple documentation
 + • 2 weeks of support
 + 
-+ What they DON&#39;T need:
-+ • 6-month &quot;AI strategy&quot; projects
++ What they DON'T need:
++ • 6-month "AI strategy" projects
 + • Expensive custom AI models
 + • Buzzword-filled presentations
 + • Solutions that require a PhD to maintain
@@ -3202,7 +3202,7 @@ Lines added: 634, lines removed: 1
 + Repeat.
 + 
 + **Call to Action**: 
-+ Agree? Disagree? Let&#39;s debate 👇
++ Agree? Disagree? Let's debate 👇
 + 
 + **Engagement Strategy**: Respond to all comments within first hour
 + 
@@ -3214,7 +3214,7 @@ Lines added: 634, lines removed: 1
 + 
 + **Platform**: LinkedIn (10-slide carousel)
 + 
-+ **Title Slide**: &quot;5 Processes Every Business Should Automate (But Most Don&#39;t)&quot;
++ **Title Slide**: "5 Processes Every Business Should Automate (But Most Don't)"
 + 
 + **Slide 2**: 
 + **#1: Email Follow-ups**
@@ -3274,7 +3274,7 @@ Lines added: 634, lines removed: 1
 + 
 + **Slide 10**:
 + **Want help?**
-+ Comment &quot;AUTOMATE&quot; and I&#39;ll send you:
++ Comment "AUTOMATE" and I'll send you:
 + • Free automation opportunity audit
 + • Tool recommendations
 + • Implementation guide
@@ -3291,7 +3291,7 @@ Lines added: 634, lines removed: 1
 + 
 + **Platform**: LinkedIn (Text + Screenshot)
 + 
-+ **Hook**: &quot;Live update: We&#39;re 72 hours into a client automation project. Here&#39;s what&#39;s happening...&quot;
++ **Hook**: "Live update: We're 72 hours into a client automation project. Here's what's happening..."
 + 
 + **Body**:
 + Day 1: Kickoff &amp; Process Mapping
@@ -3312,12 +3312,12 @@ Lines added: 634, lines removed: 1
 + • Client saved 2.5 hours TODAY
 + • Team actually excited (rare!)
 + 
-+ What&#39;s Next:
++ What's Next:
 + • Automation #2 starts tomorrow (data sync)
 + • Then customer onboarding flow
 + • Full training next week
 + 
-+ Here&#39;s what I love about this approach:
++ Here's what I love about this approach:
 + → Results in days, not months
 + → Client sees value immediately
 + → Team adoption is 10x easier when they see it working
@@ -3338,7 +3338,7 @@ Lines added: 634, lines removed: 1
 + **Platform**: Twitter/X (Thread)
 + 
 + **Tweet 1 (Hook)**:
-+ I&#39;ve tested 50+ automation tools in the last 2 years.
++ I've tested 50+ automation tools in the last 2 years.
 + 
 + Here are the 7 I actually use daily (and what I use each for):
 + 
@@ -3354,7 +3354,7 @@ Lines added: 634, lines removed: 1
 + • Email drafts
 + • Research
 + 
-+ Why it wins: Versatility. It&#39;s like having a junior assistant for everything.
++ Why it wins: Versatility. It's like having a junior assistant for everything.
 + 
 + **Tweet 3**:
 + 2/ Make.com ($9-29/mo)
@@ -3429,13 +3429,13 @@ Lines added: 634, lines removed: 1
 + 
 + ROI: About 10,000%
 + 
-+ The trick isn&#39;t using every tool.
-+ It&#39;s finding the right 7-10 and mastering them.
++ The trick isn't using every tool.
++ It's finding the right 7-10 and mastering them.
 + 
 + **Tweet 10**:
 + Want my full tools stack with use cases + setup guides?
 + 
-+ Drop a comment and I&#39;ll send it over.
++ Drop a comment and I'll send it over.
 + 
 + Also, what tools am I missing? Always looking to optimize 👇
 + 
@@ -3447,7 +3447,7 @@ Lines added: 634, lines removed: 1
 + 
 + **Platform**: LinkedIn (Text + Video/Image)
 + 
-+ **Hook**: &quot;We just lost a $20K deal. Here&#39;s what we learned.&quot;
++ **Hook**: "We just lost a $20K deal. Here's what we learned."
 + 
 + **Body**:
 + Last week, we presented a comprehensive automation proposal to a growing SaaS company.
@@ -3460,20 +3460,20 @@ Lines added: 634, lines removed: 1
 + 
 + They went with someone else.
 + 
-+ Why? Here&#39;s what they told us:
++ Why? Here's what they told us:
 + 
-+ &quot;We loved everything about your proposal. But we needed something we could see results from THIS MONTH. Your plan, while comprehensive, felt like a big commitment.&quot;
++ "We loved everything about your proposal. But we needed something we could see results from THIS MONTH. Your plan, while comprehensive, felt like a big commitment."
 + 
 + Ouch. But fair.
 + 
 + Lesson learned:
-+ → Comprehensive isn&#39;t always what they want
++ → Comprehensive isn't always what they want
 + → Quick wins &gt; perfect solutions
 + → Show value fast, then expand
 + → Lower barrier to entry
 + 
-+ What we&#39;re changing:
-+ • Offering &quot;Quick Win&quot; starter package ($2.5K, 1 week)
++ What we're changing:
++ • Offering "Quick Win" starter package ($2.5K, 1 week)
 + • Prove value FIRST, then discuss bigger projects
 + • Making it easier to say yes
 + 
@@ -3492,7 +3492,7 @@ Lines added: 634, lines removed: 1
 + 
 + **Platform**: LinkedIn (Poll + Follow-up Post)
 + 
-+ **Poll Question**: &quot;How many hours per week do you spend on tasks that could be automated?&quot;
++ **Poll Question**: "How many hours per week do you spend on tasks that could be automated?"
 + 
 + **Options**:
 + - Less than 5 hours
@@ -3504,12 +3504,12 @@ Lines added: 634, lines removed: 1
 + 
 + Results are in: 63% of you spend 10+ hours per week on work that could be automated.
 + 
-+ That&#39;s 520+ hours per year. 😳
++ That's 520+ hours per year. 😳
 + 
-+ If your time is worth $50/hour, that&#39;s $26,000 in wasted value.
++ If your time is worth $50/hour, that's $26,000 in wasted value.
 + At $100/hour? $52,000.
 + 
-+ Here&#39;s what most people don&#39;t realize:
++ Here's what most people don't realize:
 + 
 + Automating those tasks typically costs:
 + • $100-300/month in tools
@@ -3525,13 +3525,13 @@ Lines added: 634, lines removed: 1
 + 
 + Total: 18 hours/week = $46,800/year at $50/hour
 + 
-+ The question isn&#39;t &quot;Can we afford to automate?&quot;
-+ It&#39;s &quot;Can we afford NOT to?&quot;
++ The question isn't "Can we afford to automate?"
++ It's "Can we afford NOT to?"
 + 
 + **Call to Action**:
 + Want to know exactly what you should automate first?
 + 
-+ Comment &quot;AUDIT&quot; and I&#39;ll send you our free process audit template.
++ Comment "AUDIT" and I'll send you our free process audit template.
 + 
 + ---
 + 
@@ -3539,41 +3539,41 @@ Lines added: 634, lines removed: 1
 + 
 + **Platform**: LinkedIn or Instagram (Carousel)
 + 
-+ **Title**: &quot;5 AI Automation Myths That Are Costing You Time &amp; Money&quot;
++ **Title**: "5 AI Automation Myths That Are Costing You Time &amp; Money"
 + 
-+ **Myth #1: &quot;AI automation is only for big companies&quot;**
++ **Myth #1: "AI automation is only for big companies"**
 + Reality: Small businesses benefit MORE because:
 + • Lower overhead costs
 + • Faster implementation
 + • Immediate impact on operations
-+ • Don&#39;t need dedicated IT team
++ • Don't need dedicated IT team
 + 
-+ **Myth #2: &quot;You need to know how to code&quot;**
++ **Myth #2: "You need to know how to code"**
 + Reality:
 + • 90% of automations use no-code tools
 + • If you can use a spreadsheet, you can automate
 + • Visual builders make it simple
 + • Training takes days, not months
 + 
-+ **Myth #3: &quot;It&#39;s too expensive&quot;**
++ **Myth #3: "It's too expensive"**
 + Reality:
 + • Most tools: $10-50/month
 + • Implementation: $2K-10K one-time
 + • Typical ROI: 2-3 months
 + • Cost of NOT automating is higher
 + 
-+ **Myth #4: &quot;It&#39;ll take forever to implement&quot;**
++ **Myth #4: "It'll take forever to implement"**
 + Reality:
 + • Quick wins: 1-3 days
 + • Full department automation: 2-4 weeks
 + • Enterprise-wide: 2-3 months
 + • Modern tools are fast to deploy
 + 
-+ **Myth #5: &quot;My business is too unique to automate&quot;**
++ **Myth #5: "My business is too unique to automate"**
 + Reality:
 + • Every business has repetitive tasks
 + • 80% of processes are common across industries
-+ • Custom doesn&#39;t mean manual
++ • Custom doesn't mean manual
 + • If you do it twice, you can automate it
 + 
 + **Final Slide**:
@@ -3586,7 +3586,7 @@ Lines added: 634, lines removed: 1
 + The best time to start? Last year.
 + The second best time? Today.
 + 
-+ Comment &quot;MYTH&quot; for our free automation readiness assessment 👇
++ Comment "MYTH" for our free automation readiness assessment 👇
 + 
 + ---
 + 
@@ -3594,7 +3594,7 @@ Lines added: 634, lines removed: 1
 + 
 + **Platform**: LinkedIn (Text)
 + 
-+ **Hook**: &quot;Sarah was working 60-hour weeks and turning down clients. Now she works 35 hours and doubled her revenue. Here&#39;s how:&quot;
++ **Hook**: "Sarah was working 60-hour weeks and turning down clients. Now she works 35 hours and doubled her revenue. Here's how:"
 + 
 + **Body**:
 + Sarah runs a marketing consultancy. Solo. No team.
@@ -3604,11 +3604,11 @@ Lines added: 634, lines removed: 1
 + She was drowning in the work AROUND the work.
 + 
 + When we met, she was clear:
-+ &quot;I either hire someone, which I can&#39;t afford, or I burn out and quit.&quot;
++ "I either hire someone, which I can't afford, or I burn out and quit."
 + 
 + We gave her a third option: Automate.
 + 
-+ Here&#39;s what we did:
++ Here's what we did:
 + 
 + Week 1: Quick wins
 + • Automated email follow-ups
@@ -3630,7 +3630,7 @@ Lines added: 634, lines removed: 1
 + 
 + Total time saved: 15 hours/week
 + 
-+ But here&#39;s the real win:
++ But here's the real win:
 + 
 + With 15 hours back, Sarah could take on 3 more clients.
 + Revenue increased from $7K/month to $14K/month.
@@ -3640,13 +3640,13 @@ Lines added: 634, lines removed: 1
 + Monthly tool costs: $180
 + First year ROI: 1,840%
 + 
-+ Sarah&#39;s quote:
-+ &quot;I thought I needed an assistant. Turns out I needed automation. Best business decision I&#39;ve made.&quot;
++ Sarah's quote:
++ "I thought I needed an assistant. Turns out I needed automation. Best business decision I've made."
 + 
 + **Call to Action**:
-+ Working too many hours? There&#39;s a better way.
++ Working too many hours? There's a better way.
 + 
-+ DM me &quot;SCALE&quot; and let&#39;s talk about your situation.
++ DM me "SCALE" and let's talk about your situation.
 + 
 + ---
 + 
@@ -3654,12 +3654,12 @@ Lines added: 634, lines removed: 1
 + 
 + **Platform**: LinkedIn or Twitter (Text + Link)
 + 
-+ **Hook**: &quot;I just spent 40 hours creating this. You can have it for free.&quot;
++ **Hook**: "I just spent 40 hours creating this. You can have it for free."
 + 
 + **Body**:
 + **The Ultimate AI Automation Starter Kit**
 + 
-+ Inside you&#39;ll find:
++ Inside you'll find:
 + 
 + 📋 Process Audit Template
 + • Identify your top automation opportunities
@@ -3695,7 +3695,7 @@ Lines added: 634, lines removed: 1
 + 
 + Why am I giving this away?
 + 
-+ Because I&#39;m tired of seeing businesses waste money on automation that doesn&#39;t work.
++ Because I'm tired of seeing businesses waste money on automation that doesn't work.
 + 
 + This kit has everything you need to:
 + ✓ Start smart
@@ -3705,9 +3705,9 @@ Lines added: 634, lines removed: 1
 + No credit card. No catch. Just value.
 + 
 + **Call to Action**:
-+ Comment &quot;KIT&quot; and I&#39;ll send you the link 👇
++ Comment "KIT" and I'll send you the link 👇
 + 
-+ Or if you want help implementing, DM me &quot;HELP&quot; and we can talk.
++ Or if you want help implementing, DM me "HELP" and we can talk.
 + 
 + **Delivery**: Send via DM or email (captures lead info)
 + 
@@ -3745,17 +3745,17 @@ Lines added: 634, lines removed: 1
 + 
 + ## Engagement Response Templates
 + 
-+ **For &quot;Send me&quot; requests:**
-+ &quot;Just sent! Check your DMs. Let me know if you have questions 👍&quot;
++ **For "Send me" requests:**
++ "Just sent! Check your DMs. Let me know if you have questions 👍"
 + 
 + **For positive feedback:**
-+ &quot;Thanks [Name]! Glad this resonated. What automation are you most interested in tackling first?&quot;
++ "Thanks [Name]! Glad this resonated. What automation are you most interested in tackling first?"
 + 
 + **For disagreement:**
-+ &quot;Appreciate the perspective [Name]. Tell me more about your experience—always looking to learn from different viewpoints.&quot;
++ "Appreciate the perspective [Name]. Tell me more about your experience—always looking to learn from different viewpoints."
 + 
 + **For questions:**
-+ &quot;Great question! [Answer]. Want me to do a deep dive on this topic next week?&quot;
++ "Great question! [Answer]. Want me to do a deep dive on this topic next week?"
 + 
 + ---
 + 
@@ -3771,7 +3771,7 @@ Lines added: 634, lines removed: 1
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: 08-Ready-to-Use-Materials/landing-page-outlines.md</summary>
+<details><summary>Tool use: **write** • Edit file: 08-Ready-to-Use-Materials/landing-page-outlines.md</summary>
 
 **Chunk 1**
 Lines added: 957, lines removed: 1
@@ -3791,50 +3791,50 @@ Lines added: 957, lines removed: 1
 + ### HERO SECTION
 + 
 + **Headline (H1):**
-+ &quot;Discover Which Processes You Should Automate First&quot;
++ "Discover Which Processes You Should Automate First"
 + 
 + **Subheadline:**
-+ &quot;Get a custom AI automation opportunity report—showing you exactly where you&#39;re losing time and money (and how to fix it)&quot;
++ "Get a custom AI automation opportunity report—showing you exactly where you're losing time and money (and how to fix it)"
 + 
 + **Hero Image/Video:**
 + - Clean dashboard mockup or
 + - Short explainer video (45 seconds)
 + 
 + **CTA Button (Above Fold):**
-+ &quot;Get My Free Audit&quot; → Scroll to form
++ "Get My Free Audit" → Scroll to form
 + 
 + **Trust Indicators:**
-+ &quot;✓ Used by 500+ businesses  ✓ No credit card required  ✓ Results in 10 minutes&quot;
++ "✓ Used by 500+ businesses  ✓ No credit card required  ✓ Results in 10 minutes"
 + 
 + ---
 + 
 + ### SECTION 2: THE PROBLEM
 + 
 + **Headline:**
-+ &quot;You Know You Need Automation... But Where Do You Start?&quot;
++ "You Know You Need Automation... But Where Do You Start?"
 + 
 + **3-Column Layout:**
 + 
 + **Column 1:**
 + 😰 **Overwhelmed**
-+ &quot;There are hundreds of AI tools. Which ones actually matter for YOUR business?&quot;
++ "There are hundreds of AI tools. Which ones actually matter for YOUR business?"
 + 
 + **Column 2:**
 + ⏰ **Time-Starved**
-+ &quot;You&#39;re drowning in repetitive work, but don&#39;t have time to figure out automation.&quot;
++ "You're drowning in repetitive work, but don't have time to figure out automation."
 + 
 + **Column 3:**
 + 💸 **Risk-Averse**
-+ &quot;You can&#39;t afford to waste money on automation that doesn&#39;t work.&quot;
++ "You can't afford to waste money on automation that doesn't work."
 + 
 + ---
 + 
 + ### SECTION 3: THE SOLUTION
 + 
 + **Headline:**
-+ &quot;Get Your Free AI Automation Opportunity Audit&quot;
++ "Get Your Free AI Automation Opportunity Audit"
 + 
-+ **What You&#39;ll Discover:**
++ **What You'll Discover:**
 + 
 + ✅ **Your Biggest Time Wasters**
 + See exactly which processes are costing you the most hours (and money)
@@ -3858,7 +3858,7 @@ Lines added: 957, lines removed: 1
 + ### SECTION 4: HOW IT WORKS
 + 
 + **Headline:**
-+ &quot;Get Your Custom Audit in 3 Simple Steps&quot;
++ "Get Your Custom Audit in 3 Simple Steps"
 + 
 + **Step 1: Fill Out Quick Assessment (5 minutes)**
 + Answer 15 questions about your business, processes, and pain points
@@ -3873,10 +3873,10 @@ Lines added: 957, lines removed: 1
 + 
 + ---
 + 
-+ ### SECTION 5: WHAT&#39;S INCLUDED
++ ### SECTION 5: WHAT'S INCLUDED
 + 
 + **Headline:**
-+ &quot;Your Free Audit Includes:&quot;
++ "Your Free Audit Includes:"
 + 
 + 📊 **Process Efficiency Analysis**
 + - Time waste identification
@@ -3910,34 +3910,34 @@ Lines added: 957, lines removed: 1
 + ### SECTION 6: SOCIAL PROOF
 + 
 + **Headline:**
-+ &quot;Join 500+ Businesses Who&#39;ve Discovered Their Automation Opportunities&quot;
++ "Join 500+ Businesses Who've Discovered Their Automation Opportunities"
 + 
 + **3 Testimonials with Photos:**
 + 
 + **Testimonial 1:**
-+ &quot;The audit showed us we were wasting 23 hours per week on manual data entry. Within 2 weeks of implementing their recommendations, we automated 90% of it. Game-changer.&quot;
++ "The audit showed us we were wasting 23 hours per week on manual data entry. Within 2 weeks of implementing their recommendations, we automated 90% of it. Game-changer."
 + — Sarah Chen, Operations Director
 + 
 + **Testimonial 2:**
-+ &quot;I thought I knew what to automate. The audit revealed 5 opportunities I never considered. We&#39;re now saving $4K/month.&quot;
++ "I thought I knew what to automate. The audit revealed 5 opportunities I never considered. We're now saving $4K/month."
 + — Marcus Johnson, Founder
 + 
 + **Testimonial 3:**
-+ &quot;Clear, actionable, no fluff. We implemented 3 of their recommendations and saw results in the first week.&quot;
++ "Clear, actionable, no fluff. We implemented 3 of their recommendations and saw results in the first week."
 + — Lisa Rodriguez, Marketing Manager
 + 
 + **Trust Logos:** (If available)
-+ &quot;As featured in:&quot; [Media logos or client logos]
++ "As featured in:" [Media logos or client logos]
 + 
 + ---
 + 
 + ### SECTION 7: FORM (Main Conversion Point)
 + 
 + **Headline:**
-+ &quot;Get Your Free AI Automation Audit&quot;
++ "Get Your Free AI Automation Audit"
 + 
 + **Subheadline:**
-+ &quot;Takes 5 minutes. No credit card required. Results in 24 hours.&quot;
++ "Takes 5 minutes. No credit card required. Results in 24 hours."
 + 
 + **Form Fields:**
 + 
@@ -3954,12 +3954,12 @@ Lines added: 957, lines removed: 1
 + - Role* [Dropdown: Founder, Ops, Marketing, Sales, Other]
 + 
 + *Current State:*
-+ - &quot;What&#39;s your biggest operational challenge?&quot; [Text area]
-+ - &quot;How many hours per week do you spend on repetitive tasks?&quot; [Slider: 0-40+]
-+ - &quot;Have you tried automation before?&quot; [Yes/No/Somewhat]
++ - "What's your biggest operational challenge?" [Text area]
++ - "How many hours per week do you spend on repetitive tasks?" [Slider: 0-40+]
++ - "Have you tried automation before?" [Yes/No/Somewhat]
 + 
 + *Automation Interest:*
-+ - &quot;Which areas interest you most?&quot; [Multi-select checkboxes]
++ - "Which areas interest you most?" [Multi-select checkboxes]
 +   □ Sales &amp; CRM
 +   □ Marketing &amp; Content
 +   □ Operations &amp; Admin
@@ -3968,32 +3968,32 @@ Lines added: 957, lines removed: 1
 +   □ Other
 + 
 + **Privacy Note:**
-+ &quot;We respect your privacy. Your information will never be shared. Unsubscribe anytime.&quot;
++ "We respect your privacy. Your information will never be shared. Unsubscribe anytime."
 + 
 + **CTA Button (Large, High Contrast):**
-+ &quot;Get My Free Audit Report →&quot;
++ "Get My Free Audit Report →"
 + 
 + ---
 + 
 + ### SECTION 8: FAQ
 + 
 + **Headline:**
-+ &quot;Frequently Asked Questions&quot;
++ "Frequently Asked Questions"
 + 
 + **Q: Is this really free?**
 + A: Yes! No credit card, no strings attached. We want to provide value first and earn your trust.
 + 
 + **Q: How long does it take?**
-+ A: The assessment takes 5 minutes. You&#39;ll receive your custom report within 24-48 hours.
++ A: The assessment takes 5 minutes. You'll receive your custom report within 24-48 hours.
 + 
 + **Q: What happens after I get the audit?**
-+ A: That&#39;s up to you! You can implement the recommendations yourself, or if you want help, we offer implementation services. No pressure either way.
++ A: That's up to you! You can implement the recommendations yourself, or if you want help, we offer implementation services. No pressure either way.
 + 
 + **Q: Will I be spammed with sales calls?**
-+ A: No. We&#39;ll send your report and a follow-up email asking if you have questions. That&#39;s it. You control the conversation.
++ A: No. We'll send your report and a follow-up email asking if you have questions. That's it. You control the conversation.
 + 
 + **Q: What if my business is unique?**
-+ A: Every business is unique, which is why the audit is customized. We&#39;ve worked across 30+ industries and can adapt to your specific needs.
++ A: Every business is unique, which is why the audit is customized. We've worked across 30+ industries and can adapt to your specific needs.
 + 
 + **Q: Do I need technical skills?**
 + A: Not at all. The audit identifies opportunities regardless of technical ability, and our recommendations include no-code options.
@@ -4003,18 +4003,18 @@ Lines added: 957, lines removed: 1
 + ### SECTION 9: FINAL CTA
 + 
 + **Headline:**
-+ &quot;Ready to Stop Wasting Time on Manual Work?&quot;
++ "Ready to Stop Wasting Time on Manual Work?"
 + 
 + **Subheadline:**
-+ &quot;Get your free audit and discover your automation opportunities—in just 5 minutes.&quot;
++ "Get your free audit and discover your automation opportunities—in just 5 minutes."
 + 
 + **CTA Button:**
-+ &quot;Get My Free Audit →&quot; [Scroll to form]
++ "Get My Free Audit →" [Scroll to form]
 + 
 + **Exit Intent Popup:** (When user moves to leave)
-+ &quot;Wait! Before you go...&quot;
-+ &quot;Get your free audit and discover how much time you could be saving.&quot;
-+ [Quick form: Name, Email, Company → &quot;Send My Audit&quot;]
++ "Wait! Before you go..."
++ "Get your free audit and discover how much time you could be saving."
++ [Quick form: Name, Email, Company → "Send My Audit"]
 + 
 + ---
 + 
@@ -4039,13 +4039,13 @@ Lines added: 957, lines removed: 1
 + ### HERO SECTION
 + 
 + **Pre-Headline:**
-+ &quot;Learn to Build AI Automations That Save 10+ Hours Per Week&quot;
++ "Learn to Build AI Automations That Save 10+ Hours Per Week"
 + 
 + **Headline (H1):**
-+ &quot;From Manual Chaos to Automated Growth in 30 Days&quot;
++ "From Manual Chaos to Automated Growth in 30 Days"
 + 
 + **Subheadline:**
-+ &quot;The step-by-step system to automate your business—without coding, tech teams, or six-figure budgets. Used by 1,000+ entrepreneurs and professionals.&quot;
++ "The step-by-step system to automate your business—without coding, tech teams, or six-figure budgets. Used by 1,000+ entrepreneurs and professionals."
 + 
 + **Hero Image:**
 + Course dashboard preview or student success montage
@@ -4055,18 +4055,18 @@ Lines added: 957, lines removed: 1
 + or 3 payments of $179
 + 
 + **CTA Buttons:**
-+ - Primary: &quot;Enroll Now →&quot;
-+ - Secondary: &quot;Watch Free Preview&quot;
++ - Primary: "Enroll Now →"
++ - Secondary: "Watch Free Preview"
 + 
 + **Trust Bar:**
-+ &quot;⭐⭐⭐⭐⭐ 4.9/5 from 347 students  |  30-Day Money-Back Guarantee  |  Lifetime Access&quot;
++ "⭐⭐⭐⭐⭐ 4.9/5 from 347 students  |  30-Day Money-Back Guarantee  |  Lifetime Access"
 + 
 + ---
 + 
 + ### SECTION 2: THE PROBLEM (Agitate)
 + 
 + **Headline:**
-+ &quot;You&#39;re Working Too Hard For Too Little Growth&quot;
++ "You're Working Too Hard For Too Little Growth"
 + 
 + **Video or Text:**
 + 
@@ -4074,13 +4074,13 @@ Lines added: 957, lines removed: 1
 + 
 + → Working 50-60 hour weeks, but half of it is busywork
 + → Spending hours on email follow-ups, data entry, reporting
-+ → Turning down opportunities because you&#39;re at capacity
-+ → Watching competitors scale while you&#39;re stuck
++ → Turning down opportunities because you're at capacity
++ → Watching competitors scale while you're stuck
 + → Knowing AI could help, but overwhelmed by where to start
 + 
-+ The truth? **You don&#39;t have a growth problem. You have an efficiency problem.**
++ The truth? **You don't have a growth problem. You have an efficiency problem.**
 + 
-+ And AI automation is the solution you&#39;ve been looking for.
++ And AI automation is the solution you've been looking for.
 + 
 + **Visual:** Stressed person at laptop with cluttered workspace
 + 
@@ -4089,7 +4089,7 @@ Lines added: 957, lines removed: 1
 + ### SECTION 3: THE TRANSFORMATION
 + 
 + **Headline:**
-+ &quot;What If You Could Automate 80% of Your Repetitive Work?&quot;
++ "What If You Could Automate 80% of Your Repetitive Work?"
 + 
 + **Split Screen Before/After:**
 + 
@@ -4111,10 +4111,10 @@ Lines added: 957, lines removed: 1
 + 
 + ---
 + 
-+ ### SECTION 4: WHAT YOU&#39;LL LEARN
++ ### SECTION 4: WHAT YOU'LL LEARN
 + 
 + **Headline:**
-+ &quot;Everything You Need to Automate Your Business (Even If You&#39;re Not Technical)&quot;
++ "Everything You Need to Automate Your Business (Even If You're Not Technical)"
 + 
 + **Module Breakdown:**
 + 
@@ -4155,7 +4155,7 @@ Lines added: 957, lines removed: 1
 + ### SECTION 5: COURSE FEATURES
 + 
 + **Headline:**
-+ &quot;Not Just Another Course—A Complete Transformation System&quot;
++ "Not Just Another Course—A Complete Transformation System"
 + 
 + **6 Boxes/Cards:**
 + 
@@ -4175,26 +4175,26 @@ Lines added: 957, lines removed: 1
 + Build real automations for YOUR business as you learn
 + 
 + 🏆 **Certificate of Completion**
-+ Show employers and clients you&#39;re AI automation certified
++ Show employers and clients you're AI automation certified
 + 
 + ---
 + 
 + ### SECTION 6: WHO IS THIS FOR?
 + 
 + **Headline:**
-+ &quot;Is This Course Right for You?&quot;
++ "Is This Course Right for You?"
 + 
 + **✅ This Course Is Perfect If You:**
 + - Are drowning in repetitive tasks and manual work
 + - Want to scale your business without hiring
-+ - Are curious about AI but don&#39;t know where to start
-+ - Don&#39;t have technical or coding background
++ - Are curious about AI but don't know where to start
++ - Don't have technical or coding background
 + - Want practical, actionable results (not theory)
 + - Are willing to invest 5-10 hours over 30 days
 + 
 + **❌ This Course Is NOT For You If:**
-+ - You&#39;re looking for a magic &quot;done-for-you&quot; solution
-+ - You&#39;re not willing to implement what you learn
++ - You're looking for a magic "done-for-you" solution
++ - You're not willing to implement what you learn
 + - You already have a dedicated automation team
 + - You expect results without any effort
 + 
@@ -4203,14 +4203,14 @@ Lines added: 957, lines removed: 1
 + ### SECTION 7: INSTRUCTOR
 + 
 + **Headline:**
-+ &quot;Meet Your Instructor&quot;
++ "Meet Your Instructor"
 + 
 + **Photo + Bio:**
 + 
 + **[Your Name]**
 + *AI Automation Expert &amp; Founder of [Company]*
 + 
-+ I&#39;ve spent the last 5 years helping 500+ businesses automate their operations—from solopreneurs to $50M companies.
++ I've spent the last 5 years helping 500+ businesses automate their operations—from solopreneurs to $50M companies.
 + 
 + My background:
 + → Implemented automation for 300+ companies
@@ -4218,9 +4218,9 @@ Lines added: 957, lines removed: 1
 + → Featured in [Publications]
 + → Speaker at [Conferences]
 + 
-+ But I didn&#39;t start as an &quot;expert.&quot;
++ But I didn't start as an "expert."
 + 
-+ 5 years ago, I was working 70-hour weeks, burning out, and watching my business stagnate. I discovered automation and got 20+ hours back every week. My business 3x&#39;d in 12 months.
++ 5 years ago, I was working 70-hour weeks, burning out, and watching my business stagnate. I discovered automation and got 20+ hours back every week. My business 3x'd in 12 months.
 + 
 + Now I help others do the same. This course is everything I wish I had when I started.
 + 
@@ -4229,22 +4229,22 @@ Lines added: 957, lines removed: 1
 + ### SECTION 8: SOCIAL PROOF
 + 
 + **Headline:**
-+ &quot;Join 1,000+ Students Getting Real Results&quot;
++ "Join 1,000+ Students Getting Real Results"
 + 
 + **Video Testimonials (3-4) or Text Testimonials (6-8):**
 + 
 + **Testimonial 1:**
-+ &quot;I was skeptical—another online course? But within Week 1, I&#39;d automated my email follow-ups and saved 6 hours. By Week 4, I&#39;d automated my entire client onboarding. ROI was 20x.&quot;
++ "I was skeptical—another online course? But within Week 1, I'd automated my email follow-ups and saved 6 hours. By Week 4, I'd automated my entire client onboarding. ROI was 20x."
 + ⭐⭐⭐⭐⭐
 + — Marcus T., Marketing Consultant
 + 
 + **Testimonial 2:**
-+ &quot;As someone with zero technical skills, I was nervous. But [Instructor] makes it SO simple. I automated processes I didn&#39;t even know were possible. Best $497 I&#39;ve ever spent.&quot;
++ "As someone with zero technical skills, I was nervous. But [Instructor] makes it SO simple. I automated processes I didn't even know were possible. Best $497 I've ever spent."
 + ⭐⭐⭐⭐⭐
 + — Jennifer L., Small Business Owner
 + 
 + **Testimonial 3:**
-+ &quot;The templates alone are worth 10x the course price. I&#39;ve used 12 of them and saved my company $30K in the first 6 months.&quot;
++ "The templates alone are worth 10x the course price. I've used 12 of them and saved my company $30K in the first 6 months."
 + ⭐⭐⭐⭐⭐
 + — David K., Operations Manager
 + 
@@ -4259,7 +4259,7 @@ Lines added: 957, lines removed: 1
 + ### SECTION 9: BONUSES
 + 
 + **Headline:**
-+ &quot;Enroll Today and Get These Bonuses (Worth $1,200)&quot;
++ "Enroll Today and Get These Bonuses (Worth $1,200)"
 + 
 + **Bonus #1:** 50 ChatGPT Business Prompts Library ($197 value)
 + Ready-to-use prompts for every business function
@@ -4283,15 +4283,15 @@ Lines added: 957, lines removed: 1
 + ### SECTION 10: GUARANTEE
 + 
 + **Headline:**
-+ &quot;Your 30-Day &quot;Results or Refund&quot; Guarantee&quot;
++ "Your 30-Day "Results or Refund" Guarantee"
 + 
-+ **Badge Image:** &quot;30-Day Money-Back Guarantee&quot;
++ **Badge Image:** "30-Day Money-Back Guarantee"
 + 
-+ Here&#39;s the deal:
++ Here's the deal:
 + 
 + Enroll in the course. Go through the material. Implement the automations.
 + 
-+ If you don&#39;t save at LEAST 10 hours in your first 30 days, email us and we&#39;ll refund 100% of your money. No questions asked.
++ If you don't save at LEAST 10 hours in your first 30 days, email us and we'll refund 100% of your money. No questions asked.
 + 
 + You have nothing to lose and 10+ hours per week to gain.
 + 
@@ -4311,8 +4311,8 @@ Lines added: 957, lines removed: 1
 + **Q: Is there support?**
 + A: Yes! Access to private community, weekly live Q&amp;A, and email support.
 + 
-+ **Q: What if I&#39;m not technical?**
-+ A: That&#39;s exactly who this course is for! We explain everything in plain English with visual examples.
++ **Q: What if I'm not technical?**
++ A: That's exactly who this course is for! We explain everything in plain English with visual examples.
 + 
 + **Q: Can I get a refund?**
 + A: Yes, 30-day money-back guarantee. No risk.
@@ -4322,7 +4322,7 @@ Lines added: 957, lines removed: 1
 + ### SECTION 12: PRICING &amp; CTA
 + 
 + **Headline:**
-+ &quot;Start Automating Your Business Today&quot;
++ "Start Automating Your Business Today"
 + 
 + **Pricing Options:**
 + 
@@ -4341,10 +4341,10 @@ Lines added: 957, lines removed: 1
 + ✓ Flexible payments
 + 
 + **CTA Button (Large):**
-+ &quot;Enroll Now →&quot;
++ "Enroll Now →"
 + 
 + **Under Button:**
-+ &quot;30-Day Money-Back Guarantee | Secure Checkout | Instant Access&quot;
++ "30-Day Money-Back Guarantee | Secure Checkout | Instant Access"
 + 
 + **Trust Badges:** Payment logos (Stripe, PayPal, etc.)
 + 
@@ -4353,16 +4353,16 @@ Lines added: 957, lines removed: 1
 + ### SECTION 13: URGENCY
 + 
 + **Countdown Timer:**
-+ &quot;⏰ Special pricing ends in: [Timer]&quot;
++ "⏰ Special pricing ends in: [Timer]"
 + 
-+ &quot;Price increases to $997 in [X days]. Enroll now and lock in the founder&#39;s rate.&quot;
++ "Price increases to $997 in [X days]. Enroll now and lock in the founder's rate."
 + 
 + ---
 + 
 + ### SECTION 14: FINAL CTA
 + 
 + **Headline:**
-+ &quot;The Question Isn&#39;t IF You Should Automate... It&#39;s When.&quot;
++ "The Question Isn't IF You Should Automate... It's When."
 + 
 + **Text:**
 + Every week you wait is another week of:
@@ -4376,7 +4376,7 @@ Lines added: 957, lines removed: 1
 + The choice is yours.
 + 
 + **CTA Button:**
-+ &quot;Start Your Automation Journey →&quot;
++ "Start Your Automation Journey →"
 + 
 + ---
 + 
@@ -4390,51 +4390,51 @@ Lines added: 957, lines removed: 1
 + ### HERO SECTION
 + 
 + **Pre-Headline:**
-+ &quot;Done-For-You AI Automation Implementation&quot;
++ "Done-For-You AI Automation Implementation"
 + 
 + **Headline (H1):**
-+ &quot;We&#39;ll Automate Your Business in 30 Days—Guaranteed&quot;
++ "We'll Automate Your Business in 30 Days—Guaranteed"
 + 
 + **Subheadline:**
-+ &quot;Stop wasting time on repetitive tasks. Our team builds, implements, and optimizes AI automations tailored to your business—while you focus on growth.&quot;
++ "Stop wasting time on repetitive tasks. Our team builds, implements, and optimizes AI automations tailored to your business—while you focus on growth."
 + 
 + **Hero Image/Video:**
 + Team working + automation dashboard
 + 
 + **CTA Buttons:**
-+ - Primary: &quot;Book Free Strategy Call&quot;
-+ - Secondary: &quot;See Case Studies&quot;
++ - Primary: "Book Free Strategy Call"
++ - Secondary: "See Case Studies"
 + 
 + **Trust Bar:**
-+ &quot;✓ 300+ Businesses Automated  ✓ Average 40% Cost Reduction  ✓ Results in 30 Days&quot;
++ "✓ 300+ Businesses Automated  ✓ Average 40% Cost Reduction  ✓ Results in 30 Days"
 + 
 + ---
 + 
 + ### SECTION 2: THE PROBLEM
 + 
 + **Headline:**
-+ &quot;You Know You Need Automation... But Don&#39;t Have Time to Figure It Out&quot;
++ "You Know You Need Automation... But Don't Have Time to Figure It Out"
 + 
 + **3 Pain Points:**
 + 
 + ⏰ **Too Busy to Learn**
-+ You don&#39;t have 50 hours to watch tutorials and figure out which tools to use.
++ You don't have 50 hours to watch tutorials and figure out which tools to use.
 + 
 + 🤷 **Overwhelmed by Options**
 + There are 1,000+ AI tools. Which ones actually work for YOUR business?
 + 
 + 😰 **Tried and Failed Before**
-+ You&#39;ve attempted automation yourself or hired freelancers. It didn&#39;t work.
++ You've attempted automation yourself or hired freelancers. It didn't work.
 + 
 + **Bold Text:**
-+ &quot;What if you could just hand this off to experts and get results in 30 days?&quot;
++ "What if you could just hand this off to experts and get results in 30 days?"
 + 
 + ---
 + 
 + ### SECTION 3: THE SOLUTION
 + 
 + **Headline:**
-+ &quot;Done-For-You AI Automation—From Strategy to Implementation&quot;
++ "Done-For-You AI Automation—From Strategy to Implementation"
 + 
 + **What We Do:**
 + 
@@ -4463,7 +4463,7 @@ Lines added: 957, lines removed: 1
 + ### SECTION 4: WHAT WE AUTOMATE
 + 
 + **Headline:**
-+ &quot;We Automate the Work That&#39;s Holding You Back&quot;
++ "We Automate the Work That's Holding You Back"
 + 
 + **Sales &amp; CRM:**
 + • Lead capture and qualification
@@ -4500,10 +4500,10 @@ Lines added: 957, lines removed: 1
 + ### SECTION 5: OUR PROCESS
 + 
 + **Headline:**
-+ &quot;A Proven Process, Perfected Over 300+ Projects&quot;
++ "A Proven Process, Perfected Over 300+ Projects"
 + 
 + **Step 1: Free Strategy Call (30 min)**
-+ We discuss your challenges, goals, and what&#39;s possible
++ We discuss your challenges, goals, and what's possible
 + 
 + **Step 2: Custom Proposal (48 hours)**
 + Detailed plan with timeline, tools, and pricing
@@ -4525,7 +4525,7 @@ Lines added: 957, lines removed: 1
 + ### SECTION 6: CASE STUDIES
 + 
 + **Headline:**
-+ &quot;Real Results from Real Businesses&quot;
++ "Real Results from Real Businesses"
 + 
 + **Case Study 1: SaaS Company**
 + **Challenge:** Manual customer onboarding taking 8 hours per customer
@@ -4554,14 +4554,14 @@ Lines added: 957, lines removed: 1
 + • Revenue increase: +25% (better inventory management)
 + • Implementation: 4 weeks
 + 
-+ **CTA:** &quot;See More Case Studies →&quot;
++ **CTA:** "See More Case Studies →"
 + 
 + ---
 + 
 + ### SECTION 7: WHY US
 + 
 + **Headline:**
-+ &quot;Why Choose Us Over Freelancers or Agencies?&quot;
++ "Why Choose Us Over Freelancers or Agencies?"
 + 
 + **Comparison Table:**
 + 
@@ -4586,7 +4586,7 @@ Lines added: 957, lines removed: 1
 + ### SECTION 8: PACKAGES &amp; PRICING
 + 
 + **Headline:**
-+ &quot;Choose Your Service Level&quot;
++ "Choose Your Service Level"
 + 
 + **Package 1: Quick Wins**
 + **$5,000**
@@ -4603,7 +4603,7 @@ Lines added: 957, lines removed: 1
 + • CRM updates
 + • Report generation
 + 
-+ **CTA:** &quot;Get Started →&quot;
++ **CTA:** "Get Started →"
 + 
 + ---
 + 
@@ -4623,7 +4623,7 @@ Lines added: 957, lines removed: 1
 + • Marketing automation
 + • Customer success
 + 
-+ **CTA:** &quot;Book Strategy Call →&quot; [MOST POPULAR badge]
++ **CTA:** "Book Strategy Call →" [MOST POPULAR badge]
 + 
 + ---
 + 
@@ -4641,25 +4641,25 @@ Lines added: 957, lines removed: 1
 + 
 + **For:** Growing companies and enterprises
 + 
-+ **CTA:** &quot;Schedule Consultation →&quot;
++ **CTA:** "Schedule Consultation →"
 + 
 + ---
 + 
 + **Not sure which package?**
-+ &quot;Book a free strategy call and we&#39;ll recommend the best fit →&quot;
++ "Book a free strategy call and we'll recommend the best fit →"
 + 
 + ---
 + 
 + ### SECTION 9: GUARANTEE
 + 
 + **Headline:**
-+ &quot;Our Results Guarantee&quot;
++ "Our Results Guarantee"
 + 
-+ **Badge:** &quot;Results or We Keep Working—Free&quot;
++ **Badge:** "Results or We Keep Working—Free"
 + 
-+ If you don&#39;t see measurable ROI within 90 days, we&#39;ll continue optimizing your automations at no additional cost until you do.
++ If you don't see measurable ROI within 90 days, we'll continue optimizing your automations at no additional cost until you do.
 + 
-+ We stand behind our work because we&#39;ve done this 300+ times. It works.
++ We stand behind our work because we've done this 300+ times. It works.
 + 
 + ---
 + 
@@ -4672,10 +4672,10 @@ Lines added: 957, lines removed: 1
 + A: Just access to your tools and a point of contact. We handle the rest.
 + 
 + **Q: What if our business is complex?**
-+ A: We specialize in complex operations. We&#39;ve worked across 30+ industries.
++ A: We specialize in complex operations. We've worked across 30+ industries.
 + 
 + **Q: What tools do you use?**
-+ A: We&#39;re tool-agnostic—we use what&#39;s best for your situation. Often a mix of Make, Zapier, n8n, custom APIs, and AI tools.
++ A: We're tool-agnostic—we use what's best for your situation. Often a mix of Make, Zapier, n8n, custom APIs, and AI tools.
 + 
 + **Q: What if something breaks?**
 + A: Support is included. We respond within 24 hours and fix any issues.
@@ -4688,7 +4688,7 @@ Lines added: 957, lines removed: 1
 + ### SECTION 11: TESTIMONIALS
 + 
 + **Headline:**
-+ &quot;What Our Clients Say&quot;
++ "What Our Clients Say"
 + 
 + **6-8 Text Testimonials + Photos + Company Logos**
 + 
@@ -4699,38 +4699,38 @@ Lines added: 957, lines removed: 1
 + ### SECTION 12: FINAL CTA
 + 
 + **Headline:**
-+ &quot;Stop Wasting Time. Start Scaling.&quot;
++ "Stop Wasting Time. Start Scaling."
 + 
 + **Subheadline:**
-+ &quot;Book a free 30-minute strategy call. We&#39;ll show you exactly what&#39;s possible for your business—no obligation.&quot;
++ "Book a free 30-minute strategy call. We'll show you exactly what's possible for your business—no obligation."
 + 
 + **Two-Step CTA:**
 + 
-+ **Step 1:** Calendar embedded or &quot;See Available Times →&quot;
++ **Step 1:** Calendar embedded or "See Available Times →"
 + 
 + **Step 2:** Simple form (Name, Email, Company, Phone)
 + 
 + **What Happens Next:**
 + 1. Book your call (takes 30 seconds)
-+ 2. We&#39;ll send prep questions (5 minutes to complete)
++ 2. We'll send prep questions (5 minutes to complete)
 + 3. Strategy call (30 minutes, no sales pressure)
-+ 4. Custom proposal within 48 hours (only if it&#39;s a fit)
++ 4. Custom proposal within 48 hours (only if it's a fit)
 + 
 + **Trust Footer:**
-+ &quot;✓ No obligation  ✓ No sales pressure  ✓ Just honest advice&quot;
++ "✓ No obligation  ✓ No sales pressure  ✓ Just honest advice"
 + 
 + ---
 + 
 + ### EXIT INTENT POPUP
 + 
-+ **Headline:** &quot;Wait! Before You Go...&quot;
++ **Headline:** "Wait! Before You Go..."
 + 
 + **Text:**
-+ &quot;Get our free guide: &#39;10 Processes You Should Automate First (And How to Calculate ROI)&#39;&quot;
++ "Get our free guide: '10 Processes You Should Automate First (And How to Calculate ROI)'"
 + 
 + **Quick Form:** Name + Email
 + 
-+ **CTA:** &quot;Send Me the Guide&quot;
++ **CTA:** "Send Me the Guide"
 + 
 + ---
 + 
@@ -4755,7 +4755,7 @@ Now let me create the final section with immediate actions and update your audit
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: 09-Immediate-Actions-Today/action-plan.md</summary>
+<details><summary>Tool use: **write** • Edit file: 09-Immediate-Actions-Today/action-plan.md</summary>
 
 **Chunk 1**
 Lines added: 434, lines removed: 1
@@ -4773,7 +4773,7 @@ Lines added: 434, lines removed: 1
 + 
 + ### What to Do:
 + 1. **Update Headline** (use one from the materials):
-+    - &quot;I help businesses automate with AI | Cut costs 40% | Results in 30 days&quot;
++    - "I help businesses automate with AI | Cut costs 40% | Results in 30 days"
 + 
 + 2. **Rewrite About Section** (3 paragraphs):
 +    - Para 1: Who you help and the transformation you deliver
@@ -4800,7 +4800,7 @@ Lines added: 434, lines removed: 1
 + ## ✅ TASK 2: Create Your Lead Magnet Outline (45 minutes)
 + 
 + ### What to Create:
-+ **&quot;The AI Automation Opportunity Audit&quot;**
++ **"The AI Automation Opportunity Audit"**
 + 
 + ### Outline:
 + 1. **Cover Page**: Title + Your branding
@@ -4816,8 +4816,8 @@ Lines added: 434, lines removed: 1
 + - ChatGPT (for content generation)
 + - Google Docs (for structure)
 + 
-+ ### Today&#39;s Goal:
-+ Create the outline and write Section 1. You&#39;ll finish the rest over the next few days.
++ ### Today's Goal:
++ Create the outline and write Section 1. You'll finish the rest over the next few days.
 + 
 + **Time: 45 minutes**
 + 
@@ -4832,7 +4832,7 @@ Lines added: 434, lines removed: 1
 + **Why**: High engagement, positions you as expert, starts conversations
 + 
 + ### Steps:
-+ 1. Open the &quot;10-post-ideas.md&quot; file
++ 1. Open the "10-post-ideas.md" file
 + 2. Select Post #2
 + 3. Customize with your brand voice
 + 4. Add your own example if possible
@@ -4853,15 +4853,15 @@ Lines added: 434, lines removed: 1
 + ### Steps:
 + 1. Create account
 + 2. Verify domain (optional for today)
-+ 3. Create first email list: &quot;AI Automation Leads&quot;
++ 3. Create first email list: "AI Automation Leads"
 + 4. Set up welcome email template (simple intro)
 + 5. Create signup form for website
 + 
 + ### What the Welcome Email Should Say:
-+ - Subject: &quot;Here&#39;s your [Lead Magnet Name]&quot;
++ - Subject: "Here's your [Lead Magnet Name]"
 + - Body:
 +   - Thanks for downloading
-+   - Here&#39;s the link
++   - Here's the link
 +   - Quick intro to who you are
 +   - What they can expect (1 email per week)
 +   - P.S. with additional resource or question
@@ -4886,7 +4886,7 @@ Lines added: 434, lines removed: 1
 + - Timeframe
 + - Client quote (if available)
 + 
-+ ### If You Don&#39;t Have Case Studies Yet:
++ ### If You Don't Have Case Studies Yet:
 + Document your OWN automation journey:
 + - What you automated
 + - How you did it
@@ -4912,13 +4912,13 @@ Lines added: 434, lines removed: 1
 + &#96;&#96;&#96;
 + Hey [Name],
 + 
-+ Hope you&#39;re doing well! Quick question—
++ Hope you're doing well! Quick question—
 + 
 + How much time would you estimate your team spends on repetitive tasks like [data entry/reporting/follow-ups] each week?
 + 
-+ I&#39;ve been helping businesses automate stuff like this and curious if it&#39;s something on your radar.
++ I've been helping businesses automate stuff like this and curious if it's something on your radar.
 + 
-+ Either way, hope business is great. Let&#39;s catch up soon!
++ Either way, hope business is great. Let's catch up soon!
 + 
 + [Your Name]
 + &#96;&#96;&#96;
@@ -4952,7 +4952,7 @@ Lines added: 434, lines removed: 1
 + - Day 7: Weekend resource drop
 + 
 + ### Goal:
-+ Never wonder &quot;what should I post today?&quot;
++ Never wonder "what should I post today?"
 + 
 + **Time: 30 minutes**
 + 
@@ -5003,7 +5003,7 @@ Lines added: 434, lines removed: 1
 + 
 + ### Steps:
 + 1. Create Calendly account (free)
-+ 2. Set up &quot;Strategy Call&quot; event (30 min)
++ 2. Set up "Strategy Call" event (30 min)
 + 3. Add to your:
 +    - LinkedIn headline
 +    - LinkedIn About section
@@ -5014,9 +5014,9 @@ Lines added: 434, lines removed: 1
 + - Buffer time: 15 min between calls
 + - Limit: 2 per day max
 + - Questions to ask:
-+   - What&#39;s your biggest operational challenge?
-+   - What&#39;s your company size?
-+   - What&#39;s your monthly revenue/budget?
++   - What's your biggest operational challenge?
++   - What's your company size?
++   - What's your monthly revenue/budget?
 +   - What prompted you to book this call?
 + 
 + ### Goal:
@@ -5033,7 +5033,7 @@ Lines added: 434, lines removed: 1
 + **For Entrepreneurs:**
 + - Indie Hackers
 + - r/Entrepreneur (Reddit)
-+ - Founders&#39; Slack/Discord groups
++ - Founders' Slack/Discord groups
 + 
 + **For SME Leaders:**
 + - Industry-specific LinkedIn Groups
@@ -5041,13 +5041,13 @@ Lines added: 434, lines removed: 1
 + - SaaS communities
 + 
 + **For Your Specific Niche:**
-+ - Search &quot;AI automation&quot; + your industry on LinkedIn
++ - Search "AI automation" + your industry on LinkedIn
 + - Find and join relevant groups
 + 
 + ### What to Do Today:
 + - Join 3 communities
 + - Introduce yourself briefly
-+ - DON&#39;T sell—just be helpful
++ - DON'T sell—just be helpful
 + - Comment on 3-5 posts to start building presence
 + 
 + ### Goal:
@@ -5089,7 +5089,7 @@ Lines added: 434, lines removed: 1
 + - [ ] Finish lead magnet content
 + - [ ] Post educational content (from content ideas)
 + - [ ] Engage on LinkedIn (30 min)
-+ - [ ] Respond to any messages from today&#39;s outreach
++ - [ ] Respond to any messages from today's outreach
 + 
 + ### Day 3:
 + - [ ] Design lead magnet in Canva
@@ -5110,13 +5110,13 @@ Lines added: 434, lines removed: 1
 + - [ ] Engage on LinkedIn (30 min)
 + 
 + ### Day 6:
-+ - [ ] Plan next week&#39;s content
++ - [ ] Plan next week's content
 + - [ ] Respond to all emails and DMs
 + - [ ] Post question/engagement post
 + - [ ] Engage on LinkedIn (30 min)
 + 
 + ### Day 7:
-+ - [ ] Weekly review: what worked, what didn&#39;t
++ - [ ] Weekly review: what worked, what didn't
 + - [ ] Post weekend resource drop
 + - [ ] Batch create content for Week 2
 + - [ ] Plan any strategy calls for Week 2
@@ -5144,7 +5144,7 @@ Lines added: 434, lines removed: 1
 + - 200 email subscribers
 + 
 + **Week 4:** Optimization &amp; Scale
-+ - Analyze what&#39;s working
++ - Analyze what's working
 + - Double down on best channels
 + - First clients closed
 + - 500+ email subscribers
@@ -5153,7 +5153,7 @@ Lines added: 434, lines removed: 1
 + 
 + ## 💡 PRODUCTIVITY TIPS FOR TODAY
 + 
-+ 1. **Use Time Blocks**: Set timer for each task, don&#39;t let it bleed over
++ 1. **Use Time Blocks**: Set timer for each task, don't let it bleed over
 + 2. **Eliminate Distractions**: Close all tabs, phone on silent
 + 3. **Use AI to Speed Up**: ChatGPT can draft most of your content
 + 4. **Done &gt; Perfect**: Ship it today, improve it tomorrow
@@ -5163,11 +5163,11 @@ Lines added: 434, lines removed: 1
 + 
 + ## 🚨 COMMON PITFALLS TO AVOID
 + 
-+ ❌ **Perfectionism**: Don&#39;t spend 3 hours on one post. Ship it.
++ ❌ **Perfectionism**: Don't spend 3 hours on one post. Ship it.
 + ❌ **Over-research**: You have enough info. Execute now.
-+ ❌ **Shiny Object**: Don&#39;t explore new tools today. Use what you know.
++ ❌ **Shiny Object**: Don't explore new tools today. Use what you know.
 + ❌ **Analysis Paralysis**: Pick one option and go with it.
-+ ❌ **Waiting**: Don&#39;t wait for &quot;the right time.&quot; Today is the right time.
++ ❌ **Waiting**: Don't wait for "the right time." Today is the right time.
 + 
 + ---
 + 
@@ -5175,13 +5175,13 @@ Lines added: 434, lines removed: 1
 + 
 + You have everything you need to start building your marketing engine TODAY.
 + 
-+ This isn&#39;t theory. These are proven tactics that have worked for hundreds of businesses.
++ This isn't theory. These are proven tactics that have worked for hundreds of businesses.
 + 
 + The difference between you and your competitors 30 days from now?
 + 
 + **You took action today.**
 + 
-+ Let&#39;s go. 💪
++ Let's go. 💪
 + 
 + ---
 + 
@@ -5190,7 +5190,7 @@ Lines added: 434, lines removed: 1
 + If you get stuck on any task:
 + 1. Use ChatGPT to help draft/brainstorm
 + 2. Check the other folders in this marketing plan for details
-+ 3. Google &quot;[task] tutorial&quot; for step-by-step help
++ 3. Google "[task] tutorial" for step-by-step help
 + 4. Keep it simple and ship it
 + 
 + **Remember**: Imperfect action beats perfect inaction every single time.
@@ -5207,7 +5207,7 @@ Lines added: 434, lines removed: 1
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: 01-Quick-Audit/audit-findings.md</summary>
+<details><summary>Tool use: **write** • Edit file: 01-Quick-Audit/audit-findings.md</summary>
 
 **Chunk 1**
 Lines added: 413, lines removed: 1
@@ -5229,14 +5229,14 @@ Lines added: 413, lines removed: 1
 + 
 + ## Current State Analysis (Based on GitHub Repos)
 + 
-+ ### What You&#39;re Building (Repository Analysis)
++ ### What You're Building (Repository Analysis)
 + 
-+ Based on your GitHub organization, here&#39;s what I found:
++ Based on your GitHub organization, here's what I found:
 + 
 + #### 1. **work-hours-automated-reports** (Python)
 + - **What it is**: Automation for fetching, matching, and reporting work hours from Clockify and Azure DevOps
 + - **Marketing angle**: Perfect case study/demo of your automation capabilities
-+ - **Content opportunity**: &quot;How we automated our own time tracking&quot; blog post/video
++ - **Content opportunity**: "How we automated our own time tracking" blog post/video
 + 
 + #### 2. **AI-Whisperers-Website** (TypeScript)
 + - **What it is**: Your main website
@@ -5251,7 +5251,7 @@ Lines added: 413, lines removed: 1
 + #### 4. **yt-transcript-headless** (TypeScript)
 + - **What it is**: YouTube transcript extraction tool
 + - **Marketing angle**: Great lead magnet or free tool
-+ - **Content opportunity**: &quot;How to extract YouTube transcripts with AI&quot; tutorial
++ - **Content opportunity**: "How to extract YouTube transcripts with AI" tutorial
 + 
 + #### 5. **agentic-schemas** (JavaScript)
 + - **What it is**: Likely AI agent/automation schemas
@@ -5259,7 +5259,7 @@ Lines added: 413, lines removed: 1
 + - **Content opportunity**: Thought leadership on AI agents
 + 
 + #### 6. Client Projects: **Taller_Ocampos**, **WPG-Amenities**
-+ - **What they show**: You&#39;re doing client work
++ - **What they show**: You're doing client work
 + - **Marketing action**: Document these as case studies (with client permission)
 + 
 + ---
@@ -5288,7 +5288,7 @@ Lines added: 413, lines removed: 1
 + ### Critical Gaps:
 + 
 + #### 1. **Marketing Presence**
-+ **Problem**: Can&#39;t assess your current LinkedIn/website effectiveness without access
++ **Problem**: Can't assess your current LinkedIn/website effectiveness without access
 + **Action needed**: 
 + - Share LinkedIn profile URL for audit
 + - Share website URL for audit
@@ -5298,14 +5298,14 @@ Lines added: 413, lines removed: 1
 + **Problem**: No visible content strategy
 + **Opportunity**: 
 + - Turn your GitHub projects into content
-+ - &quot;Building in public&quot; approach
++ - "Building in public" approach
 + - Technical tutorials driving top-of-funnel traffic
 + 
 + #### 3. **Lead Generation**
 + **Problem**: No clear lead magnets or tools visible
 + **Opportunity**: 
 + - Package yt-transcript-headless as free tool
-+ - Create &quot;AI Automation Starter Kit&quot;
++ - Create "AI Automation Starter Kit"
 + - Offer free audits/assessments
 + 
 + #### 4. **Case Studies**
@@ -5328,15 +5328,15 @@ Lines added: 413, lines removed: 1
 + 
 + ### Your Unique Angle (Based on What I See):
 + 
-+ **&quot;Practitioners, Not Just Consultants&quot;**
++ **"Practitioners, Not Just Consultants"**
 + 
-+ You&#39;re not just talking about automation—you&#39;re building it:
++ You're not just talking about automation—you're building it:
 + - Public GitHub showing real work
 + - Own automation for your business
 + - Client implementations visible
 + 
 + **Marketing Message**: 
-+ &quot;We don&#39;t just teach automation—we build it every day. Here&#39;s our GitHub to prove it.&quot;
++ "We don't just teach automation—we build it every day. Here's our GitHub to prove it."
 + 
 + This is POWERFUL differentiation from typical consultants.
 + 
@@ -5346,35 +5346,35 @@ Lines added: 413, lines removed: 1
 + 
 + ### Immediate Content Opportunities:
 + 
-+ #### 1. **&quot;How We Automated Our Time Tracking&quot; Series**
++ #### 1. **"How We Automated Our Time Tracking" Series**
 + Source: work-hours-automated-reports
 + - Blog post with code snippets
 + - Video tutorial
 + - LinkedIn carousel showing the process
 + - Free template/guide as lead magnet
 + 
-+ #### 2. **&quot;Building in Public&quot; Series**
++ #### 2. **"Building in Public" Series**
 + Source: All repos
-+ - Weekly updates on what you&#39;re building
++ - Weekly updates on what you're building
 + - Lessons learned
 + - Behind-the-scenes of automation work
 + - Builds trust and authority
 + 
-+ #### 3. **&quot;Free Tools for AI Automation&quot;**
++ #### 3. **"Free Tools for AI Automation"**
 + Source: yt-transcript-headless
 + - Position as free utility
 + - Drive traffic to your site
 + - Capture emails in exchange for advanced features
 + - Demo your capabilities
 + 
-+ #### 4. **&quot;Client Success Stories&quot;**
++ #### 4. **"Client Success Stories"**
 + Source: Client repos
 + - Taller_Ocampos case study
 + - WPG-Amenities case study
 + - Document challenges → solutions → results
 + - Use for social proof
 + 
-+ #### 5. **&quot;Open Source AI Tools We Use&quot;**
++ #### 5. **"Open Source AI Tools We Use"**
 + Source: agentic-schemas
 + - Thought leadership content
 + - Share your frameworks
@@ -5388,16 +5388,16 @@ Lines added: 413, lines removed: 1
 + ### This Week:
 + 
 + #### 1. **LinkedIn Content Blitz**
-+ - Post about work-hours-automated-reports: &quot;How we saved 10 hours/week automating our time tracking&quot;
-+ - Share your GitHub: &quot;Want to see how AI automation really works? Check out our open-source projects&quot;
-+ - Behind-the-scenes: &quot;Building automation tools for clients. Here&#39;s what we&#39;re working on...&quot;
++ - Post about work-hours-automated-reports: "How we saved 10 hours/week automating our time tracking"
++ - Share your GitHub: "Want to see how AI automation really works? Check out our open-source projects"
++ - Behind-the-scenes: "Building automation tools for clients. Here's what we're working on..."
 + 
 + #### 2. **Free Tool Launch**
 + - Clean up yt-transcript-headless
 + - Add simple landing page
 + - Launch on Product Hunt
 + - Share across LinkedIn/Twitter
-+ - Capture emails for &quot;advanced features&quot;
++ - Capture emails for "advanced features"
 + 
 + #### 3. **Case Study Creation**
 + - Reach out to Taller_Ocampos and WPG-Amenities
@@ -5417,7 +5417,7 @@ Lines added: 413, lines removed: 1
 + ## Recommended Marketing Strategy (Specific to You)
 + 
 + ### Core Positioning:
-+ **&quot;The AI automation team that builds in public. Check our GitHub—we don&#39;t just talk, we ship.&quot;**
++ **"The AI automation team that builds in public. Check our GitHub—we don't just talk, we ship."**
 + 
 + ### Content Pillars:
 + 
@@ -5425,7 +5425,7 @@ Lines added: 413, lines removed: 1
 +    - Share code snippets
 +    - Explain how automations work
 +    - Show your GitHub activity
-+    - &quot;Building in public&quot; updates
++    - "Building in public" updates
 + 
 + 2. **Practical Results** (40%)
 +    - Client case studies
@@ -5538,7 +5538,7 @@ Lines added: 413, lines removed: 1
 + 
 + ### Week 1: Foundation
 + ✅ Optimize LinkedIn profiles (personal + company)
-+ ✅ Create lead magnet (&quot;AI Automation Audit&quot;)
++ ✅ Create lead magnet ("AI Automation Audit")
 + ✅ Document 2-3 case studies
 + ✅ Post daily on LinkedIn
 + ✅ Launch free tool (yt-transcript)
@@ -5556,7 +5556,7 @@ Lines added: 413, lines removed: 1
 + ✅ 100 email subscribers goal
 + 
 + ### Week 4: Optimization
-+ ✅ Analyze what&#39;s working
++ ✅ Analyze what's working
 + ✅ Double down on best channels
 + ✅ Close first clients
 + ✅ Plan month 2
@@ -5638,7 +5638,7 @@ Lines added: 413, lines removed: 1
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: README.md</summary>
+<details><summary>Tool use: **write** • Edit file: README.md</summary>
 
 **Chunk 1**
 Lines added: 218, lines removed: 1
@@ -5654,7 +5654,7 @@ Lines added: 218, lines removed: 1
 + 
 + ---
 + 
-+ ## 📁 What&#39;s Inside
++ ## 📁 What's Inside
 + 
 + ### **01-Quick-Audit**
 + - Current state assessment based on your GitHub repositories
@@ -5721,7 +5721,7 @@ Lines added: 218, lines removed: 1
 + Read &#96;01-Quick-Audit/audit-findings.md&#96; to understand your current state and opportunities specific to Ai-Whisperers.
 + 
 + ### **Step 3: Understand Your Audience**
-+ Study the ICPs in &#96;02-ICPs/&#96; to know exactly who you&#39;re targeting and what messages resonate.
++ Study the ICPs in &#96;02-ICPs/&#96; to know exactly who you're targeting and what messages resonate.
 + 
 + ### **Step 4: Implement the Funnel**
 + Follow the &#96;06-Full-Funnel-Plan/&#96; to build your complete marketing system from awareness to expansion.
@@ -5776,7 +5776,7 @@ Lines added: 218, lines removed: 1
 + 
 + ---
 + 
-+ ## 🛠️ Tools You&#39;ll Need (Starter Stack)
++ ## 🛠️ Tools You'll Need (Starter Stack)
 + 
 + **Essential** (&lt; $150/mo):
 + - ChatGPT Plus ($20) - Content creation
@@ -5796,7 +5796,7 @@ Lines added: 218, lines removed: 1
 + 
 + Based on your GitHub analysis:
 + 
-+ 1. **Your Unique Angle**: &quot;Practitioners who build in public&quot;
++ 1. **Your Unique Angle**: "Practitioners who build in public"
 +    - Show your GitHub repos as proof
 +    - Share behind-the-scenes of building automations
 +    - Position as transparent, technical experts
@@ -5809,7 +5809,7 @@ Lines added: 218, lines removed: 1
 + 3. **Differentiation**: Real technical credibility
 +    - Unlike typical consultants who just talk strategy
 +    - You build, you ship, you have proof
-+    - &quot;Check our GitHub—we don&#39;t just talk, we ship&quot;
++    - "Check our GitHub—we don't just talk, we ship"
 + 
 + ---
 + 
@@ -5817,7 +5817,7 @@ Lines added: 218, lines removed: 1
 + 
 + Refer back to the specific sections:
 + - **Need content ideas?** → &#96;08-Ready-to-Use-Materials/10-post-ideas.md&#96;
-+ - **Don&#39;t know what to say?** → &#96;05-Messaging-Pillars/messaging-framework.md&#96;
++ - **Don't know what to say?** → &#96;05-Messaging-Pillars/messaging-framework.md&#96;
 + - **Confused about channels?** → &#96;03-Marketing-Channels/channel-strategy.md&#96;
 + - **Need landing page copy?** → &#96;08-Ready-to-Use-Materials/landing-page-outlines.md&#96;
 + 
@@ -5827,7 +5827,7 @@ Lines added: 218, lines removed: 1
 + 
 + **Execute imperfectly today rather than planning perfectly tomorrow.**
 + 
-+ This strategy is comprehensive, but it&#39;s worthless if you don&#39;t take action.
++ This strategy is comprehensive, but it's worthless if you don't take action.
 + 
 + Start with &#96;09-Immediate-Actions-Today/action-plan.md&#96; RIGHT NOW.
 + 
@@ -5837,9 +5837,9 @@ Lines added: 218, lines removed: 1
 + 
 + ## 📈 Next Steps After 30 Days
 + 
-+ Once you&#39;ve completed the first 30 days:
++ Once you've completed the first 30 days:
 + 
-+ 1. Review what worked and what didn&#39;t
++ 1. Review what worked and what didn't
 + 2. Double down on highest-performing channels
 + 3. Expand content production
 + 4. Start paid acquisition (if needed)
@@ -5848,7 +5848,7 @@ Lines added: 218, lines removed: 1
 + 
 + ---
 + 
-+ ## 🎉 Let&#39;s Build This
++ ## 🎉 Let's Build This
 + 
 + You have the technical skills. You have the product. You have client experience.
 + 
@@ -5883,7 +5883,7 @@ Let me create one final bonus document with practical templates:
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: 08-Ready-to-Use-Materials/content-templates.md</summary>
+<details><summary>Tool use: **write** • Edit file: 08-Ready-to-Use-Materials/content-templates.md</summary>
 
 **Chunk 1**
 Lines added: 675, lines removed: 1
@@ -5906,7 +5906,7 @@ Lines added: 675, lines removed: 1
 + 
 + Today? [Positive outcome].
 + 
-+ Here&#39;s what changed:
++ Here's what changed:
 + 
 + Before:
 + • [Pain point 1]
@@ -5931,7 +5931,7 @@ Lines added: 675, lines removed: 1
 + &#96;&#96;&#96;
 + 
 + **Example**:
-+ &quot;3 months ago, Sarah was working 60-hour weeks and turning down clients. Today? 35-hour weeks and 2x revenue. Here&#39;s what changed...&quot;
++ "3 months ago, Sarah was working 60-hour weeks and turning down clients. Today? 35-hour weeks and 2x revenue. Here's what changed..."
 + 
 + ---
 + 
@@ -5945,7 +5945,7 @@ Lines added: 675, lines removed: 1
 + • [Alternative 2]
 + • [Alternative 3]
 + 
-+ What they DON&#39;T need:
++ What they DON'T need:
 + • [Common misconception 1]
 + • [Common misconception 2]
 + • [Common misconception 3]
@@ -5961,7 +5961,7 @@ Lines added: 675, lines removed: 1
 + &#96;&#96;&#96;
 + 
 + **Example**:
-+ &quot;Unpopular opinion: Most businesses don&#39;t need expensive AI consultants. What they need: 3-5 quick wins, simple documentation, 2 weeks of support...&quot;
++ "Unpopular opinion: Most businesses don't need expensive AI consultants. What they need: 3-5 quick wins, simple documentation, 2 weeks of support..."
 + 
 + ---
 + 
@@ -5990,7 +5990,7 @@ Lines added: 675, lines removed: 1
 + &#96;&#96;&#96;
 + 
 + **Example**:
-+ &quot;5 processes every business should automate (but most don&#39;t): 1. Email follow-ups → 80% of sales need 5+ touchpoints...&quot;
++ "5 processes every business should automate (but most don't): 1. Email follow-ups → 80% of sales need 5+ touchpoints..."
 + 
 + ---
 + 
@@ -6003,13 +6003,13 @@ Lines added: 675, lines removed: 1
 + 
 + [What actually happened]
 + 
-+ Why? Here&#39;s what [we/I] learned:
++ Why? Here's what [we/I] learned:
 + 
 + → [Lesson 1]
 + → [Lesson 2]
 + → [Lesson 3]
 + 
-+ What [we&#39;re/I&#39;m] changing:
++ What [we're/I'm] changing:
 + • [Change 1]
 + • [Change 2]
 + • [Change 3]
@@ -6020,7 +6020,7 @@ Lines added: 675, lines removed: 1
 + &#96;&#96;&#96;
 + 
 + **Example**:
-+ &quot;We just lost a $20K deal. Here&#39;s what we learned. Last week, we presented a comprehensive automation proposal...&quot;
++ "We just lost a $20K deal. Here's what we learned. Last week, we presented a comprehensive automation proposal..."
 + 
 + ---
 + 
@@ -6029,7 +6029,7 @@ Lines added: 675, lines removed: 1
 + &#96;&#96;&#96;
 + [Hook - surprising fact or question]
 + 
-+ Here&#39;s how to [solve problem] in [timeframe]:
++ Here's how to [solve problem] in [timeframe]:
 + 
 + Step 1: [Action]
 + Step 2: [Action]
@@ -6045,7 +6045,7 @@ Lines added: 675, lines removed: 1
 + &#96;&#96;&#96;
 + 
 + **Example**:
-+ &quot;You can automate 90% of your email follow-ups in 30 minutes. Here&#39;s how: Step 1: Choose a tool (Make.com or Zapier)...&quot;
++ "You can automate 90% of your email follow-ups in 30 minutes. Here's how: Step 1: Choose a tool (Make.com or Zapier)..."
 + 
 + ---
 + 
@@ -6072,7 +6072,7 @@ Lines added: 675, lines removed: 1
 + &#96;&#96;&#96;
 + 
 + **Example**:
-+ &quot;We tracked 30 automation projects over 6 months. Average ROI: 847%. The numbers: Time saved: 18.5 hours/week average...&quot;
++ "We tracked 30 automation projects over 6 months. Average ROI: 847%. The numbers: Time saved: 18.5 hours/week average..."
 + 
 + ---
 + 
@@ -6081,7 +6081,7 @@ Lines added: 675, lines removed: 1
 + &#96;&#96;&#96;
 + [Provocative question]
 + 
-+ [Context for why you&#39;re asking]
++ [Context for why you're asking]
 + 
 + [Optional: Your perspective or experience]
 + 
@@ -6091,7 +6091,7 @@ Lines added: 675, lines removed: 1
 + &#96;&#96;&#96;
 + 
 + **Example**:
-+ &quot;What&#39;s the one task you wish you could automate but think is impossible? I&#39;m asking because I hear this all the time, and usually the &#39;impossible&#39; ones are actually the easiest to automate...&quot;
++ "What's the one task you wish you could automate but think is impossible? I'm asking because I hear this all the time, and usually the 'impossible' ones are actually the easiest to automate..."
 + 
 + ---
 + 
@@ -6099,14 +6099,14 @@ Lines added: 675, lines removed: 1
 + 
 + ### Welcome Email (Lead Magnet Delivery)
 + 
-+ **Subject**: Here&#39;s your [Lead Magnet Name] 🎁
++ **Subject**: Here's your [Lead Magnet Name] 🎁
 + 
 + &#96;&#96;&#96;
 + Hey [First Name],
 + 
 + Thanks for downloading [Lead Magnet Name]!
 + 
-+ Here&#39;s your link: [Download Link]
++ Here's your link: [Download Link]
 + 
 + A few things that might help as you go through it:
 + 
@@ -6136,7 +6136,7 @@ Lines added: 675, lines removed: 1
 + 
 + I ask because [reason/context].
 + 
-+ Here&#39;s what I&#39;ve learned after [X projects/years]:
++ Here's what I've learned after [X projects/years]:
 + 
 + [Key insight 1]
 + [Key insight 2]
@@ -6144,7 +6144,7 @@ Lines added: 675, lines removed: 1
 + 
 + [Brief story or example]
 + 
-+ If you&#39;re dealing with [pain point], here&#39;s what I&#39;d recommend:
++ If you're dealing with [pain point], here's what I'd recommend:
 + 
 + 1. [Actionable advice]
 + 2. [Actionable advice]
@@ -6168,9 +6168,9 @@ Lines added: 675, lines removed: 1
 + 
 + I was looking at [their company/LinkedIn] and noticed [specific observation].
 + 
-+ Most companies in [their industry] struggle with [pain point]. Curious if that&#39;s on your radar?
++ Most companies in [their industry] struggle with [pain point]. Curious if that's on your radar?
 + 
-+ We&#39;ve helped [similar companies] [achieve result] by [brief explanation].
++ We've helped [similar companies] [achieve result] by [brief explanation].
 + 
 + For example:
 + → [Company X]: [Specific result]
@@ -6212,9 +6212,9 @@ Lines added: 675, lines removed: 1
 + 
 + Quick question: How much time would you estimate you/your team spend on [relevant repetitive task] each week?
 + 
-+ I&#39;ve been helping [type of businesses] automate processes like this — curious if it&#39;s something on your radar.
++ I've been helping [type of businesses] automate processes like this — curious if it's something on your radar.
 + 
-+ Either way, happy to share what we&#39;re seeing in [their industry].
++ Either way, happy to share what we're seeing in [their industry].
 + &#96;&#96;&#96;
 + 
 + ---
@@ -6224,13 +6224,13 @@ Lines added: 675, lines removed: 1
 + &#96;&#96;&#96;
 + Hey [Name],
 + 
-+ Hope you&#39;re doing well! Been a while.
++ Hope you're doing well! Been a while.
 + 
-+ I&#39;m reaching out because we&#39;ve been helping [type of companies] with [problem you solve], and it made me think of you.
++ I'm reaching out because we've been helping [type of companies] with [problem you solve], and it made me think of you.
 + 
 + For example, we just helped [Similar Company] [achieve specific result].
 + 
-+ Would it make sense to catch up for 20 minutes? I&#39;d love to hear what you&#39;re working on too.
++ Would it make sense to catch up for 20 minutes? I'd love to hear what you're working on too.
 + 
 + [Calendar Link] or let me know what works for you.
 + 
@@ -6262,7 +6262,7 @@ Lines added: 675, lines removed: 1
 + &#96;&#96;&#96;
 + [Bold statement or intriguing question]
 + 
-+ Here&#39;s what I learned [doing X]:
++ Here's what I learned [doing X]:
 + 
 + 🧵 👇
 + &#96;&#96;&#96;
@@ -6277,16 +6277,16 @@ Lines added: 675, lines removed: 1
 + 
 + &#96;&#96;&#96;
 + INTRO (0-15 seconds):
-+ &quot;In this video, I&#39;m going to show you how to [outcome] in [timeframe]. 
-+ By the end, you&#39;ll be able to [specific result].&quot;
++ "In this video, I'm going to show you how to [outcome] in [timeframe]. 
++ By the end, you'll be able to [specific result]."
 + 
 + CONTEXT (15-60 seconds):
-+ &quot;This is useful because [pain point]. 
++ "This is useful because [pain point]. 
 + I discovered this when [brief story].
-+ Let&#39;s dive in.&quot;
++ Let's dive in."
 + 
 + MAIN CONTENT (Bulk of video):
-+ &quot;Step 1: [Action]
++ "Step 1: [Action]
 + [Show on screen]
 + [Explain]
 + 
@@ -6294,18 +6294,18 @@ Lines added: 675, lines removed: 1
 + [Show on screen]
 + [Explain]
 + 
-+ [Continue...]&quot;
++ [Continue...]"
 + 
 + RECAP (Final 30 seconds):
-+ &quot;So to recap:
++ "So to recap:
 + 1. [Key point]
 + 2. [Key point]
 + 3. [Key point]
 + 
-+ If you found this helpful, [CTA - like, subscribe, link in description].&quot;
++ If you found this helpful, [CTA - like, subscribe, link in description]."
 + 
 + OUTRO (Final 15 seconds):
-+ &quot;Questions? Drop them in the comments. See you in the next one.&quot;
++ "Questions? Drop them in the comments. See you in the next one."
 + &#96;&#96;&#96;
 + 
 + ---
@@ -6315,14 +6315,14 @@ Lines added: 675, lines removed: 1
 + &#96;&#96;&#96;
 + HOOK (0-3 seconds): [Attention-grabbing statement or question]
 + 
-+ PROMISE (3-8 seconds): &quot;Here&#39;s how to [outcome]&quot;
++ PROMISE (3-8 seconds): "Here's how to [outcome]"
 + 
 + CONTENT (8-50 seconds): 
-+ &quot;First, [do this]
++ "First, [do this]
 + Then, [do this]
-+ Finally, [do this]&quot;
++ Finally, [do this]"
 + 
-+ CTA (50-60 seconds): &quot;Save this for later. Follow for more [type of content].&quot;
++ CTA (50-60 seconds): "Save this for later. Follow for more [type of content]."
 + &#96;&#96;&#96;
 + 
 + ---
@@ -6359,19 +6359,19 @@ Lines added: 675, lines removed: 1
 + 
 + OPENING (5 minutes):
 + - Welcome and intro
-+ - What we&#39;ll cover today
++ - What we'll cover today
 + - My background (brief)
 + - Housekeeping (Q&amp;A at end, recording available)
 + 
 + PROBLEM AGITATION (10 minutes):
 + - The challenge most [audience] face
-+ - Why traditional approaches don&#39;t work
++ - Why traditional approaches don't work
 + - The cost of not solving this
 + 
 + FRAMEWORK INTRODUCTION (5 minutes):
 + - Introducing [Your Method/Framework]
 + - Why it works
-+ - Who it&#39;s for
++ - Who it's for
 + 
 + MAIN CONTENT (25 minutes):
 + - Part 1: [Key concept]
@@ -6457,57 +6457,57 @@ Lines added: 675, lines removed: 1
 + ## Content Hooks (Opening Lines)
 + 
 + ### For Attention:
-+ - &quot;This might be controversial, but...&quot;
-+ - &quot;[Time period] ago, I learned [lesson] the hard way.&quot;
-+ - &quot;Everyone talks about [X]. Nobody talks about [Y].&quot;
-+ - &quot;I just spent [time/money] on [X]. Here&#39;s what I learned.&quot;
-+ - &quot;You don&#39;t need [expensive thing]. You need [simple thing].&quot;
++ - "This might be controversial, but..."
++ - "[Time period] ago, I learned [lesson] the hard way."
++ - "Everyone talks about [X]. Nobody talks about [Y]."
++ - "I just spent [time/money] on [X]. Here's what I learned."
++ - "You don't need [expensive thing]. You need [simple thing]."
 + 
 + ### For Curiosity:
-+ - &quot;The best [X] I ever [did/bought/learned] cost me $[Y].&quot;
-+ - &quot;I asked [number] [people] about [topic]. Here&#39;s what surprised me.&quot;
-+ - &quot;There&#39;s a [X] that nobody talks about. Here it is.&quot;
-+ - &quot;Most people think [common belief]. They&#39;re wrong.&quot;
-+ - &quot;Want to know the secret to [outcome]? It&#39;s not what you think.&quot;
++ - "The best [X] I ever [did/bought/learned] cost me $[Y]."
++ - "I asked [number] [people] about [topic]. Here's what surprised me."
++ - "There's a [X] that nobody talks about. Here it is."
++ - "Most people think [common belief]. They're wrong."
++ - "Want to know the secret to [outcome]? It's not what you think."
 + 
 + ### For Connection:
-+ - &quot;Real talk: [vulnerable admission]&quot;
-+ - &quot;Can we be honest about [topic] for a second?&quot;
-+ - &quot;I&#39;m tired of seeing [frustrating thing]. Here&#39;s the truth.&quot;
-+ - &quot;Remember when [relatable past situation]? Me too.&quot;
-+ - &quot;If you&#39;re [struggling with X], you&#39;re not alone.&quot;
++ - "Real talk: [vulnerable admission]"
++ - "Can we be honest about [topic] for a second?"
++ - "I'm tired of seeing [frustrating thing]. Here's the truth."
++ - "Remember when [relatable past situation]? Me too."
++ - "If you're [struggling with X], you're not alone."
 + 
 + ### For Value:
-+ - &quot;Here&#39;s exactly how I [achieved outcome]:&quot;
-+ - &quot;Copy this [template/framework/system]:&quot;
-+ - &quot;Save this. You&#39;ll need it when [situation].&quot;
-+ - &quot;The [number]-step process to [outcome]:&quot;
-+ - &quot;Everything I learned about [topic] in [timeframe]:&quot;
++ - "Here's exactly how I [achieved outcome]:"
++ - "Copy this [template/framework/system]:"
++ - "Save this. You'll need it when [situation]."
++ - "The [number]-step process to [outcome]:"
++ - "Everything I learned about [topic] in [timeframe]:"
 + 
 + ---
 + 
 + ## Call-to-Action (CTA) Templates
 + 
 + ### Soft CTAs:
-+ - &quot;Thoughts? Drop them below 👇&quot;
-+ - &quot;What&#39;s worked for you? Let me know in the comments.&quot;
-+ - &quot;Save this for later if you found it helpful.&quot;
-+ - &quot;Tag someone who needs to see this.&quot;
-+ - &quot;What would you add to this list?&quot;
++ - "Thoughts? Drop them below 👇"
++ - "What's worked for you? Let me know in the comments."
++ - "Save this for later if you found it helpful."
++ - "Tag someone who needs to see this."
++ - "What would you add to this list?"
 + 
 + ### Medium CTAs:
-+ - &quot;Want more like this? Follow me at [handle].&quot;
-+ - &quot;Drop a [emoji/word] if you want me to send you [resource].&quot;
-+ - &quot;Link in bio for the full guide.&quot;
-+ - &quot;Comment [WORD] and I&#39;ll DM you the template.&quot;
-+ - &quot;Join [number]+ people getting [type of content] weekly: [link]&quot;
++ - "Want more like this? Follow me at [handle]."
++ - "Drop a [emoji/word] if you want me to send you [resource]."
++ - "Link in bio for the full guide."
++ - "Comment [WORD] and I'll DM you the template."
++ - "Join [number]+ people getting [type of content] weekly: [link]"
 + 
 + ### Hard CTAs:
-+ - &quot;Ready to [outcome]? Book a call: [link]&quot;
-+ - &quot;DM me [WORD] to get started.&quot;
-+ - &quot;Limited spots available. Apply here: [link]&quot;
-+ - &quot;Enrollment closes [date]. Join now: [link]&quot;
-+ - &quot;Let&#39;s talk. Schedule here: [link]&quot;
++ - "Ready to [outcome]? Book a call: [link]"
++ - "DM me [WORD] to get started."
++ - "Limited spots available. Apply here: [link]"
++ - "Enrollment closes [date]. Join now: [link]"
++ - "Let's talk. Schedule here: [link]"
 + 
 + ---
 + 
@@ -6534,9 +6534,9 @@ Lines added: 675, lines removed: 1
 + ## Batch Content Creation Process
 + 
 + ### Monday (Planning - 1 hour):
-+ - Review last week&#39;s performance
++ - Review last week's performance
 + - Identify top-performing content
-+ - Plan this week&#39;s themes
++ - Plan this week's themes
 + - Schedule content calendar
 + 
 + ### Tuesday (Creation - 3 hours):
@@ -6557,7 +6557,7 @@ Lines added: 675, lines removed: 1
 + 
 + ### Friday (Engage - 1 hour/day):
 + - Respond to all comments
-+ - Engage on others&#39; content
++ - Engage on others' content
 + - DM responses
 + 
 + **Total Time**: 8 hours per week → 30+ pieces of content
@@ -6585,7 +6585,7 @@ Excellent! Now let me create a final executive summary document:
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: EXECUTIVE-SUMMARY.md</summary>
+<details><summary>Tool use: **write** • Edit file: EXECUTIVE-SUMMARY.md</summary>
 
 **Chunk 1**
 Lines added: 514, lines removed: 1
@@ -6614,7 +6614,7 @@ Lines added: 514, lines removed: 1
 + - **Modern Tech Stack**: TypeScript, Python, JavaScript, PowerShell
 + - **Company Infrastructure**: Centralized documentation and processes
 + 
-+ ### What&#39;s Missing ❌
++ ### What's Missing ❌
 + - Marketing presence and visibility
 + - Lead generation system
 + - Content strategy
@@ -6627,13 +6627,13 @@ Lines added: 514, lines removed: 1
 + ## Your Unique Position
 + 
 + ### Core Positioning:
-+ **&quot;Practitioners Who Build in Public—Not Just Consultants Who Talk&quot;**
++ **"Practitioners Who Build in Public—Not Just Consultants Who Talk"**
 + 
 + Unlike typical AI consultants who only discuss strategy, you:
 + - Have public GitHub showing real implementations
 + - Build automation tools daily
 + - Execute client projects with visible results
-+ - Can say: &quot;Don&#39;t believe us? Check our GitHub.&quot;
++ - Can say: "Don't believe us? Check our GitHub."
 + 
 + This is **POWERFUL** differentiation in a market full of talk.
 + 
@@ -6711,20 +6711,20 @@ Lines added: 514, lines removed: 1
 + 
 + ### 1. Solo Entrepreneurs
 + - **Budget**: $500-$5K
-+ - **Pain**: Time poverty, can&#39;t scale without hiring
-+ - **Message**: &quot;Get your time back. Scale without hiring.&quot;
++ - **Pain**: Time poverty, can't scale without hiring
++ - **Message**: "Get your time back. Scale without hiring."
 + - **Offer**: Courses + Quick wins package
 + 
 + ### 2. SME Operations Managers
 + - **Budget**: $10K-$100K
 + - **Pain**: Cost pressure, need to prove ROI
-+ - **Message**: &quot;Cut costs 40%, boost output, measurable results.&quot;
++ - **Message**: "Cut costs 40%, boost output, measurable results."
 + - **Offer**: Pilot projects + Department automation
 + 
 + ### 3. Corporate Innovation Leaders
 + - **Budget**: $50K-$200K+
 + - **Pain**: Competitive pressure, board expectations
-+ - **Message**: &quot;Strategic AI transformation partner.&quot;
++ - **Message**: "Strategic AI transformation partner."
 + - **Offer**: Company-wide implementation + Advisory
 + 
 + ---
@@ -6732,7 +6732,7 @@ Lines added: 514, lines removed: 1
 + ## Marketing Channel Strategy
 + 
 + ### Priority 1: LinkedIn 🔥🔥🔥
-+ - **Why**: B2B audience, you&#39;re already there
++ - **Why**: B2B audience, you're already there
 + - **Investment**: 2-3 hours/day
 + - **Expected ROI**: High (direct lead gen)
 + 
@@ -6988,7 +6988,7 @@ Lines added: 514, lines removed: 1
 + 2. **Client Experience**: Already have client projects
 + 3. **Modern Stack**: Attractive to tech-forward buyers
 + 4. **Automation Tools**: Can demonstrate what you sell
-+ 5. **First-Mover**: &quot;Build in public&quot; AI automation is underutilized
++ 5. **First-Mover**: "Build in public" AI automation is underutilized
 + 
 + ---
 + 
@@ -7006,22 +7006,22 @@ Lines added: 514, lines removed: 1
 + - Inconsistent posting
 + - Ignoring engagement
 + - Selling before providing value
-+ - Waiting for &quot;the right time&quot;
++ - Waiting for "the right time"
 + 
 + ---
 + 
 + ## Risk Mitigation
 + 
-+ ### Risk: &quot;No time for marketing&quot;
++ ### Risk: "No time for marketing"
 + **Mitigation**: Batch content 1 day/week, use AI tools, start with 1 hour/day
 + 
-+ ### Risk: &quot;What if it doesn&#39;t work?&quot;
++ ### Risk: "What if it doesn't work?"
 + **Mitigation**: This plan has 300+ proven tactics. Track what works, double down.
 + 
-+ ### Risk: &quot;Competition is doing this&quot;
++ ### Risk: "Competition is doing this"
 + **Mitigation**: Your GitHub + technical proof is unique. Lean into it.
 + 
-+ ### Risk: &quot;Burning money on tools&quot;
++ ### Risk: "Burning money on tools"
 + **Mitigation**: Start with $105/mo stack. Only add tools after proving ROI.
 + 
 + ---
@@ -7039,8 +7039,8 @@ Lines added: 514, lines removed: 1
 + - Adjust based on data
 + 
 + ### Month 2-3:
-+ - Scale what&#39;s working
-+ - Cut what&#39;s not
++ - Scale what's working
++ - Cut what's not
 + - Hire support if needed
 + 
 + ### Month 4-6:
@@ -7078,7 +7078,7 @@ Lines added: 514, lines removed: 1
 + 
 + **You executed this plan. They just thought about it.**
 + 
-+ Marketing isn&#39;t magic. It&#39;s a system. You now have the system.
++ Marketing isn't magic. It's a system. You now have the system.
 + 
 + Go build in public. Share your GitHub. Tell your story. Help your audience.
 + 
@@ -7099,7 +7099,7 @@ Lines added: 514, lines removed: 1
 + - &#96;/08-Ready-to-Use-Materials&#96; - Ready content
 + - &#96;/09-Immediate-Actions-Today&#96; - Start here
 + 
-+ **Don&#39;t overthink it. Start with folder 09. Execute today. Win tomorrow.**
++ **Don't overthink it. Start with folder 09. Execute today. Win tomorrow.**
 + 
 + 🚀
 + 
@@ -7122,7 +7122,7 @@ Great! Now let me check the directory structure to make sure everything is organ
 
 <tool-use data-tool-type="generic" data-tool-name="list_dir">
 <details>
-            <summary>Tool use: **list_directory** • Listed directory undefined • **0** results</summary>
+            <summary>Tool use: **list_dir** • Listed directory undefined • **0** results</summary>
         
 No results found
 </details>
@@ -8070,20 +8070,20 @@ Parameters:
 
 ```json
 {
-  &quot;plan&quot;: &quot;# Landing Page Updates for ai-whisperers.org\n\n## Overview\nCreate a structured folder with complete content and specifications for updating the AI Whisperers landing page, including new sections, WhatsApp Business scheduling integration, and enhanced positioning.\n\n## Folder Structure to Create\n\n&#96;&#96;&#96;\nlanding_page_edits/\n├── 01-hero-section.md\n├── 02-github-positioning.md\n├── 03-lead-capture-sections.md\n├── 04-how-we-work.md\n├── 05-about-us.md\n├── 06-services-pricing.md\n├── 07-team-section.md\n├── 08-faq.md\n├── 09-blog-setup.md\n├── 10-enhanced-testimonials.md\n├── 11-cta-updates.md\n├── 12-whatsapp-business-integration.md\n└── README.md\n&#96;&#96;&#96;\n\n## Files to Create\n\n### 1. README.md (Implementation Overview)\n- Overview of all changes\n- Priority order of implementation\n- Quick reference guide\n- Link to each section file\n\n### 2. 01-hero-section.md\n- New headline: \&quot;AI Automation That Actually Works\&quot;\n- Updated value proposition emphasizing GitHub/code proof\n- New CTAs: \&quot;Get Free AI Audit\&quot; + \&quot;Book Strategy Call\&quot;\n- Trust indicators with real metrics\n- Replace generic \&quot;save time, money, energy\&quot; messaging\n\n### 3. 02-github-positioning.md\n- \&quot;Practitioners Who Build in Public\&quot; section\n- Showcase 3 GitHub projects:\n  - work-hours-automated-reports (time tracking automation)\n  - yt-transcript-headless (free tool)\n  - agentic-schemas (AI frameworks)\n- Links to repos with descriptions\n- Differentiation from typical consultants\n\n### 4. 03-lead-capture-sections.md\n- Email signup form for newsletter\n- Lead magnet popup (exit intent + timed)\n- \&quot;AI Automation Opportunity Audit\&quot; offer\n- Footer newsletter signup\n- Sidebar/banner lead capture\n- Multiple conversion points throughout page\n\n### 5. 04-how-we-work.md\n- Complete \&quot;How We Work\&quot; section\n- 4-week implementation timeline\n- Step-by-step process visualization\n- What clients can expect at each stage\n- Discovery → Build → Train → Launch process\n\n### 6. 05-about-us.md\n- Company story and mission based on GitHub analysis\n- Team expertise and background\n- \&quot;Why We&#39;re Different\&quot; positioning\n- Values: transparency, technical excellence, results-focused\n- Open source commitment\n\n### 7. 06-services-pricing.md\n- Three-tier service structure:\n  - DIY: Courses ($497-$1,997)\n  - Done-With-You: Consulting ($5K-$15K)\n  - Done-For-You: Implementation ($15K-$50K+)\n- What&#39;s included in each tier\n- Ideal customer for each option\n- ROI projections and timelines\n\n### 8. 07-team-section.md\n- Team member profiles (template for founder/key team)\n- Expertise areas\n- GitHub contributions\n- Professional backgrounds\n- Photos and bios\n\n### 9. 08-faq.md\n- 15-20 common questions with answers:\n  - Pricing and ROI questions\n  - Technical requirements\n  - Timeline expectations\n  - Implementation process\n  - Support and maintenance\n  - Industry-specific questions\n\n### 10. 09-blog-setup.md\n- Blog section structure recommendations\n- First 5 blog post ideas based on GitHub projects\n- Content calendar template\n- SEO optimization guidelines\n- Call-to-action placement in posts\n\n### 11. 10-enhanced-testimonials.md\n- Enhanced WPG Software testimonial with metrics\n- Enhanced WPG Amenities testimonial with results\n- Template for collecting future testimonials\n- Results-focused format (before/after, time saved, ROI)\n- Video testimonial guidelines\n\n### 12. 11-cta-updates.md\n- Primary CTA strategy throughout page\n- Button copy variations:\n  - \&quot;Book Free Strategy Call\&quot;\n  - \&quot;Get Free AI Audit\&quot;\n  - \&quot;View Our GitHub\&quot;\n  - \&quot;Download Free Guide\&quot;\n- CTA placement recommendations\n- Urgency and scarcity elements\n\n### 13. 12-whatsapp-business-integration.md\n- WhatsApp Business API setup guide\n- Integration with Calendly/booking system\n- Auto-response templates for scheduling\n- WhatsApp chat widget implementation\n- Message templates for:\n  - Initial contact\n  - Booking confirmation\n  - Reminders\n  - Follow-ups\n- Technical requirements and API credentials needed\n- Cost breakdown for WhatsApp Business API\n- Alternative: WhatsApp Business app with manual scheduling\n\n## Content Approach\n\nAll content will:\n- Be based on ai-whisperers.org current site and GitHub analysis\n- Include specific copy (not templates with placeholders)\n- Reference actual projects: WPG Software, WPG Amenities, work-hours-automated-reports, yt-transcript-headless, agentic-schemas\n- Use positioning: \&quot;Practitioners who build in public\&quot;\n- Emphasize GitHub proof and open source\n- Include conversion-optimized copy\n- Provide before/after examples where applicable\n\n## Technical Specifications Included\n\nFor WhatsApp Business integration (12-whatsapp-business-integration.md):\n- API endpoint configuration\n- Webhook setup for message handling\n- Calendar integration flow\n- Message template approval process\n- Chatbot automation rules\n- Compliance requirements (opt-in, privacy)\n- Code snippets for common integrations\n- Testing checklist\n\n## Priority Implementation Order\n\n1. Hero section (immediate impact)\n2. GitHub positioning section (unique differentiator)\n3. Lead capture sections (start building list)\n4. WhatsApp Business integration (scheduling improvement)\n5. How We Work (clarify process)\n6. Services/Pricing (conversion)\n7. Enhanced testimonials (social proof)\n8. About Us (trust building)\n9. FAQ (objection handling)\n10. Team section (credibility)\n11. Blog setup (long-term content strategy)\n12. CTA updates throughout (optimization)\n\nAll files will be in markdown format with clear headings, ready-to-use copy, and implementation notes where technical setup is required.\n&quot;,
-  &quot;name&quot;: &quot;Landing Page Edits Plan&quot;,
-  &quot;overview&quot;: &quot;Create a comprehensive landing_page_edits folder with all new sections, copy, and technical specifications for updating ai-whisperers.org website, including WhatsApp Business integration.&quot;
+  "plan": "# Landing Page Updates for ai-whisperers.org\n\n## Overview\nCreate a structured folder with complete content and specifications for updating the AI Whisperers landing page, including new sections, WhatsApp Business scheduling integration, and enhanced positioning.\n\n## Folder Structure to Create\n\n&#96;&#96;&#96;\nlanding_page_edits/\n├── 01-hero-section.md\n├── 02-github-positioning.md\n├── 03-lead-capture-sections.md\n├── 04-how-we-work.md\n├── 05-about-us.md\n├── 06-services-pricing.md\n├── 07-team-section.md\n├── 08-faq.md\n├── 09-blog-setup.md\n├── 10-enhanced-testimonials.md\n├── 11-cta-updates.md\n├── 12-whatsapp-business-integration.md\n└── README.md\n&#96;&#96;&#96;\n\n## Files to Create\n\n### 1. README.md (Implementation Overview)\n- Overview of all changes\n- Priority order of implementation\n- Quick reference guide\n- Link to each section file\n\n### 2. 01-hero-section.md\n- New headline: \"AI Automation That Actually Works\"\n- Updated value proposition emphasizing GitHub/code proof\n- New CTAs: \"Get Free AI Audit\" + \"Book Strategy Call\"\n- Trust indicators with real metrics\n- Replace generic \"save time, money, energy\" messaging\n\n### 3. 02-github-positioning.md\n- \"Practitioners Who Build in Public\" section\n- Showcase 3 GitHub projects:\n  - work-hours-automated-reports (time tracking automation)\n  - yt-transcript-headless (free tool)\n  - agentic-schemas (AI frameworks)\n- Links to repos with descriptions\n- Differentiation from typical consultants\n\n### 4. 03-lead-capture-sections.md\n- Email signup form for newsletter\n- Lead magnet popup (exit intent + timed)\n- \"AI Automation Opportunity Audit\" offer\n- Footer newsletter signup\n- Sidebar/banner lead capture\n- Multiple conversion points throughout page\n\n### 5. 04-how-we-work.md\n- Complete \"How We Work\" section\n- 4-week implementation timeline\n- Step-by-step process visualization\n- What clients can expect at each stage\n- Discovery → Build → Train → Launch process\n\n### 6. 05-about-us.md\n- Company story and mission based on GitHub analysis\n- Team expertise and background\n- \"Why We're Different\" positioning\n- Values: transparency, technical excellence, results-focused\n- Open source commitment\n\n### 7. 06-services-pricing.md\n- Three-tier service structure:\n  - DIY: Courses ($497-$1,997)\n  - Done-With-You: Consulting ($5K-$15K)\n  - Done-For-You: Implementation ($15K-$50K+)\n- What's included in each tier\n- Ideal customer for each option\n- ROI projections and timelines\n\n### 8. 07-team-section.md\n- Team member profiles (template for founder/key team)\n- Expertise areas\n- GitHub contributions\n- Professional backgrounds\n- Photos and bios\n\n### 9. 08-faq.md\n- 15-20 common questions with answers:\n  - Pricing and ROI questions\n  - Technical requirements\n  - Timeline expectations\n  - Implementation process\n  - Support and maintenance\n  - Industry-specific questions\n\n### 10. 09-blog-setup.md\n- Blog section structure recommendations\n- First 5 blog post ideas based on GitHub projects\n- Content calendar template\n- SEO optimization guidelines\n- Call-to-action placement in posts\n\n### 11. 10-enhanced-testimonials.md\n- Enhanced WPG Software testimonial with metrics\n- Enhanced WPG Amenities testimonial with results\n- Template for collecting future testimonials\n- Results-focused format (before/after, time saved, ROI)\n- Video testimonial guidelines\n\n### 12. 11-cta-updates.md\n- Primary CTA strategy throughout page\n- Button copy variations:\n  - \"Book Free Strategy Call\"\n  - \"Get Free AI Audit\"\n  - \"View Our GitHub\"\n  - \"Download Free Guide\"\n- CTA placement recommendations\n- Urgency and scarcity elements\n\n### 13. 12-whatsapp-business-integration.md\n- WhatsApp Business API setup guide\n- Integration with Calendly/booking system\n- Auto-response templates for scheduling\n- WhatsApp chat widget implementation\n- Message templates for:\n  - Initial contact\n  - Booking confirmation\n  - Reminders\n  - Follow-ups\n- Technical requirements and API credentials needed\n- Cost breakdown for WhatsApp Business API\n- Alternative: WhatsApp Business app with manual scheduling\n\n## Content Approach\n\nAll content will:\n- Be based on ai-whisperers.org current site and GitHub analysis\n- Include specific copy (not templates with placeholders)\n- Reference actual projects: WPG Software, WPG Amenities, work-hours-automated-reports, yt-transcript-headless, agentic-schemas\n- Use positioning: \"Practitioners who build in public\"\n- Emphasize GitHub proof and open source\n- Include conversion-optimized copy\n- Provide before/after examples where applicable\n\n## Technical Specifications Included\n\nFor WhatsApp Business integration (12-whatsapp-business-integration.md):\n- API endpoint configuration\n- Webhook setup for message handling\n- Calendar integration flow\n- Message template approval process\n- Chatbot automation rules\n- Compliance requirements (opt-in, privacy)\n- Code snippets for common integrations\n- Testing checklist\n\n## Priority Implementation Order\n\n1. Hero section (immediate impact)\n2. GitHub positioning section (unique differentiator)\n3. Lead capture sections (start building list)\n4. WhatsApp Business integration (scheduling improvement)\n5. How We Work (clarify process)\n6. Services/Pricing (conversion)\n7. Enhanced testimonials (social proof)\n8. About Us (trust building)\n9. FAQ (objection handling)\n10. Team section (credibility)\n11. Blog setup (long-term content strategy)\n12. CTA updates throughout (optimization)\n\nAll files will be in markdown format with clear headings, ready-to-use copy, and implementation notes where technical setup is required.\n",
+  "name": "Landing Page Edits Plan",
+  "overview": "Create a comprehensive landing_page_edits folder with all new sections, copy, and technical specifications for updating ai-whisperers.org website, including WhatsApp Business integration."
 }
 ```
 Additional data:
 
 ```json
 {
-  &quot;status&quot;: &quot;accepted&quot;,
-  &quot;reviewData&quot;: {
-    &quot;status&quot;: &quot;Done&quot;,
-    &quot;selectedOption&quot;: &quot;approve&quot;,
-    &quot;isShowingInput&quot;: false
+  "status": "accepted",
+  "reviewData": {
+    "status": "Done",
+    "selectedOption": "approve",
+    "isShowingInput": false
   }
 }
 ```
@@ -8091,7 +8091,7 @@ Result:
 
 ```json
 {
-  &quot;accepted&quot;: {}
+  "accepted": {}
 }
 ```
 Status: **completed**
@@ -8128,7 +8128,7 @@ I'll implement the plan now, creating all the landing page edit files with compl
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: landing_page_edits/README.md</summary>
+<details><summary>Tool use: **write** • Edit file: landing_page_edits/README.md</summary>
 
 **Chunk 1**
 Lines added: 315, lines removed: 1
@@ -8147,10 +8147,10 @@ Lines added: 315, lines removed: 1
 + 
 + ---
 + 
-+ ## What&#39;s Changing
++ ## What's Changing
 + 
 + ### Current Problems:
-+ - ❌ Generic value proposition (&quot;save time, money, energy&quot;)
++ - ❌ Generic value proposition ("save time, money, energy")
 + - ❌ No lead capture mechanism
 + - ❌ Missing unique differentiator (GitHub/open source)
 + - ❌ Weak testimonials without metrics
@@ -8158,7 +8158,7 @@ Lines added: 315, lines removed: 1
 + - ❌ Limited contact options
 + 
 + ### New Approach:
-+ - ✅ Clear positioning: &quot;Practitioners who build in public&quot;
++ - ✅ Clear positioning: "Practitioners who build in public"
 + - ✅ Multiple lead capture points
 + - ✅ GitHub repos as proof of expertise
 + - ✅ Results-focused testimonials with metrics
@@ -8192,12 +8192,12 @@ Lines added: 315, lines removed: 1
 + **Goal**: Immediate conversion improvements
 + 
 + 1. ✅ **Hero Section** (01-hero-section.md)
-+    - Replace &quot;Whisper AI into Action&quot; with &quot;AI Automation That Actually Works&quot;
++    - Replace "Whisper AI into Action" with "AI Automation That Actually Works"
 +    - Add GitHub CTA
 +    - Update trust indicators
 + 
 + 2. ✅ **GitHub Positioning** (02-github-positioning.md)
-+    - Add &quot;Practitioners Who Build in Public&quot; section
++    - Add "Practitioners Who Build in Public" section
 +    - Showcase 3 repos with links
 +    - Differentiate from typical consultants
 + 
@@ -8226,7 +8226,7 @@ Lines added: 315, lines removed: 1
 + 6. ✅ **Services/Pricing** (06-services-pricing.md)
 +    - Create service tiers page
 +    - Clear pricing structure
-+    - What&#39;s included in each
++    - What's included in each
 + 
 + 7. ✅ **Enhanced Testimonials** (10-enhanced-testimonials.md)
 +    - Update WPG testimonials with metrics
@@ -8370,40 +8370,40 @@ Lines added: 315, lines removed: 1
 + Once implemented, test these variations:
 + 
 + ### Hero Section:
-+ - **Headline A**: &quot;AI Automation That Actually Works&quot;
-+ - **Headline B**: &quot;Build AI Automations That Save 10+ Hours Per Week&quot;
++ - **Headline A**: "AI Automation That Actually Works"
++ - **Headline B**: "Build AI Automations That Save 10+ Hours Per Week"
 + - **Test**: Which gets more scrolling/engagement
 + 
 + ### Lead Magnet:
-+ - **Offer A**: &quot;AI Automation Opportunity Audit&quot;
-+ - **Offer B**: &quot;10 Processes Every Business Should Automate&quot;
++ - **Offer A**: "AI Automation Opportunity Audit"
++ - **Offer B**: "10 Processes Every Business Should Automate"
 + - **Test**: Which gets more downloads
 + 
 + ### CTAs:
-+ - **CTA A**: &quot;Book Free Strategy Call&quot;
-+ - **CTA B**: &quot;Schedule Your Free AI Audit&quot;
++ - **CTA A**: "Book Free Strategy Call"
++ - **CTA B**: "Schedule Your Free AI Audit"
 + - **Test**: Which gets more bookings
 + 
 + ---
 + 
 + ## Common Questions
 + 
-+ ### &quot;Do I need to implement everything?&quot;
-+ No. Start with Week 1 priorities (hero, GitHub section, lead capture). That&#39;s 80% of the impact.
++ ### "Do I need to implement everything?"
++ No. Start with Week 1 priorities (hero, GitHub section, lead capture). That's 80% of the impact.
 + 
-+ ### &quot;Can I change the copy?&quot;
++ ### "Can I change the copy?"
 + Yes! This is your starting point. Adapt to your voice, but keep the structure and strategy.
 + 
-+ ### &quot;What if I don&#39;t have a team section ready?&quot;
++ ### "What if I don't have a team section ready?"
 + Skip it for now. Focus on hero, positioning, and lead capture first.
 + 
-+ ### &quot;How technical is the WhatsApp integration?&quot;
++ ### "How technical is the WhatsApp integration?"
 + Depends on your choice:
 + - Simple widget: Easy (30 min)
 + - WhatsApp Business app: Medium (2-4 hours)
 + - Full API integration: Complex (8-16 hours)
 + 
-+ ### &quot;Should I hire help?&quot;
++ ### "Should I hire help?"
 + For basic content updates: No, you can do it.
 + For WhatsApp API integration: Consider it if not technical.
 + For design polish: Nice to have, but not critical.
@@ -8412,7 +8412,7 @@ Lines added: 315, lines removed: 1
 + 
 + ## Next Steps
 + 
-+ 1. **Read this README** ✅ (you&#39;re here)
++ 1. **Read this README** ✅ (you're here)
 + 2. **Review 01-hero-section.md** (understand the changes)
 + 3. **Set up email tool** (HubSpot/Mailchimp account)
 + 4. **Implement Week 1 priorities** (hero + GitHub + lead capture)
@@ -8435,7 +8435,7 @@ Lines added: 315, lines removed: 1
 + ## Files Quick Reference
 + 
 + **01-hero-section.md** - New headline, value prop, CTAs  
-+ **02-github-positioning.md** - &quot;Practitioners who build in public&quot; section  
++ **02-github-positioning.md** - "Practitioners who build in public" section  
 + **03-lead-capture-sections.md** - Popups, forms, newsletter signup  
 + **04-how-we-work.md** - 4-week process timeline  
 + **05-about-us.md** - Company story and mission  
@@ -8449,7 +8449,7 @@ Lines added: 315, lines removed: 1
 + 
 + ---
 + 
-+ **Start with 01-hero-section.md and work sequentially. You&#39;ve got this! 🚀**
++ **Start with 01-hero-section.md and work sequentially. You've got this! 🚀**
 + 
 ```
 
@@ -8466,7 +8466,7 @@ Good! Now I'll create all 12 files with complete content. Let me continue with e
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: landing_page_edits/01-hero-section.md</summary>
+<details><summary>Tool use: **write** • Edit file: landing_page_edits/01-hero-section.md</summary>
 
 **Chunk 1**
 Lines added: 318, lines removed: 1
@@ -8487,8 +8487,8 @@ Lines added: 318, lines removed: 1
 + &#96;&#96;&#96;
 + 
 + **Problems**:
-+ - ❌ &quot;Whisper AI into Action&quot; - Clever but unclear
-+ - ❌ &quot;Save time, money, energy&quot; - Generic, every consultant says this
++ - ❌ "Whisper AI into Action" - Clever but unclear
++ - ❌ "Save time, money, energy" - Generic, every consultant says this
 + - ❌ No differentiation or unique value
 + - ❌ No lead capture CTA
 + - ❌ Missing your biggest advantage (GitHub proof)
@@ -8504,7 +8504,7 @@ Lines added: 318, lines removed: 1
 + 
 + **Why This Works**:
 + - Direct and clear
-+ - Addresses skepticism (&quot;actually works&quot;)
++ - Addresses skepticism ("actually works")
 + - Immediately communicates what you do
 + - SEO-friendly
 + 
@@ -8512,7 +8512,7 @@ Lines added: 318, lines removed: 1
 + 
 + ### SUBHEADLINE (H2)
 + &#96;&#96;&#96;
-+ We don&#39;t just consult—we build, implement, and prove it with code.
++ We don't just consult—we build, implement, and prove it with code.
 + Check our GitHub: we ship real solutions, not slide decks.
 + &#96;&#96;&#96;
 + 
@@ -8544,9 +8544,9 @@ Lines added: 318, lines removed: 1
 + &#96;&#96;&#96;
 + 
 + **Customize These Numbers**:
-+ - Update &quot;50+ Projects&quot; with your actual number
++ - Update "50+ Projects" with your actual number
 + - If unsure, use conservative estimate
-+ - Can also use: &quot;Trusted by [X] Companies&quot;
++ - Can also use: "Trusted by [X] Companies"
 + 
 + ---
 + 
@@ -8581,56 +8581,56 @@ Lines added: 318, lines removed: 1
 + ## Complete Hero Section HTML Structure
 + 
 + &#96;&#96;&#96;html
-+ &lt;section class=&quot;hero&quot;&gt;
-+   &lt;div class=&quot;hero-content&quot;&gt;
++ &lt;section class="hero"&gt;
++   &lt;div class="hero-content"&gt;
 +     &lt;!-- Pre-headline (optional) --&gt;
-+     &lt;p class=&quot;hero-preheadline&quot;&gt;
++     &lt;p class="hero-preheadline"&gt;
 +       Enterprise AI Automation Solutions
 +     &lt;/p&gt;
 +     
 +     &lt;!-- Main Headline --&gt;
-+     &lt;h1 class=&quot;hero-headline&quot;&gt;
++     &lt;h1 class="hero-headline"&gt;
 +       AI Automation That Actually Works
 +     &lt;/h1&gt;
 +     
 +     &lt;!-- Subheadline --&gt;
-+     &lt;h2 class=&quot;hero-subheadline&quot;&gt;
-+       We don&#39;t just consult—we build, implement, and prove it with code.&lt;br&gt;
++     &lt;h2 class="hero-subheadline"&gt;
++       We don't just consult—we build, implement, and prove it with code.&lt;br&gt;
 +       Check our GitHub: we ship real solutions, not slide decks.
 +     &lt;/h2&gt;
 +     
 +     &lt;!-- Value Proposition --&gt;
-+     &lt;p class=&quot;hero-value-prop&quot;&gt;
++     &lt;p class="hero-value-prop"&gt;
 +       Cut operational costs by 40%. Save 10+ hours per week.&lt;br&gt;
 +       See measurable results in 30 days, not 6 months.
 +     &lt;/p&gt;
 +     
 +     &lt;!-- Trust Indicators --&gt;
-+     &lt;p class=&quot;hero-trust-bar&quot;&gt;
++     &lt;p class="hero-trust-bar"&gt;
 +       ✓ 50+ Projects Delivered | ✓ Open Source on GitHub | ✓ Enterprise-Grade
 +     &lt;/p&gt;
 +     
 +     &lt;!-- CTAs --&gt;
-+     &lt;div class=&quot;hero-ctas&quot;&gt;
-+       &lt;a href=&quot;/free-ai-audit&quot; class=&quot;btn btn-primary btn-large&quot;&gt;
++     &lt;div class="hero-ctas"&gt;
++       &lt;a href="/free-ai-audit" class="btn btn-primary btn-large"&gt;
 +         Get Your Free AI Audit
 +       &lt;/a&gt;
-+       &lt;a href=&quot;https://github.com/orgs/Ai-Whisperers/repositories&quot; 
-+          class=&quot;btn btn-secondary btn-large&quot; 
-+          target=&quot;_blank&quot;&gt;
++       &lt;a href="https://github.com/orgs/Ai-Whisperers/repositories" 
++          class="btn btn-secondary btn-large" 
++          target="_blank"&gt;
 +         View Our GitHub →
 +       &lt;/a&gt;
 +     &lt;/div&gt;
 +     
 +     &lt;!-- Tertiary CTA --&gt;
-+     &lt;p class=&quot;hero-tertiary-cta&quot;&gt;
++     &lt;p class="hero-tertiary-cta"&gt;
 +       Ready to talk? 
-+       &lt;a href=&quot;/contact&quot; class=&quot;text-link&quot;&gt;Book a free strategy call&lt;/a&gt;
++       &lt;a href="/contact" class="text-link"&gt;Book a free strategy call&lt;/a&gt;
 +     &lt;/p&gt;
 +   &lt;/div&gt;
 +   
 +   &lt;!-- Hero Image/Visual (right side or background) --&gt;
-+   &lt;div class=&quot;hero-visual&quot;&gt;
++   &lt;div class="hero-visual"&gt;
 +     &lt;!-- Options:
 +          1. Dashboard/automation screenshot
 +          2. Code editor with automation running
@@ -8670,29 +8670,29 @@ Lines added: 318, lines removed: 1
 + ## Copy Variations (A/B Test These)
 + 
 + ### Headline Variations:
-+ 1. &quot;AI Automation That Actually Works&quot; ← **Recommended**
-+ 2. &quot;Build AI Automations That Save 10+ Hours Per Week&quot;
-+ 3. &quot;From Manual Chaos to Automated Growth in 30 Days&quot;
-+ 4. &quot;Enterprise AI Automation—Built by Engineers, For Business&quot;
++ 1. "AI Automation That Actually Works" ← **Recommended**
++ 2. "Build AI Automations That Save 10+ Hours Per Week"
++ 3. "From Manual Chaos to Automated Growth in 30 Days"
++ 4. "Enterprise AI Automation—Built by Engineers, For Business"
 + 
 + ### Subheadline Variations:
-+ 1. &quot;We don&#39;t just consult—we build, implement, and prove it with code.&quot; ← **Recommended**
-+ 2. &quot;Real implementations, not PowerPoint promises. Check our GitHub.&quot;
-+ 3. &quot;We automate our own business first. Then we help you automate yours.&quot;
-+ 4. &quot;Open source. Transparent. Results-driven. That&#39;s how we work.&quot;
++ 1. "We don't just consult—we build, implement, and prove it with code." ← **Recommended**
++ 2. "Real implementations, not PowerPoint promises. Check our GitHub."
++ 3. "We automate our own business first. Then we help you automate yours."
++ 4. "Open source. Transparent. Results-driven. That's how we work."
 + 
 + ### Value Prop Variations:
-+ 1. &quot;Cut costs by 40%. Save 10+ hours/week. Results in 30 days.&quot; ← **Recommended**
-+ 2. &quot;Scale your business without hiring. Automate what drains your time.&quot;
-+ 3. &quot;40% cost reduction. 10+ hours saved weekly. Measurable ROI.&quot;
-+ 4. &quot;From implementation to ROI in 30 days—not the usual 6 months.&quot;
++ 1. "Cut costs by 40%. Save 10+ hours/week. Results in 30 days." ← **Recommended**
++ 2. "Scale your business without hiring. Automate what drains your time."
++ 3. "40% cost reduction. 10+ hours saved weekly. Measurable ROI."
++ 4. "From implementation to ROI in 30 days—not the usual 6 months."
 + 
 + ---
 + 
 + ## Implementation Checklist
 + 
 + ### Content Updates:
-+ - [ ] Replace &quot;Whisper AI into Action&quot; with new headline
++ - [ ] Replace "Whisper AI into Action" with new headline
 + - [ ] Update subheadline to emphasize GitHub/code proof
 + - [ ] Add specific metrics to value proposition
 + - [ ] Update trust indicators with real numbers
@@ -8713,7 +8713,7 @@ Lines added: 318, lines removed: 1
 + - [ ] Consider adding subtle animation (optional)
 + 
 + ### SEO Updates:
-+ - [ ] Update page title tag to include &quot;AI Automation&quot;
++ - [ ] Update page title tag to include "AI Automation"
 + - [ ] Update meta description with new value prop
 + - [ ] Add schema markup for Organization
 + - [ ] Optimize hero image alt text
@@ -8742,7 +8742,7 @@ Lines added: 318, lines removed: 1
 + ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 + AI Automation That Actually Works
 + 
-+ We don&#39;t just consult—we build, implement, 
++ We don't just consult—we build, implement, 
 + and prove it with code. Check our GitHub: 
 + we ship real solutions, not slide decks.
 + 
@@ -8807,7 +8807,7 @@ Great! I'm making good progress. Now I'll continue with the remaining files. Let
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: landing_page_edits/02-github-positioning.md</summary>
+<details><summary>Tool use: **write** • Edit file: landing_page_edits/02-github-positioning.md</summary>
 
 **Chunk 1**
 Lines added: 455, lines removed: 1
@@ -8849,16 +8849,16 @@ Lines added: 455, lines removed: 1
 + &#96;&#96;&#96;
 + 
 + **Alternative Headlines** (choose one):
-+ - &quot;We Don&#39;t Just Talk—We Ship Code&quot;
-+ - &quot;Open Source. Transparent. Proven.&quot;
-+ - &quot;Real Code, Not Just Consulting Decks&quot;
++ - "We Don't Just Talk—We Ship Code"
++ - "Open Source. Transparent. Proven."
++ - "Real Code, Not Just Consulting Decks"
 + 
 + ---
 + 
 + ### SECTION SUBHEADLINE
 + &#96;&#96;&#96;
 + Unlike typical AI consultants who create strategy presentations, 
-+ we build, implement, and show our work. Check our GitHub—it&#39;s all there.
++ we build, implement, and show our work. Check our GitHub—it's all there.
 + &#96;&#96;&#96;
 + 
 + ---
@@ -8869,7 +8869,7 @@ Lines added: 455, lines removed: 1
 + &#96;&#96;&#96;
 + ✓ Public GitHub Repositories
 + 
-+ We don&#39;t hide our work behind NDAs and closed doors. Our frameworks, 
++ We don't hide our work behind NDAs and closed doors. Our frameworks, 
 + tools, and implementations are open for you to review. 
 + 
 + Transparency builds trust.
@@ -8916,8 +8916,8 @@ Lines added: 455, lines removed: 1
 + Use case: Time tracking automation, cross-platform data sync
 + 
 + What we learned: 
-+ &quot;Manual time tracking across tools wastes hours every week. 
-+ This automation reduced our reporting time by 90%.&quot;
++ "Manual time tracking across tools wastes hours every week. 
++ This automation reduced our reporting time by 90%."
 + 
 + [View on GitHub →]  [Read Case Study]
 + ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -8970,7 +8970,7 @@ Lines added: 455, lines removed: 1
 + Built with: JavaScript
 + Use case: AI agent development, enterprise AI architecture
 + 
-+ What&#39;s inside:
++ What's inside:
 + Reusable patterns and schemas for building production-ready AI agents.
 + 
 + [View on GitHub →]  [Read Documentation]
@@ -8984,32 +8984,32 @@ Lines added: 455, lines removed: 1
 + ## Complete HTML Structure
 + 
 + &#96;&#96;&#96;html
-+ &lt;section class=&quot;github-positioning&quot;&gt;
-+   &lt;div class=&quot;container&quot;&gt;
++ &lt;section class="github-positioning"&gt;
++   &lt;div class="container"&gt;
 +     &lt;!-- Section Header --&gt;
-+     &lt;div class=&quot;section-header text-center&quot;&gt;
++     &lt;div class="section-header text-center"&gt;
 +       &lt;h2&gt;Practitioners Who Build in Public&lt;/h2&gt;
-+       &lt;p class=&quot;section-subheadline&quot;&gt;
++       &lt;p class="section-subheadline"&gt;
 +         Unlike typical AI consultants who create strategy presentations, 
-+         we build, implement, and show our work. Check our GitHub—it&#39;s all there.
++         we build, implement, and show our work. Check our GitHub—it's all there.
 +       &lt;/p&gt;
 +     &lt;/div&gt;
 +     
 +     &lt;!-- Three-Column Differentiation --&gt;
-+     &lt;div class=&quot;three-columns&quot;&gt;
-+       &lt;div class=&quot;column&quot;&gt;
-+         &lt;div class=&quot;icon&quot;&gt;✓&lt;/div&gt;
++     &lt;div class="three-columns"&gt;
++       &lt;div class="column"&gt;
++         &lt;div class="icon"&gt;✓&lt;/div&gt;
 +         &lt;h3&gt;Real Code&lt;/h3&gt;
 +         &lt;h4&gt;Public GitHub Repositories&lt;/h4&gt;
 +         &lt;p&gt;
-+           We don&#39;t hide our work behind NDAs and closed doors. Our frameworks, 
++           We don't hide our work behind NDAs and closed doors. Our frameworks, 
 +           tools, and implementations are open for you to review. 
 +           Transparency builds trust.
 +         &lt;/p&gt;
 +       &lt;/div&gt;
 +       
-+       &lt;div class=&quot;column&quot;&gt;
-+         &lt;div class=&quot;icon&quot;&gt;✓&lt;/div&gt;
++       &lt;div class="column"&gt;
++         &lt;div class="icon"&gt;✓&lt;/div&gt;
 +         &lt;h3&gt;Proven Process&lt;/h3&gt;
 +         &lt;h4&gt;We Automate Ourselves First&lt;/h4&gt;
 +         &lt;p&gt;
@@ -9019,8 +9019,8 @@ Lines added: 455, lines removed: 1
 +         &lt;/p&gt;
 +       &lt;/div&gt;
 +       
-+       &lt;div class=&quot;column&quot;&gt;
-+         &lt;div class=&quot;icon&quot;&gt;✓&lt;/div&gt;
++       &lt;div class="column"&gt;
++         &lt;div class="icon"&gt;✓&lt;/div&gt;
 +         &lt;h3&gt;Open Innovation&lt;/h3&gt;
 +         &lt;h4&gt;Community-Driven Development&lt;/h4&gt;
 +         &lt;p&gt;
@@ -9032,92 +9032,92 @@ Lines added: 455, lines removed: 1
 +     &lt;/div&gt;
 +     
 +     &lt;!-- GitHub Projects Showcase --&gt;
-+     &lt;div class=&quot;section-header text-center&quot; style=&quot;margin-top: 60px;&quot;&gt;
++     &lt;div class="section-header text-center" style="margin-top: 60px;"&gt;
 +       &lt;h2&gt;Our Open Source Projects&lt;/h2&gt;
 +       &lt;p&gt;Real implementations you can review, use, or contribute to.&lt;/p&gt;
 +     &lt;/div&gt;
 +     
-+     &lt;div class=&quot;projects-grid&quot;&gt;
++     &lt;div class="projects-grid"&gt;
 +       &lt;!-- Project 1 --&gt;
-+       &lt;div class=&quot;project-card&quot;&gt;
-+         &lt;div class=&quot;project-icon&quot;&gt;📊&lt;/div&gt;
++       &lt;div class="project-card"&gt;
++         &lt;div class="project-icon"&gt;📊&lt;/div&gt;
 +         &lt;h3&gt;work-hours-automated-reports&lt;/h3&gt;
-+         &lt;p class=&quot;project-tagline&quot;&gt;Automated Time Tracking &amp; Reporting&lt;/p&gt;
-+         &lt;p class=&quot;project-description&quot;&gt;
++         &lt;p class="project-tagline"&gt;Automated Time Tracking &amp; Reporting&lt;/p&gt;
++         &lt;p class="project-description"&gt;
 +           Fetches work hours from Clockify and matches them with Azure DevOps 
 +           work items. Generates detailed reports automatically—saving 10+ hours 
 +           per week in manual reconciliation.
 +         &lt;/p&gt;
-+         &lt;div class=&quot;project-meta&quot;&gt;
-+           &lt;span class=&quot;tech-badge&quot;&gt;Python&lt;/span&gt;
-+           &lt;span class=&quot;use-case&quot;&gt;Time Tracking | Data Sync&lt;/span&gt;
++         &lt;div class="project-meta"&gt;
++           &lt;span class="tech-badge"&gt;Python&lt;/span&gt;
++           &lt;span class="use-case"&gt;Time Tracking | Data Sync&lt;/span&gt;
 +         &lt;/div&gt;
-+         &lt;blockquote class=&quot;project-insight&quot;&gt;
-+           &quot;Manual time tracking across tools wastes hours every week. 
-+           This automation reduced our reporting time by 90%.&quot;
++         &lt;blockquote class="project-insight"&gt;
++           "Manual time tracking across tools wastes hours every week. 
++           This automation reduced our reporting time by 90%."
 +         &lt;/blockquote&gt;
-+         &lt;div class=&quot;project-ctas&quot;&gt;
-+           &lt;a href=&quot;https://github.com/Ai-Whisperers/work-hours-automated-reports&quot; 
-+              target=&quot;_blank&quot; class=&quot;btn btn-outline&quot;&gt;
++         &lt;div class="project-ctas"&gt;
++           &lt;a href="https://github.com/Ai-Whisperers/work-hours-automated-reports" 
++              target="_blank" class="btn btn-outline"&gt;
 +             View on GitHub →
 +           &lt;/a&gt;
-+           &lt;a href=&quot;/case-studies/time-tracking&quot; class=&quot;text-link&quot;&gt;
++           &lt;a href="/case-studies/time-tracking" class="text-link"&gt;
 +             Read Case Study
 +           &lt;/a&gt;
 +         &lt;/div&gt;
 +       &lt;/div&gt;
 +       
 +       &lt;!-- Project 2 --&gt;
-+       &lt;div class=&quot;project-card&quot;&gt;
-+         &lt;div class=&quot;project-icon&quot;&gt;🎥&lt;/div&gt;
++       &lt;div class="project-card"&gt;
++         &lt;div class="project-icon"&gt;🎥&lt;/div&gt;
 +         &lt;h3&gt;yt-transcript-headless&lt;/h3&gt;
-+         &lt;p class=&quot;project-tagline&quot;&gt;YouTube Transcript Automation Tool&lt;/p&gt;
-+         &lt;p class=&quot;project-description&quot;&gt;
++         &lt;p class="project-tagline"&gt;YouTube Transcript Automation Tool&lt;/p&gt;
++         &lt;p class="project-description"&gt;
 +           Headless extraction of YouTube video transcripts for content repurposing, 
 +           analysis, and AI training. Perfect for turning video content into blog 
 +           posts, social media, or training data.
 +         &lt;/p&gt;
-+         &lt;div class=&quot;project-meta&quot;&gt;
-+           &lt;span class=&quot;tech-badge&quot;&gt;TypeScript&lt;/span&gt;
-+           &lt;span class=&quot;use-case&quot;&gt;Content | Data Extraction&lt;/span&gt;
++         &lt;div class="project-meta"&gt;
++           &lt;span class="tech-badge"&gt;TypeScript&lt;/span&gt;
++           &lt;span class="use-case"&gt;Content | Data Extraction&lt;/span&gt;
 +         &lt;/div&gt;
-+         &lt;blockquote class=&quot;project-insight&quot;&gt;
-+           &quot;This tool is free and open source. Use it for your own projects.&quot;
++         &lt;blockquote class="project-insight"&gt;
++           "This tool is free and open source. Use it for your own projects."
 +         &lt;/blockquote&gt;
-+         &lt;div class=&quot;project-ctas&quot;&gt;
-+           &lt;a href=&quot;https://github.com/Ai-Whisperers/yt-transcript-headless&quot; 
-+              target=&quot;_blank&quot; class=&quot;btn btn-outline&quot;&gt;
++         &lt;div class="project-ctas"&gt;
++           &lt;a href="https://github.com/Ai-Whisperers/yt-transcript-headless" 
++              target="_blank" class="btn btn-outline"&gt;
 +             View on GitHub →
 +           &lt;/a&gt;
-+           &lt;a href=&quot;/tools/yt-transcript&quot; class=&quot;text-link&quot;&gt;
++           &lt;a href="/tools/yt-transcript" class="text-link"&gt;
 +             Try Live Demo
 +           &lt;/a&gt;
 +         &lt;/div&gt;
 +       &lt;/div&gt;
 +       
 +       &lt;!-- Project 3 --&gt;
-+       &lt;div class=&quot;project-card&quot;&gt;
-+         &lt;div class=&quot;project-icon&quot;&gt;🤖&lt;/div&gt;
++       &lt;div class="project-card"&gt;
++         &lt;div class="project-icon"&gt;🤖&lt;/div&gt;
 +         &lt;h3&gt;agentic-schemas&lt;/h3&gt;
-+         &lt;p class=&quot;project-tagline&quot;&gt;AI Agent Architecture Schemas&lt;/p&gt;
-+         &lt;p class=&quot;project-description&quot;&gt;
++         &lt;p class="project-tagline"&gt;AI Agent Architecture Schemas&lt;/p&gt;
++         &lt;p class="project-description"&gt;
 +           Framework and schemas for building intelligent agentic systems. 
 +           Standardized approaches to AI agent design, deployment, and 
 +           orchestration for enterprise applications.
 +         &lt;/p&gt;
-+         &lt;div class=&quot;project-meta&quot;&gt;
-+           &lt;span class=&quot;tech-badge&quot;&gt;JavaScript&lt;/span&gt;
-+           &lt;span class=&quot;use-case&quot;&gt;AI Agents | Architecture&lt;/span&gt;
++         &lt;div class="project-meta"&gt;
++           &lt;span class="tech-badge"&gt;JavaScript&lt;/span&gt;
++           &lt;span class="use-case"&gt;AI Agents | Architecture&lt;/span&gt;
 +         &lt;/div&gt;
-+         &lt;blockquote class=&quot;project-insight&quot;&gt;
-+           &quot;Reusable patterns and schemas for building production-ready AI agents.&quot;
++         &lt;blockquote class="project-insight"&gt;
++           "Reusable patterns and schemas for building production-ready AI agents."
 +         &lt;/blockquote&gt;
-+         &lt;div class=&quot;project-ctas&quot;&gt;
-+           &lt;a href=&quot;https://github.com/Ai-Whisperers/agentic-schemas&quot; 
-+              target=&quot;_blank&quot; class=&quot;btn btn-outline&quot;&gt;
++         &lt;div class="project-ctas"&gt;
++           &lt;a href="https://github.com/Ai-Whisperers/agentic-schemas" 
++              target="_blank" class="btn btn-outline"&gt;
 +             View on GitHub →
 +           &lt;/a&gt;
-+           &lt;a href=&quot;/docs/agentic-schemas&quot; class=&quot;text-link&quot;&gt;
++           &lt;a href="/docs/agentic-schemas" class="text-link"&gt;
 +             Read Documentation
 +           &lt;/a&gt;
 +         &lt;/div&gt;
@@ -9125,15 +9125,15 @@ Lines added: 455, lines removed: 1
 +     &lt;/div&gt;
 +     
 +     &lt;!-- Bottom CTA --&gt;
-+     &lt;div class=&quot;section-cta text-center&quot; style=&quot;margin-top: 60px;&quot;&gt;
++     &lt;div class="section-cta text-center" style="margin-top: 60px;"&gt;
 +       &lt;h3&gt;Want to see what we can build for your business?&lt;/h3&gt;
-+       &lt;p&gt;Let&#39;s discuss your automation opportunities—no sales pitch, just honest advice.&lt;/p&gt;
-+       &lt;a href=&quot;/contact&quot; class=&quot;btn btn-primary btn-large&quot;&gt;
++       &lt;p&gt;Let's discuss your automation opportunities—no sales pitch, just honest advice.&lt;/p&gt;
++       &lt;a href="/contact" class="btn btn-primary btn-large"&gt;
 +         Book Free Strategy Call
 +       &lt;/a&gt;
-+       &lt;p class=&quot;small-text&quot;&gt;
++       &lt;p class="small-text"&gt;
 +         Or explore more on 
-+         &lt;a href=&quot;https://github.com/orgs/Ai-Whisperers/repositories&quot; target=&quot;_blank&quot;&gt;
++         &lt;a href="https://github.com/orgs/Ai-Whisperers/repositories" target="_blank"&gt;
 +           our GitHub organization →
 +         &lt;/a&gt;
 +       &lt;/p&gt;
@@ -9174,10 +9174,10 @@ Lines added: 455, lines removed: 1
 + ## Messaging Strategy
 + 
 + ### Key Messages:
-+ 1. **Transparency**: &quot;We show our work, not just results&quot;
-+ 2. **Proof**: &quot;Check our GitHub—it&#39;s all there&quot;
-+ 3. **Practical**: &quot;We use what we sell&quot;
-+ 4. **Community**: &quot;Open source, collaborative innovation&quot;
++ 1. **Transparency**: "We show our work, not just results"
++ 2. **Proof**: "Check our GitHub—it's all there"
++ 3. **Practical**: "We use what we sell"
++ 4. **Community**: "Open source, collaborative innovation"
 + 
 + ### Tone:
 + - Confident but not arrogant
@@ -9186,9 +9186,9 @@ Lines added: 455, lines removed: 1
 + - Community-oriented
 + 
 + ### What NOT to Say:
-+ - ❌ &quot;We&#39;re the best&quot;
-+ - ❌ &quot;Revolutionary technology&quot;
-+ - ❌ &quot;Game-changing innovation&quot;
++ - ❌ "We're the best"
++ - ❌ "Revolutionary technology"
++ - ❌ "Game-changing innovation"
 + - ✅ Instead: Show the code, let it speak for itself
 + 
 + ---
@@ -9196,10 +9196,10 @@ Lines added: 455, lines removed: 1
 + ## Content Variations for A/B Testing
 + 
 + ### Headline Options:
-+ 1. &quot;Practitioners Who Build in Public&quot; ← **Recommended**
-+ 2. &quot;We Don&#39;t Just Talk—We Ship Code&quot;
-+ 3. &quot;Open Source AI Automation&quot;
-+ 4. &quot;Real Code, Not Just Consulting&quot;
++ 1. "Practitioners Who Build in Public" ← **Recommended**
++ 2. "We Don't Just Talk—We Ship Code"
++ 3. "Open Source AI Automation"
++ 4. "Real Code, Not Just Consulting"
 + 
 + ### Project Card Focus:
 + **Version A**: Technical details (languages, architecture)
@@ -9214,7 +9214,7 @@ Lines added: 455, lines removed: 1
 + - [ ] Add section after hero on homepage
 + - [ ] Update project descriptions with latest info
 + - [ ] Add links to all GitHub repos
-+ - [ ] Create &quot;Read Case Study&quot; pages (or link to GitHub README)
++ - [ ] Create "Read Case Study" pages (or link to GitHub README)
 + - [ ] Consider adding star/fork counts from GitHub
 + 
 + ### Technical:
@@ -9229,18 +9229,18 @@ Lines added: 455, lines removed: 1
 + - [ ] Live repo stats (stars, forks, last updated)
 + - [ ] Code snippet previews
 + - [ ] Video demos of tools in action
-+ - [ ] &quot;Featured on GitHub&quot; badge if applicable
++ - [ ] "Featured on GitHub" badge if applicable
 + 
 + ---
 + 
 + ## Expected Impact
 + 
 + ### Trust Building:
-+ - **Before**: &quot;They say they&#39;re technical&quot; → Skepticism
-+ - **After**: &quot;Here&#39;s their code&quot; → Instant credibility
++ - **Before**: "They say they're technical" → Skepticism
++ - **After**: "Here's their code" → Instant credibility
 + 
 + ### Differentiation:
-+ - 99% of consultants can&#39;t show GitHub
++ - 99% of consultants can't show GitHub
 + - You can → Massive competitive advantage
 + 
 + ### Conversions:
@@ -9268,7 +9268,7 @@ Lines added: 455, lines removed: 1
 + 
 + ---
 + 
-+ **This section turns your GitHub activity from a side note into your primary differentiator. No other consultant can compete with &quot;check our code.&quot; Use it! 🚀**
++ **This section turns your GitHub activity from a side note into your primary differentiator. No other consultant can compete with "check our code." Use it! 🚀**
 + 
 ```
 
@@ -9285,7 +9285,7 @@ I'll continue creating all the remaining files. Let me work through them systema
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: landing_page_edits/03-lead-capture-sections.md</summary>
+<details><summary>Tool use: **write** • Edit file: landing_page_edits/03-lead-capture-sections.md</summary>
 
 **Chunk 1**
 Lines added: 650, lines removed: 1
@@ -9297,8 +9297,8 @@ Lines added: 650, lines removed: 1
 + 
 + ## The Problem
 + 
-+ **Current site**: Only has &quot;Get in Touch&quot; contact form  
-+ **Issue**: You&#39;re losing 95%+ of interested visitors who aren&#39;t ready to contact you yet
++ **Current site**: Only has "Get in Touch" contact form  
++ **Issue**: You're losing 95%+ of interested visitors who aren't ready to contact you yet
 + 
 + **Solution**: Multiple lead capture points with varying levels of commitment
 + 
@@ -9399,7 +9399,7 @@ Lines added: 650, lines removed: 1
 + 
 + &#96;&#96;&#96;
 + ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-+ Enjoying What You&#39;re Reading?
++ Enjoying What You're Reading?
 + 
 + Get weekly AI automation insights, case studies, 
 + and actionable tips—delivered to your inbox.
@@ -9427,7 +9427,7 @@ Lines added: 650, lines removed: 1
 + ### Already Covered in 01-hero-section.md
 + 
 + &#96;&#96;&#96;html
-+ &lt;a href=&quot;/free-ai-audit&quot; class=&quot;btn btn-primary btn-large&quot;&gt;
++ &lt;a href="/free-ai-audit" class="btn btn-primary btn-large"&gt;
 +   Get Your Free AI Audit
 + &lt;/a&gt;
 + &#96;&#96;&#96;
@@ -9439,36 +9439,36 @@ Lines added: 650, lines removed: 1
 + ## 4. Mid-Page Content Upgrade
 + 
 + ### Placement:
-+ Between &quot;Projects&quot; and &quot;Why Partner With Us&quot; sections
++ Between "Projects" and "Why Partner With Us" sections
 + 
 + ### Content:
 + 
 + &#96;&#96;&#96;html
-+ &lt;section class=&quot;lead-capture-banner&quot;&gt;
-+   &lt;div class=&quot;container&quot;&gt;
-+     &lt;div class=&quot;banner-content&quot;&gt;
-+       &lt;div class=&quot;banner-text&quot;&gt;
++ &lt;section class="lead-capture-banner"&gt;
++   &lt;div class="container"&gt;
++     &lt;div class="banner-content"&gt;
++       &lt;div class="banner-text"&gt;
 +         &lt;h3&gt;Not Ready to Talk Yet? Start Here.&lt;/h3&gt;
 +         &lt;p&gt;
-+           Get our free &quot;AI Automation Opportunity Audit&quot; and discover 
++           Get our free "AI Automation Opportunity Audit" and discover 
 +           which processes you should automate first.
 +         &lt;/p&gt;
-+         &lt;ul class=&quot;checkmarks&quot;&gt;
++         &lt;ul class="checkmarks"&gt;
 +           &lt;li&gt;✓ Customized to your business&lt;/li&gt;
 +           &lt;li&gt;✓ Expected ROI calculations&lt;/li&gt;
 +           &lt;li&gt;✓ Tool recommendations&lt;/li&gt;
 +           &lt;li&gt;✓ 30-60-90 day roadmap&lt;/li&gt;
 +         &lt;/ul&gt;
 +       &lt;/div&gt;
-+       &lt;div class=&quot;banner-form&quot;&gt;
-+         &lt;form class=&quot;inline-lead-form&quot;&gt;
-+           &lt;input type=&quot;text&quot; placeholder=&quot;First Name&quot; required&gt;
-+           &lt;input type=&quot;email&quot; placeholder=&quot;Email Address&quot; required&gt;
-+           &lt;button type=&quot;submit&quot; class=&quot;btn btn-primary&quot;&gt;
++       &lt;div class="banner-form"&gt;
++         &lt;form class="inline-lead-form"&gt;
++           &lt;input type="text" placeholder="First Name" required&gt;
++           &lt;input type="email" placeholder="Email Address" required&gt;
++           &lt;button type="submit" class="btn btn-primary"&gt;
 +             Get Free Audit
 +           &lt;/button&gt;
 +         &lt;/form&gt;
-+         &lt;p class=&quot;form-disclaimer&quot;&gt;
++         &lt;p class="form-disclaimer"&gt;
 +           No credit card required. Instant delivery.
 +         &lt;/p&gt;
 +       &lt;/div&gt;
@@ -9492,23 +9492,23 @@ Lines added: 650, lines removed: 1
 + ### Content:
 + 
 + &#96;&#96;&#96;html
-+ &lt;section class=&quot;footer-newsletter&quot;&gt;
-+   &lt;div class=&quot;container&quot;&gt;
-+     &lt;div class=&quot;newsletter-content&quot;&gt;
++ &lt;section class="footer-newsletter"&gt;
++   &lt;div class="container"&gt;
++     &lt;div class="newsletter-content"&gt;
 +       &lt;h3&gt;Get Weekly AI Automation Insights&lt;/h3&gt;
 +       &lt;p&gt;
 +         Join 500+ professionals receiving practical tips, case studies, 
 +         and automation strategies every week.
 +       &lt;/p&gt;
-+       &lt;form class=&quot;newsletter-form&quot;&gt;
-+         &lt;input type=&quot;email&quot; 
-+                placeholder=&quot;Your email address&quot; 
++       &lt;form class="newsletter-form"&gt;
++         &lt;input type="email" 
++                placeholder="Your email address" 
 +                required&gt;
-+         &lt;button type=&quot;submit&quot; class=&quot;btn btn-secondary&quot;&gt;
++         &lt;button type="submit" class="btn btn-secondary"&gt;
 +           Subscribe
 +         &lt;/button&gt;
 +       &lt;/form&gt;
-+       &lt;p class=&quot;small-text&quot;&gt;
++       &lt;p class="small-text"&gt;
 +         No spam. Unsubscribe anytime. We respect your privacy.
 +       &lt;/p&gt;
 +     &lt;/div&gt;
@@ -9526,15 +9526,15 @@ Lines added: 650, lines removed: 1
 + ### Content:
 + 
 + &#96;&#96;&#96;html
-+ &lt;div class=&quot;sticky-sidebar-cta&quot;&gt;
-+   &lt;div class=&quot;cta-box&quot;&gt;
++ &lt;div class="sticky-sidebar-cta"&gt;
++   &lt;div class="cta-box"&gt;
 +     &lt;h4&gt;Ready to Automate?&lt;/h4&gt;
 +     &lt;p&gt;Get your free audit&lt;/p&gt;
-+     &lt;a href=&quot;/free-ai-audit&quot; class=&quot;btn btn-primary btn-block&quot;&gt;
++     &lt;a href="/free-ai-audit" class="btn btn-primary btn-block"&gt;
 +       Download Now
 +     &lt;/a&gt;
-+     &lt;p class=&quot;small-text&quot;&gt;Or&lt;/p&gt;
-+     &lt;a href=&quot;/contact&quot; class=&quot;btn btn-outline btn-block&quot;&gt;
++     &lt;p class="small-text"&gt;Or&lt;/p&gt;
++     &lt;a href="/contact" class="btn btn-outline btn-block"&gt;
 +       Book a Call
 +     &lt;/a&gt;
 +   &lt;/div&gt;
@@ -9544,7 +9544,7 @@ Lines added: 650, lines removed: 1
 + ### Behavior:
 + - Appears after user scrolls past hero
 + - Stays visible until footer
-+ - Doesn&#39;t obstruct content
++ - Doesn't obstruct content
 + 
 + ---
 + 
@@ -9560,26 +9560,26 @@ Lines added: 650, lines removed: 1
 + &lt;html&gt;
 + &lt;head&gt;
 +   &lt;title&gt;Free AI Automation Opportunity Audit | AI Whisperers&lt;/title&gt;
-+   &lt;meta name=&quot;description&quot; content=&quot;Discover which processes you should automate first. Get a free, customized AI automation opportunity report.&quot;&gt;
++   &lt;meta name="description" content="Discover which processes you should automate first. Get a free, customized AI automation opportunity report."&gt;
 + &lt;/head&gt;
 + &lt;body&gt;
-+   &lt;section class=&quot;lead-page-hero&quot;&gt;
-+     &lt;div class=&quot;container-narrow&quot;&gt;
++   &lt;section class="lead-page-hero"&gt;
++     &lt;div class="container-narrow"&gt;
 +       &lt;h1&gt;Discover Which Processes You Should Automate First&lt;/h1&gt;
-+       &lt;p class=&quot;lead-subtitle&quot;&gt;
++       &lt;p class="lead-subtitle"&gt;
 +         Get a custom AI automation opportunity report—showing you exactly 
-+         where you&#39;re losing time and money (and how to fix it)
++         where you're losing time and money (and how to fix it)
 +       &lt;/p&gt;
-+       &lt;p class=&quot;trust-bar&quot;&gt;
++       &lt;p class="trust-bar"&gt;
 +         ✓ No credit card required | ✓ Instant delivery | ✓ Completely free
 +       &lt;/p&gt;
 +     &lt;/div&gt;
 +   &lt;/section&gt;
 +   
-+   &lt;section class=&quot;lead-page-what-you-get&quot;&gt;
-+     &lt;div class=&quot;container-narrow&quot;&gt;
-+       &lt;h2&gt;What You&#39;ll Get:&lt;/h2&gt;
-+       &lt;ul class=&quot;benefit-list&quot;&gt;
++   &lt;section class="lead-page-what-you-get"&gt;
++     &lt;div class="container-narrow"&gt;
++       &lt;h2&gt;What You'll Get:&lt;/h2&gt;
++       &lt;ul class="benefit-list"&gt;
 +         &lt;li&gt;
 +           &lt;strong&gt;Process Efficiency Analysis&lt;/strong&gt;&lt;br&gt;
 +           Identify which processes are wasting the most time
@@ -9604,82 +9604,82 @@ Lines added: 650, lines removed: 1
 +     &lt;/div&gt;
 +   &lt;/section&gt;
 +   
-+   &lt;section class=&quot;lead-page-form&quot;&gt;
-+     &lt;div class=&quot;container-narrow&quot;&gt;
-+       &lt;div class=&quot;form-box&quot;&gt;
++   &lt;section class="lead-page-form"&gt;
++     &lt;div class="container-narrow"&gt;
++       &lt;div class="form-box"&gt;
 +         &lt;h2&gt;Get Your Free Audit&lt;/h2&gt;
 +         &lt;p&gt;Takes 2 minutes. Results delivered instantly.&lt;/p&gt;
 +         
-+         &lt;form id=&quot;lead-magnet-form&quot;&gt;
++         &lt;form id="lead-magnet-form"&gt;
 +           &lt;!-- Personal Info --&gt;
-+           &lt;div class=&quot;form-group&quot;&gt;
++           &lt;div class="form-group"&gt;
 +             &lt;label&gt;First Name *&lt;/label&gt;
-+             &lt;input type=&quot;text&quot; name=&quot;first_name&quot; required&gt;
++             &lt;input type="text" name="first_name" required&gt;
 +           &lt;/div&gt;
 +           
-+           &lt;div class=&quot;form-group&quot;&gt;
++           &lt;div class="form-group"&gt;
 +             &lt;label&gt;Email Address *&lt;/label&gt;
-+             &lt;input type=&quot;email&quot; name=&quot;email&quot; required&gt;
++             &lt;input type="email" name="email" required&gt;
 +           &lt;/div&gt;
 +           
-+           &lt;div class=&quot;form-group&quot;&gt;
++           &lt;div class="form-group"&gt;
 +             &lt;label&gt;Company Name *&lt;/label&gt;
-+             &lt;input type=&quot;text&quot; name=&quot;company&quot; required&gt;
++             &lt;input type="text" name="company" required&gt;
 +           &lt;/div&gt;
 +           
 +           &lt;!-- Business Context --&gt;
-+           &lt;div class=&quot;form-group&quot;&gt;
++           &lt;div class="form-group"&gt;
 +             &lt;label&gt;Industry *&lt;/label&gt;
-+             &lt;select name=&quot;industry&quot; required&gt;
-+               &lt;option value=&quot;&quot;&gt;Select your industry...&lt;/option&gt;
-+               &lt;option value=&quot;saas&quot;&gt;SaaS / Software&lt;/option&gt;
-+               &lt;option value=&quot;ecommerce&quot;&gt;E-commerce&lt;/option&gt;
-+               &lt;option value=&quot;consulting&quot;&gt;Consulting&lt;/option&gt;
-+               &lt;option value=&quot;agency&quot;&gt;Agency / Marketing&lt;/option&gt;
-+               &lt;option value=&quot;finance&quot;&gt;Finance / Banking&lt;/option&gt;
-+               &lt;option value=&quot;healthcare&quot;&gt;Healthcare&lt;/option&gt;
-+               &lt;option value=&quot;manufacturing&quot;&gt;Manufacturing&lt;/option&gt;
-+               &lt;option value=&quot;other&quot;&gt;Other&lt;/option&gt;
++             &lt;select name="industry" required&gt;
++               &lt;option value=""&gt;Select your industry...&lt;/option&gt;
++               &lt;option value="saas"&gt;SaaS / Software&lt;/option&gt;
++               &lt;option value="ecommerce"&gt;E-commerce&lt;/option&gt;
++               &lt;option value="consulting"&gt;Consulting&lt;/option&gt;
++               &lt;option value="agency"&gt;Agency / Marketing&lt;/option&gt;
++               &lt;option value="finance"&gt;Finance / Banking&lt;/option&gt;
++               &lt;option value="healthcare"&gt;Healthcare&lt;/option&gt;
++               &lt;option value="manufacturing"&gt;Manufacturing&lt;/option&gt;
++               &lt;option value="other"&gt;Other&lt;/option&gt;
 +             &lt;/select&gt;
 +           &lt;/div&gt;
 +           
-+           &lt;div class=&quot;form-group&quot;&gt;
++           &lt;div class="form-group"&gt;
 +             &lt;label&gt;Company Size *&lt;/label&gt;
-+             &lt;select name=&quot;company_size&quot; required&gt;
-+               &lt;option value=&quot;&quot;&gt;Select size...&lt;/option&gt;
-+               &lt;option value=&quot;solo&quot;&gt;Solo / 1 person&lt;/option&gt;
-+               &lt;option value=&quot;2-10&quot;&gt;2-10 employees&lt;/option&gt;
-+               &lt;option value=&quot;11-50&quot;&gt;11-50 employees&lt;/option&gt;
-+               &lt;option value=&quot;51-200&quot;&gt;51-200 employees&lt;/option&gt;
-+               &lt;option value=&quot;200+&quot;&gt;200+ employees&lt;/option&gt;
++             &lt;select name="company_size" required&gt;
++               &lt;option value=""&gt;Select size...&lt;/option&gt;
++               &lt;option value="solo"&gt;Solo / 1 person&lt;/option&gt;
++               &lt;option value="2-10"&gt;2-10 employees&lt;/option&gt;
++               &lt;option value="11-50"&gt;11-50 employees&lt;/option&gt;
++               &lt;option value="51-200"&gt;51-200 employees&lt;/option&gt;
++               &lt;option value="200+"&gt;200+ employees&lt;/option&gt;
 +             &lt;/select&gt;
 +           &lt;/div&gt;
 +           
 +           &lt;!-- Pain Points --&gt;
-+           &lt;div class=&quot;form-group&quot;&gt;
-+             &lt;label&gt;What&#39;s your biggest operational challenge? *&lt;/label&gt;
-+             &lt;textarea name=&quot;challenge&quot; rows=&quot;3&quot; required&gt;&lt;/textarea&gt;
++           &lt;div class="form-group"&gt;
++             &lt;label&gt;What's your biggest operational challenge? *&lt;/label&gt;
++             &lt;textarea name="challenge" rows="3" required&gt;&lt;/textarea&gt;
 +           &lt;/div&gt;
 +           
-+           &lt;div class=&quot;form-group&quot;&gt;
++           &lt;div class="form-group"&gt;
 +             &lt;label&gt;Hours per week spent on repetitive tasks *&lt;/label&gt;
-+             &lt;select name=&quot;hours_wasted&quot; required&gt;
-+               &lt;option value=&quot;&quot;&gt;Select range...&lt;/option&gt;
-+               &lt;option value=&quot;0-5&quot;&gt;Less than 5 hours&lt;/option&gt;
-+               &lt;option value=&quot;5-10&quot;&gt;5-10 hours&lt;/option&gt;
-+               &lt;option value=&quot;10-20&quot;&gt;10-20 hours&lt;/option&gt;
-+               &lt;option value=&quot;20+&quot;&gt;20+ hours (send help!)&lt;/option&gt;
++             &lt;select name="hours_wasted" required&gt;
++               &lt;option value=""&gt;Select range...&lt;/option&gt;
++               &lt;option value="0-5"&gt;Less than 5 hours&lt;/option&gt;
++               &lt;option value="5-10"&gt;5-10 hours&lt;/option&gt;
++               &lt;option value="10-20"&gt;10-20 hours&lt;/option&gt;
++               &lt;option value="20+"&gt;20+ hours (send help!)&lt;/option&gt;
 +             &lt;/select&gt;
 +           &lt;/div&gt;
 +           
 +           &lt;!-- Submit --&gt;
-+           &lt;div class=&quot;form-group&quot;&gt;
-+             &lt;button type=&quot;submit&quot; class=&quot;btn btn-primary btn-large btn-block&quot;&gt;
++           &lt;div class="form-group"&gt;
++             &lt;button type="submit" class="btn btn-primary btn-large btn-block"&gt;
 +               Get My Free Audit Report →
 +             &lt;/button&gt;
 +           &lt;/div&gt;
 +           
-+           &lt;p class=&quot;form-disclaimer&quot;&gt;
++           &lt;p class="form-disclaimer"&gt;
 +             We respect your privacy. Your information will never be shared. 
 +             Unsubscribe anytime.
 +           &lt;/p&gt;
@@ -9688,28 +9688,28 @@ Lines added: 650, lines removed: 1
 +     &lt;/div&gt;
 +   &lt;/section&gt;
 +   
-+   &lt;section class=&quot;lead-page-faq&quot;&gt;
-+     &lt;div class=&quot;container-narrow&quot;&gt;
++   &lt;section class="lead-page-faq"&gt;
++     &lt;div class="container-narrow"&gt;
 +       &lt;h2&gt;Frequently Asked Questions&lt;/h2&gt;
 +       
-+       &lt;div class=&quot;faq-item&quot;&gt;
++       &lt;div class="faq-item"&gt;
 +         &lt;h3&gt;Is this really free?&lt;/h3&gt;
 +         &lt;p&gt;Yes! No credit card required, no catch. We provide value first to earn your trust.&lt;/p&gt;
 +       &lt;/div&gt;
 +       
-+       &lt;div class=&quot;faq-item&quot;&gt;
++       &lt;div class="faq-item"&gt;
 +         &lt;h3&gt;How long does it take?&lt;/h3&gt;
-+         &lt;p&gt;The assessment takes 2 minutes. You&#39;ll receive your custom report via email within 24 hours.&lt;/p&gt;
++         &lt;p&gt;The assessment takes 2 minutes. You'll receive your custom report via email within 24 hours.&lt;/p&gt;
 +       &lt;/div&gt;
 +       
-+       &lt;div class=&quot;faq-item&quot;&gt;
++       &lt;div class="faq-item"&gt;
 +         &lt;h3&gt;What happens after I get the audit?&lt;/h3&gt;
-+         &lt;p&gt;That&#39;s up to you! Implement the recommendations yourself, or if you want help, we offer implementation services. No pressure either way.&lt;/p&gt;
++         &lt;p&gt;That's up to you! Implement the recommendations yourself, or if you want help, we offer implementation services. No pressure either way.&lt;/p&gt;
 +       &lt;/div&gt;
 +       
-+       &lt;div class=&quot;faq-item&quot;&gt;
++       &lt;div class="faq-item"&gt;
 +         &lt;h3&gt;Will I be spammed with sales calls?&lt;/h3&gt;
-+         &lt;p&gt;No. We&#39;ll send your report and one follow-up email asking if you have questions. That&#39;s it.&lt;/p&gt;
++         &lt;p&gt;No. We'll send your report and one follow-up email asking if you have questions. That's it.&lt;/p&gt;
 +       &lt;/div&gt;
 +     &lt;/div&gt;
 +   &lt;/section&gt;
@@ -9727,44 +9727,44 @@ Lines added: 650, lines removed: 1
 + ### Content:
 + 
 + &#96;&#96;&#96;html
-+ &lt;section class=&quot;thank-you-page&quot;&gt;
-+   &lt;div class=&quot;container-narrow text-center&quot;&gt;
-+     &lt;div class=&quot;success-icon&quot;&gt;✓&lt;/div&gt;
++ &lt;section class="thank-you-page"&gt;
++   &lt;div class="container-narrow text-center"&gt;
++     &lt;div class="success-icon"&gt;✓&lt;/div&gt;
 +     &lt;h1&gt;Check Your Email!&lt;/h1&gt;
-+     &lt;p class=&quot;lead&quot;&gt;
++     &lt;p class="lead"&gt;
 +       Your AI Automation Opportunity Audit is on its way.
 +     &lt;/p&gt;
 +     &lt;p&gt;
-+       We&#39;ve sent it to &lt;strong&gt;[email@address.com]&lt;/strong&gt;&lt;br&gt;
-+       (Check your spam folder if you don&#39;t see it in 5 minutes)
++       We've sent it to &lt;strong&gt;[email@address.com]&lt;/strong&gt;&lt;br&gt;
++       (Check your spam folder if you don't see it in 5 minutes)
 +     &lt;/p&gt;
 +     
 +     &lt;hr&gt;
 +     
 +     &lt;h2&gt;While You Wait...&lt;/h2&gt;
 +     
-+     &lt;div class=&quot;next-steps&quot;&gt;
-+       &lt;div class=&quot;next-step-card&quot;&gt;
++     &lt;div class="next-steps"&gt;
++       &lt;div class="next-step-card"&gt;
 +         &lt;h3&gt;📊 Explore Our GitHub&lt;/h3&gt;
 +         &lt;p&gt;See real automation projects and open-source tools&lt;/p&gt;
-+         &lt;a href=&quot;https://github.com/orgs/Ai-Whisperers/repositories&quot; 
-+            class=&quot;btn btn-outline&quot;&gt;
++         &lt;a href="https://github.com/orgs/Ai-Whisperers/repositories" 
++            class="btn btn-outline"&gt;
 +           View on GitHub →
 +         &lt;/a&gt;
 +       &lt;/div&gt;
 +       
-+       &lt;div class=&quot;next-step-card&quot;&gt;
++       &lt;div class="next-step-card"&gt;
 +         &lt;h3&gt;📚 Read Case Studies&lt;/h3&gt;
-+         &lt;p&gt;See how we&#39;ve helped companies like yours&lt;/p&gt;
-+         &lt;a href=&quot;/clients&quot; class=&quot;btn btn-outline&quot;&gt;
++         &lt;p&gt;See how we've helped companies like yours&lt;/p&gt;
++         &lt;a href="/clients" class="btn btn-outline"&gt;
 +           View Case Studies →
 +         &lt;/a&gt;
 +       &lt;/div&gt;
 +       
-+       &lt;div class=&quot;next-step-card&quot;&gt;
++       &lt;div class="next-step-card"&gt;
 +         &lt;h3&gt;📞 Book a Strategy Call&lt;/h3&gt;
-+         &lt;p&gt;Want to discuss your situation? Let&#39;s talk.&lt;/p&gt;
-+         &lt;a href=&quot;/contact&quot; class=&quot;btn btn-primary&quot;&gt;
++         &lt;p&gt;Want to discuss your situation? Let's talk.&lt;/p&gt;
++         &lt;a href="/contact" class="btn btn-primary"&gt;
 +           Schedule Call →
 +         &lt;/a&gt;
 +       &lt;/div&gt;
@@ -9773,10 +9773,10 @@ Lines added: 650, lines removed: 1
 +     &lt;hr&gt;
 +     
 +     &lt;h3&gt;Follow Us for More Insights&lt;/h3&gt;
-+     &lt;div class=&quot;social-links&quot;&gt;
-+       &lt;a href=&quot;[LinkedIn URL]&quot;&gt;LinkedIn&lt;/a&gt;
-+       &lt;a href=&quot;[Twitter URL]&quot;&gt;Twitter&lt;/a&gt;
-+       &lt;a href=&quot;[GitHub URL]&quot;&gt;GitHub&lt;/a&gt;
++     &lt;div class="social-links"&gt;
++       &lt;a href="[LinkedIn URL]"&gt;LinkedIn&lt;/a&gt;
++       &lt;a href="[Twitter URL]"&gt;Twitter&lt;/a&gt;
++       &lt;a href="[GitHub URL]"&gt;GitHub&lt;/a&gt;
 +     &lt;/div&gt;
 +   &lt;/div&gt;
 + &lt;/section&gt;
@@ -9819,7 +9819,7 @@ Lines added: 650, lines removed: 1
 + 
 + 3. **Create Email Template**:
 +    &#96;&#96;&#96;
-+    Subject: Here&#39;s Your AI Automation Opportunity Audit
++    Subject: Here's Your AI Automation Opportunity Audit
 + 
 +    Hi [First Name],
 + 
@@ -9882,8 +9882,8 @@ Lines added: 650, lines removed: 1
 +     }
 +   };
 +   
-+   document.addEventListener(&#39;mouseleave&#39;, handleMouseLeave);
-+   return () =&gt; document.removeEventListener(&#39;mouseleave&#39;, handleMouseLeave);
++   document.addEventListener('mouseleave', handleMouseLeave);
++   return () =&gt; document.removeEventListener('mouseleave', handleMouseLeave);
 + }, []);
 + &#96;&#96;&#96;
 + 
@@ -9958,7 +9958,7 @@ I'll continue creating the remaining files. Let me proceed with file 04 through 
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: landing_page_edits/04-how-we-work.md</summary>
+<details><summary>Tool use: **write** • Edit file: landing_page_edits/04-how-we-work.md</summary>
 
 **Chunk 1**
 Lines added: 510, lines removed: 1
@@ -9972,7 +9972,7 @@ Lines added: 510, lines removed: 1
 + 
 + **Goal**: Remove uncertainty and objections by showing exactly what clients can expect
 + 
-+ **Problem clients have**: &quot;What&#39;s the process? How long will it take? What&#39;s my involvement?&quot;
++ **Problem clients have**: "What's the process? How long will it take? What's my involvement?"
 + 
 + **This section answers**: Everything, clearly and transparently
 + 
@@ -9982,7 +9982,7 @@ Lines added: 510, lines removed: 1
 + 
 + **Location**: After Projects/Testimonials, before Services/Pricing
 + 
-+ **Why**: Once they&#39;re interested, they need to understand the process before they&#39;ll commit
++ **Why**: Once they're interested, they need to understand the process before they'll commit
 + 
 + ---
 + 
@@ -9994,9 +9994,9 @@ Lines added: 510, lines removed: 1
 + &#96;&#96;&#96;
 + 
 + **Alternative Headlines**:
-+ - &quot;Your Path to Automation&quot;
-+ - &quot;From Discovery to Deployment in 4 Weeks&quot;
-+ - &quot;Our Proven Implementation Process&quot;
++ - "Your Path to Automation"
++ - "From Discovery to Deployment in 4 Weeks"
++ - "Our Proven Implementation Process"
 + 
 + ---
 + 
@@ -10126,7 +10126,7 @@ Lines added: 510, lines removed: 1
 + • Decide on additional automations
 + 
 + What You Get:
-+ • Peace of mind knowing we&#39;re here
++ • Peace of mind knowing we're here
 + • Continuous improvement suggestions
 + • Performance metrics and ROI tracking
 + • Option to expand automations
@@ -10140,29 +10140,29 @@ Lines added: 510, lines removed: 1
 + ## Complete HTML Structure
 + 
 + &#96;&#96;&#96;html
-+ &lt;section class=&quot;how-we-work&quot;&gt;
-+   &lt;div class=&quot;container&quot;&gt;
++ &lt;section class="how-we-work"&gt;
++   &lt;div class="container"&gt;
 +     &lt;!-- Section Header --&gt;
-+     &lt;div class=&quot;section-header text-center&quot;&gt;
++     &lt;div class="section-header text-center"&gt;
 +       &lt;h2&gt;How We Work&lt;/h2&gt;
-+       &lt;p class=&quot;section-subheadline&quot;&gt;
++       &lt;p class="section-subheadline"&gt;
 +         A transparent, proven process that delivers results—fast.&lt;br&gt;
 +         Most implementations complete in 30 days or less.
 +       &lt;/p&gt;
 +     &lt;/div&gt;
 +     
 +     &lt;!-- Process Timeline --&gt;
-+     &lt;div class=&quot;process-timeline&quot;&gt;
++     &lt;div class="process-timeline"&gt;
 +       
 +       &lt;!-- Week 1 --&gt;
-+       &lt;div class=&quot;process-step&quot;&gt;
-+         &lt;div class=&quot;step-number&quot;&gt;1&lt;/div&gt;
-+         &lt;div class=&quot;step-content&quot;&gt;
++       &lt;div class="process-step"&gt;
++         &lt;div class="step-number"&gt;1&lt;/div&gt;
++         &lt;div class="step-content"&gt;
 +           &lt;h3&gt;Discovery &amp; Strategy&lt;/h3&gt;
-+           &lt;p class=&quot;step-duration&quot;&gt;Week 1&lt;/p&gt;
++           &lt;p class="step-duration"&gt;Week 1&lt;/p&gt;
 +           
-+           &lt;div class=&quot;step-details&quot;&gt;
-+             &lt;div class=&quot;detail-block&quot;&gt;
++           &lt;div class="step-details"&gt;
++             &lt;div class="detail-block"&gt;
 +               &lt;h4&gt;What Happens:&lt;/h4&gt;
 +               &lt;ul&gt;
 +                 &lt;li&gt;Kickoff call to understand your business and goals&lt;/li&gt;
@@ -10173,7 +10173,7 @@ Lines added: 510, lines removed: 1
 +               &lt;/ul&gt;
 +             &lt;/div&gt;
 +             
-+             &lt;div class=&quot;detail-block&quot;&gt;
++             &lt;div class="detail-block"&gt;
 +               &lt;h4&gt;Your Involvement:&lt;/h4&gt;
 +               &lt;ul&gt;
 +                 &lt;li&gt;2-3 hours of interviews with key team members&lt;/li&gt;
@@ -10182,9 +10182,9 @@ Lines added: 510, lines removed: 1
 +               &lt;/ul&gt;
 +             &lt;/div&gt;
 +             
-+             &lt;div class=&quot;detail-block&quot;&gt;
++             &lt;div class="detail-block"&gt;
 +               &lt;h4&gt;Deliverable:&lt;/h4&gt;
-+               &lt;p class=&quot;deliverable&quot;&gt;
++               &lt;p class="deliverable"&gt;
 +                 Strategy Document (15-20 pages) with process documentation, 
 +                 automation opportunities, implementation roadmap, and ROI projections
 +               &lt;/p&gt;
@@ -10194,14 +10194,14 @@ Lines added: 510, lines removed: 1
 +       &lt;/div&gt;
 +       
 +       &lt;!-- Week 2-3 --&gt;
-+       &lt;div class=&quot;process-step&quot;&gt;
-+         &lt;div class=&quot;step-number&quot;&gt;2&lt;/div&gt;
-+         &lt;div class=&quot;step-content&quot;&gt;
++       &lt;div class="process-step"&gt;
++         &lt;div class="step-number"&gt;2&lt;/div&gt;
++         &lt;div class="step-content"&gt;
 +           &lt;h3&gt;Build &amp; Implementation&lt;/h3&gt;
-+           &lt;p class=&quot;step-duration&quot;&gt;Week 2-3&lt;/p&gt;
++           &lt;p class="step-duration"&gt;Week 2-3&lt;/p&gt;
 +           
-+           &lt;div class=&quot;step-details&quot;&gt;
-+             &lt;div class=&quot;detail-block&quot;&gt;
++           &lt;div class="step-details"&gt;
++             &lt;div class="detail-block"&gt;
 +               &lt;h4&gt;What Happens:&lt;/h4&gt;
 +               &lt;ul&gt;
 +                 &lt;li&gt;Configure and integrate all automation tools&lt;/li&gt;
@@ -10212,7 +10212,7 @@ Lines added: 510, lines removed: 1
 +               &lt;/ul&gt;
 +             &lt;/div&gt;
 +             
-+             &lt;div class=&quot;detail-block&quot;&gt;
++             &lt;div class="detail-block"&gt;
 +               &lt;h4&gt;Your Involvement:&lt;/h4&gt;
 +               &lt;ul&gt;
 +                 &lt;li&gt;Weekly check-in calls (30 minutes)&lt;/li&gt;
@@ -10222,9 +10222,9 @@ Lines added: 510, lines removed: 1
 +               &lt;/ul&gt;
 +             &lt;/div&gt;
 +             
-+             &lt;div class=&quot;detail-block&quot;&gt;
++             &lt;div class="detail-block"&gt;
 +               &lt;h4&gt;Deliverable:&lt;/h4&gt;
-+               &lt;p class=&quot;deliverable&quot;&gt;
++               &lt;p class="deliverable"&gt;
 +                 Implemented Automations (Staging) with complete documentation, 
 +                 testing results, and progress updates
 +               &lt;/p&gt;
@@ -10234,14 +10234,14 @@ Lines added: 510, lines removed: 1
 +       &lt;/div&gt;
 +       
 +       &lt;!-- Week 4 --&gt;
-+       &lt;div class=&quot;process-step&quot;&gt;
-+         &lt;div class=&quot;step-number&quot;&gt;3&lt;/div&gt;
-+         &lt;div class=&quot;step-content&quot;&gt;
++       &lt;div class="process-step"&gt;
++         &lt;div class="step-number"&gt;3&lt;/div&gt;
++         &lt;div class="step-content"&gt;
 +           &lt;h3&gt;Training &amp; Launch&lt;/h3&gt;
-+           &lt;p class=&quot;step-duration&quot;&gt;Week 4&lt;/p&gt;
++           &lt;p class="step-duration"&gt;Week 4&lt;/p&gt;
 +           
-+           &lt;div class=&quot;step-details&quot;&gt;
-+             &lt;div class=&quot;detail-block&quot;&gt;
++           &lt;div class="step-details"&gt;
++             &lt;div class="detail-block"&gt;
 +               &lt;h4&gt;What Happens:&lt;/h4&gt;
 +               &lt;ul&gt;
 +                 &lt;li&gt;Train your team on the new automations&lt;/li&gt;
@@ -10252,7 +10252,7 @@ Lines added: 510, lines removed: 1
 +               &lt;/ul&gt;
 +             &lt;/div&gt;
 +             
-+             &lt;div class=&quot;detail-block&quot;&gt;
++             &lt;div class="detail-block"&gt;
 +               &lt;h4&gt;Your Involvement:&lt;/h4&gt;
 +               &lt;ul&gt;
 +                 &lt;li&gt;Attend training sessions (1-2 hours)&lt;/li&gt;
@@ -10262,9 +10262,9 @@ Lines added: 510, lines removed: 1
 +               &lt;/ul&gt;
 +             &lt;/div&gt;
 +             
-+             &lt;div class=&quot;detail-block&quot;&gt;
++             &lt;div class="detail-block"&gt;
 +               &lt;h4&gt;Deliverable:&lt;/h4&gt;
-+               &lt;p class=&quot;deliverable&quot;&gt;
++               &lt;p class="deliverable"&gt;
 +                 Live Automations + Complete Documentation including trained team, 
 +                 SOPs, admin access, and performance dashboards
 +               &lt;/p&gt;
@@ -10274,14 +10274,14 @@ Lines added: 510, lines removed: 1
 +       &lt;/div&gt;
 +       
 +       &lt;!-- Ongoing --&gt;
-+       &lt;div class=&quot;process-step&quot;&gt;
-+         &lt;div class=&quot;step-number&quot;&gt;4&lt;/div&gt;
-+         &lt;div class=&quot;step-content&quot;&gt;
++       &lt;div class="process-step"&gt;
++         &lt;div class="step-number"&gt;4&lt;/div&gt;
++         &lt;div class="step-content"&gt;
 +           &lt;h3&gt;Support &amp; Optimization&lt;/h3&gt;
-+           &lt;p class=&quot;step-duration&quot;&gt;Ongoing (90 days included)&lt;/p&gt;
++           &lt;p class="step-duration"&gt;Ongoing (90 days included)&lt;/p&gt;
 +           
-+           &lt;div class=&quot;step-details&quot;&gt;
-+             &lt;div class=&quot;detail-block&quot;&gt;
++           &lt;div class="step-details"&gt;
++             &lt;div class="detail-block"&gt;
 +               &lt;h4&gt;What Happens:&lt;/h4&gt;
 +               &lt;ul&gt;
 +                 &lt;li&gt;90 days of included support&lt;/li&gt;
@@ -10292,7 +10292,7 @@ Lines added: 510, lines removed: 1
 +               &lt;/ul&gt;
 +             &lt;/div&gt;
 +             
-+             &lt;div class=&quot;detail-block&quot;&gt;
++             &lt;div class="detail-block"&gt;
 +               &lt;h4&gt;Your Involvement:&lt;/h4&gt;
 +               &lt;ul&gt;
 +                 &lt;li&gt;Report any issues (we respond within 24 hours)&lt;/li&gt;
@@ -10301,9 +10301,9 @@ Lines added: 510, lines removed: 1
 +               &lt;/ul&gt;
 +             &lt;/div&gt;
 +             
-+             &lt;div class=&quot;detail-block&quot;&gt;
++             &lt;div class="detail-block"&gt;
 +               &lt;h4&gt;Deliverable:&lt;/h4&gt;
-+               &lt;p class=&quot;deliverable&quot;&gt;
++               &lt;p class="deliverable"&gt;
 +                 Ongoing Support &amp; Optimization with continuous improvement, 
 +                 performance tracking, and expansion opportunities
 +               &lt;/p&gt;
@@ -10315,26 +10315,26 @@ Lines added: 510, lines removed: 1
 +     &lt;/div&gt;
 +     
 +     &lt;!-- Key Promises --&gt;
-+     &lt;div class=&quot;process-promises&quot;&gt;
++     &lt;div class="process-promises"&gt;
 +       &lt;h3&gt;What Makes Our Process Different:&lt;/h3&gt;
-+       &lt;div class=&quot;promises-grid&quot;&gt;
-+         &lt;div class=&quot;promise&quot;&gt;
-+           &lt;div class=&quot;promise-icon&quot;&gt;⚡&lt;/div&gt;
++       &lt;div class="promises-grid"&gt;
++         &lt;div class="promise"&gt;
++           &lt;div class="promise-icon"&gt;⚡&lt;/div&gt;
 +           &lt;h4&gt;Fast Implementation&lt;/h4&gt;
 +           &lt;p&gt;Most projects complete in 30 days. No 6-month timelines.&lt;/p&gt;
 +         &lt;/div&gt;
-+         &lt;div class=&quot;promise&quot;&gt;
-+           &lt;div class=&quot;promise-icon&quot;&gt;📊&lt;/div&gt;
++         &lt;div class="promise"&gt;
++           &lt;div class="promise-icon"&gt;📊&lt;/div&gt;
 +           &lt;h4&gt;Transparent Progress&lt;/h4&gt;
-+           &lt;p&gt;You see what we&#39;re building in real-time. No black boxes.&lt;/p&gt;
++           &lt;p&gt;You see what we're building in real-time. No black boxes.&lt;/p&gt;
 +         &lt;/div&gt;
-+         &lt;div class=&quot;promise&quot;&gt;
-+           &lt;div class=&quot;promise-icon&quot;&gt;🎓&lt;/div&gt;
++         &lt;div class="promise"&gt;
++           &lt;div class="promise-icon"&gt;🎓&lt;/div&gt;
 +           &lt;h4&gt;Knowledge Transfer&lt;/h4&gt;
-+           &lt;p&gt;We train your team. You&#39;re not dependent on us forever.&lt;/p&gt;
++           &lt;p&gt;We train your team. You're not dependent on us forever.&lt;/p&gt;
 +         &lt;/div&gt;
-+         &lt;div class=&quot;promise&quot;&gt;
-+           &lt;div class=&quot;promise-icon&quot;&gt;✅&lt;/div&gt;
++         &lt;div class="promise"&gt;
++           &lt;div class="promise-icon"&gt;✅&lt;/div&gt;
 +           &lt;h4&gt;Proven Process&lt;/h4&gt;
 +           &lt;p&gt;Refined over 50+ projects. We know what works.&lt;/p&gt;
 +         &lt;/div&gt;
@@ -10342,14 +10342,14 @@ Lines added: 510, lines removed: 1
 +     &lt;/div&gt;
 +     
 +     &lt;!-- CTA --&gt;
-+     &lt;div class=&quot;section-cta text-center&quot;&gt;
++     &lt;div class="section-cta text-center"&gt;
 +       &lt;h3&gt;Ready to Get Started?&lt;/h3&gt;
-+       &lt;p&gt;Book a free strategy call and we&#39;ll walk through exactly how we&#39;d approach your situation.&lt;/p&gt;
-+       &lt;a href=&quot;/contact&quot; class=&quot;btn btn-primary btn-large&quot;&gt;
++       &lt;p&gt;Book a free strategy call and we'll walk through exactly how we'd approach your situation.&lt;/p&gt;
++       &lt;a href="/contact" class="btn btn-primary btn-large"&gt;
 +         Book Free Strategy Call
 +       &lt;/a&gt;
-+       &lt;p class=&quot;small-text&quot;&gt;
-+         Or &lt;a href=&quot;/free-ai-audit&quot;&gt;get your free automation audit first&lt;/a&gt;
++       &lt;p class="small-text"&gt;
++         Or &lt;a href="/free-ai-audit"&gt;get your free automation audit first&lt;/a&gt;
 +       &lt;/p&gt;
 +     &lt;/div&gt;
 +   &lt;/div&gt;
@@ -10383,15 +10383,15 @@ Lines added: 510, lines removed: 1
 + ## Alternative: Accordion Version (Mobile-Friendly)
 + 
 + &#96;&#96;&#96;html
-+ &lt;div class=&quot;process-accordion&quot;&gt;
-+   &lt;div class=&quot;accordion-item&quot;&gt;
-+     &lt;button class=&quot;accordion-header&quot;&gt;
-+       &lt;span class=&quot;step-number&quot;&gt;1&lt;/span&gt;
-+       &lt;span class=&quot;step-title&quot;&gt;Discovery &amp; Strategy&lt;/span&gt;
-+       &lt;span class=&quot;step-duration&quot;&gt;Week 1&lt;/span&gt;
-+       &lt;span class=&quot;accordion-icon&quot;&gt;+&lt;/span&gt;
++ &lt;div class="process-accordion"&gt;
++   &lt;div class="accordion-item"&gt;
++     &lt;button class="accordion-header"&gt;
++       &lt;span class="step-number"&gt;1&lt;/span&gt;
++       &lt;span class="step-title"&gt;Discovery &amp; Strategy&lt;/span&gt;
++       &lt;span class="step-duration"&gt;Week 1&lt;/span&gt;
++       &lt;span class="accordion-icon"&gt;+&lt;/span&gt;
 +     &lt;/button&gt;
-+     &lt;div class=&quot;accordion-content&quot;&gt;
++     &lt;div class="accordion-content"&gt;
 +       [Content from above]
 +     &lt;/div&gt;
 +   &lt;/div&gt;
@@ -10406,7 +10406,7 @@ Lines added: 510, lines removed: 1
 + ### Common Questions About Our Process:
 + 
 + **Q: Can we go faster than 4 weeks?**
-+ A: Yes! For smaller projects (1-3 automations), we can often complete in 2 weeks. We&#39;ll discuss timeline during discovery.
++ A: Yes! For smaller projects (1-3 automations), we can often complete in 2 weeks. We'll discuss timeline during discovery.
 + 
 + **Q: What if we need changes after launch?**
 + A: 90 days of support is included. Changes, optimizations, and bug fixes are covered. After that, we offer monthly retainers.
@@ -10414,18 +10414,18 @@ Lines added: 510, lines removed: 1
 + **Q: Do we need technical skills?**
 + A: No. We handle all technical work and train your team to use (not build) the automations. If you can use email, you can use our automations.
 + 
-+ **Q: What if it doesn&#39;t work?**
-+ A: We guarantee measurable results. If you don&#39;t see ROI within 90 days, we&#39;ll continue optimizing at no additional cost until you do.
++ **Q: What if it doesn't work?**
++ A: We guarantee measurable results. If you don't see ROI within 90 days, we'll continue optimizing at no additional cost until you do.
 + 
 + **Q: Can we start with a pilot project?**
-+ A: Absolutely. Many clients start with a &quot;Quick Wins&quot; package (1-3 automations) to prove ROI before expanding.
++ A: Absolutely. Many clients start with a "Quick Wins" package (1-3 automations) to prove ROI before expanding.
 + 
 + ---
 + 
 + ## Implementation Checklist
 + 
 + ### Content:
-+ - [ ] Add &quot;How We Work&quot; section to homepage or dedicated page
++ - [ ] Add "How We Work" section to homepage or dedicated page
 + - [ ] Customize timeline based on your actual process
 + - [ ] Add real examples from past projects
 + - [ ] Include client testimonials about the process
@@ -10447,9 +10447,9 @@ Lines added: 510, lines removed: 1
 + ## Expected Impact
 + 
 + ### Before:
-+ - &quot;What&#39;s the process?&quot; → Uncertainty → Abandoned
-+ - &quot;How long will it take?&quot; → Unknown → Hesitation
-+ - &quot;What&#39;s my involvement?&quot; → Unclear → Not ready
++ - "What's the process?" → Uncertainty → Abandoned
++ - "How long will it take?" → Unknown → Hesitation
++ - "What's my involvement?" → Unclear → Not ready
 + 
 + ### After:
 + - Clear expectations
@@ -10469,12 +10469,12 @@ Lines added: 510, lines removed: 1
 + 1. ✅ **Customize timeline** to match your actual process
 + 2. ✅ **Add to homepage** after projects section
 + 3. ✅ **Link from services page** and pricing
-+ 4. ✅ **Reference in sales calls** (&quot;As you saw on our site...&quot;)
++ 4. ✅ **Reference in sales calls** ("As you saw on our site...")
 + 5. ✅ **Update based on feedback** (what questions still come up?)
 + 
 + ---
 + 
-+ **Transparency sells. This section removes fear and builds confidence. It&#39;s the difference between &quot;maybe&quot; and &quot;let&#39;s do this.&quot; 🚀**
++ **Transparency sells. This section removes fear and builds confidence. It's the difference between "maybe" and "let's do this." 🚀**
 + 
 ```
 
@@ -10495,7 +10495,7 @@ I'll continue creating the remaining files. Let me proceed with files 05-12:
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: landing_page_edits/05-about-us.md</summary>
+<details><summary>Tool use: **write** • Edit file: landing_page_edits/05-about-us.md</summary>
 
 **Chunk 1**
 Lines added: 485, lines removed: 1
@@ -10509,7 +10509,7 @@ Lines added: 485, lines removed: 1
 + 
 + **Goal**: Build trust and connection through authentic story and values
 + 
-+ **Key message**: We&#39;re not your typical consultants—we&#39;re practitioners who build in public
++ **Key message**: We're not your typical consultants—we're practitioners who build in public
 + 
 + ---
 + 
@@ -10533,13 +10533,13 @@ Lines added: 485, lines removed: 1
 + ### CONTENT
 + 
 + &#96;&#96;&#96;
-+ We&#39;re not your typical AI consultants.
++ We're not your typical AI consultants.
 + 
-+ We&#39;re a team of engineers and automation specialists who believe in 
++ We're a team of engineers and automation specialists who believe in 
 + transparency, open source, and showing our work.
 + 
 + While other consultants create PowerPoint decks, we ship code. 
-+ While they talk about AI&#39;s potential, we build working implementations.
++ While they talk about AI's potential, we build working implementations.
 + 
 + Our mission is simple: Make AI automation accessible, practical, and 
 + profitable for businesses of all sizes.
@@ -10550,7 +10550,7 @@ Lines added: 485, lines removed: 1
 + • Teaching what we learn
 + • Delivering measurable results
 + 
-+ Founded in [Year], we&#39;ve helped 50+ companies cut operational costs 
++ Founded in [Year], we've helped 50+ companies cut operational costs 
 + by an average of 40% while improving output. From solopreneurs to 
 + enterprises, we bring the same commitment to results.
 + 
@@ -10572,10 +10572,10 @@ Lines added: 485, lines removed: 1
 + &lt;body&gt;
 +   
 +   &lt;!-- Hero Section --&gt;
-+   &lt;section class=&quot;about-hero&quot;&gt;
-+     &lt;div class=&quot;container&quot;&gt;
++   &lt;section class="about-hero"&gt;
++     &lt;div class="container"&gt;
 +       &lt;h1&gt;We Build AI Automations That Actually Work&lt;/h1&gt;
-+       &lt;p class=&quot;lead&quot;&gt;
++       &lt;p class="lead"&gt;
 +         AI Whisperers is on a mission to make AI automation accessible, 
 +         practical, and profitable for businesses of all sizes.
 +       &lt;/p&gt;
@@ -10583,11 +10583,11 @@ Lines added: 485, lines removed: 1
 +   &lt;/section&gt;
 +   
 +   &lt;!-- Our Story --&gt;
-+   &lt;section class=&quot;our-story&quot;&gt;
-+     &lt;div class=&quot;container&quot;&gt;
++   &lt;section class="our-story"&gt;
++     &lt;div class="container"&gt;
 +       &lt;h2&gt;Our Story&lt;/h2&gt;
 +       
-+       &lt;div class=&quot;story-content&quot;&gt;
++       &lt;div class="story-content"&gt;
 +         &lt;p&gt;
 +           AI Whisperers was born from frustration.
 +         &lt;/p&gt;
@@ -10610,51 +10610,51 @@ Lines added: 485, lines removed: 1
 +         
 +         &lt;p&gt;
 +           We shared our tools on GitHub. The response was immediate. 
-+           &quot;Can you help us do this?&quot; became a common question.
++           "Can you help us do this?" became a common question.
 +         &lt;/p&gt;
 +         
 +         &lt;p&gt;
-+           That&#39;s how AI Whisperers became a company. We don&#39;t just consult—we 
-+           implement. We don&#39;t hide behind NDAs—we build in public. We don&#39;t 
++           That's how AI Whisperers became a company. We don't just consult—we 
++           implement. We don't hide behind NDAs—we build in public. We don't 
 +           promise magic—we deliver measurable results.
 +         &lt;/p&gt;
 +         
 +         &lt;p&gt;
-+           Today, we&#39;ve helped 50+ companies across industries automate their 
++           Today, we've helped 50+ companies across industries automate their 
 +           operations, reduce costs by an average of 40%, and reclaim thousands 
 +           of hours.
 +         &lt;/p&gt;
 +         
 +         &lt;p&gt;
-+           But we&#39;re just getting started.
++           But we're just getting started.
 +         &lt;/p&gt;
 +       &lt;/div&gt;
 +     &lt;/div&gt;
 +   &lt;/section&gt;
 +   
 +   &lt;!-- Our Mission --&gt;
-+   &lt;section class=&quot;our-mission&quot;&gt;
-+     &lt;div class=&quot;container&quot;&gt;
++   &lt;section class="our-mission"&gt;
++     &lt;div class="container"&gt;
 +       &lt;h2&gt;Our Mission&lt;/h2&gt;
 +       
-+       &lt;div class=&quot;mission-statement&quot;&gt;
-+         &lt;p class=&quot;large-text&quot;&gt;
++       &lt;div class="mission-statement"&gt;
++         &lt;p class="large-text"&gt;
 +           Make AI automation accessible, practical, and profitable 
 +           for businesses of all sizes.
 +         &lt;/p&gt;
 +       &lt;/div&gt;
 +       
-+       &lt;div class=&quot;mission-details&quot;&gt;
-+         &lt;div class=&quot;mission-point&quot;&gt;
++       &lt;div class="mission-details"&gt;
++         &lt;div class="mission-point"&gt;
 +           &lt;h3&gt;Accessible&lt;/h3&gt;
 +           &lt;p&gt;
-+             AI automation shouldn&#39;t require a PhD or a six-figure budget. 
++             AI automation shouldn't require a PhD or a six-figure budget. 
 +             We make it simple enough for non-technical teams to understand 
 +             and use.
 +           &lt;/p&gt;
 +         &lt;/div&gt;
 +         
-+         &lt;div class=&quot;mission-point&quot;&gt;
++         &lt;div class="mission-point"&gt;
 +           &lt;h3&gt;Practical&lt;/h3&gt;
 +           &lt;p&gt;
 +             No buzzwords, no hype, no theoretical frameworks. We build 
@@ -10663,12 +10663,12 @@ Lines added: 485, lines removed: 1
 +           &lt;/p&gt;
 +         &lt;/div&gt;
 +         
-+         &lt;div class=&quot;mission-point&quot;&gt;
++         &lt;div class="mission-point"&gt;
 +           &lt;h3&gt;Profitable&lt;/h3&gt;
 +           &lt;p&gt;
 +             Every automation should have clear ROI. We focus on implementations 
 +             that save time, reduce costs, and generate revenue—not just 
-+             &quot;interesting tech.&quot;
++             "interesting tech."
 +           &lt;/p&gt;
 +         &lt;/div&gt;
 +       &lt;/div&gt;
@@ -10676,12 +10676,12 @@ Lines added: 485, lines removed: 1
 +   &lt;/section&gt;
 +   
 +   &lt;!-- Our Values --&gt;
-+   &lt;section class=&quot;our-values&quot;&gt;
-+     &lt;div class=&quot;container&quot;&gt;
++   &lt;section class="our-values"&gt;
++     &lt;div class="container"&gt;
 +       &lt;h2&gt;Our Values&lt;/h2&gt;
 +       
-+       &lt;div class=&quot;values-grid&quot;&gt;
-+         &lt;div class=&quot;value-card&quot;&gt;
++       &lt;div class="values-grid"&gt;
++         &lt;div class="value-card"&gt;
 +           &lt;h3&gt;🔓 Transparency&lt;/h3&gt;
 +           &lt;p&gt;
 +             We show our work. Our GitHub is public. Our process is documented. 
@@ -10689,23 +10689,23 @@ Lines added: 485, lines removed: 1
 +           &lt;/p&gt;
 +         &lt;/div&gt;
 +         
-+         &lt;div class=&quot;value-card&quot;&gt;
++         &lt;div class="value-card"&gt;
 +           &lt;h3&gt;🎯 Results-Driven&lt;/h3&gt;
 +           &lt;p&gt;
 +             We measure everything. Time saved, costs reduced, revenue generated. 
-+             If it doesn&#39;t deliver ROI, we don&#39;t recommend it.
++             If it doesn't deliver ROI, we don't recommend it.
 +           &lt;/p&gt;
 +         &lt;/div&gt;
 +         
-+         &lt;div class=&quot;value-card&quot;&gt;
++         &lt;div class="value-card"&gt;
 +           &lt;h3&gt;🛠️ Practitioners First&lt;/h3&gt;
 +           &lt;p&gt;
-+             We&#39;re builders, not just thinkers. We automate our own business 
++             We're builders, not just thinkers. We automate our own business 
 +             before recommending anything to clients. We use what we sell.
 +           &lt;/p&gt;
 +         &lt;/div&gt;
 +         
-+         &lt;div class=&quot;value-card&quot;&gt;
++         &lt;div class="value-card"&gt;
 +           &lt;h3&gt;🌍 Open Source&lt;/h3&gt;
 +           &lt;p&gt;
 +             We contribute to the community that taught us. Our frameworks, 
@@ -10713,18 +10713,18 @@ Lines added: 485, lines removed: 1
 +           &lt;/p&gt;
 +         &lt;/div&gt;
 +         
-+         &lt;div class=&quot;value-card&quot;&gt;
++         &lt;div class="value-card"&gt;
 +           &lt;h3&gt;🎓 Education&lt;/h3&gt;
 +           &lt;p&gt;
-+             We don&#39;t create dependency—we empower. Training is included. 
++             We don't create dependency—we empower. Training is included. 
 +             Documentation is comprehensive. Your team learns to own the automations.
 +           &lt;/p&gt;
 +         &lt;/div&gt;
 +         
-+         &lt;div class=&quot;value-card&quot;&gt;
++         &lt;div class="value-card"&gt;
 +           &lt;h3&gt;🤝 Long-term Thinking&lt;/h3&gt;
 +           &lt;p&gt;
-+             We&#39;re not here for quick transactions. We build relationships, 
++             We're not here for quick transactions. We build relationships, 
 +             deliver value consistently, and grow alongside our clients.
 +           &lt;/p&gt;
 +         &lt;/div&gt;
@@ -10733,11 +10733,11 @@ Lines added: 485, lines removed: 1
 +   &lt;/section&gt;
 +   
 +   &lt;!-- Our Approach --&gt;
-+   &lt;section class=&quot;our-approach&quot;&gt;
-+     &lt;div class=&quot;container&quot;&gt;
-+       &lt;h2&gt;How We&#39;re Different&lt;/h2&gt;
++   &lt;section class="our-approach"&gt;
++     &lt;div class="container"&gt;
++       &lt;h2&gt;How We're Different&lt;/h2&gt;
 +       
-+       &lt;div class=&quot;comparison-table&quot;&gt;
++       &lt;div class="comparison-table"&gt;
 +         &lt;table&gt;
 +           &lt;thead&gt;
 +             &lt;tr&gt;
@@ -10781,75 +10781,75 @@ Lines added: 485, lines removed: 1
 +   &lt;/section&gt;
 +   
 +   &lt;!-- By the Numbers --&gt;
-+   &lt;section class=&quot;by-the-numbers&quot;&gt;
-+     &lt;div class=&quot;container&quot;&gt;
++   &lt;section class="by-the-numbers"&gt;
++     &lt;div class="container"&gt;
 +       &lt;h2&gt;By the Numbers&lt;/h2&gt;
 +       
-+       &lt;div class=&quot;stats-grid&quot;&gt;
-+         &lt;div class=&quot;stat&quot;&gt;
-+           &lt;div class=&quot;stat-number&quot;&gt;50+&lt;/div&gt;
-+           &lt;div class=&quot;stat-label&quot;&gt;Projects Delivered&lt;/div&gt;
++       &lt;div class="stats-grid"&gt;
++         &lt;div class="stat"&gt;
++           &lt;div class="stat-number"&gt;50+&lt;/div&gt;
++           &lt;div class="stat-label"&gt;Projects Delivered&lt;/div&gt;
 +         &lt;/div&gt;
 +         
-+         &lt;div class=&quot;stat&quot;&gt;
-+           &lt;div class=&quot;stat-number&quot;&gt;40%&lt;/div&gt;
-+           &lt;div class=&quot;stat-label&quot;&gt;Avg. Cost Reduction&lt;/div&gt;
++         &lt;div class="stat"&gt;
++           &lt;div class="stat-number"&gt;40%&lt;/div&gt;
++           &lt;div class="stat-label"&gt;Avg. Cost Reduction&lt;/div&gt;
 +         &lt;/div&gt;
 +         
-+         &lt;div class=&quot;stat&quot;&gt;
-+           &lt;div class=&quot;stat-number&quot;&gt;10,000+&lt;/div&gt;
-+           &lt;div class=&quot;stat-label&quot;&gt;Hours Saved for Clients&lt;/div&gt;
++         &lt;div class="stat"&gt;
++           &lt;div class="stat-number"&gt;10,000+&lt;/div&gt;
++           &lt;div class="stat-label"&gt;Hours Saved for Clients&lt;/div&gt;
 +         &lt;/div&gt;
 +         
-+         &lt;div class=&quot;stat&quot;&gt;
-+           &lt;div class=&quot;stat-number&quot;&gt;30 Days&lt;/div&gt;
-+           &lt;div class=&quot;stat-label&quot;&gt;Avg. Implementation Time&lt;/div&gt;
++         &lt;div class="stat"&gt;
++           &lt;div class="stat-number"&gt;30 Days&lt;/div&gt;
++           &lt;div class="stat-label"&gt;Avg. Implementation Time&lt;/div&gt;
 +         &lt;/div&gt;
 +         
-+         &lt;div class=&quot;stat&quot;&gt;
-+           &lt;div class=&quot;stat-number&quot;&gt;100%&lt;/div&gt;
-+           &lt;div class=&quot;stat-label&quot;&gt;Open Source Commitment&lt;/div&gt;
++         &lt;div class="stat"&gt;
++           &lt;div class="stat-number"&gt;100%&lt;/div&gt;
++           &lt;div class="stat-label"&gt;Open Source Commitment&lt;/div&gt;
 +         &lt;/div&gt;
 +         
-+         &lt;div class=&quot;stat&quot;&gt;
-+           &lt;div class=&quot;stat-number&quot;&gt;7&lt;/div&gt;
-+           &lt;div class=&quot;stat-label&quot;&gt;Public GitHub Repositories&lt;/div&gt;
++         &lt;div class="stat"&gt;
++           &lt;div class="stat-number"&gt;7&lt;/div&gt;
++           &lt;div class="stat-label"&gt;Public GitHub Repositories&lt;/div&gt;
 +         &lt;/div&gt;
 +       &lt;/div&gt;
 +       
-+       &lt;p class=&quot;stats-note&quot;&gt;
++       &lt;p class="stats-note"&gt;
 +         *All metrics based on completed client projects as of [Current Month, Year]
 +       &lt;/p&gt;
 +     &lt;/div&gt;
 +   &lt;/section&gt;
 +   
 +   &lt;!-- What Clients Say --&gt;
-+   &lt;section class=&quot;client-quotes&quot;&gt;
-+     &lt;div class=&quot;container&quot;&gt;
++   &lt;section class="client-quotes"&gt;
++     &lt;div class="container"&gt;
 +       &lt;h2&gt;What Clients Say&lt;/h2&gt;
 +       
-+       &lt;div class=&quot;quotes-grid&quot;&gt;
++       &lt;div class="quotes-grid"&gt;
 +         &lt;blockquote&gt;
-+           &quot;Finally, a consulting firm that actually ships code instead of 
-+           just talking about it.&quot;
++           "Finally, a consulting firm that actually ships code instead of 
++           just talking about it."
 +           &lt;cite&gt;— Operations Director, SaaS Company&lt;/cite&gt;
 +         &lt;/blockquote&gt;
 +         
 +         &lt;blockquote&gt;
-+           &quot;We went from idea to working automation in 2 weeks. That would 
-+           have taken us 6 months with our previous consultant.&quot;
++           "We went from idea to working automation in 2 weeks. That would 
++           have taken us 6 months with our previous consultant."
 +           &lt;cite&gt;— Founder, E-commerce Startup&lt;/cite&gt;
 +         &lt;/blockquote&gt;
 +         
 +         &lt;blockquote&gt;
-+           &quot;The fact that they show all their work on GitHub gave us confidence. 
-+           We could review the code ourselves.&quot;
++           "The fact that they show all their work on GitHub gave us confidence. 
++           We could review the code ourselves."
 +           &lt;cite&gt;— CTO, Tech Company&lt;/cite&gt;
 +         &lt;/blockquote&gt;
 +       &lt;/div&gt;
 +       
-+       &lt;div class=&quot;text-center&quot;&gt;
-+         &lt;a href=&quot;/clients&quot; class=&quot;btn btn-outline&quot;&gt;
++       &lt;div class="text-center"&gt;
++         &lt;a href="/clients" class="btn btn-outline"&gt;
 +           Read Full Case Studies →
 +         &lt;/a&gt;
 +       &lt;/div&gt;
@@ -10857,57 +10857,57 @@ Lines added: 485, lines removed: 1
 +   &lt;/section&gt;
 +   
 +   &lt;!-- Our Commitment --&gt;
-+   &lt;section class=&quot;our-commitment&quot;&gt;
-+     &lt;div class=&quot;container&quot;&gt;
++   &lt;section class="our-commitment"&gt;
++     &lt;div class="container"&gt;
 +       &lt;h2&gt;Our Commitment to You&lt;/h2&gt;
 +       
-+       &lt;div class=&quot;commitment-list&quot;&gt;
-+         &lt;div class=&quot;commitment-item&quot;&gt;
++       &lt;div class="commitment-list"&gt;
++         &lt;div class="commitment-item"&gt;
 +           &lt;h3&gt;✓ Transparent Process&lt;/h3&gt;
-+           &lt;p&gt;You&#39;ll see what we&#39;re building in real-time. No surprises.&lt;/p&gt;
++           &lt;p&gt;You'll see what we're building in real-time. No surprises.&lt;/p&gt;
 +         &lt;/div&gt;
 +         
-+         &lt;div class=&quot;commitment-item&quot;&gt;
++         &lt;div class="commitment-item"&gt;
 +           &lt;h3&gt;✓ Measurable Results&lt;/h3&gt;
 +           &lt;p&gt;Every automation has clear ROI. We track and report on impact.&lt;/p&gt;
 +         &lt;/div&gt;
 +         
-+         &lt;div class=&quot;commitment-item&quot;&gt;
++         &lt;div class="commitment-item"&gt;
 +           &lt;h3&gt;✓ Knowledge Transfer&lt;/h3&gt;
 +           &lt;p&gt;Your team will know how to maintain and expand the automations.&lt;/p&gt;
 +         &lt;/div&gt;
 +         
-+         &lt;div class=&quot;commitment-item&quot;&gt;
++         &lt;div class="commitment-item"&gt;
 +           &lt;h3&gt;✓ Honest Advice&lt;/h3&gt;
-+           &lt;p&gt;If automation isn&#39;t the answer, we&#39;ll tell you. We don&#39;t oversell.&lt;/p&gt;
++           &lt;p&gt;If automation isn't the answer, we'll tell you. We don't oversell.&lt;/p&gt;
 +         &lt;/div&gt;
 +         
-+         &lt;div class=&quot;commitment-item&quot;&gt;
++         &lt;div class="commitment-item"&gt;
 +           &lt;h3&gt;✓ Quality Work&lt;/h3&gt;
 +           &lt;p&gt;We build for the long term, not quick fixes that break later.&lt;/p&gt;
 +         &lt;/div&gt;
 +         
-+         &lt;div class=&quot;commitment-item&quot;&gt;
++         &lt;div class="commitment-item"&gt;
 +           &lt;h3&gt;✓ Ongoing Support&lt;/h3&gt;
-+           &lt;p&gt;90 days of included support. We&#39;re here after launch.&lt;/p&gt;
++           &lt;p&gt;90 days of included support. We're here after launch.&lt;/p&gt;
 +         &lt;/div&gt;
 +       &lt;/div&gt;
 +     &lt;/div&gt;
 +   &lt;/section&gt;
 +   
 +   &lt;!-- CTA --&gt;
-+   &lt;section class=&quot;about-cta&quot;&gt;
-+     &lt;div class=&quot;container text-center&quot;&gt;
++   &lt;section class="about-cta"&gt;
++     &lt;div class="container text-center"&gt;
 +       &lt;h2&gt;Ready to Work Together?&lt;/h2&gt;
-+       &lt;p class=&quot;lead&quot;&gt;
-+         Let&#39;s discuss your automation opportunities—no sales pitch, 
++       &lt;p class="lead"&gt;
++         Let's discuss your automation opportunities—no sales pitch, 
 +         just honest advice.
 +       &lt;/p&gt;
-+       &lt;a href=&quot;/contact&quot; class=&quot;btn btn-primary btn-large&quot;&gt;
++       &lt;a href="/contact" class="btn btn-primary btn-large"&gt;
 +         Book Free Strategy Call
 +       &lt;/a&gt;
-+       &lt;p class=&quot;small-text&quot;&gt;
-+         Or &lt;a href=&quot;https://github.com/orgs/Ai-Whisperers/repositories&quot;&gt;
++       &lt;p class="small-text"&gt;
++         Or &lt;a href="https://github.com/orgs/Ai-Whisperers/repositories"&gt;
 +         explore our GitHub first&lt;/a&gt;
 +       &lt;/p&gt;
 +     &lt;/div&gt;
@@ -10948,7 +10948,7 @@ Lines added: 485, lines removed: 1
 + ### Meta Tags:
 + &#96;&#96;&#96;html
 + &lt;title&gt;About AI Whisperers | AI Automation Specialists&lt;/title&gt;
-+ &lt;meta name=&quot;description&quot; content=&quot;AI Whisperers builds practical AI automations for businesses. Open source, transparent, and results-driven. Check our GitHub to see our work.&quot;&gt;
++ &lt;meta name="description" content="AI Whisperers builds practical AI automations for businesses. Open source, transparent, and results-driven. Check our GitHub to see our work."&gt;
 + &#96;&#96;&#96;
 + 
 + ---
@@ -10971,7 +10971,7 @@ Lines added: 485, lines removed: 1
 + ### Links:
 + - [ ] Link from main navigation
 + - [ ] Link from footer
-+ - [ ] Link from &quot;Learn More&quot; CTAs throughout site
++ - [ ] Link from "Learn More" CTAs throughout site
 + - [ ] Cross-link to GitHub, case studies, services
 + 
 + ---
@@ -11007,7 +11007,7 @@ Let me continue creating the remaining files efficiently:
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: landing_page_edits/06-services-pricing.md</summary>
+<details><summary>Tool use: **write** • Edit file: landing_page_edits/06-services-pricing.md</summary>
 
 **Chunk 1**
 Lines added: 441, lines removed: 1
@@ -11019,9 +11019,9 @@ Lines added: 441, lines removed: 1
 + 
 + ## Purpose
 + 
-+ Make it crystal clear what you offer, what&#39;s included, and how much it costs.
++ Make it crystal clear what you offer, what's included, and how much it costs.
 + 
-+ **Problem**: Visitors don&#39;t know what you sell or if they can afford it  
++ **Problem**: Visitors don't know what you sell or if they can afford it  
 + **Solution**: Three-tier structure with transparent pricing
 + 
 + ---
@@ -11075,7 +11075,7 @@ Lines added: 441, lines removed: 1
 + ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 + &#96;&#96;&#96;
 + 
-+ ### What&#39;s Included:
++ ### What's Included:
 + - 50+ video lessons
 + - 30+ automation templates
 + - Community forum access
@@ -11130,7 +11130,7 @@ Lines added: 441, lines removed: 1
 + ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 + &#96;&#96;&#96;
 + 
-+ ### What&#39;s Included:
++ ### What's Included:
 + - Automation strategy document
 + - Weekly coaching sessions (1-2 hours)
 + - Priority Slack/email support
@@ -11196,7 +11196,7 @@ Lines added: 441, lines removed: 1
 + ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 + &#96;&#96;&#96;
 + 
-+ ### What&#39;s Included:
++ ### What's Included:
 + - Complete discovery and strategy
 + - Full implementation (we build everything)
 + - Integration with existing systems
@@ -11211,7 +11211,7 @@ Lines added: 441, lines removed: 1
 + ## Comparison Table
 + 
 + &#96;&#96;&#96;html
-+ &lt;div class=&quot;pricing-comparison-table&quot;&gt;
++ &lt;div class="pricing-comparison-table"&gt;
 +   &lt;table&gt;
 +     &lt;thead&gt;
 +       &lt;tr&gt;
@@ -11305,33 +11305,33 @@ Lines added: 441, lines removed: 1
 + ## ROI Calculator Section
 + 
 + &#96;&#96;&#96;html
-+ &lt;section class=&quot;roi-calculator&quot;&gt;
-+   &lt;div class=&quot;container&quot;&gt;
++ &lt;section class="roi-calculator"&gt;
++   &lt;div class="container"&gt;
 +     &lt;h2&gt;Calculate Your Potential ROI&lt;/h2&gt;
 +     &lt;p&gt;See how much you could save with automation&lt;/p&gt;
 +     
-+     &lt;div class=&quot;calculator-form&quot;&gt;
-+       &lt;div class=&quot;input-group&quot;&gt;
++     &lt;div class="calculator-form"&gt;
++       &lt;div class="input-group"&gt;
 +         &lt;label&gt;How many hours/week does your team spend on repetitive tasks?&lt;/label&gt;
-+         &lt;input type=&quot;number&quot; id=&quot;hours&quot; value=&quot;20&quot;&gt;
++         &lt;input type="number" id="hours" value="20"&gt;
 +       &lt;/div&gt;
 +       
-+       &lt;div class=&quot;input-group&quot;&gt;
++       &lt;div class="input-group"&gt;
 +         &lt;label&gt;Average hourly rate of staff doing this work:&lt;/label&gt;
-+         &lt;input type=&quot;number&quot; id=&quot;hourly-rate&quot; value=&quot;50&quot;&gt;
++         &lt;input type="number" id="hourly-rate" value="50"&gt;
 +       &lt;/div&gt;
 +       
-+       &lt;div class=&quot;input-group&quot;&gt;
++       &lt;div class="input-group"&gt;
 +         &lt;label&gt;What % could be automated?&lt;/label&gt;
-+         &lt;input type=&quot;range&quot; id=&quot;automation-percent&quot; min=&quot;0&quot; max=&quot;100&quot; value=&quot;70&quot;&gt;
-+         &lt;span id=&quot;percent-display&quot;&gt;70%&lt;/span&gt;
++         &lt;input type="range" id="automation-percent" min="0" max="100" value="70"&gt;
++         &lt;span id="percent-display"&gt;70%&lt;/span&gt;
 +       &lt;/div&gt;
 +       
-+       &lt;button class=&quot;btn btn-primary&quot; onclick=&quot;calculateROI()&quot;&gt;
++       &lt;button class="btn btn-primary" onclick="calculateROI()"&gt;
 +         Calculate Savings
 +       &lt;/button&gt;
 +       
-+       &lt;div id=&quot;roi-results&quot; class=&quot;results-box&quot;&gt;
++       &lt;div id="roi-results" class="results-box"&gt;
 +         &lt;!-- Results appear here --&gt;
 +       &lt;/div&gt;
 +     &lt;/div&gt;
@@ -11362,17 +11362,17 @@ Lines added: 441, lines removed: 1
 + **Q: Can we start small and expand later?**
 + A: Absolutely! Many clients start with Quick Wins ($5K-8.5K) to prove ROI, then expand to department or company-wide.
 + 
-+ **Q: What if we&#39;re between tiers?**
-+ A: We can customize. Book a strategy call and we&#39;ll design a package that fits your needs and budget.
++ **Q: What if we're between tiers?**
++ A: We can customize. Book a strategy call and we'll design a package that fits your needs and budget.
 + 
 + **Q: Do you offer payment plans?**
 + A: Yes, for packages $15K+. Typically 3-month terms. Ask about financing options.
 + 
-+ **Q: What&#39;s included in support?**
++ **Q: What's included in support?**
 + A: Bug fixes, troubleshooting, optimization recommendations, and monthly check-ins. Response time: 24-48 hours.
 + 
-+ **Q: What if it doesn&#39;t work?**
-+ A: If you don&#39;t see measurable ROI within 90 days, we&#39;ll continue optimizing at no cost until you do. We guarantee results.
++ **Q: What if it doesn't work?**
++ A: If you don't see measurable ROI within 90 days, we'll continue optimizing at no cost until you do. We guarantee results.
 + 
 + **Q: How do you price enterprise projects?**
 + A: Custom quotes based on scope. Typically $50K-$200K+ for company-wide transformations. Book a call to discuss.
@@ -11385,7 +11385,7 @@ Lines added: 441, lines removed: 1
 + URL: /services or /pricing
 + 
 + Sections:
-+ 1. Hero: &quot;Choose Your Path to Automation&quot;
++ 1. Hero: "Choose Your Path to Automation"
 + 2. Three-Tier Overview (cards)
 + 3. Detailed Tier Breakdowns
 + 4. Comparison Table
@@ -11393,7 +11393,7 @@ Lines added: 441, lines removed: 1
 + 6. ROI Calculator
 + 7. FAQ
 + 8. Case Studies by Tier
-+ 9. &quot;Not Sure Which?&quot; - Book a call CTA
++ 9. "Not Sure Which?" - Book a call CTA
 + 10. Guarantee Section
 + &#96;&#96;&#96;
 + 
@@ -11408,11 +11408,11 @@ Lines added: 441, lines removed: 1
 + 
 + Results or We Keep Working
 + 
-+ If you don&#39;t see measurable ROI within 90 days, 
-+ we&#39;ll continue optimizing your automations at no 
++ If you don't see measurable ROI within 90 days, 
++ we'll continue optimizing your automations at no 
 + additional cost until you do.
 + 
-+ We&#39;ve done this 50+ times. We know it works.
++ We've done this 50+ times. We know it works.
 + 
 + [Read Our Guarantee Policy]
 + ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -11454,7 +11454,7 @@ Lines added: 441, lines removed: 1
 + 
 + ---
 + 
-+ **Clear pricing = higher conversion. Don&#39;t hide your prices. The right clients will see the value. 🚀**
++ **Clear pricing = higher conversion. Don't hide your prices. The right clients will see the value. 🚀**
 + 
 ```
 
@@ -11475,7 +11475,7 @@ Let me continue with the remaining files. I'll create files 07-12 now:
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: landing_page_edits/07-team-section.md</summary>
+<details><summary>Tool use: **write** • Edit file: landing_page_edits/07-team-section.md</summary>
 
 **Chunk 1**
 Lines added: 514, lines removed: 1
@@ -11489,7 +11489,7 @@ Lines added: 514, lines removed: 1
 + 
 + Put faces to the name, build trust, showcase expertise.
 + 
-+ **Key message**: We&#39;re real people with real skills, not a faceless agency.
++ **Key message**: We're real people with real skills, not a faceless agency.
 + 
 + ---
 + 
@@ -11509,9 +11509,9 @@ Lines added: 514, lines removed: 1
 + &#96;&#96;&#96;
 + 
 + **Alternatives**:
-+ - &quot;The People Behind the Code&quot;
-+ - &quot;Meet Your AI Automation Partners&quot;
-+ - &quot;Who We Are&quot;
++ - "The People Behind the Code"
++ - "Meet Your AI Automation Partners"
++ - "Who We Are"
 + 
 + ---
 + 
@@ -11553,22 +11553,22 @@ Lines added: 514, lines removed: 1
 + ### FOUNDER/CEO Profile Example
 + 
 + &#96;&#96;&#96;html
-+ &lt;div class=&quot;team-member&quot;&gt;
-+   &lt;div class=&quot;member-photo&quot;&gt;
-+     &lt;img src=&quot;/team/founder.jpg&quot; alt=&quot;[Founder Name]&quot;&gt;
++ &lt;div class="team-member"&gt;
++   &lt;div class="member-photo"&gt;
++     &lt;img src="/team/founder.jpg" alt="[Founder Name]"&gt;
 +   &lt;/div&gt;
-+   &lt;div class=&quot;member-info&quot;&gt;
++   &lt;div class="member-info"&gt;
 +     &lt;h3&gt;[Founder Name]&lt;/h3&gt;
-+     &lt;p class=&quot;member-role&quot;&gt;Founder &amp; CEO&lt;/p&gt;
++     &lt;p class="member-role"&gt;Founder &amp; CEO&lt;/p&gt;
 +     
-+     &lt;p class=&quot;member-bio&quot;&gt;
++     &lt;p class="member-bio"&gt;
 +       [Founder Name] started AI Whisperers after years of helping businesses 
 +       struggle with inefficient processes. With a background in software 
 +       engineering and enterprise automation, [he/she] leads the team in 
 +       delivering practical AI solutions that actually work.
 +     &lt;/p&gt;
 +     
-+     &lt;div class=&quot;member-specialties&quot;&gt;
++     &lt;div class="member-specialties"&gt;
 +       &lt;h4&gt;Specializes in:&lt;/h4&gt;
 +       &lt;ul&gt;
 +         &lt;li&gt;Enterprise AI architecture&lt;/li&gt;
@@ -11577,20 +11577,20 @@ Lines added: 514, lines removed: 1
 +       &lt;/ul&gt;
 +     &lt;/div&gt;
 +     
-+     &lt;div class=&quot;member-contributions&quot;&gt;
++     &lt;div class="member-contributions"&gt;
 +       &lt;p&gt;&lt;strong&gt;GitHub Contributions:&lt;/strong&gt; 500+ commits across 7 repos&lt;/p&gt;
 +       &lt;p&gt;&lt;strong&gt;Projects Led:&lt;/strong&gt; 30+ successful implementations&lt;/p&gt;
 +     &lt;/div&gt;
 +     
-+     &lt;div class=&quot;member-social&quot;&gt;
-+       &lt;a href=&quot;[LinkedIn URL]&quot; target=&quot;_blank&quot;&gt;
-+         &lt;img src=&quot;/icons/linkedin.svg&quot; alt=&quot;LinkedIn&quot;&gt;
++     &lt;div class="member-social"&gt;
++       &lt;a href="[LinkedIn URL]" target="_blank"&gt;
++         &lt;img src="/icons/linkedin.svg" alt="LinkedIn"&gt;
 +       &lt;/a&gt;
-+       &lt;a href=&quot;https://github.com/[username]&quot; target=&quot;_blank&quot;&gt;
-+         &lt;img src=&quot;/icons/github.svg&quot; alt=&quot;GitHub&quot;&gt;
++       &lt;a href="https://github.com/[username]" target="_blank"&gt;
++         &lt;img src="/icons/github.svg" alt="GitHub"&gt;
 +       &lt;/a&gt;
-+       &lt;a href=&quot;[Twitter URL]&quot; target=&quot;_blank&quot;&gt;
-+         &lt;img src=&quot;/icons/twitter.svg&quot; alt=&quot;Twitter&quot;&gt;
++       &lt;a href="[Twitter URL]" target="_blank"&gt;
++         &lt;img src="/icons/twitter.svg" alt="Twitter"&gt;
 +       &lt;/a&gt;
 +     &lt;/div&gt;
 +   &lt;/div&gt;
@@ -11602,21 +11602,21 @@ Lines added: 514, lines removed: 1
 + ### TECHNICAL LEAD Profile Example
 + 
 + &#96;&#96;&#96;html
-+ &lt;div class=&quot;team-member&quot;&gt;
-+   &lt;div class=&quot;member-photo&quot;&gt;
-+     &lt;img src=&quot;/team/tech-lead.jpg&quot; alt=&quot;[Tech Lead Name]&quot;&gt;
++ &lt;div class="team-member"&gt;
++   &lt;div class="member-photo"&gt;
++     &lt;img src="/team/tech-lead.jpg" alt="[Tech Lead Name]"&gt;
 +   &lt;/div&gt;
-+   &lt;div class=&quot;member-info&quot;&gt;
++   &lt;div class="member-info"&gt;
 +     &lt;h3&gt;[Tech Lead Name]&lt;/h3&gt;
-+     &lt;p class=&quot;member-role&quot;&gt;Lead Automation Engineer&lt;/p&gt;
++     &lt;p class="member-role"&gt;Lead Automation Engineer&lt;/p&gt;
 +     
-+     &lt;p class=&quot;member-bio&quot;&gt;
++     &lt;p class="member-bio"&gt;
 +       [Name] brings 8+ years of experience building scalable automation systems. 
 +       Passionate about clean code and practical solutions, [he/she] leads our 
 +       implementation team and contributes heavily to our open-source projects.
 +     &lt;/p&gt;
 +     
-+     &lt;div class=&quot;member-specialties&quot;&gt;
++     &lt;div class="member-specialties"&gt;
 +       &lt;h4&gt;Specializes in:&lt;/h4&gt;
 +       &lt;ul&gt;
 +         &lt;li&gt;Python &amp; TypeScript automation&lt;/li&gt;
@@ -11625,17 +11625,17 @@ Lines added: 514, lines removed: 1
 +       &lt;/ul&gt;
 +     &lt;/div&gt;
 +     
-+     &lt;div class=&quot;member-tech&quot;&gt;
++     &lt;div class="member-tech"&gt;
 +       &lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt; Python, TypeScript, Node.js, React, PostgreSQL&lt;/p&gt;
 +       &lt;p&gt;&lt;strong&gt;Open Source:&lt;/strong&gt; Contributor to agentic-schemas, yt-transcript-headless&lt;/p&gt;
 +     &lt;/div&gt;
 +     
-+     &lt;div class=&quot;member-social&quot;&gt;
-+       &lt;a href=&quot;[LinkedIn URL]&quot; target=&quot;_blank&quot;&gt;
-+         &lt;img src=&quot;/icons/linkedin.svg&quot; alt=&quot;LinkedIn&quot;&gt;
++     &lt;div class="member-social"&gt;
++       &lt;a href="[LinkedIn URL]" target="_blank"&gt;
++         &lt;img src="/icons/linkedin.svg" alt="LinkedIn"&gt;
 +       &lt;/a&gt;
-+       &lt;a href=&quot;https://github.com/[username]&quot; target=&quot;_blank&quot;&gt;
-+         &lt;img src=&quot;/icons/github.svg&quot; alt=&quot;GitHub&quot;&gt;
++       &lt;a href="https://github.com/[username]" target="_blank"&gt;
++         &lt;img src="/icons/github.svg" alt="GitHub"&gt;
 +       &lt;/a&gt;
 +     &lt;/div&gt;
 +   &lt;/div&gt;
@@ -11647,21 +11647,21 @@ Lines added: 514, lines removed: 1
 + ### CLIENT SUCCESS MANAGER Profile Example
 + 
 + &#96;&#96;&#96;html
-+ &lt;div class=&quot;team-member&quot;&gt;
-+   &lt;div class=&quot;member-photo&quot;&gt;
-+     &lt;img src=&quot;/team/csm.jpg&quot; alt=&quot;[CSM Name]&quot;&gt;
++ &lt;div class="team-member"&gt;
++   &lt;div class="member-photo"&gt;
++     &lt;img src="/team/csm.jpg" alt="[CSM Name]"&gt;
 +   &lt;/div&gt;
-+   &lt;div class=&quot;member-info&quot;&gt;
++   &lt;div class="member-info"&gt;
 +     &lt;h3&gt;[CSM Name]&lt;/h3&gt;
-+     &lt;p class=&quot;member-role&quot;&gt;Client Success Manager&lt;/p&gt;
++     &lt;p class="member-role"&gt;Client Success Manager&lt;/p&gt;
 +     
-+     &lt;p class=&quot;member-bio&quot;&gt;
++     &lt;p class="member-bio"&gt;
 +       [Name] ensures every client sees real results. With a background in 
 +       operations and project management, [he/she] guides implementations 
 +       from kickoff to optimization, making sure everything runs smoothly.
 +     &lt;/p&gt;
 +     
-+     &lt;div class=&quot;member-specialties&quot;&gt;
++     &lt;div class="member-specialties"&gt;
 +       &lt;h4&gt;Specializes in:&lt;/h4&gt;
 +       &lt;ul&gt;
 +         &lt;li&gt;Project management&lt;/li&gt;
@@ -11670,14 +11670,14 @@ Lines added: 514, lines removed: 1
 +       &lt;/ul&gt;
 +     &lt;/div&gt;
 +     
-+     &lt;div class=&quot;member-impact&quot;&gt;
++     &lt;div class="member-impact"&gt;
 +       &lt;p&gt;&lt;strong&gt;Client NPS:&lt;/strong&gt; 9.2/10&lt;/p&gt;
 +       &lt;p&gt;&lt;strong&gt;Projects Managed:&lt;/strong&gt; 25+ successful deliveries&lt;/p&gt;
 +     &lt;/div&gt;
 +     
-+     &lt;div class=&quot;member-social&quot;&gt;
-+       &lt;a href=&quot;[LinkedIn URL]&quot; target=&quot;_blank&quot;&gt;
-+         &lt;img src=&quot;/icons/linkedin.svg&quot; alt=&quot;LinkedIn&quot;&gt;
++     &lt;div class="member-social"&gt;
++       &lt;a href="[LinkedIn URL]" target="_blank"&gt;
++         &lt;img src="/icons/linkedin.svg" alt="LinkedIn"&gt;
 +       &lt;/a&gt;
 +     &lt;/div&gt;
 +   &lt;/div&gt;
@@ -11689,62 +11689,62 @@ Lines added: 514, lines removed: 1
 + ## Team Section - Complete HTML
 + 
 + &#96;&#96;&#96;html
-+ &lt;section class=&quot;team-section&quot;&gt;
-+   &lt;div class=&quot;container&quot;&gt;
++ &lt;section class="team-section"&gt;
++   &lt;div class="container"&gt;
 +     &lt;!-- Section Header --&gt;
-+     &lt;div class=&quot;section-header text-center&quot;&gt;
++     &lt;div class="section-header text-center"&gt;
 +       &lt;h2&gt;Meet the Team&lt;/h2&gt;
-+       &lt;p class=&quot;section-subheadline&quot;&gt;
++       &lt;p class="section-subheadline"&gt;
 +         A team of engineers, automation specialists, and problem-solvers 
 +         committed to delivering results.
 +       &lt;/p&gt;
 +     &lt;/div&gt;
 +     
 +     &lt;!-- Team Grid --&gt;
-+     &lt;div class=&quot;team-grid&quot;&gt;
++     &lt;div class="team-grid"&gt;
 +       &lt;!-- Team Member 1 --&gt;
-+       &lt;div class=&quot;team-member-card&quot;&gt;
-+         &lt;div class=&quot;member-photo-wrapper&quot;&gt;
-+           &lt;img src=&quot;/images/team/member1.jpg&quot; 
-+                alt=&quot;Team Member Name&quot; 
-+                class=&quot;member-photo&quot;&gt;
-+           &lt;div class=&quot;member-github-link&quot;&gt;
-+             &lt;a href=&quot;https://github.com/[username]&quot; target=&quot;_blank&quot;&gt;
++       &lt;div class="team-member-card"&gt;
++         &lt;div class="member-photo-wrapper"&gt;
++           &lt;img src="/images/team/member1.jpg" 
++                alt="Team Member Name" 
++                class="member-photo"&gt;
++           &lt;div class="member-github-link"&gt;
++             &lt;a href="https://github.com/[username]" target="_blank"&gt;
 +               View GitHub →
 +             &lt;/a&gt;
 +           &lt;/div&gt;
 +         &lt;/div&gt;
-+         &lt;div class=&quot;member-content&quot;&gt;
-+           &lt;h3 class=&quot;member-name&quot;&gt;[Name]&lt;/h3&gt;
-+           &lt;p class=&quot;member-role&quot;&gt;Founder &amp; CEO&lt;/p&gt;
-+           &lt;p class=&quot;member-bio&quot;&gt;
++         &lt;div class="member-content"&gt;
++           &lt;h3 class="member-name"&gt;[Name]&lt;/h3&gt;
++           &lt;p class="member-role"&gt;Founder &amp; CEO&lt;/p&gt;
++           &lt;p class="member-bio"&gt;
 +             [2-3 sentence bio about background, expertise, and passion]
 +           &lt;/p&gt;
-+           &lt;div class=&quot;member-specialties&quot;&gt;
++           &lt;div class="member-specialties"&gt;
 +             &lt;strong&gt;Specializes in:&lt;/strong&gt;
-+             &lt;span class=&quot;specialty-tag&quot;&gt;Enterprise AI&lt;/span&gt;
-+             &lt;span class=&quot;specialty-tag&quot;&gt;Process Optimization&lt;/span&gt;
-+             &lt;span class=&quot;specialty-tag&quot;&gt;Strategy&lt;/span&gt;
++             &lt;span class="specialty-tag"&gt;Enterprise AI&lt;/span&gt;
++             &lt;span class="specialty-tag"&gt;Process Optimization&lt;/span&gt;
++             &lt;span class="specialty-tag"&gt;Strategy&lt;/span&gt;
 +           &lt;/div&gt;
-+           &lt;div class=&quot;member-stats&quot;&gt;
-+             &lt;div class=&quot;stat&quot;&gt;
++           &lt;div class="member-stats"&gt;
++             &lt;div class="stat"&gt;
 +               &lt;strong&gt;30+&lt;/strong&gt;
 +               &lt;span&gt;Projects Led&lt;/span&gt;
 +             &lt;/div&gt;
-+             &lt;div class=&quot;stat&quot;&gt;
++             &lt;div class="stat"&gt;
 +               &lt;strong&gt;500+&lt;/strong&gt;
 +               &lt;span&gt;GitHub Commits&lt;/span&gt;
 +             &lt;/div&gt;
 +           &lt;/div&gt;
-+           &lt;div class=&quot;member-social-links&quot;&gt;
-+             &lt;a href=&quot;[LinkedIn]&quot; target=&quot;_blank&quot; aria-label=&quot;LinkedIn&quot;&gt;
-+               &lt;i class=&quot;icon-linkedin&quot;&gt;&lt;/i&gt;
++           &lt;div class="member-social-links"&gt;
++             &lt;a href="[LinkedIn]" target="_blank" aria-label="LinkedIn"&gt;
++               &lt;i class="icon-linkedin"&gt;&lt;/i&gt;
 +             &lt;/a&gt;
-+             &lt;a href=&quot;[GitHub]&quot; target=&quot;_blank&quot; aria-label=&quot;GitHub&quot;&gt;
-+               &lt;i class=&quot;icon-github&quot;&gt;&lt;/i&gt;
++             &lt;a href="[GitHub]" target="_blank" aria-label="GitHub"&gt;
++               &lt;i class="icon-github"&gt;&lt;/i&gt;
 +             &lt;/a&gt;
-+             &lt;a href=&quot;[Twitter]&quot; target=&quot;_blank&quot; aria-label=&quot;Twitter&quot;&gt;
-+               &lt;i class=&quot;icon-twitter&quot;&gt;&lt;/i&gt;
++             &lt;a href="[Twitter]" target="_blank" aria-label="Twitter"&gt;
++               &lt;i class="icon-twitter"&gt;&lt;/i&gt;
 +             &lt;/a&gt;
 +           &lt;/div&gt;
 +         &lt;/div&gt;
@@ -11755,22 +11755,22 @@ Lines added: 514, lines removed: 1
 +     &lt;/div&gt;
 +     
 +     &lt;!-- Team Values/Culture --&gt;
-+     &lt;div class=&quot;team-culture&quot;&gt;
++     &lt;div class="team-culture"&gt;
 +       &lt;h3&gt;How We Work Together&lt;/h3&gt;
-+       &lt;div class=&quot;culture-points&quot;&gt;
-+         &lt;div class=&quot;culture-point&quot;&gt;
++       &lt;div class="culture-points"&gt;
++         &lt;div class="culture-point"&gt;
 +           &lt;h4&gt;🤝 Collaborative&lt;/h4&gt;
 +           &lt;p&gt;We believe the best solutions come from diverse perspectives and open communication.&lt;/p&gt;
 +         &lt;/div&gt;
-+         &lt;div class=&quot;culture-point&quot;&gt;
++         &lt;div class="culture-point"&gt;
 +           &lt;h4&gt;🎓 Always Learning&lt;/h4&gt;
 +           &lt;p&gt;AI moves fast. We dedicate time each week to learning new tools and techniques.&lt;/p&gt;
 +         &lt;/div&gt;
-+         &lt;div class=&quot;culture-point&quot;&gt;
++         &lt;div class="culture-point"&gt;
 +           &lt;h4&gt;🔓 Transparent&lt;/h4&gt;
 +           &lt;p&gt;We share what we learn—through open source, blogs, and community contributions.&lt;/p&gt;
 +         &lt;/div&gt;
-+         &lt;div class=&quot;culture-point&quot;&gt;
++         &lt;div class="culture-point"&gt;
 +           &lt;h4&gt;🎯 Results-Focused&lt;/h4&gt;
 +           &lt;p&gt;We care about outcomes, not just outputs. Client success is our success.&lt;/p&gt;
 +         &lt;/div&gt;
@@ -11778,10 +11778,10 @@ Lines added: 514, lines removed: 1
 +     &lt;/div&gt;
 +     
 +     &lt;!-- Join Team CTA (optional) --&gt;
-+     &lt;div class=&quot;join-team-cta text-center&quot;&gt;
++     &lt;div class="join-team-cta text-center"&gt;
 +       &lt;h3&gt;Want to Join Our Team?&lt;/h3&gt;
-+       &lt;p&gt;We&#39;re always looking for talented automation engineers and problem-solvers.&lt;/p&gt;
-+       &lt;a href=&quot;/careers&quot; class=&quot;btn btn-outline&quot;&gt;
++       &lt;p&gt;We're always looking for talented automation engineers and problem-solvers.&lt;/p&gt;
++       &lt;a href="/careers" class="btn btn-outline"&gt;
 +         View Open Positions
 +       &lt;/a&gt;
 +     &lt;/div&gt;
@@ -11796,46 +11796,46 @@ Lines added: 514, lines removed: 1
 + For homepage, use a more compact version:
 + 
 + &#96;&#96;&#96;html
-+ &lt;section class=&quot;team-preview&quot;&gt;
-+   &lt;div class=&quot;container&quot;&gt;
++ &lt;section class="team-preview"&gt;
++   &lt;div class="container"&gt;
 +     &lt;h2&gt;Built by Practitioners, Not Just Consultants&lt;/h2&gt;
 +     &lt;p&gt;Our team of engineers and automation specialists ship real code, not just advice.&lt;/p&gt;
 +     
-+     &lt;div class=&quot;team-photos-row&quot;&gt;
-+       &lt;div class=&quot;team-photo&quot;&gt;
-+         &lt;img src=&quot;/team/member1.jpg&quot; alt=&quot;Team Member 1&quot;&gt;
-+         &lt;p class=&quot;name&quot;&gt;[Name]&lt;/p&gt;
-+         &lt;p class=&quot;role&quot;&gt;Founder&lt;/p&gt;
++     &lt;div class="team-photos-row"&gt;
++       &lt;div class="team-photo"&gt;
++         &lt;img src="/team/member1.jpg" alt="Team Member 1"&gt;
++         &lt;p class="name"&gt;[Name]&lt;/p&gt;
++         &lt;p class="role"&gt;Founder&lt;/p&gt;
 +       &lt;/div&gt;
-+       &lt;div class=&quot;team-photo&quot;&gt;
-+         &lt;img src=&quot;/team/member2.jpg&quot; alt=&quot;Team Member 2&quot;&gt;
-+         &lt;p class=&quot;name&quot;&gt;[Name]&lt;/p&gt;
-+         &lt;p class=&quot;role&quot;&gt;Lead Engineer&lt;/p&gt;
++       &lt;div class="team-photo"&gt;
++         &lt;img src="/team/member2.jpg" alt="Team Member 2"&gt;
++         &lt;p class="name"&gt;[Name]&lt;/p&gt;
++         &lt;p class="role"&gt;Lead Engineer&lt;/p&gt;
 +       &lt;/div&gt;
-+       &lt;div class=&quot;team-photo&quot;&gt;
-+         &lt;img src=&quot;/team/member3.jpg&quot; alt=&quot;Team Member 3&quot;&gt;
-+         &lt;p class=&quot;name&quot;&gt;[Name]&lt;/p&gt;
-+         &lt;p class=&quot;role&quot;&gt;Client Success&lt;/p&gt;
++       &lt;div class="team-photo"&gt;
++         &lt;img src="/team/member3.jpg" alt="Team Member 3"&gt;
++         &lt;p class="name"&gt;[Name]&lt;/p&gt;
++         &lt;p class="role"&gt;Client Success&lt;/p&gt;
 +       &lt;/div&gt;
 +       &lt;!-- Add more as needed --&gt;
 +     &lt;/div&gt;
 +     
-+     &lt;div class=&quot;team-stats&quot;&gt;
-+       &lt;div class=&quot;stat&quot;&gt;
++     &lt;div class="team-stats"&gt;
++       &lt;div class="stat"&gt;
 +         &lt;strong&gt;8+ years&lt;/strong&gt;
 +         &lt;span&gt;Combined experience&lt;/span&gt;
 +       &lt;/div&gt;
-+       &lt;div class=&quot;stat&quot;&gt;
++       &lt;div class="stat"&gt;
 +         &lt;strong&gt;50+ projects&lt;/strong&gt;
 +         &lt;span&gt;Successfully delivered&lt;/span&gt;
 +       &lt;/div&gt;
-+       &lt;div class=&quot;stat&quot;&gt;
++       &lt;div class="stat"&gt;
 +         &lt;strong&gt;100%&lt;/strong&gt;
 +         &lt;span&gt;Client satisfaction&lt;/span&gt;
 +       &lt;/div&gt;
 +     &lt;/div&gt;
 +     
-+     &lt;a href=&quot;/about&quot; class=&quot;btn btn-outline&quot;&gt;Meet the Full Team →&lt;/a&gt;
++     &lt;a href="/about" class="btn btn-outline"&gt;Meet the Full Team →&lt;/a&gt;
 +   &lt;/div&gt;
 + &lt;/section&gt;
 + &#96;&#96;&#96;
@@ -11921,24 +11921,24 @@ Lines added: 514, lines removed: 1
 + Add credibility with aggregate stats:
 + 
 + &#96;&#96;&#96;html
-+ &lt;div class=&quot;team-stats-section&quot;&gt;
++ &lt;div class="team-stats-section"&gt;
 +   &lt;h3&gt;Our Team by the Numbers&lt;/h3&gt;
-+   &lt;div class=&quot;stats-grid&quot;&gt;
-+     &lt;div class=&quot;stat&quot;&gt;
-+       &lt;div class=&quot;stat-number&quot;&gt;15+&lt;/div&gt;
-+       &lt;div class=&quot;stat-label&quot;&gt;Years Combined Experience&lt;/div&gt;
++   &lt;div class="stats-grid"&gt;
++     &lt;div class="stat"&gt;
++       &lt;div class="stat-number"&gt;15+&lt;/div&gt;
++       &lt;div class="stat-label"&gt;Years Combined Experience&lt;/div&gt;
 +     &lt;/div&gt;
-+     &lt;div class=&quot;stat&quot;&gt;
-+       &lt;div class=&quot;stat-number&quot;&gt;1,000+&lt;/div&gt;
-+       &lt;div class=&quot;stat-label&quot;&gt;GitHub Contributions&lt;/div&gt;
++     &lt;div class="stat"&gt;
++       &lt;div class="stat-number"&gt;1,000+&lt;/div&gt;
++       &lt;div class="stat-label"&gt;GitHub Contributions&lt;/div&gt;
 +     &lt;/div&gt;
-+     &lt;div class=&quot;stat&quot;&gt;
-+       &lt;div class=&quot;stat-number&quot;&gt;7&lt;/div&gt;
-+       &lt;div class=&quot;stat-label&quot;&gt;Open Source Projects&lt;/div&gt;
++     &lt;div class="stat"&gt;
++       &lt;div class="stat-number"&gt;7&lt;/div&gt;
++       &lt;div class="stat-label"&gt;Open Source Projects&lt;/div&gt;
 +     &lt;/div&gt;
-+     &lt;div class=&quot;stat&quot;&gt;
-+       &lt;div class=&quot;stat-number&quot;&gt;50+&lt;/div&gt;
-+       &lt;div class=&quot;stat-label&quot;&gt;Successful Projects&lt;/div&gt;
++     &lt;div class="stat"&gt;
++       &lt;div class="stat-number"&gt;50+&lt;/div&gt;
++       &lt;div class="stat-label"&gt;Successful Projects&lt;/div&gt;
 +     &lt;/div&gt;
 +   &lt;/div&gt;
 + &lt;/div&gt;
@@ -11971,7 +11971,7 @@ Lines added: 514, lines removed: 1
 + 
 + ---
 + 
-+ ## If You Don&#39;t Have Team Photos Yet
++ ## If You Don't Have Team Photos Yet
 + 
 + ### Temporary Solutions:
 + 
@@ -11980,7 +11980,7 @@ Lines added: 514, lines removed: 1
 + **Option 3**: Use company/office photos instead of individuals  
 + **Option 4**: Start with just founder, add team later
 + 
-+ **Recommendation**: Don&#39;t launch with bad photos. Wait for good ones or skip this section temporarily.
++ **Recommendation**: Don't launch with bad photos. Wait for good ones or skip this section temporarily.
 + 
 + ---
 + 
@@ -11990,7 +11990,7 @@ Lines added: 514, lines removed: 1
 + 2. ✅ **Schedule professional photoshoot** (or DIY with good lighting)
 + 3. ✅ **Write team bios** (2-3 sentences each)
 + 4. ✅ **Add to About page** (primary location)
-+ 5. ✅ **Link from homepage** (&quot;Meet the Team&quot;)
++ 5. ✅ **Link from homepage** ("Meet the Team")
 + 6. ✅ **Update as team grows**
 + 
 + ---
@@ -12016,7 +12016,7 @@ Let me continue with the remaining files. I'll create files 08-12:
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: landing_page_edits/08-faq.md</summary>
+<details><summary>Tool use: **write** • Edit file: landing_page_edits/08-faq.md</summary>
 
 **Chunk 1**
 Lines added: 454, lines removed: 1
@@ -12028,7 +12028,7 @@ Lines added: 454, lines removed: 1
 + 
 + ## Purpose
 + 
-+ Address objections, reduce friction, answer questions before they&#39;re asked.
++ Address objections, reduce friction, answer questions before they're asked.
 + 
 + **Goal**: Remove barriers to booking a call or making a purchase
 + 
@@ -12049,7 +12049,7 @@ Lines added: 454, lines removed: 1
 + 
 + **Q1: What exactly does AI Whisperers do?**
 + 
-+ A: We help businesses automate their operations using AI and no-code/low-code tools. We offer three options: DIY courses for those who want to learn, done-with-you consulting for teams building capabilities, and done-for-you implementation for busy leaders who want results fast. Whether it&#39;s automating your email follow-ups, CRM updates, reporting, or entire departments, we handle it end-to-end.
++ A: We help businesses automate their operations using AI and no-code/low-code tools. We offer three options: DIY courses for those who want to learn, done-with-you consulting for teams building capabilities, and done-for-you implementation for busy leaders who want results fast. Whether it's automating your email follow-ups, CRM updates, reporting, or entire departments, we handle it end-to-end.
 + 
 + ---
 + 
@@ -12061,7 +12061,7 @@ Lines added: 454, lines removed: 1
 + 
 + **Q3: Do you work with companies in my industry?**
 + 
-+ A: We&#39;ve worked across 15+ industries including SaaS, e-commerce, consulting, agencies, healthcare, finance, and manufacturing. Most business processes (email, data entry, reporting, CRM management) are similar across industries. We customize our approach to your specific workflows, regardless of industry.
++ A: We've worked across 15+ industries including SaaS, e-commerce, consulting, agencies, healthcare, finance, and manufacturing. Most business processes (email, data entry, reporting, CRM management) are similar across industries. We customize our approach to your specific workflows, regardless of industry.
 + 
 + ---
 + 
@@ -12078,7 +12078,7 @@ Lines added: 454, lines removed: 1
 + 
 + ---
 + 
-+ **Q5: What&#39;s the typical ROI?**
++ **Q5: What's the typical ROI?**
 + 
 + A: Our clients average:
 + - **40% reduction in operational costs**
@@ -12086,7 +12086,7 @@ Lines added: 454, lines removed: 1
 + - **Payback period**: 2-4 months typically
 + - **5-year value**: 10-20x the initial investment
 + 
-+ We track and report on ROI throughout the project. If you don&#39;t see measurable results within 90 days, we keep working until you do (at no extra cost).
++ We track and report on ROI throughout the project. If you don't see measurable results within 90 days, we keep working until you do (at no extra cost).
 + 
 + ---
 + 
@@ -12098,7 +12098,7 @@ Lines added: 454, lines removed: 1
 + 
 + **Q7: Is there a minimum project size?**
 + 
-+ A: Our smallest package is the Quick Wins at $5K (or $497 for DIY courses). If you&#39;re not ready for that investment, we recommend starting with our free AI Automation Opportunity Audit to understand your potential ROI first.
++ A: Our smallest package is the Quick Wins at $5K (or $497 for DIY courses). If you're not ready for that investment, we recommend starting with our free AI Automation Opportunity Audit to understand your potential ROI first.
 + 
 + ---
 + 
@@ -12115,7 +12115,7 @@ Lines added: 454, lines removed: 1
 + 
 + ---
 + 
-+ **Q9: What&#39;s the process?**
++ **Q9: What's the process?**
 + 
 + A: Four phases:
 + 
@@ -12127,7 +12127,7 @@ Lines added: 454, lines removed: 1
 + 
 + **Ongoing - Support**: 90 days of included support, monthly check-ins, optimization.
 + 
-+ See our &quot;How We Work&quot; page for full details.
++ See our "How We Work" page for full details.
 + 
 + ---
 + 
@@ -12138,7 +12138,7 @@ Lines added: 454, lines removed: 1
 + - **Done-With-You**: 10-20 hours/week during implementation
 + - **Done-For-You**: 5-10 hours total (mostly for interviews and training)
 + 
-+ Done-for-you is designed for busy leaders who don&#39;t have time to manage projects.
++ Done-for-you is designed for busy leaders who don't have time to manage projects.
 + 
 + ---
 + 
@@ -12160,9 +12160,9 @@ Lines added: 454, lines removed: 1
 + 
 + **Q12: Do we need technical skills or developers on our team?**
 + 
-+ A: No! That&#39;s the point. We use no-code and low-code tools so your non-technical team can use (and even modify) the automations. During training, we show your team how everything works—no programming required.
++ A: No! That's the point. We use no-code and low-code tools so your non-technical team can use (and even modify) the automations. During training, we show your team how everything works—no programming required.
 + 
-+ That said, if you have developers, they can access the code and customize further. It&#39;s flexible.
++ That said, if you have developers, they can access the code and customize further. It's flexible.
 + 
 + ---
 + 
@@ -12180,7 +12180,7 @@ Lines added: 454, lines removed: 1
 + - All data connections use secure APIs and OAuth
 + - No sensitive data is stored unnecessarily
 + - We sign NDAs upon request
-+ - We&#39;re happy to work within your security requirements
++ - We're happy to work within your security requirements
 + - For regulated industries (healthcare, finance), we ensure compliance
 + 
 + We can provide detailed security documentation during the sales process.
@@ -12189,7 +12189,7 @@ Lines added: 454, lines removed: 1
 + 
 + **Q15: What tools/platforms do you use?**
 + 
-+ A: We&#39;re tool-agnostic and choose based on your needs, but common tools include:
++ A: We're tool-agnostic and choose based on your needs, but common tools include:
 + - **Automation platforms**: Make.com, Zapier, n8n
 + - **AI**: ChatGPT/OpenAI, Claude, custom models
 + - **Integration**: Custom APIs, webhooks
@@ -12208,9 +12208,9 @@ Lines added: 454, lines removed: 1
 + 
 + 1. **Book a free strategy call** (30 minutes)—we discuss your challenges and goals
 + 2. **Receive custom proposal** (48 hours)—detailed plan with timeline and pricing
-+ 3. **Kick off if it&#39;s a fit**—we start working within 1-2 weeks
++ 3. **Kick off if it's a fit**—we start working within 1-2 weeks
 + 
-+ No pressure, no obligation. If automation isn&#39;t right for you, we&#39;ll tell you.
++ No pressure, no obligation. If automation isn't right for you, we'll tell you.
 + 
 + [Book Strategy Call]
 + 
@@ -12226,7 +12226,7 @@ Lines added: 454, lines removed: 1
 + - Budget range (if you have one)
 + - Timeline expectations
 + 
-+ Don&#39;t worry about having everything figured out—we&#39;ll help you identify opportunities.
++ Don't worry about having everything figured out—we'll help you identify opportunities.
 + 
 + ---
 + 
@@ -12245,17 +12245,17 @@ Lines added: 454, lines removed: 1
 + - **Done-With-You**: Coaching sessions throughout + documentation
 + - **Done-For-You**: 1-2 day comprehensive training for your team + SOPs
 + 
-+ We don&#39;t just build and leave—we ensure your team knows how to use and maintain everything.
++ We don't just build and leave—we ensure your team knows how to use and maintain everything.
 + 
 + ---
 + 
 + ### CATEGORY: RESULTS &amp; GUARANTEES
 + 
-+ **Q20: What if it doesn&#39;t work or we&#39;re not happy?**
++ **Q20: What if it doesn't work or we're not happy?**
 + 
-+ A: We have a results guarantee: If you don&#39;t see measurable ROI within 90 days, we&#39;ll continue optimizing your automations at no additional cost until you do.
++ A: We have a results guarantee: If you don't see measurable ROI within 90 days, we'll continue optimizing your automations at no additional cost until you do.
 + 
-+ We&#39;ve done this 50+ times. We know it works. If something isn&#39;t performing, we fix it.
++ We've done this 50+ times. We know it works. If something isn't performing, we fix it.
 + 
 + For courses, we offer a 30-day money-back guarantee—no questions asked.
 + 
@@ -12268,10 +12268,10 @@ Lines added: 454, lines removed: 1
 + 1. How much does it cost?
 + 2. How long does it take?
 + 3. Do we need technical skills?
-+ 4. What&#39;s the typical ROI?
++ 4. What's the typical ROI?
 + 5. How do we get started?
 + 6. Can we start with a pilot?
-+ 7. What if it doesn&#39;t work?
++ 7. What if it doesn't work?
 + 
 + [View Complete FAQ →]
 + 
@@ -12280,35 +12280,35 @@ Lines added: 454, lines removed: 1
 + ## Complete FAQ Page HTML Structure
 + 
 + &#96;&#96;&#96;html
-+ &lt;section class=&quot;faq-section&quot;&gt;
-+   &lt;div class=&quot;container&quot;&gt;
-+     &lt;div class=&quot;section-header text-center&quot;&gt;
++ &lt;section class="faq-section"&gt;
++   &lt;div class="container"&gt;
++     &lt;div class="section-header text-center"&gt;
 +       &lt;h1&gt;Frequently Asked Questions&lt;/h1&gt;
-+       &lt;p class=&quot;lead&quot;&gt;
++       &lt;p class="lead"&gt;
 +         Everything you need to know about working with AI Whisperers. 
-+         Don&#39;t see your question? &lt;a href=&quot;/contact&quot;&gt;Ask us directly&lt;/a&gt;.
++         Don't see your question? &lt;a href="/contact"&gt;Ask us directly&lt;/a&gt;.
 +       &lt;/p&gt;
 +     &lt;/div&gt;
 +     
 +     &lt;!-- Category Tabs/Navigation --&gt;
-+     &lt;div class=&quot;faq-categories&quot;&gt;
-+       &lt;button class=&quot;category-btn active&quot; data-category=&quot;all&quot;&gt;All&lt;/button&gt;
-+       &lt;button class=&quot;category-btn&quot; data-category=&quot;general&quot;&gt;General&lt;/button&gt;
-+       &lt;button class=&quot;category-btn&quot; data-category=&quot;pricing&quot;&gt;Pricing &amp; ROI&lt;/button&gt;
-+       &lt;button class=&quot;category-btn&quot; data-category=&quot;process&quot;&gt;Process&lt;/button&gt;
-+       &lt;button class=&quot;category-btn&quot; data-category=&quot;technical&quot;&gt;Technical&lt;/button&gt;
-+       &lt;button class=&quot;category-btn&quot; data-category=&quot;getting-started&quot;&gt;Getting Started&lt;/button&gt;
++     &lt;div class="faq-categories"&gt;
++       &lt;button class="category-btn active" data-category="all"&gt;All&lt;/button&gt;
++       &lt;button class="category-btn" data-category="general"&gt;General&lt;/button&gt;
++       &lt;button class="category-btn" data-category="pricing"&gt;Pricing &amp; ROI&lt;/button&gt;
++       &lt;button class="category-btn" data-category="process"&gt;Process&lt;/button&gt;
++       &lt;button class="category-btn" data-category="technical"&gt;Technical&lt;/button&gt;
++       &lt;button class="category-btn" data-category="getting-started"&gt;Getting Started&lt;/button&gt;
 +     &lt;/div&gt;
 +     
 +     &lt;!-- FAQ Accordion --&gt;
-+     &lt;div class=&quot;faq-accordion&quot;&gt;
++     &lt;div class="faq-accordion"&gt;
 +       &lt;!-- Question 1 --&gt;
-+       &lt;div class=&quot;faq-item&quot; data-category=&quot;general&quot;&gt;
-+         &lt;button class=&quot;faq-question&quot;&gt;
++       &lt;div class="faq-item" data-category="general"&gt;
++         &lt;button class="faq-question"&gt;
 +           &lt;span&gt;What exactly does AI Whisperers do?&lt;/span&gt;
-+           &lt;span class=&quot;faq-icon&quot;&gt;+&lt;/span&gt;
++           &lt;span class="faq-icon"&gt;+&lt;/span&gt;
 +         &lt;/button&gt;
-+         &lt;div class=&quot;faq-answer&quot;&gt;
++         &lt;div class="faq-answer"&gt;
 +           &lt;p&gt;[Answer content]&lt;/p&gt;
 +         &lt;/div&gt;
 +       &lt;/div&gt;
@@ -12318,14 +12318,14 @@ Lines added: 454, lines removed: 1
 +     &lt;/div&gt;
 +     
 +     &lt;!-- Still Have Questions CTA --&gt;
-+     &lt;div class=&quot;faq-cta text-center&quot;&gt;
++     &lt;div class="faq-cta text-center"&gt;
 +       &lt;h2&gt;Still Have Questions?&lt;/h2&gt;
-+       &lt;p&gt;Book a free strategy call and we&#39;ll answer everything.&lt;/p&gt;
-+       &lt;a href=&quot;/contact&quot; class=&quot;btn btn-primary btn-large&quot;&gt;
++       &lt;p&gt;Book a free strategy call and we'll answer everything.&lt;/p&gt;
++       &lt;a href="/contact" class="btn btn-primary btn-large"&gt;
 +         Book Free Call
 +       &lt;/a&gt;
-+       &lt;p class=&quot;small-text&quot;&gt;
-+         Or email us at &lt;a href=&quot;mailto:hello@ai-whisperers.org&quot;&gt;hello@ai-whisperers.org&lt;/a&gt;
++       &lt;p class="small-text"&gt;
++         Or email us at &lt;a href="mailto:hello@ai-whisperers.org"&gt;hello@ai-whisperers.org&lt;/a&gt;
 +       &lt;/p&gt;
 +     &lt;/div&gt;
 +   &lt;/div&gt;
@@ -12337,13 +12337,13 @@ Lines added: 454, lines removed: 1
 + ## FAQ Search Functionality (Optional)
 + 
 + &#96;&#96;&#96;html
-+ &lt;div class=&quot;faq-search&quot;&gt;
-+   &lt;input type=&quot;text&quot; 
-+          id=&quot;faq-search-input&quot; 
-+          placeholder=&quot;Search questions...&quot; 
-+          aria-label=&quot;Search FAQ&quot;&gt;
-+   &lt;button type=&quot;submit&quot;&gt;
-+     &lt;i class=&quot;icon-search&quot;&gt;&lt;/i&gt;
++ &lt;div class="faq-search"&gt;
++   &lt;input type="text" 
++          id="faq-search-input" 
++          placeholder="Search questions..." 
++          aria-label="Search FAQ"&gt;
++   &lt;button type="submit"&gt;
++     &lt;i class="icon-search"&gt;&lt;/i&gt;
 +   &lt;/button&gt;
 + &lt;/div&gt;
 + &#96;&#96;&#96;
@@ -12351,18 +12351,18 @@ Lines added: 454, lines removed: 1
 + ### JavaScript for Search:
 + &#96;&#96;&#96;javascript
 + // Simple FAQ search filter
-+ document.getElementById(&#39;faq-search-input&#39;).addEventListener(&#39;input&#39;, (e) =&gt; {
++ document.getElementById('faq-search-input').addEventListener('input', (e) =&gt; {
 +   const searchTerm = e.target.value.toLowerCase();
-+   const faqItems = document.querySelectorAll(&#39;.faq-item&#39;);
++   const faqItems = document.querySelectorAll('.faq-item');
 +   
 +   faqItems.forEach(item =&gt; {
-+     const question = item.querySelector(&#39;.faq-question&#39;).textContent.toLowerCase();
-+     const answer = item.querySelector(&#39;.faq-answer&#39;).textContent.toLowerCase();
++     const question = item.querySelector('.faq-question').textContent.toLowerCase();
++     const answer = item.querySelector('.faq-answer').textContent.toLowerCase();
 +     
 +     if (question.includes(searchTerm) || answer.includes(searchTerm)) {
-+       item.style.display = &#39;block&#39;;
++       item.style.display = 'block';
 +     } else {
-+       item.style.display = &#39;none&#39;;
++       item.style.display = 'none';
 +     }
 +   });
 + });
@@ -12399,17 +12399,17 @@ Lines added: 454, lines removed: 1
 + Add FAQ schema for rich snippets in Google:
 + 
 + &#96;&#96;&#96;html
-+ &lt;script type=&quot;application/ld+json&quot;&gt;
++ &lt;script type="application/ld+json"&gt;
 + {
-+   &quot;@context&quot;: &quot;https://schema.org&quot;,
-+   &quot;@type&quot;: &quot;FAQPage&quot;,
-+   &quot;mainEntity&quot;: [
++   "@context": "https://schema.org",
++   "@type": "FAQPage",
++   "mainEntity": [
 +     {
-+       &quot;@type&quot;: &quot;Question&quot;,
-+       &quot;name&quot;: &quot;How much does it cost?&quot;,
-+       &quot;acceptedAnswer&quot;: {
-+         &quot;@type&quot;: &quot;Answer&quot;,
-+         &quot;text&quot;: &quot;[Full answer text]&quot;
++       "@type": "Question",
++       "name": "How much does it cost?",
++       "acceptedAnswer": {
++         "@type": "Answer",
++         "text": "[Full answer text]"
 +       }
 +     },
 +     // Repeat for each question
@@ -12431,7 +12431,7 @@ Lines added: 454, lines removed: 1
 + - Can we hire you on retainer?
 + - Do you white-label services?
 + - Can we get references?
-+ - What&#39;s your refund policy?
++ - What's your refund policy?
 + 
 + ---
 + 
@@ -12497,7 +12497,7 @@ Let me continue with the final 4 files:
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: landing_page_edits/09-blog-setup.md</summary>
+<details><summary>Tool use: **write** • Edit file: landing_page_edits/09-blog-setup.md</summary>
 
 **Chunk 1**
 Lines added: 550, lines removed: 1
@@ -12530,36 +12530,36 @@ Lines added: 550, lines removed: 1
 + ## Blog Homepage (/blog)
 + 
 + &#96;&#96;&#96;html
-+ &lt;section class=&quot;blog-hero&quot;&gt;
-+   &lt;div class=&quot;container&quot;&gt;
++ &lt;section class="blog-hero"&gt;
++   &lt;div class="container"&gt;
 +     &lt;h1&gt;AI Automation Insights&lt;/h1&gt;
-+     &lt;p class=&quot;lead&quot;&gt;
++     &lt;p class="lead"&gt;
 +       Practical guides, case studies, and lessons learned from 50+ 
 +       automation projects. No fluff, just what works.
 +     &lt;/p&gt;
 +     
 +     &lt;!-- Newsletter Signup --&gt;
-+     &lt;div class=&quot;blog-newsletter&quot;&gt;
++     &lt;div class="blog-newsletter"&gt;
 +       &lt;h3&gt;Get New Posts in Your Inbox&lt;/h3&gt;
 +       &lt;form&gt;
-+         &lt;input type=&quot;email&quot; placeholder=&quot;your@email.com&quot;&gt;
-+         &lt;button type=&quot;submit&quot; class=&quot;btn btn-primary&quot;&gt;Subscribe&lt;/button&gt;
++         &lt;input type="email" placeholder="your@email.com"&gt;
++         &lt;button type="submit" class="btn btn-primary"&gt;Subscribe&lt;/button&gt;
 +       &lt;/form&gt;
-+       &lt;p class=&quot;small-text&quot;&gt;No spam. Unsubscribe anytime.&lt;/p&gt;
++       &lt;p class="small-text"&gt;No spam. Unsubscribe anytime.&lt;/p&gt;
 +     &lt;/div&gt;
 +   &lt;/div&gt;
 + &lt;/section&gt;
 + 
 + &lt;!-- Featured Post --&gt;
-+ &lt;section class=&quot;featured-post&quot;&gt;
++ &lt;section class="featured-post"&gt;
 +   [Latest or featured blog post with image]
 + &lt;/section&gt;
 + 
 + &lt;!-- Recent Posts Grid --&gt;
-+ &lt;section class=&quot;blog-grid&quot;&gt;
-+   &lt;div class=&quot;container&quot;&gt;
++ &lt;section class="blog-grid"&gt;
++   &lt;div class="container"&gt;
 +     &lt;h2&gt;Recent Posts&lt;/h2&gt;
-+     &lt;div class=&quot;posts-grid&quot;&gt;
++     &lt;div class="posts-grid"&gt;
 +       [Post cards - 3 columns]
 +     &lt;/div&gt;
 +     [Pagination]
@@ -12567,7 +12567,7 @@ Lines added: 550, lines removed: 1
 + &lt;/section&gt;
 + 
 + &lt;!-- Categories --&gt;
-+ &lt;aside class=&quot;blog-sidebar&quot;&gt;
++ &lt;aside class="blog-sidebar"&gt;
 +   &lt;h3&gt;Categories&lt;/h3&gt;
 +   &lt;ul&gt;
 +     &lt;li&gt;AI Automation Guides&lt;/li&gt;
@@ -12584,17 +12584,17 @@ Lines added: 550, lines removed: 1
 + 
 + &#96;&#96;&#96;html
 + &lt;!-- Post Header --&gt;
-+ &lt;article class=&quot;blog-post&quot;&gt;
-+   &lt;header class=&quot;post-header&quot;&gt;
-+     &lt;div class=&quot;post-meta&quot;&gt;
-+       &lt;span class=&quot;category&quot;&gt;AI Automation Guides&lt;/span&gt;
-+       &lt;span class=&quot;date&quot;&gt;November 20, 2025&lt;/span&gt;
-+       &lt;span class=&quot;read-time&quot;&gt;8 min read&lt;/span&gt;
++ &lt;article class="blog-post"&gt;
++   &lt;header class="post-header"&gt;
++     &lt;div class="post-meta"&gt;
++       &lt;span class="category"&gt;AI Automation Guides&lt;/span&gt;
++       &lt;span class="date"&gt;November 20, 2025&lt;/span&gt;
++       &lt;span class="read-time"&gt;8 min read&lt;/span&gt;
 +     &lt;/div&gt;
-+     &lt;h1 class=&quot;post-title&quot;&gt;[Post Title]&lt;/h1&gt;
-+     &lt;p class=&quot;post-excerpt&quot;&gt;[Brief summary]&lt;/p&gt;
-+     &lt;div class=&quot;post-author&quot;&gt;
-+       &lt;img src=&quot;/author.jpg&quot; alt=&quot;Author&quot;&gt;
++     &lt;h1 class="post-title"&gt;[Post Title]&lt;/h1&gt;
++     &lt;p class="post-excerpt"&gt;[Brief summary]&lt;/p&gt;
++     &lt;div class="post-author"&gt;
++       &lt;img src="/author.jpg" alt="Author"&gt;
 +       &lt;div&gt;
 +         &lt;strong&gt;[Author Name]&lt;/strong&gt;
 +         &lt;span&gt;Founder, AI Whisperers&lt;/span&gt;
@@ -12603,62 +12603,62 @@ Lines added: 550, lines removed: 1
 +   &lt;/header&gt;
 +   
 +   &lt;!-- Featured Image --&gt;
-+   &lt;div class=&quot;post-featured-image&quot;&gt;
-+     &lt;img src=&quot;/blog/post-image.jpg&quot; alt=&quot;[Alt text]&quot;&gt;
++   &lt;div class="post-featured-image"&gt;
++     &lt;img src="/blog/post-image.jpg" alt="[Alt text]"&gt;
 +   &lt;/div&gt;
 +   
 +   &lt;!-- Post Content --&gt;
-+   &lt;div class=&quot;post-content&quot;&gt;
++   &lt;div class="post-content"&gt;
 +     [Article content with proper formatting]
 +   &lt;/div&gt;
 +   
 +   &lt;!-- Post Footer --&gt;
-+   &lt;footer class=&quot;post-footer&quot;&gt;
++   &lt;footer class="post-footer"&gt;
 +     &lt;!-- Tags --&gt;
-+     &lt;div class=&quot;post-tags&quot;&gt;
++     &lt;div class="post-tags"&gt;
 +       &lt;strong&gt;Tags:&lt;/strong&gt;
-+       &lt;a href=&quot;/blog/tag/automation&quot;&gt;automation&lt;/a&gt;
-+       &lt;a href=&quot;/blog/tag/ai&quot;&gt;AI&lt;/a&gt;
++       &lt;a href="/blog/tag/automation"&gt;automation&lt;/a&gt;
++       &lt;a href="/blog/tag/ai"&gt;AI&lt;/a&gt;
 +     &lt;/div&gt;
 +     
 +     &lt;!-- Share Buttons --&gt;
-+     &lt;div class=&quot;post-share&quot;&gt;
++     &lt;div class="post-share"&gt;
 +       &lt;strong&gt;Share:&lt;/strong&gt;
-+       &lt;a href=&quot;[Twitter share URL]&quot;&gt;Twitter&lt;/a&gt;
-+       &lt;a href=&quot;[LinkedIn share URL]&quot;&gt;LinkedIn&lt;/a&gt;
-+       &lt;a href=&quot;[Facebook share URL]&quot;&gt;Facebook&lt;/a&gt;
++       &lt;a href="[Twitter share URL]"&gt;Twitter&lt;/a&gt;
++       &lt;a href="[LinkedIn share URL]"&gt;LinkedIn&lt;/a&gt;
++       &lt;a href="[Facebook share URL]"&gt;Facebook&lt;/a&gt;
 +     &lt;/div&gt;
 +   &lt;/footer&gt;
 +   
 +   &lt;!-- Author Bio --&gt;
-+   &lt;div class=&quot;author-bio&quot;&gt;
-+     &lt;img src=&quot;/author.jpg&quot; alt=&quot;Author&quot;&gt;
++   &lt;div class="author-bio"&gt;
++     &lt;img src="/author.jpg" alt="Author"&gt;
 +     &lt;div&gt;
 +       &lt;h3&gt;[Author Name]&lt;/h3&gt;
 +       &lt;p&gt;[Short bio]&lt;/p&gt;
-+       &lt;a href=&quot;/about&quot;&gt;More about [Author] →&lt;/a&gt;
++       &lt;a href="/about"&gt;More about [Author] →&lt;/a&gt;
 +     &lt;/div&gt;
 +   &lt;/div&gt;
 +   
 +   &lt;!-- Related Posts --&gt;
-+   &lt;div class=&quot;related-posts&quot;&gt;
++   &lt;div class="related-posts"&gt;
 +     &lt;h3&gt;Related Articles&lt;/h3&gt;
-+     &lt;div class=&quot;related-grid&quot;&gt;
++     &lt;div class="related-grid"&gt;
 +       [3 related posts]
 +     &lt;/div&gt;
 +   &lt;/div&gt;
 +   
 +   &lt;!-- CTA Box --&gt;
-+   &lt;div class=&quot;post-cta&quot;&gt;
++   &lt;div class="post-cta"&gt;
 +     &lt;h3&gt;Ready to Automate Your Business?&lt;/h3&gt;
 +     &lt;p&gt;Get your free AI Automation Opportunity Audit&lt;/p&gt;
-+     &lt;a href=&quot;/free-ai-audit&quot; class=&quot;btn btn-primary&quot;&gt;
++     &lt;a href="/free-ai-audit" class="btn btn-primary"&gt;
 +       Get Free Audit
 +     &lt;/a&gt;
 +   &lt;/div&gt;
 +   
 +   &lt;!-- Comments (optional) --&gt;
-+   &lt;div class=&quot;post-comments&quot;&gt;
++   &lt;div class="post-comments"&gt;
 +     [Comment system if desired]
 +   &lt;/div&gt;
 + &lt;/article&gt;
@@ -12670,7 +12670,7 @@ Lines added: 550, lines removed: 1
 + 
 + ### POST 1: GitHub Project Showcase
 + 
-+ **Title**: &quot;How We Automated Our Time Tracking (And Saved 10+ Hours Per Week)&quot;
++ **Title**: "How We Automated Our Time Tracking (And Saved 10+ Hours Per Week)"
 + 
 + **Slug**: &#96;/blog/automated-time-tracking-case-study&#96;
 + 
@@ -12680,7 +12680,7 @@ Lines added: 550, lines removed: 1
 + 
 + **Outline**:
 + 1. The Problem: Manual time tracking across tools
-+ 2. Why existing solutions didn&#39;t work
++ 2. Why existing solutions didn't work
 + 3. Building work-hours-automated-reports
 + 4. Technical approach (Python, APIs)
 + 5. Results: 10 hours saved weekly
@@ -12689,13 +12689,13 @@ Lines added: 550, lines removed: 1
 + 
 + **CTA**: Download our automation template
 + 
-+ **SEO Value**: High - targets &quot;time tracking automation&quot;
++ **SEO Value**: High - targets "time tracking automation"
 + 
 + ---
 + 
 + ### POST 2: Tool Tutorial
 + 
-+ **Title**: &quot;YouTube to Blog Post: How to Repurpose Video Content with AI&quot;
++ **Title**: "YouTube to Blog Post: How to Repurpose Video Content with AI"
 + 
 + **Slug**: &#96;/blog/youtube-transcript-automation-tutorial&#96;
 + 
@@ -12719,7 +12719,7 @@ Lines added: 550, lines removed: 1
 + 
 + ### POST 3: Industry Insight
 + 
-+ **Title**: &quot;5 AI Automation Mistakes That Cost Companies Thousands (And How to Avoid Them)&quot;
++ **Title**: "5 AI Automation Mistakes That Cost Companies Thousands (And How to Avoid Them)"
 + 
 + **Slug**: &#96;/blog/ai-automation-mistakes-to-avoid&#96;
 + 
@@ -12744,7 +12744,7 @@ Lines added: 550, lines removed: 1
 + 
 + ### POST 4: Case Study
 + 
-+ **Title**: &quot;How WPG Software Automated Their Client Onboarding in 3 Weeks&quot;
++ **Title**: "How WPG Software Automated Their Client Onboarding in 3 Weeks"
 + 
 + **Slug**: &#96;/blog/wpg-software-automation-case-study&#96;
 + 
@@ -12770,7 +12770,7 @@ Lines added: 550, lines removed: 1
 + 
 + ### POST 5: Open Source Leadership
 + 
-+ **Title**: &quot;Why We Build AI Automation Tools in Public (And Open Source Everything)&quot;
++ **Title**: "Why We Build AI Automation Tools in Public (And Open Source Everything)"
 + 
 + **Slug**: &#96;/blog/why-we-build-in-public-open-source&#96;
 + 
@@ -12782,7 +12782,7 @@ Lines added: 550, lines removed: 1
 + 1. The problem with closed-source AI consulting
 + 2. Our philosophy: Transparency builds trust
 + 3. Our open source projects
-+ 4. What we&#39;ve learned building in public
++ 4. What we've learned building in public
 + 5. Benefits to the community
 + 6. Benefits to our business
 + 7. How you can contribute
@@ -12810,7 +12810,7 @@ Lines added: 550, lines removed: 1
 + 
 + ### 3. Tools &amp; Reviews (20% of content)
 + - Tool comparisons
-+ - &quot;Best tools for [X]&quot;
++ - "Best tools for [X]"
 + - Integration guides
 + - Our tools spotlight
 + 
@@ -12831,16 +12831,16 @@ Lines added: 550, lines removed: 1
 + - Week 4: POST 4 (WPG case study)
 + 
 + ### Month 2:
-+ - Week 5: &quot;10 Processes Every Business Should Automate&quot;
-+ - Week 6: &quot;Make.com vs Zapier: Which is Better?&quot;
++ - Week 5: "10 Processes Every Business Should Automate"
++ - Week 6: "Make.com vs Zapier: Which is Better?"
 + - Week 7: POST 5 (Building in public)
-+ - Week 8: &quot;How to Calculate ROI on Automation&quot;
++ - Week 8: "How to Calculate ROI on Automation"
 + 
 + ### Month 3:
-+ - Week 9: &quot;AI Agents Explained: A Practical Guide&quot;
++ - Week 9: "AI Agents Explained: A Practical Guide"
 + - Week 10: Client case study #2
-+ - Week 11: &quot;The No-Code Automation Tech Stack&quot;
-+ - Week 12: &quot;Automation for Solopreneurs: Where to Start&quot;
++ - Week 11: "The No-Code Automation Tech Stack"
++ - Week 12: "Automation for Solopreneurs: Where to Start"
 + 
 + **Frequency**: 1 post per week minimum, 2-3 optimal
 + 
@@ -12892,7 +12892,7 @@ Lines added: 550, lines removed: 1
 + ### Introduction (150-200 words)
 + - Hook (problem or question)
 + - Why this matters
-+ - What you&#39;ll learn
++ - What you'll learn
 + 
 + ### Section 1: [H2 Heading with Keyword]
 + - [Key points]
@@ -13074,7 +13074,7 @@ Let me create the final 3 files to complete the plan:
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: landing_page_edits/10-enhanced-testimonials.md</summary>
+<details><summary>Tool use: **write** • Edit file: landing_page_edits/10-enhanced-testimonials.md</summary>
 
 **Chunk 1**
 Lines added: 480, lines removed: 1
@@ -13087,10 +13087,10 @@ Lines added: 480, lines removed: 1
 + ## Current Testimonials (ai-whisperers.org)
 + 
 + ### WPG Software:
-+ &gt; &quot;Great collaboration with tangible results. the updated website is amazing.&quot;
++ &gt; "Great collaboration with tangible results. the updated website is amazing."
 + 
 + ### WPG Amenities:
-+ &gt; &quot;Professional, fast, and innovative. Their portfolio solution exceeded our expectations.&quot;
++ &gt; "Professional, fast, and innovative. Their portfolio solution exceeded our expectations."
 + 
 + **Problem**: These are good but lack specifics—no metrics, no context, no transformation story
 + 
@@ -13114,13 +13114,13 @@ Lines added: 480, lines removed: 1
 + 
 + &#96;&#96;&#96;
 + ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-+ &quot;AI Whisperers didn&#39;t just update our website—they automated our 
++ "AI Whisperers didn't just update our website—they automated our 
 + entire client onboarding process. What used to take us 15 hours per 
-+ week now takes 1 hour.&quot;
++ week now takes 1 hour."
 + 
-+ &quot;The collaboration was fantastic. They understood our business quickly, 
++ "The collaboration was fantastic. They understood our business quickly, 
 + delivered in 3 weeks, and the new automated workflows have saved us 
-+ $50,000 in the first year alone.&quot;
++ $50,000 in the first year alone."
 + 
 + — [Contact Name]
 +    Operations Director, WPG Software
@@ -13131,15 +13131,15 @@ Lines added: 480, lines removed: 1
 + 
 + &#96;&#96;&#96;
 + ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-+ &quot;Before AI Whisperers, I was drowning in manual client onboarding 
++ "Before AI Whisperers, I was drowning in manual client onboarding 
 + work—15+ hours every week just sending emails, creating accounts, 
-+ and updating spreadsheets.&quot;
++ and updating spreadsheets."
 + 
-+ &quot;They mapped our entire process, built automations, and trained our 
++ "They mapped our entire process, built automations, and trained our 
 + team in 3 weeks. Now clients onboard themselves in minutes, not days. 
-+ The website redesign was a bonus.&quot;
++ The website redesign was a bonus."
 + 
-+ &quot;ROI was positive in the first month. Best investment we made this year.&quot;
++ "ROI was positive in the first month. Best investment we made this year."
 + 
 + — [Contact Name]
 +    Operations Director, WPG Software
@@ -13151,8 +13151,8 @@ Lines added: 480, lines removed: 1
 + &#96;&#96;&#96;
 + [Client Photo or Logo]
 + 
-+ &quot;AI Whisperers didn&#39;t just update our website—they transformed 
-+ how we onboard clients.&quot;
++ "AI Whisperers didn't just update our website—they transformed 
++ how we onboard clients."
 + 
 + — [Contact Name], Operations Director
 +    WPG Software
@@ -13174,13 +13174,13 @@ Lines added: 480, lines removed: 1
 + 
 + &#96;&#96;&#96;
 + ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-+ &quot;We needed a modern real estate portfolio site that showcased our 
++ "We needed a modern real estate portfolio site that showcased our 
 + properties beautifully. AI Whisperers delivered that—and automated 
-+ our property listing process at the same time.&quot;
++ our property listing process at the same time."
 + 
-+ &quot;What impressed me most was the speed. From kickoff to launch: 
++ "What impressed me most was the speed. From kickoff to launch: 
 + 2 weeks. And they integrated our CRM so listings update automatically. 
-+ Professional, fast, and innovative doesn&#39;t even cover it.&quot;
++ Professional, fast, and innovative doesn't even cover it."
 + 
 + — [Contact Name]
 +    Managing Director, WPG Amenities
@@ -13192,8 +13192,8 @@ Lines added: 480, lines removed: 1
 + &#96;&#96;&#96;
 + [Client Photo or Logo]
 + 
-+ &quot;From kickoff to launch in 2 weeks. Our property listings now 
-+ update automatically—no more manual work.&quot;
++ "From kickoff to launch in 2 weeks. Our property listings now 
++ update automatically—no more manual work."
 + 
 + — [Contact Name], Managing Director
 +    WPG Amenities
@@ -13212,86 +13212,86 @@ Lines added: 480, lines removed: 1
 + ## Complete Testimonials Section HTML
 + 
 + &#96;&#96;&#96;html
-+ &lt;section class=&quot;testimonials-section&quot;&gt;
-+   &lt;div class=&quot;container&quot;&gt;
++ &lt;section class="testimonials-section"&gt;
++   &lt;div class="container"&gt;
 +     &lt;!-- Section Header --&gt;
-+     &lt;div class=&quot;section-header text-center&quot;&gt;
++     &lt;div class="section-header text-center"&gt;
 +       &lt;h2&gt;What Clients Say&lt;/h2&gt;
-+       &lt;p class=&quot;section-subheadline&quot;&gt;
++       &lt;p class="section-subheadline"&gt;
 +         Real results from real businesses—with numbers to prove it.
 +       &lt;/p&gt;
 +     &lt;/div&gt;
 +     
 +     &lt;!-- Featured Testimonial (Large) --&gt;
-+     &lt;div class=&quot;testimonial-featured&quot;&gt;
-+       &lt;div class=&quot;testimonial-content&quot;&gt;
-+         &lt;div class=&quot;quote-icon&quot;&gt;&quot;&lt;/div&gt;
++     &lt;div class="testimonial-featured"&gt;
++       &lt;div class="testimonial-content"&gt;
++         &lt;div class="quote-icon"&gt;"&lt;/div&gt;
 +         &lt;blockquote&gt;
-+           &quot;AI Whisperers didn&#39;t just update our website—they transformed 
++           "AI Whisperers didn't just update our website—they transformed 
 +           how we onboard clients. What used to take 15 hours per week now 
-+           takes 1 hour. ROI was positive in the first month.&quot;
++           takes 1 hour. ROI was positive in the first month."
 +         &lt;/blockquote&gt;
-+         &lt;div class=&quot;testimonial-author&quot;&gt;
-+           &lt;img src=&quot;/clients/wpg-software-contact.jpg&quot; alt=&quot;WPG Software&quot;&gt;
-+           &lt;div class=&quot;author-info&quot;&gt;
++         &lt;div class="testimonial-author"&gt;
++           &lt;img src="/clients/wpg-software-contact.jpg" alt="WPG Software"&gt;
++           &lt;div class="author-info"&gt;
 +             &lt;strong&gt;[Contact Name]&lt;/strong&gt;
 +             &lt;span&gt;Operations Director&lt;/span&gt;
-+             &lt;span class=&quot;company&quot;&gt;WPG Software&lt;/span&gt;
++             &lt;span class="company"&gt;WPG Software&lt;/span&gt;
 +           &lt;/div&gt;
 +         &lt;/div&gt;
 +       &lt;/div&gt;
-+       &lt;div class=&quot;testimonial-metrics&quot;&gt;
++       &lt;div class="testimonial-metrics"&gt;
 +         &lt;h4&gt;Results:&lt;/h4&gt;
-+         &lt;div class=&quot;metric&quot;&gt;
-+           &lt;div class=&quot;metric-value&quot;&gt;15 → 1&lt;/div&gt;
-+           &lt;div class=&quot;metric-label&quot;&gt;Hours per week saved&lt;/div&gt;
++         &lt;div class="metric"&gt;
++           &lt;div class="metric-value"&gt;15 → 1&lt;/div&gt;
++           &lt;div class="metric-label"&gt;Hours per week saved&lt;/div&gt;
 +         &lt;/div&gt;
-+         &lt;div class=&quot;metric&quot;&gt;
-+           &lt;div class=&quot;metric-value&quot;&gt;$50K&lt;/div&gt;
-+           &lt;div class=&quot;metric-label&quot;&gt;Annual cost savings&lt;/div&gt;
++         &lt;div class="metric"&gt;
++           &lt;div class="metric-value"&gt;$50K&lt;/div&gt;
++           &lt;div class="metric-label"&gt;Annual cost savings&lt;/div&gt;
 +         &lt;/div&gt;
-+         &lt;div class=&quot;metric&quot;&gt;
-+           &lt;div class=&quot;metric-value&quot;&gt;3 weeks&lt;/div&gt;
-+           &lt;div class=&quot;metric-label&quot;&gt;Implementation time&lt;/div&gt;
++         &lt;div class="metric"&gt;
++           &lt;div class="metric-value"&gt;3 weeks&lt;/div&gt;
++           &lt;div class="metric-label"&gt;Implementation time&lt;/div&gt;
 +         &lt;/div&gt;
-+         &lt;a href=&quot;/case-studies/wpg-software&quot; class=&quot;btn btn-outline&quot;&gt;
++         &lt;a href="/case-studies/wpg-software" class="btn btn-outline"&gt;
 +           Read Full Case Study →
 +         &lt;/a&gt;
 +       &lt;/div&gt;
 +     &lt;/div&gt;
 +     
 +     &lt;!-- Additional Testimonials Grid --&gt;
-+     &lt;div class=&quot;testimonials-grid&quot;&gt;
++     &lt;div class="testimonials-grid"&gt;
 +       &lt;!-- Testimonial 2 --&gt;
-+       &lt;div class=&quot;testimonial-card&quot;&gt;
-+         &lt;div class=&quot;rating&quot;&gt;⭐⭐⭐⭐⭐&lt;/div&gt;
++       &lt;div class="testimonial-card"&gt;
++         &lt;div class="rating"&gt;⭐⭐⭐⭐⭐&lt;/div&gt;
 +         &lt;blockquote&gt;
-+           &quot;From kickoff to launch in 2 weeks. Our property listings now 
++           "From kickoff to launch in 2 weeks. Our property listings now 
 +           update automatically—no more manual work. Professional, fast, 
-+           and innovative.&quot;
++           and innovative."
 +         &lt;/blockquote&gt;
-+         &lt;div class=&quot;testimonial-author&quot;&gt;
-+           &lt;img src=&quot;/clients/wpg-amenities-contact.jpg&quot; alt=&quot;WPG Amenities&quot;&gt;
++         &lt;div class="testimonial-author"&gt;
++           &lt;img src="/clients/wpg-amenities-contact.jpg" alt="WPG Amenities"&gt;
 +           &lt;div&gt;
 +             &lt;strong&gt;[Contact Name]&lt;/strong&gt;
 +             &lt;span&gt;Managing Director, WPG Amenities&lt;/span&gt;
 +           &lt;/div&gt;
 +         &lt;/div&gt;
-+         &lt;div class=&quot;testimonial-results&quot;&gt;
-+           &lt;span class=&quot;result-badge&quot;&gt;2 weeks delivery&lt;/span&gt;
-+           &lt;span class=&quot;result-badge&quot;&gt;+45% traffic&lt;/span&gt;
-+           &lt;span class=&quot;result-badge&quot;&gt;+30% leads&lt;/span&gt;
++         &lt;div class="testimonial-results"&gt;
++           &lt;span class="result-badge"&gt;2 weeks delivery&lt;/span&gt;
++           &lt;span class="result-badge"&gt;+45% traffic&lt;/span&gt;
++           &lt;span class="result-badge"&gt;+30% leads&lt;/span&gt;
 +         &lt;/div&gt;
 +       &lt;/div&gt;
 +       
 +       &lt;!-- Testimonial 3 (Add as you get more) --&gt;
-+       &lt;div class=&quot;testimonial-card&quot;&gt;
-+         &lt;div class=&quot;rating&quot;&gt;⭐⭐⭐⭐⭐&lt;/div&gt;
++       &lt;div class="testimonial-card"&gt;
++         &lt;div class="rating"&gt;⭐⭐⭐⭐⭐&lt;/div&gt;
 +         &lt;blockquote&gt;
-+           &quot;[Future testimonial with specific results and metrics]&quot;
++           "[Future testimonial with specific results and metrics]"
 +         &lt;/blockquote&gt;
-+         &lt;div class=&quot;testimonial-author&quot;&gt;
-+           &lt;img src=&quot;/clients/client3.jpg&quot; alt=&quot;Client 3&quot;&gt;
++         &lt;div class="testimonial-author"&gt;
++           &lt;img src="/clients/client3.jpg" alt="Client 3"&gt;
 +           &lt;div&gt;
 +             &lt;strong&gt;[Name]&lt;/strong&gt;
 +             &lt;span&gt;[Title], [Company]&lt;/span&gt;
@@ -13303,22 +13303,22 @@ Lines added: 480, lines removed: 1
 +     &lt;/div&gt;
 +     
 +     &lt;!-- Stats Summary --&gt;
-+     &lt;div class=&quot;testimonial-stats&quot;&gt;
++     &lt;div class="testimonial-stats"&gt;
 +       &lt;h3&gt;Across All Projects:&lt;/h3&gt;
-+       &lt;div class=&quot;stats-row&quot;&gt;
-+         &lt;div class=&quot;stat&quot;&gt;
++       &lt;div class="stats-row"&gt;
++         &lt;div class="stat"&gt;
 +           &lt;strong&gt;40%&lt;/strong&gt;
 +           &lt;span&gt;Average cost reduction&lt;/span&gt;
 +         &lt;/div&gt;
-+         &lt;div class=&quot;stat&quot;&gt;
++         &lt;div class="stat"&gt;
 +           &lt;strong&gt;10-20 hrs&lt;/strong&gt;
 +           &lt;span&gt;Average weekly time saved&lt;/span&gt;
 +         &lt;/div&gt;
-+         &lt;div class=&quot;stat&quot;&gt;
++         &lt;div class="stat"&gt;
 +           &lt;strong&gt;30 days&lt;/strong&gt;
 +           &lt;span&gt;Average implementation&lt;/span&gt;
 +         &lt;/div&gt;
-+         &lt;div class=&quot;stat&quot;&gt;
++         &lt;div class="stat"&gt;
 +           &lt;strong&gt;100%&lt;/strong&gt;
 +           &lt;span&gt;Client satisfaction&lt;/span&gt;
 +         &lt;/div&gt;
@@ -13326,10 +13326,10 @@ Lines added: 480, lines removed: 1
 +     &lt;/div&gt;
 +     
 +     &lt;!-- CTA --&gt;
-+     &lt;div class=&quot;testimonial-cta text-center&quot;&gt;
++     &lt;div class="testimonial-cta text-center"&gt;
 +       &lt;h3&gt;Want Results Like These?&lt;/h3&gt;
-+       &lt;p&gt;Book a free strategy call and let&#39;s discuss your automation opportunities.&lt;/p&gt;
-+       &lt;a href=&quot;/contact&quot; class=&quot;btn btn-primary btn-large&quot;&gt;
++       &lt;p&gt;Book a free strategy call and let's discuss your automation opportunities.&lt;/p&gt;
++       &lt;a href="/contact" class="btn btn-primary btn-large"&gt;
 +         Book Free Strategy Call
 +       &lt;/a&gt;
 +     &lt;/div&gt;
@@ -13349,9 +13349,9 @@ Lines added: 480, lines removed: 1
 + 
 + Hi [Name],
 + 
-+ Hope you&#39;re enjoying the [automation/website/project] we built together!
++ Hope you're enjoying the [automation/website/project] we built together!
 + 
-+ I&#39;m updating our website with client success stories and would love 
++ I'm updating our website with client success stories and would love 
 + to feature WPG [Software/Amenities].
 + 
 + Could you share:
@@ -13362,7 +13362,7 @@ Lines added: 480, lines removed: 1
 + A 2-3 sentence quote would be amazing. Even better if you could record 
 + a short video testimonial (30-60 seconds).
 + 
-+ As a thank you, I&#39;ll send you [incentive: discount on future work, 
++ As a thank you, I'll send you [incentive: discount on future work, 
 + free consultation hour, etc.].
 + 
 + Thanks!
@@ -13394,7 +13394,7 @@ Lines added: 480, lines removed: 1
 + &#96;&#96;&#96;
 + [Client on camera, 30-60 seconds]
 + 
-+ Hi, I&#39;m [Name] from [Company].
++ Hi, I'm [Name] from [Company].
 + 
 + Before working with AI Whisperers, [specific problem]. It was 
 + [emotional descriptor: frustrating, time-consuming, expensive].
@@ -13403,13 +13403,13 @@ Lines added: 480, lines removed: 1
 + 
 + The best part? [additional benefit or surprising outcome].
 + 
-+ If you&#39;re [target audience description], I highly recommend working 
++ If you're [target audience description], I highly recommend working 
 + with AI Whisperers. They [key differentiator].
 + &#96;&#96;&#96;
 + 
 + ### Example:
 + &#96;&#96;&#96;
-+ Hi, I&#39;m Sarah from WPG Software.
++ Hi, I'm Sarah from WPG Software.
 + 
 + Before working with AI Whisperers, our client onboarding was completely 
 + manual—taking 15+ hours every week. It was exhausting.
@@ -13417,10 +13417,10 @@ Lines added: 480, lines removed: 1
 + They automated our entire process, and within 3 weeks, we cut that time 
 + to under an hour per week.
 + 
-+ The best part? Our clients love the new experience—it&#39;s faster and more 
++ The best part? Our clients love the new experience—it's faster and more 
 + professional.
 + 
-+ If you&#39;re drowning in manual work, I highly recommend AI Whisperers. 
++ If you're drowning in manual work, I highly recommend AI Whisperers. 
 + They actually deliver what they promise.
 + &#96;&#96;&#96;
 + 
@@ -13459,17 +13459,17 @@ Lines added: 480, lines removed: 1
 + Add alongside testimonials:
 + 
 + &#96;&#96;&#96;html
-+ &lt;div class=&quot;trust-indicators&quot;&gt;
-+   &lt;div class=&quot;trust-badge&quot;&gt;
-+     &lt;img src=&quot;/badges/g2-badge.png&quot; alt=&quot;G2 Rating&quot;&gt;
++ &lt;div class="trust-indicators"&gt;
++   &lt;div class="trust-badge"&gt;
++     &lt;img src="/badges/g2-badge.png" alt="G2 Rating"&gt;
 +     &lt;span&gt;4.9/5 on G2&lt;/span&gt;
 +   &lt;/div&gt;
-+   &lt;div class=&quot;trust-badge&quot;&gt;
-+     &lt;img src=&quot;/badges/clutch-badge.png&quot; alt=&quot;Clutch Rating&quot;&gt;
++   &lt;div class="trust-badge"&gt;
++     &lt;img src="/badges/clutch-badge.png" alt="Clutch Rating"&gt;
 +     &lt;span&gt;5.0/5 on Clutch&lt;/span&gt;
 +   &lt;/div&gt;
-+   &lt;div class=&quot;trust-badge&quot;&gt;
-+     &lt;img src=&quot;/badges/github-badge.png&quot; alt=&quot;GitHub&quot;&gt;
++   &lt;div class="trust-badge"&gt;
++     &lt;img src="/badges/github-badge.png" alt="GitHub"&gt;
 +     &lt;span&gt;50+ Stars on GitHub&lt;/span&gt;
 +   &lt;/div&gt;
 + &lt;/div&gt;
@@ -13517,9 +13517,9 @@ Lines added: 480, lines removed: 1
 + ✅ Use your own words (authentic)  
 + ✅ Include your full name and title
 + 
-+ ❌ Don&#39;t be generic (&quot;Great service!&quot;)  
-+ ❌ Don&#39;t just praise, show results  
-+ ❌ Don&#39;t be overly salesy  
++ ❌ Don't be generic ("Great service!")  
++ ❌ Don't just praise, show results  
++ ❌ Don't be overly salesy  
 + 
 + **Length**: 2-4 sentences ideal, or 30-60 second video
 + 
@@ -13581,7 +13581,7 @@ Let me create the final 2 files:
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: landing_page_edits/11-cta-updates.md</summary>
+<details><summary>Tool use: **write** • Edit file: landing_page_edits/11-cta-updates.md</summary>
 
 **Chunk 1**
 Lines added: 520, lines removed: 1
@@ -13593,11 +13593,11 @@ Lines added: 520, lines removed: 1
 + 
 + ## Current CTAs (ai-whisperers.org)
 + 
-+ - &quot;See Projects&quot;
-+ - &quot;Get in Touch&quot;
-+ - &quot;View Project&quot;
-+ - &quot;Get Started&quot;
-+ - &quot;View All Courses&quot;
++ - "See Projects"
++ - "Get in Touch"
++ - "View Project"
++ - "Get Started"
++ - "View All Courses"
 + 
 + **Problem**: Too vague, no specificity, unclear next step
 + 
@@ -13656,7 +13656,7 @@ Lines added: 520, lines removed: 1
 + 
 + **Where to Use**:
 + - Hero section (secondary CTA)
-+ - After &quot;How We Work&quot;
++ - After "How We Work"
 + - After pricing section
 + - Contact page
 + - After case studies
@@ -13694,7 +13694,7 @@ Lines added: 520, lines removed: 1
 + [Read Case Studies]
 + [See Real Results]
 + [View Success Stories]
-+ [See How We&#39;ve Helped]
++ [See How We've Helped]
 + &#96;&#96;&#96;
 + 
 + **Where to Use**:
@@ -13716,7 +13716,7 @@ Lines added: 520, lines removed: 1
 + &#96;&#96;&#96;
 + 
 + **Where to Use**:
-+ - After &quot;How We Work&quot;
++ - After "How We Work"
 + - Homepage mid-section
 + - After case studies
 + - FAQ section
@@ -13787,7 +13787,7 @@ Lines added: 520, lines removed: 1
 + 1. HERO SECTION
 +    Primary: [Get Your Free AI Audit] (large, prominent)
 +    Secondary: [View Our GitHub →] (outline button)
-+    Tertiary: &quot;Ready to talk? Book a free strategy call&quot; (text link)
++    Tertiary: "Ready to talk? Book a free strategy call" (text link)
 + 
 + 2. GITHUB POSITIONING SECTION
 +    Primary: [View on GitHub →] (per project)
@@ -13817,10 +13817,10 @@ Lines added: 520, lines removed: 1
 +    Section CTA: [View All Courses]
 + 
 + 9. FINAL CTA SECTION (Before Footer)
-+    Headline: &quot;Ready to Automate Your Business?&quot;
++    Headline: "Ready to Automate Your Business?"
 +    Primary: [Get Your Free AI Audit]
 +    Secondary: [Book Free Strategy Call]
-+    Tertiary: &quot;Or explore our GitHub first&quot; (text link)
++    Tertiary: "Or explore our GitHub first" (text link)
 + 
 + 10. FOOTER
 +     - Newsletter signup form
@@ -13834,22 +13834,22 @@ Lines added: 520, lines removed: 1
 + ## CTA Button Copy Variations (A/B Test These)
 + 
 + ### For Lead Magnet:
-+ - A: &quot;Get Your Free AI Audit&quot;
-+ - B: &quot;Download Free Audit&quot;
-+ - C: &quot;Get Free Automation Assessment&quot;
-+ - D: &quot;Discover Your Opportunities&quot;
++ - A: "Get Your Free AI Audit"
++ - B: "Download Free Audit"
++ - C: "Get Free Automation Assessment"
++ - D: "Discover Your Opportunities"
 + 
 + ### For Strategy Call:
-+ - A: &quot;Book Free Strategy Call&quot;
-+ - B: &quot;Schedule Your Free Call&quot;
-+ - C: &quot;Talk to an Automation Expert&quot;
-+ - D: &quot;Get Your Free Consultation&quot;
++ - A: "Book Free Strategy Call"
++ - B: "Schedule Your Free Call"
++ - C: "Talk to an Automation Expert"
++ - D: "Get Your Free Consultation"
 + 
 + ### For GitHub:
-+ - A: &quot;View Our GitHub →&quot;
-+ - B: &quot;See Our Code&quot;
-+ - C: &quot;Explore Our Projects&quot;
-+ - D: &quot;Check Our GitHub&quot;
++ - A: "View Our GitHub →"
++ - B: "See Our Code"
++ - C: "Explore Our Projects"
++ - D: "Check Our GitHub"
 + 
 + **Test and Track**: Use analytics to see which converts best
 + 
@@ -13935,19 +13935,19 @@ Lines added: 520, lines removed: 1
 + **For Limited Spots**:
 + &#96;&#96;&#96;
 + [Book Free Strategy Call]
-+ &quot;Only 3 slots available this week&quot;
++ "Only 3 slots available this week"
 + &#96;&#96;&#96;
 + 
 + **For Time-Sensitive Offers**:
 + &#96;&#96;&#96;
 + [Get Your Free Audit]
-+ &quot;Limited time: Get priority review within 24 hours&quot;
++ "Limited time: Get priority review within 24 hours"
 + &#96;&#96;&#96;
 + 
 + **For Seasonal Campaigns**:
 + &#96;&#96;&#96;
 + [Start Your Automation Project]
-+ &quot;Q1 projects start in January. Book now to secure your spot.&quot;
++ "Q1 projects start in January. Book now to secure your spot."
 + &#96;&#96;&#96;
 + 
 + **Warning**: Only use if genuinely true. False urgency kills trust.
@@ -13959,42 +13959,42 @@ Lines added: 520, lines removed: 1
 + ### Below Primary CTAs:
 + 
 + **For Free Audit**:
-+ - &quot;✓ No credit card required&quot;
-+ - &quot;✓ Instant delivery&quot;
-+ - &quot;✓ Completely free&quot;
++ - "✓ No credit card required"
++ - "✓ Instant delivery"
++ - "✓ Completely free"
 + 
 + **For Strategy Call**:
-+ - &quot;✓ No obligation&quot;
-+ - &quot;✓ No sales pressure&quot;
-+ - &quot;✓ Just honest advice&quot;
++ - "✓ No obligation"
++ - "✓ No sales pressure"
++ - "✓ Just honest advice"
 + 
 + **For GitHub**:
-+ - &quot;✓ Public code&quot;
-+ - &quot;✓ Real implementations&quot;
-+ - &quot;✓ Open source&quot;
++ - "✓ Public code"
++ - "✓ Real implementations"
++ - "✓ Open source"
 + 
 + ---
 + 
 + ## Conversion Optimization Tips
 + 
 + ### 1. Use Action-Oriented Verbs:
-+ ✅ &quot;Get Your Free Audit&quot;  
-+ ❌ &quot;Free Audit&quot;
++ ✅ "Get Your Free Audit"  
++ ❌ "Free Audit"
 + 
-+ ✅ &quot;Book Strategy Call&quot;  
-+ ❌ &quot;Strategy Call&quot;
++ ✅ "Book Strategy Call"  
++ ❌ "Strategy Call"
 + 
 + ### 2. Emphasize Value:
-+ ✅ &quot;Get Your Free AI Audit&quot;  
-+ ❌ &quot;Submit Form&quot;
++ ✅ "Get Your Free AI Audit"  
++ ❌ "Submit Form"
 + 
-+ ✅ &quot;Download Free Guide&quot;  
-+ ❌ &quot;Click Here&quot;
++ ✅ "Download Free Guide"  
++ ❌ "Click Here"
 + 
 + ### 3. Remove Friction:
-+ ✅ &quot;No credit card required&quot;  
-+ ✅ &quot;Free, no obligation&quot;  
-+ ✅ &quot;Takes 2 minutes&quot;
++ ✅ "No credit card required"  
++ ✅ "Free, no obligation"  
++ ✅ "Takes 2 minutes"
 + 
 + ### 4. Create Contrast:
 + - Primary CTA stands out visually
@@ -14040,19 +14040,19 @@ Lines added: 520, lines removed: 1
 + ## CTA Replacement Checklist
 + 
 + ### Homepage Updates:
-+ - [ ] Update hero primary CTA: &quot;Get Your Free AI Audit&quot;
-+ - [ ] Update hero secondary CTA: &quot;View Our GitHub →&quot;
-+ - [ ] Add tertiary CTA: &quot;Book a free strategy call&quot; (text link)
-+ - [ ] Update &quot;Get Started&quot; to &quot;Book Free Strategy Call&quot;
++ - [ ] Update hero primary CTA: "Get Your Free AI Audit"
++ - [ ] Update hero secondary CTA: "View Our GitHub →"
++ - [ ] Add tertiary CTA: "Book a free strategy call" (text link)
++ - [ ] Update "Get Started" to "Book Free Strategy Call"
 + - [ ] Add CTAs after each major section
 + - [ ] Add final CTA section before footer
 + 
 + ### Other Pages:
-+ - [ ] Services page: &quot;Book Free Strategy Call&quot; + &quot;Get Free Audit&quot;
-+ - [ ] About page: &quot;Book Free Strategy Call&quot; + &quot;View GitHub&quot;
++ - [ ] Services page: "Book Free Strategy Call" + "Get Free Audit"
++ - [ ] About page: "Book Free Strategy Call" + "View GitHub"
 + - [ ] Contact page: Ensure clear action (form + call button)
-+ - [ ] Blog posts: &quot;Get Free Audit&quot; at end of each post
-+ - [ ] Case studies: &quot;Book Free Call&quot; after each story
++ - [ ] Blog posts: "Get Free Audit" at end of each post
++ - [ ] Case studies: "Book Free Call" after each story
 + 
 + ### Analytics Setup:
 + - [ ] Add event tracking to all CTAs
@@ -14065,15 +14065,15 @@ Lines added: 520, lines removed: 1
 + ## Quick Win CTA Updates (Do First)
 + 
 + ### Priority 1 (This Week):
-+ 1. Change hero CTA from &quot;Get in Touch&quot; to &quot;Get Your Free AI Audit&quot;
-+ 2. Change &quot;See Projects&quot; to &quot;Read Case Studies&quot;
-+ 3. Change &quot;Get Started&quot; to &quot;Book Free Strategy Call&quot;
-+ 4. Add &quot;View Our GitHub →&quot; button in hero
++ 1. Change hero CTA from "Get in Touch" to "Get Your Free AI Audit"
++ 2. Change "See Projects" to "Read Case Studies"
++ 3. Change "Get Started" to "Book Free Strategy Call"
++ 4. Add "View Our GitHub →" button in hero
 + 
 + ### Priority 2 (Next Week):
 + 5. Add CTAs after testimonials section
 + 6. Add final CTA section before footer
-+ 7. Update all &quot;View Project&quot; to &quot;View Case Study&quot;
++ 7. Update all "View Project" to "View Case Study"
 + 8. Add microcopy under primary CTAs
 + 
 + ### Priority 3 (Month 1):
@@ -14128,7 +14128,7 @@ Now let me create the final file - the WhatsApp Business integration guide:
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: landing_page_edits/12-whatsapp-business-integration.md</summary>
+<details><summary>Tool use: **write** • Edit file: landing_page_edits/12-whatsapp-business-integration.md</summary>
 
 **Chunk 1**
 Lines added: 773, lines removed: 1
@@ -14208,7 +14208,7 @@ Lines added: 773, lines removed: 1
 + 
 + **For General Inquiries**:
 + &#96;&#96;&#96;
-+ Message: Hi, I&#39;m interested in AI automation services for my business.
++ Message: Hi, I'm interested in AI automation services for my business.
 + 
 + Encoded Link:
 + https://wa.me/15551234567?text=Hi%2C%20I%27m%20interested%20in%20AI%20automation%20services%20for%20my%20business
@@ -14216,7 +14216,7 @@ Lines added: 773, lines removed: 1
 + 
 + **For Free Audit**:
 + &#96;&#96;&#96;
-+ Message: I&#39;d like to get a free AI automation audit for my business.
++ Message: I'd like to get a free AI automation audit for my business.
 + 
 + Encoded Link:
 + https://wa.me/15551234567?text=I%27d%20like%20to%20get%20a%20free%20AI%20automation%20audit%20for%20my%20business
@@ -14224,7 +14224,7 @@ Lines added: 773, lines removed: 1
 + 
 + **For Booking Consultation**:
 + &#96;&#96;&#96;
-+ Message: I&#39;d like to book a free strategy call to discuss automation opportunities.
++ Message: I'd like to book a free strategy call to discuss automation opportunities.
 + 
 + Encoded Link:
 + https://wa.me/15551234567?text=I%27d%20like%20to%20book%20a%20free%20strategy%20call%20to%20discuss%20automation%20opportunities
@@ -14234,21 +14234,21 @@ Lines added: 773, lines removed: 1
 + 
 + **Simple Text Link**:
 + &#96;&#96;&#96;html
-+ &lt;a href=&quot;https://wa.me/15551234567?text=Hi%2C%20I%27m%20interested%20in%20AI%20automation&quot; 
-+    target=&quot;_blank&quot;
-+    rel=&quot;noopener noreferrer&quot;&gt;
++ &lt;a href="https://wa.me/15551234567?text=Hi%2C%20I%27m%20interested%20in%20AI%20automation" 
++    target="_blank"
++    rel="noopener noreferrer"&gt;
 +   Contact us on WhatsApp
 + &lt;/a&gt;
 + &#96;&#96;&#96;
 + 
 + **Button with Icon**:
 + &#96;&#96;&#96;html
-+ &lt;a href=&quot;https://wa.me/15551234567?text=Hi%2C%20I%27m%20interested%20in%20AI%20automation&quot; 
-+    target=&quot;_blank&quot;
-+    rel=&quot;noopener noreferrer&quot;
-+    class=&quot;whatsapp-button&quot;&gt;
-+   &lt;svg class=&quot;whatsapp-icon&quot; viewBox=&quot;0 0 24 24&quot; width=&quot;24&quot; height=&quot;24&quot;&gt;
-+     &lt;path fill=&quot;currentColor&quot; d=&quot;M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z&quot;/&gt;
++ &lt;a href="https://wa.me/15551234567?text=Hi%2C%20I%27m%20interested%20in%20AI%20automation" 
++    target="_blank"
++    rel="noopener noreferrer"
++    class="whatsapp-button"&gt;
++   &lt;svg class="whatsapp-icon" viewBox="0 0 24 24" width="24" height="24"&gt;
++     &lt;path fill="currentColor" d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z"/&gt;
 +   &lt;/svg&gt;
 +   Chat on WhatsApp
 + &lt;/a&gt;
@@ -14284,12 +14284,12 @@ Lines added: 773, lines removed: 1
 + 
 + **HTML**:
 + &#96;&#96;&#96;html
-+ &lt;a href=&quot;https://wa.me/15551234567?text=Hi%2C%20I%27m%20interested%20in%20AI%20automation&quot; 
-+    target=&quot;_blank&quot;
-+    rel=&quot;noopener noreferrer&quot;
-+    class=&quot;whatsapp-float&quot;
-+    aria-label=&quot;Chat on WhatsApp&quot;&gt;
-+   &lt;svg viewBox=&quot;0 0 24 24&quot; width=&quot;32&quot; height=&quot;32&quot;&gt;
++ &lt;a href="https://wa.me/15551234567?text=Hi%2C%20I%27m%20interested%20in%20AI%20automation" 
++    target="_blank"
++    rel="noopener noreferrer"
++    class="whatsapp-float"
++    aria-label="Chat on WhatsApp"&gt;
++   &lt;svg viewBox="0 0 24 24" width="32" height="32"&gt;
 +     [WhatsApp icon SVG]
 +   &lt;/svg&gt;
 + &lt;/a&gt;
@@ -14368,8 +14368,8 @@ Lines added: 773, lines removed: 1
 + 
 + #### Step 1: Download WhatsApp Business
 + 
-+ **For Android**: Play Store → &quot;WhatsApp Business&quot;  
-+ **For iOS**: App Store → &quot;WhatsApp Business&quot;
++ **For Android**: Play Store → "WhatsApp Business"  
++ **For iOS**: App Store → "WhatsApp Business"
 + 
 + #### Step 2: Set Up Business Profile
 + 
@@ -14390,7 +14390,7 @@ Lines added: 773, lines removed: 1
 + &#96;&#96;&#96;
 + Thanks for contacting AI Whisperers! 👋
 + 
-+ We&#39;re currently away but will respond within 2 hours during business 
++ We're currently away but will respond within 2 hours during business 
 + hours (Mon-Fri, 9 AM - 6 PM EST).
 + 
 + In the meantime:
@@ -14414,7 +14414,7 @@ Lines added: 773, lines removed: 1
 + 3️⃣ Book a strategy call
 + 4️⃣ Ask a question
 + 
-+ Just reply with a number or tell us what you&#39;re looking for!
++ Just reply with a number or tell us what you're looking for!
 + &#96;&#96;&#96;
 + 
 + #### Step 5: Set Up Quick Replies
@@ -14454,7 +14454,7 @@ Lines added: 773, lines removed: 1
 + Shortcut: /call
 + 
 + Message:
-+ Perfect! Let&#39;s schedule a free 30-minute strategy call.
++ Perfect! Let's schedule a free 30-minute strategy call.
 + 
 + Book here: [Your Calendly link]
 + 
@@ -14463,7 +14463,7 @@ Lines added: 773, lines removed: 1
 + 2. Best time to call (with timezone)
 + 3. Brief description of your challenge
 + 
-+ And I&#39;ll send you some times!
++ And I'll send you some times!
 + &#96;&#96;&#96;
 + 
 + **Reply 4 - Pricing**:
@@ -14568,9 +14568,9 @@ Lines added: 773, lines removed: 1
 + **Test Message (curl)**:
 + &#96;&#96;&#96;bash
 + curl -X POST https://api.twilio.com/2010-04-01/Accounts/YOUR_ACCOUNT_SID/Messages.json \
-+   --data-urlencode &quot;From=whatsapp:+14155238886&quot; \
-+   --data-urlencode &quot;Body=Hello from AI Whisperers!&quot; \
-+   --data-urlencode &quot;To=whatsapp:+15551234567&quot; \
++   --data-urlencode "From=whatsapp:+14155238886" \
++   --data-urlencode "Body=Hello from AI Whisperers!" \
++   --data-urlencode "To=whatsapp:+15551234567" \
 +   -u YOUR_ACCOUNT_SID:YOUR_AUTH_TOKEN
 + &#96;&#96;&#96;
 + 
@@ -14578,14 +14578,14 @@ Lines added: 773, lines removed: 1
 + 
 + **Node.js/Express Example**:
 + &#96;&#96;&#96;javascript
-+ const express = require(&#39;express&#39;);
-+ const twilio = require(&#39;twilio&#39;);
++ const express = require('express');
++ const twilio = require('twilio');
 + 
 + const app = express();
 + app.use(express.urlencoded({ extended: false }));
 + 
 + // Incoming message webhook
-+ app.post(&#39;/whatsapp/webhook&#39;, (req, res) =&gt; {
++ app.post('/whatsapp/webhook', (req, res) =&gt; {
 +   const incomingMessage = req.body.Body;
 +   const fromNumber = req.body.From;
 +   
@@ -14593,11 +14593,11 @@ Lines added: 773, lines removed: 1
 +   const twiml = new twilio.twiml.MessagingResponse();
 +   
 +   // Simple auto-response logic
-+   if (incomingMessage.toLowerCase().includes(&#39;pricing&#39;)) {
++   if (incomingMessage.toLowerCase().includes('pricing')) {
 +     twiml.message(&#96;Our pricing starts at $5K for Quick Wins packages. 
 +                    View details: ai-whisperers.org/pricing 
 +                    Or book a call: [Calendly link]&#96;);
-+   } else if (incomingMessage.toLowerCase().includes(&#39;services&#39;)) {
++   } else if (incomingMessage.toLowerCase().includes('services')) {
 +     twiml.message(&#96;We offer: 
 +                    🎓 DIY Courses
 +                    🤝 Done-With-You Consulting
@@ -14613,11 +14613,11 @@ Lines added: 773, lines removed: 1
 +                    • Book Call: [Calendly link]&#96;);
 +   }
 +   
-+   res.type(&#39;text/xml&#39;).send(twiml.toString());
++   res.type('text/xml').send(twiml.toString());
 + });
 + 
 + app.listen(3000, () =&gt; {
-+   console.log(&#39;Webhook listening on port 3000&#39;);
++   console.log('Webhook listening on port 3000');
 + });
 + &#96;&#96;&#96;
 + 
@@ -14637,7 +14637,7 @@ Lines added: 773, lines removed: 1
 + 📅 {{2}}
 + 🕐 {{3}}
 + 
-+ We&#39;ll discuss your automation opportunities and create a custom plan.
++ We'll discuss your automation opportunities and create a custom plan.
 + 
 + Looking forward to it!
 + - AI Whisperers Team
@@ -14662,10 +14662,10 @@ Lines added: 773, lines removed: 1
 + **Code Example**:
 + &#96;&#96;&#96;javascript
 + // Calendly webhook endpoint
-+ app.post(&#39;/calendly/webhook&#39;, async (req, res) =&gt; {
++ app.post('/calendly/webhook', async (req, res) =&gt; {
 +   const event = req.body;
 +   
-+   if (event.event === &#39;invitee.created&#39;) {
++   if (event.event === 'invitee.created') {
 +     const invitee = event.payload;
 +     const name = invitee.name;
 +     const startTime = invitee.scheduled_event.start_time;
@@ -14674,7 +14674,7 @@ Lines added: 773, lines removed: 1
 +     // Send WhatsApp confirmation
 +     await sendWhatsAppTemplate({
 +       to: phone,
-+       template: &#39;booking_confirmation&#39;,
++       template: 'booking_confirmation',
 +       parameters: [name, startTime, meetingLink]
 +     });
 +   }
@@ -14691,13 +14691,13 @@ Lines added: 773, lines removed: 1
 +   const intent = detectIntent(message);
 +   
 +   switch(intent) {
-+     case &#39;pricing&#39;:
++     case 'pricing':
 +       return getPricingMessage();
-+     case &#39;services&#39;:
++     case 'services':
 +       return getServicesMessage();
-+     case &#39;book_call&#39;:
++     case 'book_call':
 +       return getBookingLink();
-+     case &#39;free_audit&#39;:
++     case 'free_audit':
 +       return getFreeAuditLink();
 +     default:
 +       return getDefaultMessage();
@@ -14708,19 +14708,19 @@ Lines added: 773, lines removed: 1
 +   const lowerMessage = message.toLowerCase();
 +   
 +   if (lowerMessage.match(/price|cost|pricing|how much/)) {
-+     return &#39;pricing&#39;;
++     return 'pricing';
 +   }
 +   if (lowerMessage.match(/services|what do you|offerings/)) {
-+     return &#39;services&#39;;
++     return 'services';
 +   }
 +   if (lowerMessage.match(/call|meeting|schedule|book/)) {
-+     return &#39;book_call&#39;;
++     return 'book_call';
 +   }
 +   if (lowerMessage.match(/audit|free|assessment/)) {
-+     return &#39;free_audit&#39;;
++     return 'free_audit';
 +   }
 +   
-+   return &#39;unknown&#39;;
++   return 'unknown';
 + }
 + &#96;&#96;&#96;
 + 
@@ -14752,29 +14752,29 @@ Lines added: 773, lines removed: 1
 + &#96;&#96;&#96;
 + Hi [Name]! Thanks for reaching out 👋
 + 
-+ I&#39;m [Your Name] from AI Whisperers. I saw your message about 
++ I'm [Your Name] from AI Whisperers. I saw your message about 
 + [their topic].
 + 
 + Would you be open to a quick call to discuss? I can share some 
 + ideas specific to your situation.
 + 
-+ If so, what&#39;s your availability this week?
++ If so, what's your availability this week?
 + &#96;&#96;&#96;
 + 
 + ### Qualification Questions:
 + &#96;&#96;&#96;
 + To give you the most relevant information, can you share:
 + 
-+ 1. What&#39;s your biggest operational challenge right now?
++ 1. What's your biggest operational challenge right now?
 + 2. Company size? (solo, small team, growing, enterprise)
-+ 3. Any specific processes you&#39;re looking to automate?
++ 3. Any specific processes you're looking to automate?
 + 
 + This helps me point you in the right direction!
 + &#96;&#96;&#96;
 + 
 + ### Booking a Call:
 + &#96;&#96;&#96;
-+ Perfect! Let&#39;s schedule a 30-minute strategy call.
++ Perfect! Let's schedule a 30-minute strategy call.
 + 
 + I have availability:
 + • [Day 1] at [Time 1] or [Time 2]
@@ -14809,15 +14809,15 @@ Lines added: 773, lines removed: 1
 + - ⚡ Respond within 5 minutes during business hours
 + - 🌙 Set away message for after-hours
 + - 📱 Enable notifications on mobile
-+ - 👥 Assign backup responder if you&#39;re unavailable
++ - 👥 Assign backup responder if you're unavailable
 + 
 + ### Message Quality:
 + - ✅ Use proper grammar and punctuation
 + - ✅ Keep messages concise
 + - ✅ Use emojis sparingly (1-2 per message)
 + - ✅ Always end with a question or clear next step
-+ - ❌ Don&#39;t send walls of text
-+ - ❌ Don&#39;t be overly salesy
++ - ❌ Don't send walls of text
++ - ❌ Don't be overly salesy
 + 
 + ### Data Collection:
 + - Capture name early in conversation
