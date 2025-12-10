@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "client": "claropy",
+    "exported_at": "2025-12-08T21:53:50.888608+00:00",
+    "format": "json",
+    "version": "1.0",
+    "total_posts": 10,
+    "platforms": [
+      "facebook"
+    ]
+  },
+  "posts": [
+    {
+      "id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V",
+      "platform": "facebook",
+      "account_id": "claropy",
+      "url": "https://www.facebook.com/claropy/posts/pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V5uuTEToRVEyHvrgcn536KVcC3ZGtt2zl",
+      "text": "En Claro nos sumamos a la facturación 100% electrónica. Para recibirlas correctamente sugerimos verificar tus datos en https://miclaro.claro.com.py/",
+      "published_at": null,
+      "likes": 16000,
+      "comments_count": 19,
+      "shares": 146,
+      "media_type": "text"
+    },
+    {
+      "id": "1527963534891982",
+      "platform": "facebook",
+      "account_id": "claropy",
+      "url": "https://www.facebook.com/watch/?v=1527963534891982",
+      "text": "Llegó el momento que todos estábamos esperando…",
+      "published_at": null,
+      "likes": 0,
+      "comments_count": 31,
+      "shares": 0,
+      "media_type": "text"
+    },
+    {
+      "id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz",
+      "platform": "facebook",
+      "account_id": "claropy",
+      "url": "https://www.facebook.com/claropy/posts/pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVzf7DNp2xm1VjsLEn9hVej4TXCLNn3YFl?comment_id=2143320792817194",
+      "text": "QUEJA PÚBLICA – LAGO DE LA REPÚBLICA, CDE... Ver más",
+      "published_at": null,
+      "likes": 600,
+      "comments_count": 21,
+      "shares": 126,
+      "media_type": "text"
+    },
+    {
+      "id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY",
+      "platform": "facebook",
+      "account_id": "claropy",
+      "url": "https://www.facebook.com/claropy/posts/pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUYUooAPHH9hCht8ayq4CjvoquidPNYS7l?comment_id=1937994753637618",
+      "text": "Mi sobrino haciendo la carta navideña",
+      "published_at": null,
+      "likes": 82000,
+      "comments_count": 20,
+      "shares": 57,
+      "media_type": "text"
+    },
+    {
+      "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec",
+      "platform": "facebook",
+      "account_id": "claropy",
+      "url": "https://www.facebook.com/claropy/posts/pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec1kiRvS9CoBaHN22hphp8QtoYxkXHb7l?comment_id=503501618774798",
+      "text": "¿Sabés cuánto consumen tus electrodomésticos?\nE... Ver más",
+      "published_at": null,
+      "likes": 40,
+      "comments_count": 34,
+      "shares": 23,
+      "media_type": "text"
+    },
+    {
+      "id": "3292480161048214",
+      "platform": "facebook",
+      "account_id": "claropy",
+      "url": "https://www.facebook.com/watch/?v=3292480161048214",
+      "text": "¡Buena suerte, Checo! \n Todo nuestro apoyo para el GP UK el próximo domingo 7/7. ¡A toda velocidad!",
+      "published_at": null,
+      "likes": 0,
+      "comments_count": 61,
+      "shares": 0,
+      "media_type": "video"
+    },
+    {
+      "id": "470195735726906",
+      "platform": "facebook",
+      "account_id": "claropy",
+      "url": "https://www.facebook.com/watch/?v=470195735726906",
+      "text": "¡Vamos Checo, a toda velocidad! \n Lo mejor en el GP UK este domingo 7/7.",
+      "published_at": null,
+      "likes": 0,
+      "comments_count": 21,
+      "shares": 0,
+      "media_type": "text"
+    },
+    {
+      "id": "498531782517862",
+      "platform": "facebook",
+      "account_id": "claropy",
+      "url": "https://www.facebook.com/watch/?v=498531782517862",
+      "text": "Ya no falta nada para vivir todos tus deportes favoritos, juntos y en un mismo lugar",
+      "published_at": null,
+      "likes": 0,
+      "comments_count": 41,
+      "shares": 0,
+      "media_type": "text"
+    },
+    {
+      "id": "1183978472760768",
+      "platform": "facebook",
+      "account_id": "claropy",
+      "url": "https://www.facebook.com/watch/?v=1183978472760768",
+      "text": "La pelea del siglo",
+      "published_at": null,
+      "likes": 0,
+      "comments_count": 2,
+      "shares": 0,
+      "media_type": "video"
+    },
+    {
+      "id": "990092922820496",
+      "platform": "facebook",
+      "account_id": "claropy",
+      "url": "https://www.facebook.com/watch/?v=990092922820496",
+      "text": "Se aproxima una nueva carrera del gran Checo Pérez por el mundo a máxima velocidad ¿Estás listo?",
+      "published_at": null,
+      "likes": 0,
+      "comments_count": 16,
+      "shares": 0,
+      "media_type": "video"
+    }
+  ]
+}
