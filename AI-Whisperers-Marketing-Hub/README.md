@@ -31,15 +31,11 @@
 
 | Section | Purpose | Start Here |
 |---------|---------|------------|
-| [00-Learning](00-Learning/) | Research, benchmarks, training | `industry-research-2025.md` |
-| [01-Strategy](01-Strategy/) | Brand, positioning, funnel | `positioning-strategy.md` |
-| [02-Audience](02-Audience/) | ICPs, brand briefs, research | `personas/` |
-| [03-Content](03-Content/) | Posts, videos, lead magnets | `ready-to-use/` |
-| [04-Channels](04-Channels/) | LinkedIn, Email, Video, SEO, Ads | `channel-strategy.md` |
-| [05-Sales](05-Sales/) | Outreach, proposals, battle cards | `sales-playbook.md` |
-| [06-Analytics](06-Analytics/) | KPIs, tracking, reports | `weekly-dashboard.md` |
-| [07-Assets](07-Assets/) | Templates, landing pages, case studies | `templates/` |
-| [08-Tools](08-Tools/) | AI stack, webscraper | `ai-tools-stack.md` |
+| [Strategy](Strategy/) | Brand, positioning, learning, tools | `positioning-strategy.md` |
+| [Audience](Audience/) | ICPs, brand briefs, research | `personas/` |
+| [Content](Content/) | Posts, videos, assets | `ready-to-use/` |
+| [Sales](Sales/) | Outreach, proposals, battle cards | `sales-playbook.md` |
+| [Analytics](Analytics/) | KPIs, tracking, reports | `metrics-dashboard.md` |
 | [SOURCE-OF-TRUTH](SOURCE-OF-TRUTH/) | Core company data | `00-INDEX.md` |
 
 ---
@@ -49,61 +45,44 @@
 ```
 AI-Whisperers-Marketing-Hub/
 │
-├── 00-Learning/                    # Research & training (18 sections!)
-│   ├── industry-research-2025.md   # Comprehensive market intelligence
-│   ├── buyer-psychology-guide.md   # How B2B buyers decide
-│   ├── negotiation-mastery-guide.md # Chris Voss tactics
-│   └── [7 more research docs]      # Email, proposals, tools, etc.
-│
-├── 01-Strategy/                    # Brand & strategic foundation
+├── Strategy/                       # Brand & strategic foundation
 │   ├── audit/                      # Current state assessment
 │   ├── positioning/                # Brand positioning & pillars
 │   ├── messaging/                  # Core messaging framework
-│   └── funnel/                     # Marketing funnel architecture
+│   ├── funnel/                     # Marketing funnel architecture
+│   ├── Learning/                   # Research & training (was 00-Learning)
+│   ├── Channels/                   # Channel playbooks (was 04-Channels)
+│   ├── Tools/                      # AI stack & tools (was 08-Tools)
+│   └── Products/                   # Product strategies (was 09-Products)
 │
-├── 02-Audience/                    # Who we serve & research
+├── Audience/                       # Who we serve & research
 │   ├── personas/                   # 3 ICPs with buyer journeys
 │   ├── brand-briefs/               # 79+ company research profiles
-│   └── prospect-lists/             # Industry-specific targets
+│   ├── prospect-lists/             # Industry-specific targets
+│   └── templates/                  # Brand Brief templates
 │
-├── 03-Content/                     # Content creation
+├── Content/                        # Content creation
 │   ├── ready-to-use/               # Post ideas, angles, templates
 │   ├── lead-magnets/               # AI Audit, ROI Calculator, Guides
-│   └── video/                      # Scripts, thumbnails, calendar
+│   ├── video/                      # Scripts, thumbnails, calendar
+│   ├── Assets/                     # Images, reusable assets (was 07-Assets)
+│   └── templates/                  # Content templates
 │
-├── 04-Channels/                    # Channel-specific playbooks
-│   ├── linkedin/                   # LinkedIn strategy & tactics
-│   ├── email/                      # Email marketing playbook
-│   ├── video-youtube/              # YouTube & video strategy
-│   ├── seo/                        # Search optimization
-│   └── paid-ads/                   # LinkedIn & Google ads
-│
-├── 05-Sales/                       # Sales enablement
+├── Sales/                          # Sales enablement
 │   ├── sales-playbook.md           # Complete sales strategy (26K+)
 │   ├── discovery/                  # Discovery questions (60+)
 │   ├── objections/                 # Voss method responses
 │   ├── proposals/                  # Proposal templates
 │   ├── battle-cards/               # Competitive positioning
-│   └── email-sequences/            # 4 email sequences
+│   ├── email-sequences/            # 4 email sequences
+│   ├── templates/                  # Outreach templates
+│   └── Opportunities/              # Specific deal opportunities
 │
-├── 06-Analytics/                   # Performance tracking
+├── Analytics/                      # Performance tracking
 │   ├── dashboards/                 # Weekly, monthly, quarterly
 │   ├── trackers/                   # Content, leads, sources
-│   └── tests/                      # A/B test documentation
-│
-├── 07-Assets/                      # Reusable assets
-│   ├── templates/                  # Email, social, process
-│   ├── landing-pages/              # 12 landing page sections
-│   ├── case-studies/               # Client success stories
-│   └── growth/                     # Referral, partnership programs
-│
-├── 08-Tools/                       # Tools & automation
-│   ├── ai-stack/                   # Recommended AI tools
-│   └── webscraper/                 # Company research automation
-│
-├── 09-Products/                    # Product-specific marketing
-│   ├── comment-analyzer/           # Comment Analyzer Platform
-│   └── social-intelligence/        # Social Media Intelligence
+│   ├── tests/                      # A/B test documentation
+│   └── metrics-dashboard.md        # Master metrics tracker
 │
 ├── SOURCE-OF-TRUTH/                # Core company data hub ✅ COMPLETE
 │   ├── 01-COMPANY-FACTS.md         # Company information
@@ -120,7 +99,7 @@ AI-Whisperers-Marketing-Hub/
 
 ## What's Inside
 
-### 00-Learning (Research & Intelligence)
+### Strategy/Learning (Research & Intelligence)
 **18 comprehensive sections** in `industry-research-2025.md`:
 - AI Automation Market Size ($233B → $1.7T)
 - AI Agents & Agentic Workflows ($5.2B → $196.6B)
@@ -134,32 +113,32 @@ AI-Whisperers-Marketing-Hub/
 - AI Project Failure Rates (80-85% fail!)
 - Emerging AI Trends 2025
 
-### 01-Strategy (Foundation)
+### Strategy (Foundation)
 - Brand positioning & pillars
 - Messaging framework
 - Marketing funnel architecture
 - Quick audit & assessment
 
-### 02-Audience (Research)
+### Audience (Research)
 - 3 detailed ICPs with buyer journeys
 - 79+ company brand briefs
 - Industry prospect lists (200+ companies)
 - Competitive research
 
-### 03-Content (Creation)
+### Content (Creation)
 - 11 ready-to-post content ideas
 - Complete lead magnet (AI Automation Audit)
 - Video scripts with thumbnails
 - 90-day content calendar
 
-### 04-Channels (Distribution)
+### Strategy/Channels (Distribution)
 - LinkedIn playbook (complete)
 - Email marketing playbook
 - YouTube & video strategy
 - SEO keyword research
 - Paid advertising guides
 
-### 05-Sales (Conversion)
+### Sales (Conversion)
 - Complete 26K+ sales playbook
 - 60+ discovery questions
 - Battle cards vs competitors
@@ -167,25 +146,25 @@ AI-Whisperers-Marketing-Hub/
 - Objection handling (Voss method)
 - 4 email sequences
 
-### 06-Analytics (Measurement)
+### Analytics (Measurement)
 - Weekly KPI dashboard
 - Monthly report template
 - Content performance tracker
 - Lead source tracker
 - A/B test log
 
-### 07-Assets (Resources)
+### Content/Assets (Resources)
 - Email templates
 - Social media templates
 - 12 landing page sections
 - Case study templates + 2 completed examples
 - Referral & partnership programs
 
-### 08-Tools (Infrastructure)
+### Strategy/Tools (Infrastructure)
 - AI tools stack recommendations
 - Company webscraper for research
 
-### 09-Products (Product Marketing)
+### Strategy/Products (Product Marketing)
 - Comment Analyzer Platform materials
 - Social Media Intelligence Platform
 - Industry-specific prospect lists
