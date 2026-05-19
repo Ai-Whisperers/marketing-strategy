@@ -1,8 +1,10 @@
 # AI-Whisperers Marketing Hub
 
 > Complete marketing system for AI automation services
-> **Last Updated**: December 4, 2025 | **251 files** | **72 directories** | **18 research sections**
-> **Task Backlog**: [BACKLOG.md](BACKLOG.md) (98% complete)
+
+**Repository:** [github.com/Ai-Whisperers/marketing-strategy](https://github.com/Ai-Whisperers/marketing-strategy) · [Contributing](../CONTRIBUTING.md) · [Repo layout](../docs/REPOSITORY.md)
+
+> **Last Updated**: December 4, 2025 | **Task Backlog**: [BACKLOG.md](BACKLOG.md)
 
 ---
 

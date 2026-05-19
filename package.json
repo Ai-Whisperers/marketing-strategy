@@ -1,0 +1,20 @@
+{
+  "name": "ai-whisperers-marketing",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ai-Whisperers/marketing-strategy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ai-Whisperers/marketing-strategy/issues"
+  },
+  "homepage": "https://github.com/Ai-Whisperers/marketing-strategy#readme",
+  "description": "Marketing workspace tooling (doc coverage audit, MCP helpers)",
+  "scripts": {
+    "docs:coverage": "node ./mcp-servers/doc-coverage-audit.js",
+    "validate": "powershell.exe -ExecutionPolicy Bypass -File ./scripts/validate-pre-commit.ps1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -2,109 +2,118 @@
 
 > Complete marketing system for AI automation services
 
+**GitHub:** [Ai-Whisperers/marketing-strategy](https://github.com/Ai-Whisperers/marketing-strategy) (private)  
+**Default branch:** `master` · **Active work:** `feature/marketing-assets-update`
+
 ---
 
-## Quick Start
+## Overview
 
-**All marketing content is in:** [AI-Whisperers-Marketing-Hub/](AI-Whisperers-Marketing-Hub/)
+All marketing content lives in **[AI-Whisperers-Marketing-Hub/](AI-Whisperers-Marketing-Hub/)**. This repository also holds Cursor/Claude automation (`.cursor/`, `.claude/`, `scripts/`) and legacy archives (`_archived/`).
+
+See [docs/REPOSITORY.md](docs/REPOSITORY.md) for the full layout, validation commands, and GitHub workflow.
+
+---
+
+## Quick start
+
+| Step | Action |
+|------|--------|
+| 1 | Clone: `git clone https://github.com/Ai-Whisperers/marketing-strategy.git` |
+| 2 | Open [Hub README](AI-Whisperers-Marketing-Hub/README.md) |
+| 3 | Run [today's action plan](AI-Whisperers-Marketing-Hub/Strategy/audit/action-plan.md) |
+| 4 | Review [ICPs](AI-Whisperers-Marketing-Hub/Audience/personas/) |
+
+---
+
+## Repository layout
 
 ```
-Marketing/
-├── AI-Whisperers-Marketing-Hub/    ← MAIN CONTENT (start here)
-│   ├── 01-Strategy/                - Brand, positioning, funnel
-│   ├── 02-Audience/                - ICPs, brand briefs, research
-│   ├── 03-Content/                 - Posts, videos, lead magnets
-│   ├── 04-Channels/                - LinkedIn, Email, Video, SEO
-│   ├── 05-Sales/                   - Outreach, proposals, battle cards
-│   ├── 06-Analytics/               - KPIs, tracking, reports
-│   ├── 07-Assets/                  - Templates, case studies
-│   ├── 08-Tools/                   - AI stack, webscraper
-│   └── 09-Products/                - Product-specific marketing
-│
-├── .env.template                   ← MCP API keys configuration
-├── _archived/                      ← Legacy content (reference only)
-└── Root docs                       ← Quick reference files
+marketing-strategy/
+├── AI-Whisperers-Marketing-Hub/   # Marketing content (single source of truth)
+│   ├── Strategy/                    # Brand, positioning, channels, tools, audit
+│   ├── Audience/                    # Personas, brand briefs, prospect lists
+│   ├── Content/                     # Ready-to-use assets, templates, campaigns
+│   ├── Sales/                       # Outreach, playbooks, battle cards
+│   ├── Analytics/                   # KPIs, dashboards, CRM guides
+│   └── SOURCE-OF-TRUTH/             # Canonical company facts
+├── scripts/                         # Ops automation (excalibur, health, validation)
+├── mcp-servers/                     # Doc coverage audit (Node)
+├── .cursor/                         # Cursor rules, prompts, MCP config
+├── .claude/                         # Claude Code commands & triggers
+├── agent-tasks/                     # Agent workflow recipes
+├── _archived/                       # Legacy root archive (pre-hub migration)
+├── docs/                            # Repository & contribution guides
+└── *.md                             # Root quick-reference docs
 ```
 
 ---
 
 ## Navigation
 
-| What You Need | Where To Go |
-|---------------|-------------|
-| **Start here** | [AI-Whisperers-Marketing-Hub/README.md](AI-Whisperers-Marketing-Hub/README.md) |
-| **Today's actions** | [01-Strategy/audit/action-plan.md](AI-Whisperers-Marketing-Hub/01-Strategy/audit/action-plan.md) |
-| **Who to target** | [02-Audience/personas/](AI-Whisperers-Marketing-Hub/02-Audience/personas/) |
-| **What to post** | [03-Content/ready-to-use/](AI-Whisperers-Marketing-Hub/03-Content/ready-to-use/) |
-| **How to reach out** | [05-Sales/outreach/](AI-Whisperers-Marketing-Hub/05-Sales/outreach/) |
-| **Brand positioning** | [01-Strategy/positioning/](AI-Whisperers-Marketing-Hub/01-Strategy/positioning/) |
-| **Company research** | [02-Audience/brand-briefs/](AI-Whisperers-Marketing-Hub/02-Audience/brand-briefs/) |
-| **MCP API keys** | [.env.template](.env.template) |
+| Need | Location |
+|------|----------|
+| Hub home | [AI-Whisperers-Marketing-Hub/README.md](AI-Whisperers-Marketing-Hub/README.md) |
+| Today's actions | [Strategy/audit/action-plan.md](AI-Whisperers-Marketing-Hub/Strategy/audit/action-plan.md) |
+| Target audiences | [Audience/personas/](AI-Whisperers-Marketing-Hub/Audience/personas/) |
+| Ready content | [Content/ready-to-use/](AI-Whisperers-Marketing-Hub/Content/ready-to-use/) |
+| Outreach | [Sales/outreach/](AI-Whisperers-Marketing-Hub/Sales/outreach/) |
+| Positioning | [Strategy/positioning/](AI-Whisperers-Marketing-Hub/Strategy/positioning/) |
+| Brand research | [Audience/brand-briefs/](AI-Whisperers-Marketing-Hub/Audience/brand-briefs/) |
+| Project rules | [PROJECT-RULES.md](PROJECT-RULES.md) |
+| MCP API keys | [.env.template](.env.template) |
 
 ---
 
-## Root Level Files
+## Root reference files
 
 | File | Purpose |
 |------|---------|
-| `marketing-playbook.md` | Consolidated strategy overview |
-| `executive-summary.md` | Quick reference summary |
-| `improvements-roadmap.md` | Future enhancements planned |
-| `course-catalog.md` | AI courses offered |
-| `.env.template` | API keys for 26 MCP servers |
+| [marketing-playbook.md](marketing-playbook.md) | Strategy overview |
+| [executive-summary.md](executive-summary.md) | Executive quick reference |
+| [improvements-roadmap.md](improvements-roadmap.md) | Planned enhancements |
+| [course-catalog.md](course-catalog.md) | Course catalog |
+| [PROJECT-RULES.md](PROJECT-RULES.md) | Operating principles |
+| [PROJECT-REQUIREMENTS.md](PROJECT-REQUIREMENTS.md) | Requirements baseline |
 
 ---
 
-## MCP Servers Configured
+## Tooling & validation
 
-This repo has **26 MCP servers** installed for Claude Code integration:
+```powershell
+# Pre-commit (doc coverage + script syntax)
+.\scripts\validate-pre-commit.ps1
 
-| Category | MCPs |
-|----------|------|
-| **Working** | filesystem, memory, github, puppeteer, playwright, sequential-thinking, context7, exa, youtube-transcript |
-| **Need API Keys** | brave-search, slack, notion, firecrawl, twitter, discord, stripe, etc. |
+# Full Cursor rule/YAML checks (when editing .cursor/)
+.\scripts\validate-pre-commit.ps1 -Strict
 
-See [.env.template](.env.template) for all API key configuration.
+# Documentation coverage
+node .\mcp-servers\doc-coverage-audit.js
+```
 
----
+**MCP (Cursor):** [`.cursor/mcp.json`](.cursor/mcp.json) — enable in Cursor Settings → MCP; keys in [`.env.template`](.env.template).
 
-## Quick Actions
-
-### Day 1
-1. Read [Hub README](AI-Whisperers-Marketing-Hub/README.md)
-2. Review [action plan](AI-Whisperers-Marketing-Hub/01-Strategy/audit/action-plan.md)
-3. Check [ICPs](AI-Whisperers-Marketing-Hub/02-Audience/personas/)
-
-### Week 1
-1. Post content from [ready-to-use](AI-Whisperers-Marketing-Hub/03-Content/ready-to-use/)
-2. Start outreach with [templates](AI-Whisperers-Marketing-Hub/05-Sales/outreach/)
-3. Set up [tracking](AI-Whisperers-Marketing-Hub/06-Analytics/)
+**Claude Code:** magic commands in [`.claude/triggers.json`](.claude/triggers.json) (`/ops:weekly-health`, `/docs:coverage-audit`, etc.).
 
 ---
 
-## 30-Day Goals
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md). Commits use `[CATEGORY] description` (e.g. `[CONTENT] Add ANDE outreach draft`).
+
+---
+
+## 30-day goals
 
 | Metric | Target |
 |--------|--------|
 | LinkedIn connections | 500+ |
-| Email subscribers | 100-200 |
+| Email subscribers | 100–200 |
 | Website visitors | 1,000/month |
-| Qualified leads | 20-30 |
-| Strategy calls | 10-15 |
-| New clients | 1-3 |
+| Qualified leads | 20–30 |
+| Strategy calls | 10–15 |
+| New clients | 1–3 |
 
 ---
 
-## Key Insight
-
-**"Practitioners who build in public"**
-
-- Show GitHub repos as proof
-- Share behind-the-scenes
-- Position as transparent, technical experts
-- "We don't just talk, we ship"
-
----
-
-*Last Updated: December 2025*
-*Main content: [AI-Whisperers-Marketing-Hub/](AI-Whisperers-Marketing-Hub/)*
+*Last updated: May 2026 · Hub: [AI-Whisperers-Marketing-Hub/](AI-Whisperers-Marketing-Hub/)*

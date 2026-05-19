@@ -48,6 +48,7 @@ This project involves the creation and maintenance of a central "Marketing Hub" 
 ## 3. Current Status (December 2025)
 
 *   **Infrastructure**: ✅ Established (`AI-Whisperers-Marketing-Hub`).
+*   **GitHub**: ✅ [Ai-Whisperers/marketing-strategy](https://github.com/Ai-Whisperers/marketing-strategy)
 *   **Verticals Active**: Hospitality (Hotels), Utilities (Energy/Water), Travel (Airlines).
 *   **Pipeline**: Top 10 B2C targets identified (Tigo, Itaú, etc.).
 *   **Next Phase**: Scaling outreach to Telecom and Banking sectors.

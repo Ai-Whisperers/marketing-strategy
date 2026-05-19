@@ -1,0 +1,26 @@
+# Copy to .github/workflows/marketing-validate.yml when your Git credential has the `workflow` OAuth scope.
+name: Marketing validation
+
+on:
+  push:
+    branches: [master, 'feature/**']
+  pull_request:
+    branches: [master]
+
+jobs:
+  validate:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Documentation coverage audit
+        shell: pwsh
+        run: node ./mcp-servers/doc-coverage-audit.js --root .
+
+      - name: Pre-commit validation
+        shell: pwsh
+        run: ./scripts/validate-pre-commit.ps1
