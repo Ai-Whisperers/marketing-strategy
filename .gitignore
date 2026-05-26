@@ -7,7 +7,7 @@
 ehthumbs.db
 Thumbs.db
 
-# Editor directories and files
+# Editor / IDE
 .vscode/
 .idea/
 *.swp
@@ -19,26 +19,51 @@ Thumbs.db
 *.temp
 ~$*
 
-# Logs
-*.log
-logs/
-
-# Environment variables
+# Environment & secrets
 .env
 .env.local
+.env.*.local
 
-# Node modules (if any)
+# Logs & generated ops output
+*.log
+logs/
+!logs/.gitkeep
+scripts/dependency-reports/
+
+# Node
 node_modules/
+package-lock.json
 
-# Python (if any)
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
+.venv/
 venv/
 env/
 
-# Compressed files (keeping the existing zip)
-# landing_page_edits.zip will be tracked
+# SpecStory / local agent history (reference via @ only)
+.specstory/
 
+# Claude local overrides
+.claude/settings.local.json
+
+# Generated todo snapshots (keep README)
+project-todos/*
+!project-todos/README.md
+
+# Local databases
+prospects.db
+*.db-journal
+
+# Cursor local index cache
+.cursor/plans/
+
+# ParaguAI — PNG de revisión de layout (regenerar con build_carousel_planes_png.py --layout-debug)
+**/Campaigns/ParaguAI/assets/creativos/*-layout-debug.png
+
+# OS / tool artifacts
+Thumbs.db
+desktop.ini

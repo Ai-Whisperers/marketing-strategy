@@ -121,7 +121,7 @@ I'll help you create a comprehensive industry targeting research document. This 
 
 <tool-use data-tool-type="generic" data-tool-name="list_dir">
 <details>
-            <summary>Tool use: **list_directory** • Listed directory undefined • **0** results</summary>
+            <summary>Tool use: **list_dir** • Listed directory undefined • **0** results</summary>
         
 No results found
 </details>
@@ -212,7 +212,7 @@ I'll create a comprehensive prospect scoring system and apply it to prioritize t
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: 10-Product-Strategies/Social-Media-Intelligence-Platform/PROSPECT_SCORING_SYSTEM.md</summary>
+<details><summary>Tool use: **write** • Edit file: 10-Product-Strategies/Social-Media-Intelligence-Platform/PROSPECT_SCORING_SYSTEM.md</summary>
 
 **Chunk 1**
 Lines added: 1091, lines removed: 1
@@ -280,7 +280,7 @@ Lines added: 1091, lines removed: 1
 + - Facebook: 5M+ followers
 + - Comment volume: 5,000+ per month
 + - Engagement rate: High (&gt;2%)
-+ - Examples: Mercado Libre (15M+), Magazine Luiza (8.5M), McDonald&#39;s LATAM
++ - Examples: Mercado Libre (15M+), Magazine Luiza (8.5M), McDonald's LATAM
 + 
 + **4 points - Very Active**
 + - Instagram: 1M-3M followers
@@ -439,7 +439,7 @@ Lines added: 1091, lines removed: 1
 + - **Accessibility**: 5/5 (Rodrigo Borges - Director CX on LinkedIn)
 + - **Why #1**: Real-time delivery complaints = urgent need, proven tech buyer
 + - **First Contact**: Rodrigo Borges (Director of Customer Experience)
-+ - **Messaging Angle**: &quot;70M orders/month = millions of feedback points. We analyzed your last 500 comments...&quot;
++ - **Messaging Angle**: "70M orders/month = millions of feedback points. We analyzed your last 500 comments..."
 + 
 + #### Rank 2: Mercado Libre Brazil (Score: 25/25) ⭐
 + - **Company Size**: 5/5 ($14.5B revenue, NASDAQ listed)
@@ -449,7 +449,7 @@ Lines added: 1091, lines removed: 1
 + - **Accessibility**: 5/5 (Multiple contacts identified on LinkedIn)
 + - **Why #2**: Marketplace leader, highest comment volume in LATAM
 + - **First Contact**: Joaquim Martins Rodrigues (Customer Service Senior Team Leader)
-+ - **Messaging Angle**: &quot;Analyzed 500 Instagram comments: 47 mentioned &#39;scam&#39; - high churn risk...&quot;
++ - **Messaging Angle**: "Analyzed 500 Instagram comments: 47 mentioned 'scam' - high churn risk..."
 + 
 + #### Rank 3: Nubank (Score: 25/25) ⭐
 + - **Company Size**: 5/5 ($50B valuation, 90M customers, NYSE listed)
@@ -459,7 +459,7 @@ Lines added: 1091, lines removed: 1
 + - **Accessibility**: 5/5 (Juliana Roschel - CMO accessible)
 + - **Why #3**: Community is their moat, need to protect brand sentiment at scale
 + - **First Contact**: Juliana Roschel (CMO)
-+ - **Messaging Angle**: &quot;90M customers, 81% positive sentiment - but Inter is catching up at 76%...&quot;
++ - **Messaging Angle**: "90M customers, 81% positive sentiment - but Inter is catching up at 76%..."
 + 
 + #### Rank 4: Magazine Luiza (Score: 24/25) ⭐
 + - **Company Size**: 5/5 (R$35B revenue, B3 listed, 45K employees)
@@ -469,7 +469,7 @@ Lines added: 1091, lines removed: 1
 + - **Accessibility**: 5/5 (Frederico Trajano - CEO very active on LinkedIn)
 + - **Why #4**: 3,000 campaigns/month, Lu influencer needs measurement
 + - **First Contact**: Director of Digital Marketing (find on LinkedIn)
-+ - **Messaging Angle**: &quot;8.5M followers, 3,000 campaigns/month - we analyzed Lu&#39;s effectiveness...&quot;
++ - **Messaging Angle**: "8.5M followers, 3,000 campaigns/month - we analyzed Lu's effectiveness..."
 + 
 + #### Rank 5: Claro Brasil (Score: 24/25) ⭐
 + - **Company Size**: 5/5 (R$50B revenue, 65M subscribers, América Móvil)
@@ -479,7 +479,7 @@ Lines added: 1091, lines removed: 1
 + - **Accessibility**: 5/5 (Head Director Ecare &amp; Digital identified)
 + - **Why #5**: Reputation crisis = urgent need, willing to pay premium
 + - **First Contact**: Head Director, Ecare &amp; Digital Transformation
-+ - **Messaging Angle**: &quot;72% negative sentiment vs Vivo 25%. Created actionable report...&quot;
++ - **Messaging Angle**: "72% negative sentiment vs Vivo 25%. Created actionable report..."
 + 
 + #### Rank 6: Rappi (Score: 24/25)
 + - **Company Size**: 5/5 (Regional unicorn, $5B+ valuation)
@@ -657,7 +657,7 @@ Lines added: 1091, lines removed: 1
 + - **Why**: Daily customer interactions
 + - **First Contact**: Head of Customer Engagement
 + 
-+ #### Rank 25: McDonald&#39;s LATAM (Score: 21/25)
++ #### Rank 25: McDonald's LATAM (Score: 21/25)
 + - **Company Size**: 5/5 (Global brand, regional operations)
 + - **Social Media Activity**: 5/5 (5M+ Facebook, 3M+ Instagram)
 + - **Apparent Need**: 3/5 (Service quality, cleanliness)
@@ -737,7 +737,7 @@ Lines added: 1091, lines removed: 1
 + - **Budget Likelihood**: 4/5 (Corporate)
 + - **Accessibility**: 3/5 (Director Customer Engagement LATAM)
 + 
-+ #### Rank 34: Domino&#39;s Pizza LATAM (Score: 19/25)
++ #### Rank 34: Domino's Pizza LATAM (Score: 19/25)
 + - **Company Size**: 4/5 (Regional operations)
 + - **Social Media Activity**: 4/5 (2M+ Facebook)
 + - **Apparent Need**: 4/5 (Delivery time, quality)
@@ -1132,7 +1132,7 @@ Lines added: 1091, lines removed: 1
 + Focus on specialized industries:
 + - Fashion e-commerce (Dafiti, Renner, Zara)
 + - Digital banks (C6, PicPay, Mercado Pago)
-+ - Food delivery (Uber Eats, Domino&#39;s, McDonald&#39;s)
++ - Food delivery (Uber Eats, Domino's, McDonald's)
 + - Additional airlines (Aeroméxico, GOL)
 + 
 + ---
@@ -1187,7 +1187,7 @@ Lines added: 1091, lines removed: 1
 + 
 + ### Most Challenging (High score but low accessibility):
 + 1. **Global Brands** - Netflix, Zara, Walmart (regional decision-making complex)
-+ 2. **Franchise Models** - McDonald&#39;s, Oxxo (fragmented structure)
++ 2. **Franchise Models** - McDonald's, Oxxo (fragmented structure)
 + 3. **Government-Owned** - Caixa, Banco do Brasil (bureaucracy)
 + 
 + ---
@@ -1753,7 +1753,7 @@ Now I'll compile all this research into a comprehensive document with the top 20
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: 10-Product-Strategies/TOP_200_COMPANIES_MASTER_LIST.md</summary>
+<details><summary>Tool use: **write** • Edit file: 10-Product-Strategies/TOP_200_COMPANIES_MASTER_LIST.md</summary>
 
 **Chunk 1**
 Lines added: 1091, lines removed: 1
@@ -2283,7 +2283,7 @@ Lines added: 1091, lines removed: 1
 + 
 + ### INDUSTRY 6: FOOD &amp; BEVERAGE (18 companies)
 + 
-+ #### Rank 101: **McDonald&#39;s LATAM** (Score: 27/30)
++ #### Rank 101: **McDonald's LATAM** (Score: 27/30)
 + - **HQ**: USA (Regional operations) | **Revenue**: $23B USD global  
 + - **Employees**: 200,000+ global
 + - **Social Media**: 5M+ Facebook, 3M+ Instagram (regional)
@@ -2313,7 +2313,7 @@ Lines added: 1091, lines removed: 1
 + 
 + 103. **Starbucks LATAM** (Regional) - 26/30 - Both services
 + 104. **Burger King LATAM** (Regional) - 25/30 - Comment analyzer
-+ 105. **Domino&#39;s Pizza LATAM** (Regional) - 25/30 - Comment analyzer
++ 105. **Domino's Pizza LATAM** (Regional) - 25/30 - Comment analyzer
 + 106. **Subway LATAM** (Regional) - 24/30 - Training primary
 + 107. **KFC LATAM** (Regional) - 25/30 - Comment analyzer
 + 108. **Bembos** (Peru) - 23/30 - Comment analyzer
@@ -2324,7 +2324,7 @@ Lines added: 1091, lines removed: 1
 + 113. **Ambev** (Brazil) - 26/30 - Training primary
 + 114. **Femsa** (Mexico) - 26/30 - Training primary
 + 115. **Coca-Cola FEMSA** (Regional) - 25/30 - Training primary
-+ 116. **Arcos Dorados** (McDonald&#39;s LATAM franchisee) - 26/30 - Both services
++ 116. **Arcos Dorados** (McDonald's LATAM franchisee) - 26/30 - Both services
 + 117. **Yum! Brands LATAM** (Regional) - 25/30 - Training primary
 + 118. **Chipotle** (USA) - 25/30 - Both services
 + 
@@ -2414,7 +2414,7 @@ Lines added: 1091, lines removed: 1
 + 
 + 147. **O Boticário** (Brazil) - 25/30 - Both services
 + 148. **Avon** (USA/Global) - 24/30 - Training primary
-+ 149. **L&#39;Oréal** (France/Global) - 26/30 - Both services
++ 149. **L'Oréal** (France/Global) - 26/30 - Both services
 + 150. **Procter &amp; Gamble** (USA/Global) - 27/30 - Training primary
 + 151. **Unilever** (UK/Global) - 27/30 - Training primary
 + 152. **Johnson &amp; Johnson** (USA) - 27/30 - Training primary
@@ -2871,7 +2871,7 @@ Perfect! I've created a comprehensive **TOP 200 COMPANIES MASTER LIST** with dee
 
 <tool-use data-tool-type="write" data-tool-name="write">
 
-<details><summary>Tool use: **code_edit** • Edit file: 10-Product-Strategies/TOP_200_QUICK_REFERENCE.md</summary>
+<details><summary>Tool use: **write** • Edit file: 10-Product-Strategies/TOP_200_QUICK_REFERENCE.md</summary>
 
 **Chunk 1**
 Lines added: 402, lines removed: 1
@@ -2934,7 +2934,7 @@ Lines added: 402, lines removed: 1
 + 3. Carrefour (26) - Both
 + 
 + ### Food &amp; Beverage (18 total)
-+ 1. McDonald&#39;s LATAM (27) - Both
++ 1. McDonald's LATAM (27) - Both
 + 2. Uber Eats (27) - Analyzer
 + 3. Starbucks LATAM (26) - Both
 + 
@@ -2951,7 +2951,7 @@ Lines added: 402, lines removed: 1
 + ### Health &amp; Beauty (12 total)
 + 1. Natura (25) - Analyzer
 + 2. O Boticário (25) - Both
-+ 3. L&#39;Oréal (26) - Both
++ 3. L'Oréal (26) - Both
 + 
 + ### Automotive (12 total)
 + 1. General Motors (27) - Training
@@ -3185,7 +3185,7 @@ Lines added: 402, lines removed: 1
 + 
 + ---
 + 
-+ ## 🚀 THIS WEEK&#39;S ACTION ITEMS
++ ## 🚀 THIS WEEK'S ACTION ITEMS
 + 
 + ### Monday-Tuesday:
 + - [ ] Extract real comment data for Top 5 companies
@@ -3271,7 +3271,7 @@ Lines added: 402, lines removed: 1
 + 4. **Training has bigger contracts** but longer sales cycles
 + 5. **Comment analyzer is easier entry** - lead with this, expand later
 + 6. **Microsoft, Google, Amazon = biggest training opportunities** (221K, 190K, 1.6M employees)
-+ 7. **Mercado Libre, Nubank, Magazine Luiza = best &quot;Both&quot; prospects** in LATAM
++ 7. **Mercado Libre, Nubank, Magazine Luiza = best "Both" prospects** in LATAM
 + 
 + **Start with:** Top 10 this week → Top 50 this month → All 200 this quarter
 + 
@@ -3630,7 +3630,7 @@ Now I'll customize this carousel for AI Whisperers' brand and services:
 
 <tool-use data-tool-type="write" data-tool-name="search_replace">
 
-<details><summary>Tool use: **code_edit** • Edit file: 08-Ready-to-Use-Materials/10-post-ideas.md</summary>
+<details><summary>Tool use: **search_replace** • Edit file: 08-Ready-to-Use-Materials/10-post-ideas.md</summary>
 
 **Chunk 1**
 Lines added: 856, lines removed: 589
@@ -3639,7 +3639,7 @@ Lines added: 856, lines removed: 589
 @@ -86,604 +86,871 @@
   **Platform**: LinkedIn (10-slide carousel)
   
-- **Title Slide**: &quot;5 Processes Every Business Should Automate (But Most Don&#39;t)&quot;
+- **Title Slide**: "5 Processes Every Business Should Automate (But Most Don't)"
 + **Brand**: AI Whisperers
 ...
 - **Slide 2**: 
@@ -3700,7 +3700,7 @@ Lines added: 856, lines removed: 589
 - 
 - **Slide 10**:
 - **Want help?**
-- Comment &quot;AUTOMATE&quot; and I&#39;ll send you:
+- Comment "AUTOMATE" and I'll send you:
 - • Free automation opportunity audit
 - • Tool recommendations
 - • Implementation guide
@@ -3717,7 +3717,7 @@ Lines added: 856, lines removed: 589
 - 
 - **Platform**: LinkedIn (Text + Screenshot)
 - 
-- **Hook**: &quot;Live update: We&#39;re 72 hours into a client automation project. Here&#39;s what&#39;s happening...&quot;
+- **Hook**: "Live update: We're 72 hours into a client automation project. Here's what's happening..."
 - 
 - **Body**:
 - Day 1: Kickoff &amp; Process Mapping
@@ -3738,12 +3738,12 @@ Lines added: 856, lines removed: 589
 - • Client saved 2.5 hours TODAY
 - • Team actually excited (rare!)
 - 
-- What&#39;s Next:
+- What's Next:
 - • Automation #2 starts tomorrow (data sync)
 - • Then customer onboarding flow
 - • Full training next week
 - 
-- Here&#39;s what I love about this approach:
+- Here's what I love about this approach:
 - → Results in days, not months
 - → Client sees value immediately
 - → Team adoption is 10x easier when they see it working
@@ -3764,7 +3764,7 @@ Lines added: 856, lines removed: 589
 - **Platform**: Twitter/X (Thread)
 - 
 - **Tweet 1 (Hook)**:
-- I&#39;ve tested 50+ automation tools in the last 2 years.
+- I've tested 50+ automation tools in the last 2 years.
 - 
 - Here are the 7 I actually use daily (and what I use each for):
 - 
@@ -3780,7 +3780,7 @@ Lines added: 856, lines removed: 589
 - • Email drafts
 - • Research
 - 
-- Why it wins: Versatility. It&#39;s like having a junior assistant for everything.
+- Why it wins: Versatility. It's like having a junior assistant for everything.
 - 
 - **Tweet 3**:
 - 2/ Make.com ($9-29/mo)
@@ -3855,13 +3855,13 @@ Lines added: 856, lines removed: 589
 - 
 - ROI: About 10,000%
 - 
-- The trick isn&#39;t using every tool.
-- It&#39;s finding the right 7-10 and mastering them.
+- The trick isn't using every tool.
+- It's finding the right 7-10 and mastering them.
 - 
 - **Tweet 10**:
 - Want my full tools stack with use cases + setup guides?
 - 
-- Drop a comment and I&#39;ll send it over.
+- Drop a comment and I'll send it over.
 - 
 - Also, what tools am I missing? Always looking to optimize 👇
 - 
@@ -3876,7 +3876,7 @@ Lines added: 856, lines removed: 589
 + # 5 Tasks AI Can Do for You RIGHT NOW
 + ## (Most Businesses Are Still Doing These Manually 🤦)
 + 
-+ **Subtext**: Swipe → to see what you&#39;re missing
++ **Subtext**: Swipe → to see what you're missing
 + 
 + **Design Notes**:
 + - Background: Deep blue gradient (#1a237e → #303f9f)
@@ -3934,7 +3934,7 @@ Lines added: 856, lines removed: 589
 + **Design Notes**:
 + - Email icon animation concept
 + - Before/after comparison
-+ - Stat highlight: &quot;80% of sales need 5+ touchpoints&quot;
++ - Stat highlight: "80% of sales need 5+ touchpoints"
 + 
 + ---
 + 
@@ -3953,14 +3953,14 @@ Lines added: 856, lines removed: 589
 + • Generate ideas in seconds
 + • Turn 1 blog into 10 LinkedIn posts
 + • Consistent voice &amp; messaging
-+ • Never face writer&#39;s block again
++ • Never face writer's block again
 + 
 + ⏱️ **Time Saved: 10 hours/week**
 + 
 + **Design Notes**:
 + - Show content multiplication visual (1→10)
 + - Creative icons (pen, document, social icons)
-+ - Quote: &quot;AI handles the first draft. You add the magic.&quot;
++ - Quote: "AI handles the first draft. You add the magic."
 + 
 + ---
 + 
@@ -3986,7 +3986,7 @@ Lines added: 856, lines removed: 589
 + **Design Notes**:
 + - Connected systems visual (logos connected)
 + - Dashboard mockup
-+ - Stat: &quot;Average business uses 7+ tools that don&#39;t talk to each other&quot;
++ - Stat: "Average business uses 7+ tools that don't talk to each other"
 + 
 + ---
 + 
@@ -4018,7 +4018,7 @@ Lines added: 856, lines removed: 589
 + 
 + ### 🧮 SLIDE 7 — The Math
 + 
-+ **Header**: Let&#39;s Do The Math
++ **Header**: Let's Do The Math
 + 
 + **Content**:
 + 📊 **Total Time Saved Weekly:**
@@ -4060,12 +4060,12 @@ Lines added: 856, lines removed: 589
 + • ROI: Usually 2-4 weeks
 + 
 + **The Real Question:**
-+ What&#39;s it costing you NOT to automate?
++ What's it costing you NOT to automate?
 + 
 + **Design Notes**:
 + - Two-path visual (DIY vs. Guided)
 + - ROI timeline graphic
-+ - &quot;Most clients see positive ROI in 30 days&quot; badge
++ - "Most clients see positive ROI in 30 days" badge
 + 
 + ---
 + 
@@ -4088,7 +4088,7 @@ Lines added: 856, lines removed: 589
 + 3. Learn or let us build for you
 + 4. Scale what works
 + 
-+ *&quot;Start small. Win fast. Then scale.&quot;*
++ *"Start small. Win fast. Then scale."*
 + 
 + **Design Notes**:
 + - Vertical timeline/roadmap
@@ -4101,13 +4101,13 @@ Lines added: 856, lines removed: 589
 - **Platform**: LinkedIn (Text + Video/Image)
 + ### 📣 SLIDE 10 — Call to Action
 ...
-- **Hook**: &quot;We just lost a $20K deal. Here&#39;s what we learned.&quot;
+- **Hook**: "We just lost a $20K deal. Here's what we learned."
 + **Header**: Ready to Automate the Boring Stuff?
 ...
 - **Body**:
 - Last week, we presented a comprehensive automation proposal to a growing SaaS company.
 + **Content**:
-+ Comment **&quot;AUDIT&quot;** below and I&#39;ll send you:
++ Comment **"AUDIT"** below and I'll send you:
 ...
 - The solution was perfect:
 - ✓ Addressed all their pain points
@@ -4122,23 +4122,23 @@ Lines added: 856, lines removed: 589
 - They went with someone else.
 + **Or visit:** aiwhisperers.com
 ...
-- Why? Here&#39;s what they told us:
+- Why? Here's what they told us:
 + ---
 ...
-- &quot;We loved everything about your proposal. But we needed something we could see results from THIS MONTH. Your plan, while comprehensive, felt like a big commitment.&quot;
+- "We loved everything about your proposal. But we needed something we could see results from THIS MONTH. Your plan, while comprehensive, felt like a big commitment."
 + 🔔 **Follow AI Whisperers** for more practical AI insights
 ...
 - Ouch. But fair.
-+ 💾 **Save this post** for when you&#39;re ready to start
++ 💾 **Save this post** for when you're ready to start
 ...
 - Lesson learned:
-- → Comprehensive isn&#39;t always what they want
+- → Comprehensive isn't always what they want
 - → Quick wins &gt; perfect solutions
 - → Show value fast, then expand
 - → Lower barrier to entry
 - 
-- What we&#39;re changing:
-- • Offering &quot;Quick Win&quot; starter package ($2.5K, 1 week)
+- What we're changing:
+- • Offering "Quick Win" starter package ($2.5K, 1 week)
 - • Prove value FIRST, then discuss bigger projects
 - • Making it easier to say yes
 - 
@@ -4157,7 +4157,7 @@ Lines added: 856, lines removed: 589
 - 
 - **Platform**: LinkedIn (Poll + Follow-up Post)
 - 
-- **Poll Question**: &quot;How many hours per week do you spend on tasks that could be automated?&quot;
+- **Poll Question**: "How many hours per week do you spend on tasks that could be automated?"
 - 
 - **Options**:
 - - Less than 5 hours
@@ -4169,12 +4169,12 @@ Lines added: 856, lines removed: 589
 - 
 - Results are in: 63% of you spend 10+ hours per week on work that could be automated.
 - 
-- That&#39;s 520+ hours per year. 😳
+- That's 520+ hours per year. 😳
 - 
-- If your time is worth $50/hour, that&#39;s $26,000 in wasted value.
+- If your time is worth $50/hour, that's $26,000 in wasted value.
 - At $100/hour? $52,000.
 - 
-- Here&#39;s what most people don&#39;t realize:
+- Here's what most people don't realize:
 - 
 - Automating those tasks typically costs:
 - • $100-300/month in tools
@@ -4190,13 +4190,13 @@ Lines added: 856, lines removed: 589
 - 
 - Total: 18 hours/week = $46,800/year at $50/hour
 - 
-- The question isn&#39;t &quot;Can we afford to automate?&quot;
-- It&#39;s &quot;Can we afford NOT to?&quot;
+- The question isn't "Can we afford to automate?"
+- It's "Can we afford NOT to?"
 - 
 - **Call to Action**:
 - Want to know exactly what you should automate first?
 - 
-- Comment &quot;AUDIT&quot; and I&#39;ll send you our free process audit template.
+- Comment "AUDIT" and I'll send you our free process audit template.
 - 
 - ---
 - 
@@ -4204,41 +4204,41 @@ Lines added: 856, lines removed: 589
 - 
 - **Platform**: LinkedIn or Instagram (Carousel)
 - 
-- **Title**: &quot;5 AI Automation Myths That Are Costing You Time &amp; Money&quot;
+- **Title**: "5 AI Automation Myths That Are Costing You Time &amp; Money"
 - 
-- **Myth #1: &quot;AI automation is only for big companies&quot;**
+- **Myth #1: "AI automation is only for big companies"**
 - Reality: Small businesses benefit MORE because:
 - • Lower overhead costs
 - • Faster implementation
 - • Immediate impact on operations
-- • Don&#39;t need dedicated IT team
+- • Don't need dedicated IT team
 - 
-- **Myth #2: &quot;You need to know how to code&quot;**
+- **Myth #2: "You need to know how to code"**
 - Reality:
 - • 90% of automations use no-code tools
 - • If you can use a spreadsheet, you can automate
 - • Visual builders make it simple
 - • Training takes days, not months
 - 
-- **Myth #3: &quot;It&#39;s too expensive&quot;**
+- **Myth #3: "It's too expensive"**
 - Reality:
 - • Most tools: $10-50/month
 - • Implementation: $2K-10K one-time
 - • Typical ROI: 2-3 months
 - • Cost of NOT automating is higher
 - 
-- **Myth #4: &quot;It&#39;ll take forever to implement&quot;**
+- **Myth #4: "It'll take forever to implement"**
 - Reality:
 - • Quick wins: 1-3 days
 - • Full department automation: 2-4 weeks
 - • Enterprise-wide: 2-3 months
 - • Modern tools are fast to deploy
 - 
-- **Myth #5: &quot;My business is too unique to automate&quot;**
+- **Myth #5: "My business is too unique to automate"**
 - Reality:
 - • Every business has repetitive tasks
 - • 80% of processes are common across industries
-- • Custom doesn&#39;t mean manual
+- • Custom doesn't mean manual
 - • If you do it twice, you can automate it
 - 
 - **Final Slide**:
@@ -4251,7 +4251,7 @@ Lines added: 856, lines removed: 589
 - The best time to start? Last year.
 - The second best time? Today.
 - 
-- Comment &quot;MYTH&quot; for our free automation readiness assessment 👇
+- Comment "MYTH" for our free automation readiness assessment 👇
 - 
 - ---
 - 
@@ -4259,7 +4259,7 @@ Lines added: 856, lines removed: 589
 - 
 - **Platform**: LinkedIn (Text)
 - 
-- **Hook**: &quot;Sarah was working 60-hour weeks and turning down clients. Now she works 35 hours and doubled her revenue. Here&#39;s how:&quot;
+- **Hook**: "Sarah was working 60-hour weeks and turning down clients. Now she works 35 hours and doubled her revenue. Here's how:"
 - 
 - **Body**:
 - Sarah runs a marketing consultancy. Solo. No team.
@@ -4269,11 +4269,11 @@ Lines added: 856, lines removed: 589
 - She was drowning in the work AROUND the work.
 - 
 - When we met, she was clear:
-- &quot;I either hire someone, which I can&#39;t afford, or I burn out and quit.&quot;
+- "I either hire someone, which I can't afford, or I burn out and quit."
 - 
 - We gave her a third option: Automate.
 - 
-- Here&#39;s what we did:
+- Here's what we did:
 - 
 - Week 1: Quick wins
 - • Automated email follow-ups
@@ -4295,7 +4295,7 @@ Lines added: 856, lines removed: 589
 - 
 - Total time saved: 15 hours/week
 - 
-- But here&#39;s the real win:
+- But here's the real win:
 - 
 - With 15 hours back, Sarah could take on 3 more clients.
 - Revenue increased from $7K/month to $14K/month.
@@ -4305,13 +4305,13 @@ Lines added: 856, lines removed: 589
 - Monthly tool costs: $180
 - First year ROI: 1,840%
 - 
-- Sarah&#39;s quote:
-- &quot;I thought I needed an assistant. Turns out I needed automation. Best business decision I&#39;ve made.&quot;
+- Sarah's quote:
+- "I thought I needed an assistant. Turns out I needed automation. Best business decision I've made."
 - 
 - **Call to Action**:
-- Working too many hours? There&#39;s a better way.
+- Working too many hours? There's a better way.
 - 
-- DM me &quot;SCALE&quot; and let&#39;s talk about your situation.
+- DM me "SCALE" and let's talk about your situation.
 - 
 - ---
 - 
@@ -4319,12 +4319,12 @@ Lines added: 856, lines removed: 589
 - 
 - **Platform**: LinkedIn or Twitter (Text + Link)
 - 
-- **Hook**: &quot;I just spent 40 hours creating this. You can have it for free.&quot;
+- **Hook**: "I just spent 40 hours creating this. You can have it for free."
 - 
 - **Body**:
 - **The Ultimate AI Automation Starter Kit**
 - 
-- Inside you&#39;ll find:
+- Inside you'll find:
 - 
 - 📋 Process Audit Template
 - • Identify your top automation opportunities
@@ -4360,7 +4360,7 @@ Lines added: 856, lines removed: 589
 - 
 - Why am I giving this away?
 - 
-- Because I&#39;m tired of seeing businesses waste money on automation that doesn&#39;t work.
+- Because I'm tired of seeing businesses waste money on automation that doesn't work.
 - 
 - This kit has everything you need to:
 - ✓ Start smart
@@ -4370,9 +4370,9 @@ Lines added: 856, lines removed: 589
 - No credit card. No catch. Just value.
 - 
 - **Call to Action**:
-- Comment &quot;KIT&quot; and I&#39;ll send you the link 👇
+- Comment "KIT" and I'll send you the link 👇
 - 
-- Or if you want help implementing, DM me &quot;HELP&quot; and we can talk.
+- Or if you want help implementing, DM me "HELP" and we can talk.
 - 
 - **Delivery**: Send via DM or email (captures lead info)
 - 
@@ -4410,17 +4410,17 @@ Lines added: 856, lines removed: 589
 - 
 - ## Engagement Response Templates
 - 
-- **For &quot;Send me&quot; requests:**
-- &quot;Just sent! Check your DMs. Let me know if you have questions 👍&quot;
+- **For "Send me" requests:**
+- "Just sent! Check your DMs. Let me know if you have questions 👍"
 - 
 - **For positive feedback:**
-- &quot;Thanks [Name]! Glad this resonated. What automation are you most interested in tackling first?&quot;
+- "Thanks [Name]! Glad this resonated. What automation are you most interested in tackling first?"
 - 
 - **For disagreement:**
-- &quot;Appreciate the perspective [Name]. Tell me more about your experience—always looking to learn from different viewpoints.&quot;
+- "Appreciate the perspective [Name]. Tell me more about your experience—always looking to learn from different viewpoints."
 - 
 - **For questions:**
-- &quot;Great question! [Answer]. Want me to do a deep dive on this topic next week?&quot;
+- "Great question! [Answer]. Want me to do a deep dive on this topic next week?"
 - 
 - ---
 - 
@@ -4428,25 +4428,25 @@ Lines added: 856, lines removed: 589
 - 
 - **Platform**: LinkedIn (Text)
 - 
-- **Hook**: &quot;Most AI consultants show you PowerPoints. We show you our GitHub.&quot;
+- **Hook**: "Most AI consultants show you PowerPoints. We show you our GitHub."
 - 
 - **Body**:
-- Here&#39;s how we&#39;re different:
+- Here's how we're different:
 - 
 - **OUR APPROACH:**
-- We don&#39;t just talk about automation—we build it every day.
+- We don't just talk about automation—we build it every day.
 - • We use the same tools we recommend to you
 - • We automate our own processes first
-- • If it doesn&#39;t work for us, we don&#39;t sell it to you
+- • If it doesn't work for us, we don't sell it to you
 + 🔄 **Share with someone** still doing everything manually
 + 
 + ---
 + 
-+ *&quot;Scale your business with AI automation—without the complexity, cost, or tech headaches.&quot;*
++ *"Scale your business with AI automation—without the complexity, cost, or tech headaches."*
 + 
 + **Design Notes**:
 + - Bright CTA button visual
-+ - Social proof: &quot;Join 500+ businesses using AI smarter&quot;
++ - Social proof: "Join 500+ businesses using AI smarter"
 + - Logo prominent
 + - Website URL clear
 + 
@@ -4490,9 +4490,9 @@ Lines added: 856, lines removed: 589
 + 
 + **Engagement Plan**:
 + 1. Post carousel
-+ 2. First comment: &quot;Which of these 5 tasks would save YOU the most time? 👇&quot;
++ 2. First comment: "Which of these 5 tasks would save YOU the most time? 👇"
 + 3. Reply to every comment within 2 hours
-+ 4. DM everyone who comments &quot;AUDIT&quot; within 24 hours
++ 4. DM everyone who comments "AUDIT" within 24 hours
 + 5. Repost carousel as document 2 weeks later
 + 
 + **Hashtags** (use in first comment, not post):
@@ -4502,13 +4502,13 @@ Lines added: 856, lines removed: 589
 + 
 + ### 📝 ALTERNATIVE HOOKS (A/B Test)
 + 
-+ **Version A** (Current): &quot;5 Tasks AI Can Do for You RIGHT NOW&quot;
++ **Version A** (Current): "5 Tasks AI Can Do for You RIGHT NOW"
 + 
-+ **Version B** (Pain-focused): &quot;Still Doing These 5 Tasks Manually? Here&#39;s Your Wake-Up Call&quot;
++ **Version B** (Pain-focused): "Still Doing These 5 Tasks Manually? Here's Your Wake-Up Call"
 + 
-+ **Version C** (Results-focused): &quot;How to Save 51 Hours/Week Using AI (Seriously)&quot;
++ **Version C** (Results-focused): "How to Save 51 Hours/Week Using AI (Seriously)"
 + 
-+ **Version D** (Question): &quot;What If AI Could Handle Your Most Hated Tasks?&quot;
++ **Version D** (Question): "What If AI Could Handle Your Most Hated Tasks?"
 + 
 + ---
 + 
@@ -4520,7 +4520,7 @@ Lines added: 856, lines removed: 589
 + - [ ] CTA is clear and actionable
 + - [ ] Links tested and working
 + - [ ] First comment ready to post immediately
-+ - [ ] DM template ready for &quot;AUDIT&quot; responses
++ - [ ] DM template ready for "AUDIT" responses
 + - [ ] Calendar reminder to engage for 2 hours post-publish
 + 
 + **Best Time to Post**: Thursday 8-9 AM EST (carousels perform well mid-week)
@@ -4531,7 +4531,7 @@ Lines added: 856, lines removed: 589
 + 
 + **Platform**: LinkedIn (Text + Screenshot)
 + 
-+ **Hook**: &quot;Live update: We&#39;re 72 hours into a client automation project. Here&#39;s what&#39;s happening...&quot;
++ **Hook**: "Live update: We're 72 hours into a client automation project. Here's what's happening..."
 + 
 + **Body**:
 + Day 1: Kickoff &amp; Process Mapping
@@ -4552,12 +4552,12 @@ Lines added: 856, lines removed: 589
 + • Client saved 2.5 hours TODAY
 + • Team actually excited (rare!)
 + 
-+ What&#39;s Next:
++ What's Next:
 + • Automation #2 starts tomorrow (data sync)
 + • Then customer onboarding flow
 + • Full training next week
 + 
-+ Here&#39;s what I love about this approach:
++ Here's what I love about this approach:
 + → Results in days, not months
 + → Client sees value immediately
 + → Team adoption is 10x easier when they see it working
@@ -4578,7 +4578,7 @@ Lines added: 856, lines removed: 589
 + **Platform**: Twitter/X (Thread)
 + 
 + **Tweet 1 (Hook)**:
-+ I&#39;ve tested 50+ automation tools in the last 2 years.
++ I've tested 50+ automation tools in the last 2 years.
 + 
 + Here are the 7 I actually use daily (and what I use each for):
 + 
@@ -4594,7 +4594,7 @@ Lines added: 856, lines removed: 589
 + • Email drafts
 + • Research
 + 
-+ Why it wins: Versatility. It&#39;s like having a junior assistant for everything.
++ Why it wins: Versatility. It's like having a junior assistant for everything.
 + 
 + **Tweet 3**:
 + 2/ Make.com ($9-29/mo)
@@ -4669,13 +4669,13 @@ Lines added: 856, lines removed: 589
 + 
 + ROI: About 10,000%
 + 
-+ The trick isn&#39;t using every tool.
-+ It&#39;s finding the right 7-10 and mastering them.
++ The trick isn't using every tool.
++ It's finding the right 7-10 and mastering them.
 + 
 + **Tweet 10**:
 + Want my full tools stack with use cases + setup guides?
 + 
-+ Drop a comment and I&#39;ll send it over.
++ Drop a comment and I'll send it over.
 + 
 + Also, what tools am I missing? Always looking to optimize 👇
 + 
@@ -4687,7 +4687,7 @@ Lines added: 856, lines removed: 589
 + 
 + **Platform**: LinkedIn (Text + Video/Image)
 + 
-+ **Hook**: &quot;We just lost a $20K deal. Here&#39;s what we learned.&quot;
++ **Hook**: "We just lost a $20K deal. Here's what we learned."
 + 
 + **Body**:
 + Last week, we presented a comprehensive automation proposal to a growing SaaS company.
@@ -4700,20 +4700,20 @@ Lines added: 856, lines removed: 589
 + 
 + They went with someone else.
 + 
-+ Why? Here&#39;s what they told us:
++ Why? Here's what they told us:
 + 
-+ &quot;We loved everything about your proposal. But we needed something we could see results from THIS MONTH. Your plan, while comprehensive, felt like a big commitment.&quot;
++ "We loved everything about your proposal. But we needed something we could see results from THIS MONTH. Your plan, while comprehensive, felt like a big commitment."
 + 
 + Ouch. But fair.
 + 
 + Lesson learned:
-+ → Comprehensive isn&#39;t always what they want
++ → Comprehensive isn't always what they want
 + → Quick wins &gt; perfect solutions
 + → Show value fast, then expand
 + → Lower barrier to entry
 + 
-+ What we&#39;re changing:
-+ • Offering &quot;Quick Win&quot; starter package ($2.5K, 1 week)
++ What we're changing:
++ • Offering "Quick Win" starter package ($2.5K, 1 week)
 + • Prove value FIRST, then discuss bigger projects
 + • Making it easier to say yes
 + 
@@ -4732,7 +4732,7 @@ Lines added: 856, lines removed: 589
 + 
 + **Platform**: LinkedIn (Poll + Follow-up Post)
 + 
-+ **Poll Question**: &quot;How many hours per week do you spend on tasks that could be automated?&quot;
++ **Poll Question**: "How many hours per week do you spend on tasks that could be automated?"
 + 
 + **Options**:
 + - Less than 5 hours
@@ -4744,11 +4744,11 @@ Lines added: 856, lines removed: 589
 + 
 + Results are in: 63% of you spend 10+ hours per week on work that could be automated.
 + 
-+ That&#39;s 520+ hours per year. 😳
++ That's 520+ hours per year. 😳
 ...
 - **OUR METHOD:**
 - We follow a simple 3-phase process:
-+ If your time is worth $50/hour, that&#39;s $26,000 in wasted value.
++ If your time is worth $50/hour, that's $26,000 in wasted value.
 + At $100/hour? $52,000.
 ...
 - Phase 1: Quick Wins (Week 1-2)
@@ -4769,19 +4769,19 @@ Lines added: 856, lines removed: 589
 - **OUR CREDIBILITY:**
 - • Real GitHub with active projects (not hidden code)
 - • Client implementations you can reference
-- • We&#39;ve done this 50+ times with measurable results
+- • We've done this 50+ times with measurable results
 - • Building in public since day one
 - 
-- The consultants with fancy slides often can&#39;t show you their work.
+- The consultants with fancy slides often can't show you their work.
 - 
-- We can. Here&#39;s our GitHub: [link]
+- We can. Here's our GitHub: [link]
 - 
-- That&#39;s the difference between talkers and builders.
+- That's the difference between talkers and builders.
 - 
 - **Call to Action**:
-- Want to see our method in action? Comment &quot;METHOD&quot; and I&#39;ll send you a walkthrough of how we automated a client&#39;s entire reporting process in 2 weeks.
+- Want to see our method in action? Comment "METHOD" and I'll send you a walkthrough of how we automated a client's entire reporting process in 2 weeks.
 - 
-- **Image**: Side-by-side: &quot;What most consultants show&quot; (PowerPoint slide) vs &quot;What we show&quot; (GitHub repo screenshot)
+- **Image**: Side-by-side: "What most consultants show" (PowerPoint slide) vs "What we show" (GitHub repo screenshot)
 - 
 - **Best Time to Post**: Wednesday 9 AM (credibility posts perform well mid-week)
 - 
@@ -4790,7 +4790,7 @@ Lines added: 856, lines removed: 589
 - *These posts are ready to customize and deploy. Swap in your brand voice, real examples, and company details.*
 - 
 - 
-+ Here&#39;s what most people don&#39;t realize:
++ Here's what most people don't realize:
 + 
 + Automating those tasks typically costs:
 + • $100-300/month in tools
@@ -4806,13 +4806,13 @@ Lines added: 856, lines removed: 589
 + 
 + Total: 18 hours/week = $46,800/year at $50/hour
 + 
-+ The question isn&#39;t &quot;Can we afford to automate?&quot;
-+ It&#39;s &quot;Can we afford NOT to?&quot;
++ The question isn't "Can we afford to automate?"
++ It's "Can we afford NOT to?"
 + 
 + **Call to Action**:
 + Want to know exactly what you should automate first?
 + 
-+ Comment &quot;AUDIT&quot; and I&#39;ll send you our free process audit template.
++ Comment "AUDIT" and I'll send you our free process audit template.
 + 
 + ---
 + 
@@ -4820,41 +4820,41 @@ Lines added: 856, lines removed: 589
 + 
 + **Platform**: LinkedIn or Instagram (Carousel)
 + 
-+ **Title**: &quot;5 AI Automation Myths That Are Costing You Time &amp; Money&quot;
++ **Title**: "5 AI Automation Myths That Are Costing You Time &amp; Money"
 + 
-+ **Myth #1: &quot;AI automation is only for big companies&quot;**
++ **Myth #1: "AI automation is only for big companies"**
 + Reality: Small businesses benefit MORE because:
 + • Lower overhead costs
 + • Faster implementation
 + • Immediate impact on operations
-+ • Don&#39;t need dedicated IT team
++ • Don't need dedicated IT team
 + 
-+ **Myth #2: &quot;You need to know how to code&quot;**
++ **Myth #2: "You need to know how to code"**
 + Reality:
 + • 90% of automations use no-code tools
 + • If you can use a spreadsheet, you can automate
 + • Visual builders make it simple
 + • Training takes days, not months
 + 
-+ **Myth #3: &quot;It&#39;s too expensive&quot;**
++ **Myth #3: "It's too expensive"**
 + Reality:
 + • Most tools: $10-50/month
 + • Implementation: $2K-10K one-time
 + • Typical ROI: 2-3 months
 + • Cost of NOT automating is higher
 + 
-+ **Myth #4: &quot;It&#39;ll take forever to implement&quot;**
++ **Myth #4: "It'll take forever to implement"**
 + Reality:
 + • Quick wins: 1-3 days
 + • Full department automation: 2-4 weeks
 + • Enterprise-wide: 2-3 months
 + • Modern tools are fast to deploy
 + 
-+ **Myth #5: &quot;My business is too unique to automate&quot;**
++ **Myth #5: "My business is too unique to automate"**
 + Reality:
 + • Every business has repetitive tasks
 + • 80% of processes are common across industries
-+ • Custom doesn&#39;t mean manual
++ • Custom doesn't mean manual
 + • If you do it twice, you can automate it
 + 
 + **Final Slide**:
@@ -4867,7 +4867,7 @@ Lines added: 856, lines removed: 589
 + The best time to start? Last year.
 + The second best time? Today.
 + 
-+ Comment &quot;MYTH&quot; for our free automation readiness assessment 👇
++ Comment "MYTH" for our free automation readiness assessment 👇
 + 
 + ---
 + 
@@ -4875,7 +4875,7 @@ Lines added: 856, lines removed: 589
 + 
 + **Platform**: LinkedIn (Text)
 + 
-+ **Hook**: &quot;Sarah was working 60-hour weeks and turning down clients. Now she works 35 hours and doubled her revenue. Here&#39;s how:&quot;
++ **Hook**: "Sarah was working 60-hour weeks and turning down clients. Now she works 35 hours and doubled her revenue. Here's how:"
 + 
 + **Body**:
 + Sarah runs a marketing consultancy. Solo. No team.
@@ -4885,11 +4885,11 @@ Lines added: 856, lines removed: 589
 + She was drowning in the work AROUND the work.
 + 
 + When we met, she was clear:
-+ &quot;I either hire someone, which I can&#39;t afford, or I burn out and quit.&quot;
++ "I either hire someone, which I can't afford, or I burn out and quit."
 + 
 + We gave her a third option: Automate.
 + 
-+ Here&#39;s what we did:
++ Here's what we did:
 + 
 + Week 1: Quick wins
 + • Automated email follow-ups
@@ -4911,7 +4911,7 @@ Lines added: 856, lines removed: 589
 + 
 + Total time saved: 15 hours/week
 + 
-+ But here&#39;s the real win:
++ But here's the real win:
 + 
 + With 15 hours back, Sarah could take on 3 more clients.
 + Revenue increased from $7K/month to $14K/month.
@@ -4921,13 +4921,13 @@ Lines added: 856, lines removed: 589
 + Monthly tool costs: $180
 + First year ROI: 1,840%
 + 
-+ Sarah&#39;s quote:
-+ &quot;I thought I needed an assistant. Turns out I needed automation. Best business decision I&#39;ve made.&quot;
++ Sarah's quote:
++ "I thought I needed an assistant. Turns out I needed automation. Best business decision I've made."
 + 
 + **Call to Action**:
-+ Working too many hours? There&#39;s a better way.
++ Working too many hours? There's a better way.
 + 
-+ DM me &quot;SCALE&quot; and let&#39;s talk about your situation.
++ DM me "SCALE" and let's talk about your situation.
 + 
 + ---
 + 
@@ -4935,12 +4935,12 @@ Lines added: 856, lines removed: 589
 + 
 + **Platform**: LinkedIn or Twitter (Text + Link)
 + 
-+ **Hook**: &quot;I just spent 40 hours creating this. You can have it for free.&quot;
++ **Hook**: "I just spent 40 hours creating this. You can have it for free."
 + 
 + **Body**:
 + **The Ultimate AI Automation Starter Kit**
 + 
-+ Inside you&#39;ll find:
++ Inside you'll find:
 + 
 + 📋 Process Audit Template
 + • Identify your top automation opportunities
@@ -4976,7 +4976,7 @@ Lines added: 856, lines removed: 589
 + 
 + Why am I giving this away?
 + 
-+ Because I&#39;m tired of seeing businesses waste money on automation that doesn&#39;t work.
++ Because I'm tired of seeing businesses waste money on automation that doesn't work.
 + 
 + This kit has everything you need to:
 + ✓ Start smart
@@ -4986,9 +4986,9 @@ Lines added: 856, lines removed: 589
 + No credit card. No catch. Just value.
 + 
 + **Call to Action**:
-+ Comment &quot;KIT&quot; and I&#39;ll send you the link 👇
++ Comment "KIT" and I'll send you the link 👇
 + 
-+ Or if you want help implementing, DM me &quot;HELP&quot; and we can talk.
++ Or if you want help implementing, DM me "HELP" and we can talk.
 + 
 + **Delivery**: Send via DM or email (captures lead info)
 + 
@@ -5026,17 +5026,17 @@ Lines added: 856, lines removed: 589
 + 
 + ## Engagement Response Templates
 + 
-+ **For &quot;Send me&quot; requests:**
-+ &quot;Just sent! Check your DMs. Let me know if you have questions 👍&quot;
++ **For "Send me" requests:**
++ "Just sent! Check your DMs. Let me know if you have questions 👍"
 + 
 + **For positive feedback:**
-+ &quot;Thanks [Name]! Glad this resonated. What automation are you most interested in tackling first?&quot;
++ "Thanks [Name]! Glad this resonated. What automation are you most interested in tackling first?"
 + 
 + **For disagreement:**
-+ &quot;Appreciate the perspective [Name]. Tell me more about your experience—always looking to learn from different viewpoints.&quot;
++ "Appreciate the perspective [Name]. Tell me more about your experience—always looking to learn from different viewpoints."
 + 
 + **For questions:**
-+ &quot;Great question! [Answer]. Want me to do a deep dive on this topic next week?&quot;
++ "Great question! [Answer]. Want me to do a deep dive on this topic next week?"
 + 
 + ---
 + 
@@ -5044,16 +5044,16 @@ Lines added: 856, lines removed: 589
 + 
 + **Platform**: LinkedIn (Text)
 + 
-+ **Hook**: &quot;Most AI consultants show you PowerPoints. We show you our GitHub.&quot;
++ **Hook**: "Most AI consultants show you PowerPoints. We show you our GitHub."
 + 
 + **Body**:
-+ Here&#39;s how we&#39;re different:
++ Here's how we're different:
 + 
 + **OUR APPROACH:**
-+ We don&#39;t just talk about automation—we build it every day.
++ We don't just talk about automation—we build it every day.
 + • We use the same tools we recommend to you
 + • We automate our own processes first
-+ • If it doesn&#39;t work for us, we don&#39;t sell it to you
++ • If it doesn't work for us, we don't sell it to you
 + 
 + **OUR METHOD:**
 + We follow a simple 3-phase process:
@@ -5076,19 +5076,19 @@ Lines added: 856, lines removed: 589
 + **OUR CREDIBILITY:**
 + • Real GitHub with active projects (not hidden code)
 + • Client implementations you can reference
-+ • We&#39;ve done this 50+ times with measurable results
++ • We've done this 50+ times with measurable results
 + • Building in public since day one
 + 
-+ The consultants with fancy slides often can&#39;t show you their work.
++ The consultants with fancy slides often can't show you their work.
 + 
-+ We can. Here&#39;s our GitHub: [link]
++ We can. Here's our GitHub: [link]
 + 
-+ That&#39;s the difference between talkers and builders.
++ That's the difference between talkers and builders.
 + 
 + **Call to Action**:
-+ Want to see our method in action? Comment &quot;METHOD&quot; and I&#39;ll send you a walkthrough of how we automated a client&#39;s entire reporting process in 2 weeks.
++ Want to see our method in action? Comment "METHOD" and I'll send you a walkthrough of how we automated a client's entire reporting process in 2 weeks.
 + 
-+ **Image**: Side-by-side: &quot;What most consultants show&quot; (PowerPoint slide) vs &quot;What we show&quot; (GitHub repo screenshot)
++ **Image**: Side-by-side: "What most consultants show" (PowerPoint slide) vs "What we show" (GitHub repo screenshot)
 + 
 + **Best Time to Post**: Wednesday 9 AM (credibility posts perform well mid-week)
 + 

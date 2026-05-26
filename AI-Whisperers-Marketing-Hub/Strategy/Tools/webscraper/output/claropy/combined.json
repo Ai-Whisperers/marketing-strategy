@@ -1,0 +1,2558 @@
+{
+  "metadata": {
+    "account": "claropy",
+    "last_updated": "2025-12-08T21:53:50.897736+00:00",
+    "created_at": "2025-12-08T21:53:50.897744+00:00",
+    "total_posts": 10,
+    "total_comments": 266,
+    "platforms": [
+      "facebook"
+    ]
+  },
+  "extractions": [
+    {
+      "post": {
+        "id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V",
+        "platform": "facebook",
+        "url": "https://www.facebook.com/claropy/posts/pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V5uuTEToRVEyHvrgcn536KVcC3ZGtt2zl",
+        "text": "En Claro nos sumamos a la facturación 100% electrónica. Para recibirlas correctamente sugerimos verificar tus datos en https://miclaro.claro.com.py/",
+        "published_at": null,
+        "likes": 16000,
+        "comments_count": 19,
+        "shares": 146,
+        "media_type": "text"
+      },
+      "comments": [
+        {
+          "id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c0",
+          "text": "Holaa me pueden facilitar  el número de atención al cliente de claro..por fa..",
+          "author": "Maria Griselda Ledezma",
+          "published_at": "2025-12-08T18:31:48.020501",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c1",
+          "text": "Para consultas o reclamos sobre nuestros servicios te invitamos a contactarnos ingresando a nuestro chat online en;https://www.claro.com.py/chat.",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:31:48.020606",
+          "likes": 0,
+          "parent_id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c0",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c2",
+          "text": "La señal se ustedes no funciona en la zona de Canindeyu? Podrían ayudar? Claro Paraguay ?",
+          "author": "Derlis J Petsch",
+          "published_at": "2025-12-08T18:41:48.020616",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c3",
+          "text": "Y no me abilita",
+          "author": "Martin Aquino",
+          "published_at": "2025-12-08T18:22:48.020621",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c4",
+          "text": "Indícanos tus datos por favor ingresando en nuestro chat online por medio de este link https://www.claro.com.py/chat  para brindarte una mejor atención.",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:22:48.020625",
+          "likes": 0,
+          "parent_id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c3",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c5",
+          "text": "En qué asterisco puedo saber mi número de teléfono",
+          "author": "Andrea Torres",
+          "published_at": "2025-12-08T18:26:48.020629",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c6",
+          "text": "Hola Andrea seria la opción *22# si no le funciona debe contactarse . Para consultas o reclamos sobre nuestros servicios te invitamos a contactarnos ingresando a nuestro chat online en;  https://www.claro.com.py/chat",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:26:48.020631",
+          "likes": 0,
+          "parent_id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c5",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c7",
+          "text": "Como me puedo comunicar con atención al cliente que no sea el número 0994111111 por que no me dan respuesta ai consulta",
+          "author": "Fabi Mongelos",
+          "published_at": "2025-12-08T18:36:48.020635",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c8",
+          "text": "Gracias Claro no podré ver el partido de la sub 20 de Paraguay, desde hace 3 días estamos así se les reclama y no cuentan con servicio técnico dicen",
+          "author": "Mati Bogado",
+          "published_at": "2025-12-08T18:41:48.020638",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c9",
+          "text": "Lamentamos el inconveniente que estuviste presentando Mati, para poder brindarte un asesoramiento personalizado te invitamos a hablar con un asesor por medio de nuestro chat virtual ingresando al siguiente enlace: https://www.claro.com.py/chat también puede  desde una línea Claro al *111 o desde otras operadoras al 0994 111 111  . ¡Te esperamos!",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:41:48.020641",
+          "likes": 0,
+          "parent_id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c8",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c10",
+          "text": "Estoy llamando a Atención al cliente, al *555 yen ninguno puedo entrar.. Xq es eso si me. Pueden ayudar xfa",
+          "author": "Marta Talavera",
+          "published_at": "2024-12-08T18:49:48.020644",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 2
+        },
+        {
+          "id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c11",
+          "text": "Marta Talavera es una joda esa compañía, pásate a PERSONAL",
+          "author": "Gustavo P. Ortiz Bobadilla",
+          "published_at": "2024-12-08T18:49:48.020650",
+          "likes": 0,
+          "parent_id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c10",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c12",
+          "text": "Hola Marta Talavera,  con mucho gusto queremos ayudarte desde este medio y verificar lo que nos mencionas, podrías por favor escribirnos al con tus datos por este link : https://www.claro.com.py/chat",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:49:48.020654",
+          "likes": 0,
+          "parent_id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c10",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c13",
+          "text": ",no me atiende la llamada al call Center... Cualqier cosa disen",
+          "author": "Mirta Rissaldi",
+          "published_at": "2025-12-08T18:46:48.020660",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c14",
+          "text": "Hola, yo soy de Villarrica y tengo muy poca señal, como me puedo contactar con ustedes.",
+          "author": "Blanca Britez",
+          "published_at": "2024-12-08T18:49:48.020664",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c15",
+          "text": "Hola Blanca Britez, si deseas hablar con un representante de atención al cliente podes llamar al 0994111111, o indícame tu consulta y con gusto te ayudo por esta vía",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:49:48.020667",
+          "likes": 0,
+          "parent_id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c14",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c16",
+          "text": "Será que alguien se puede comunicar con migo por whatssapp ya que su asistente virtual es una joda ni siquiera queda registrado el chat y algo más serio por favor",
+          "author": "Clara Maldonado",
+          "published_at": "2024-12-08T18:49:48.020670",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 2
+        },
+        {
+          "id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c17",
+          "text": "Hola Clara Maldonado, te comentamos que de momento no contamos con atención vía WhatsApp. Podes contactarnos vía llamada al 0994 111 111. ¡Quedamos atentos!",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:49:48.020673",
+          "likes": 0,
+          "parent_id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c16",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c18",
+          "text": "Para una atención personalizada vía llamada puede comunicarse al *111 desde una linea claro o al 994 111 111 desde cualquier otra operadora.",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:00:48.020675",
+          "likes": 0,
+          "parent_id": "pfbid028F9uGHGaZjyZ7k8jpoxhZbf9Wt3GUyd7V_c16",
+          "replies_count": 0
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "1527963534891982",
+        "platform": "facebook",
+        "url": "https://www.facebook.com/watch/?v=1527963534891982",
+        "text": "Llegó el momento que todos estábamos esperando…",
+        "published_at": null,
+        "likes": 0,
+        "comments_count": 31,
+        "shares": 0,
+        "media_type": "text"
+      },
+      "comments": [
+        {
+          "id": "1527963534891982_c0",
+          "text": "Quiero dejar acentuada mi queja... Soy cliente de hace más de 3 años de internet hogar... Quise el iptv y me dicen que solo puedo acceder al mismo si soy cliente nuevo... Y adquiero un combo... Es una burla... Yo solo quiero el iptv con mis 100 megas de siempre... Pero si no hago portabilidad o no adquiero 300 megas no me dejan... Sinceramente se están perdiendo de a pooooco un cliente...",
+          "author": "Angel Mazzini",
+          "published_at": "2025-12-08T18:42:02.164565",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 3
+        },
+        {
+          "id": "1527963534891982_c1",
+          "text": "Para consultas o reclamos sobre nuestros servicios te invitamos a contactarnos ingresando a nuestro chat online en;https://www.claro.com.py/chat.",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:42:02.164585",
+          "likes": 0,
+          "parent_id": "1527963534891982_c0",
+          "replies_count": 0
+        },
+        {
+          "id": "1527963534891982_c2",
+          "text": "Angel Mazzini",
+          "author": "Jose Amarilla",
+          "published_at": "2025-12-08T18:45:02.164589",
+          "likes": 0,
+          "parent_id": "1527963534891982_c0",
+          "replies_count": 0
+        },
+        {
+          "id": "1527963534891982_c3",
+          "text": "Angel Mazzinies mentira que no podés acceder sin ser cliente nuevo, tus 100 megas de Internet no se verán afectadas!",
+          "author": "Futaba Uuwuu",
+          "published_at": "2025-12-08T18:42:02.164592",
+          "likes": 0,
+          "parent_id": "1527963534891982_c0",
+          "replies_count": 0
+        },
+        {
+          "id": "1527963534891982_c4",
+          "text": "Zona de ita tambien se conecta y se desconecta y además este tema de descuentos de tu saldo sin permiso , \" para no que dar sin colección \" , otro punto a cambiar",
+          "author": "Charly Arrua",
+          "published_at": "2025-12-08T18:41:02.164598",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "1527963534891982_c5",
+          "text": "¡Hola Charly Arrua! nos gustaría asesorarte en caso que presente algún inconveniente con su servicio, facilítanos tus datos en... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:41:02.164601",
+          "likes": 0,
+          "parent_id": "1527963534891982_c4",
+          "replies_count": 0
+        },
+        {
+          "id": "1527963534891982_c6",
+          "text": "RODRIGO ROTELA DE CLARO CORTA EL TELEFONO A LOS CLIENTES !!!",
+          "author": "Jorge Antonio",
+          "published_at": "2025-12-08T18:45:02.164603",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "1527963534891982_c7",
+          "text": "Lamentamos el inconveniente que estuviste presentando, para poder brindarte un asesoramiento personalizado te invitamos a habl... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:45:02.164606",
+          "likes": 0,
+          "parent_id": "1527963534891982_c6",
+          "replies_count": 0
+        },
+        {
+          "id": "1527963534891982_c8",
+          "text": "Me gustaría saber nomas si ustedes tienen señal por la ruta PY 9 ruta Transchaco, especialmente zonas rurales del Chaco pasando la zona de Benjamin Aceval y Cerrito hasta Pozo Azul lugares abandonados y sin alumbrado público donde Tigo y Personal no tuvieron señal antes pero ahora no sé si mejoraron o sigue igual que antes ya que en Pozo Colorado hay señal y de ahí pasando la ruta Pozo Colorado-Concepción la misma cosa que nos tocaba en la zona rural donde no hubo señal, ya que cruzando el Puente Nanawa entrando en Concepción ya hay señal, y la consulta es para mi viaje de Asunción a Concepción por Chaco en Noviembre y sólo quiero saber si es que se llegan a cubrir esos algunos lugares zonas rurales durante el viaje para comprar el chip de Claro",
+          "author": "Arturo Pereira",
+          "published_at": "2025-12-08T18:41:02.164609",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "1527963534891982_c9",
+          "text": "Me encantaría que al menos mi WiFi funcionara, especialmente luego de haber pagado la cuenta del mes al día y con una subida sin previo aviso :^)",
+          "author": "Misaki Ashura Uchiha",
+          "published_at": "2025-12-08T18:43:02.164612",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "1527963534891982_c10",
+          "text": "Algun vendedor de shoping?? Nesesito un producto",
+          "author": "M Ramon Vera",
+          "published_at": "2025-12-08T18:41:02.164614",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "1527963534891982_c11",
+          "text": "Ara  me hablad   al  privado, estoy   sin  wasap",
+          "author": "David Cardus",
+          "published_at": "2025-12-08T18:42:02.164617",
+          "likes": 0,
+          "parent_id": "1527963534891982_c10",
+          "replies_count": 0
+        },
+        {
+          "id": "1527963534891982_c12",
+          "text": "Gente de claro, pueden dejar de romper las bolas con sus llamadas a personas que no usan su línea, mas de 5 llamada por días hacen hasta en horarios laborales llaman a molestar",
+          "author": "Jorgito Parsaldi",
+          "published_at": "2025-12-08T18:44:02.164619",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "1527963534891982_c13",
+          "text": "Consumiste los 5GB de uso de Whatsapp GRATIS. Desde ahora el uso de whatsapp descuenta los MB de tu paquete hasta el 15 del mes.",
+          "author": "Américo Centurión",
+          "published_at": "2025-12-08T18:42:02.164622",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "1527963534891982_c14",
+          "text": "Celular con plan quiero",
+          "author": "Francisco Fariña Ortigoza II",
+          "published_at": "2025-12-08T18:43:02.164624",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "1527963534891982_c15",
+          "text": "Le comento que puede comunicarse con el área comercial vía WhatsApp al siguiente enlace numérico; https://wa.me/595991622622 y... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:43:02.164627",
+          "likes": 0,
+          "parent_id": "1527963534891982_c14",
+          "replies_count": 0
+        },
+        {
+          "id": "1527963534891982_c16",
+          "text": "Son una burla en la atención y en brindar solucion al cliente ante problemas!!",
+          "author": "Marcelo Melgarejo",
+          "published_at": "2025-12-08T18:43:02.164629",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "1527963534891982_c17",
+          "text": "¡Hola Marcelo! Para una mejor atención, contáctanos ingresando a nuestro chat online en; https://www.claro.com.py/chat.",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:43:02.164632",
+          "likes": 0,
+          "parent_id": "1527963534891982_c16",
+          "replies_count": 0
+        },
+        {
+          "id": "1527963534891982_c18",
+          "text": "Por q es escaso el saldo",
+          "author": "Villalba Alcides AV",
+          "published_at": "2025-12-08T18:42:02.164634",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "1527963534891982_c19",
+          "text": "Es mucha plata, 235.000 por 150.000 tengo 400 Mbps y 48 canales,",
+          "author": "Portal de Publicidad",
+          "published_at": "2025-12-08T18:41:02.164637",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 4
+        },
+        {
+          "id": "1527963534891982_c20",
+          "text": "¡Hola! Para consultas o reclamos sobre nuestros servicios te invitamos a contactarnos ingresando a nuestro chat online en; htt... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:41:02.164640",
+          "likes": 0,
+          "parent_id": "1527963534891982_c19",
+          "replies_count": 0
+        },
+        {
+          "id": "1527963534891982_c21",
+          "text": "Portal de Publicidad pero tu servicio es MALISIMO.!!!!",
+          "author": "Rafa Noldin",
+          "published_at": "2025-12-08T18:42:02.164642",
+          "likes": 0,
+          "parent_id": "1527963534891982_c19",
+          "replies_count": 0
+        },
+        {
+          "id": "1527963534891982_c22",
+          "text": "Lamentamos si tuviste algún inconveniente con nuestros servicios, para poder brindarte un asesoramiento personalizado te invit... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:42:02.164645",
+          "likes": 0,
+          "parent_id": "1527963534891982_c19",
+          "replies_count": 0
+        },
+        {
+          "id": "1527963534891982_c23",
+          "text": "Portal de Publicidad tipo viene mas con gigas en el celular poreso pusieron ese precio viene 10 gigas mas con el plan contratado",
+          "author": "Tigo Posting",
+          "published_at": "2025-12-08T18:41:02.164648",
+          "likes": 0,
+          "parent_id": "1527963534891982_c19",
+          "replies_count": 0
+        },
+        {
+          "id": "1527963534891982_c24",
+          "text": "Algun vendedor para adquirir un producto",
+          "author": "M Ramon Vera",
+          "published_at": "2025-12-08T18:41:02.164652",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "1527963534891982_c25",
+          "text": "M Ramon Vera 0982 831601",
+          "author": "Arami Torres",
+          "published_at": "2025-12-08T18:49:02.164657",
+          "likes": 0,
+          "parent_id": "1527963534891982_c24",
+          "replies_count": 0
+        },
+        {
+          "id": "1527963534891982_c26",
+          "text": "Lo primero deben mejorar la cobertura en la zona de Mariano Roque Alonso Ciudad de Luque y Remansito departamento de presidente Hayes ...y las zonas que dan poca cobertura.",
+          "author": "Jorge David Cubilla Olmedo",
+          "published_at": "2025-12-08T18:41:02.164660",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 2
+        },
+        {
+          "id": "1527963534891982_c27",
+          "text": "¡Hola Jorge David! nos gustaría asesorarte con respecto a lo mencionado en caso que estés presentando inconvenientes con tu se... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:41:02.164662",
+          "likes": 0,
+          "parent_id": "1527963534891982_c26",
+          "replies_count": 0
+        },
+        {
+          "id": "1527963534891982_c28",
+          "text": "Jorge David Cubilla Olmedo si tan sólo todas las líneas las 3 empresas telefónicas Tigo, Personal y Claro que tienen muchos us... Ver más",
+          "author": "Arturo Pereira",
+          "published_at": "2025-12-08T18:41:02.164665",
+          "likes": 0,
+          "parent_id": "1527963534891982_c26",
+          "replies_count": 0
+        },
+        {
+          "id": "1527963534891982_c29",
+          "text": "Dejen de llamar por favor si algún día quiero el servicio de ustedes yo mismo voy a llamar o buscar... Encarecidamente les pido",
+          "author": "Delvalle Rolón José Lucho",
+          "published_at": "2025-12-08T18:48:02.164667",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "1527963534891982_c30",
+          "text": "¡Hola Delvalle Rolón José Lucho! Nos gustaría asesorarte con respecto a lo mencionado, facilítanos tus datos en nuestro chat o... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:48:02.164670",
+          "likes": 0,
+          "parent_id": "1527963534891982_c29",
+          "replies_count": 0
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz",
+        "platform": "facebook",
+        "url": "https://www.facebook.com/claropy/posts/pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVzf7DNp2xm1VjsLEn9hVej4TXCLNn3YFl?comment_id=2143320792817194",
+        "text": "QUEJA PÚBLICA – LAGO DE LA REPÚBLICA, CDE... Ver más",
+        "published_at": null,
+        "likes": 600,
+        "comments_count": 21,
+        "shares": 126,
+        "media_type": "text"
+      },
+      "comments": [
+        {
+          "id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c0",
+          "text": "Atención al Cliente de Claro, es la peor. No atienden las llamadas y la señal es lentísima. Renuncie a Personal wifi porque cada mes aparecía un pago extra para abonar y no sabían explicar pero al menos la señal es más estable, rápida y la Atención al Cliente, es la mejor de todas...ahora estamos viendo probar con Neo, de por ahí no es la misma cosa, puro humo.",
+          "author": "Laila Laila",
+          "published_at": "2025-12-08T18:21:20.919622",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c1",
+          "text": "Laila Laila neo funciona al 100 y mantiene su precio ni en las peores tormentas se va su señal yo por fuerza mayor debo mudarme en otra ciudad donde no agarra señal y estoy viendo para contratar otro que si entre pero todos se quejan de claro y tigo y no se que hacer no quiero entrar en dolor de cabeza pero necesito internet alla y justo personal que anda bien tambien no tiene cobertura ahi",
+          "author": "Eli Diaz",
+          "published_at": "2025-12-08T18:48:20.919641",
+          "likes": 0,
+          "parent_id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c0",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c2",
+          "text": "ES UNA VERGÜENZA TOTAL QUE OFREZCAN ALGO Y NO TENGAN LOS APARATOS ADECUADOS PARA TAL INSTALACIÓN Y QUE LE HAGAN PASAR ASI A UN CLIENTE MAS O MENOS DANADO A ENTEDER QUE EL CLIENTE SU ZONA NO ES COMPATIBLE, SIENDO QUE 4 DE SUS COMPETIDORES INSTALAN CAJAS NAN, EN FRENTE DE LA CASA DEL CLIENTE Y HACEN FUNCIONAR",
+          "author": "Fernando Andres Campuzano",
+          "published_at": "2025-12-08T18:14:20.919645",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 4
+        },
+        {
+          "id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c3",
+          "text": "Nos gustaría asesorarte con respecto a lo mencionado, facilítanos tus datos en nuestro chat online https://www.claro.com.py/personas",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:14:20.919649",
+          "likes": 0,
+          "parent_id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c2",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c4",
+          "text": "Para consultas o reclamos sobre nuestros servicios te invitamos a contactarnos ingresando a nuestro chat online en;  https://functions.botmaker.com",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:21:20.919651",
+          "likes": 0,
+          "parent_id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c2",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c5",
+          "text": "Fernando Andres Campuzano En Colonia Blas Garay de CORONEL OVIEDO no hay señal de claro",
+          "author": "José González",
+          "published_at": "2025-12-08T18:17:20.919654",
+          "likes": 0,
+          "parent_id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c2",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c6",
+          "text": "Lamentamos el inconveniente que estuviste presentando, para poder brindarte un asesoramiento personalizado te invitamos a hablar con un asesor por medio de nuestro chat virtual ingresando al siguiente enlace: https://www.claro.com.py/chat. ¡Te esperamos!",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:24:20.919657",
+          "likes": 0,
+          "parent_id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c2",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c7",
+          "text": "Buen dia..para mandar sacar el servicio de claro a q numero llamo..wifi",
+          "author": "Elsa Ortega",
+          "published_at": "2025-12-08T18:46:20.919660",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c8",
+          "text": "Hola Elsa, para poder brindarte un asesoramiento personalizado te invitamos a hablar con un asesor por medio de nuestro chat virtual ingresando al siguiente enlace: https://www.claro.com.py/chat ¡Te esperamos!",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:46:20.919663",
+          "likes": 0,
+          "parent_id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c7",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c9",
+          "text": "PESIMA CALIDAD DE SERVICIO, NO ANDA SU INTERNET DE PORQUERIA!!",
+          "author": "Noemi Ruiz Diaz",
+          "published_at": "2025-12-08T18:18:20.919665",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c10",
+          "text": "¡Hola Noemi!  Para poder brindarle un mejor asesoramiento puede ingresar al siguiente enlace chat https://www.claro.com.py/chat",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:18:20.919668",
+          "likes": 0,
+          "parent_id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c9",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c11",
+          "text": "quien puede explicar porque desde el jueves 29 de mayo estamos sin.internet?",
+          "author": "Marlene von Lücken",
+          "published_at": "2025-12-08T18:23:20.919670",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c12",
+          "text": "¡Hola Marlene! Lamentamos lo sucedido, para poder brindarle un mejor asesoramiento puede ingresar al siguiente enlace chat https://www.claro.com.py/chat",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:23:20.919673",
+          "likes": 0,
+          "parent_id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c11",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c13",
+          "text": "Estos planes son solo para clientes nuevos?",
+          "author": "Joel Gavilan",
+          "published_at": "2025-12-08T18:15:20.919675",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c14",
+          "text": "Hola, para mas detalles podes contactar directamente con un asesor de ventas vía WhatsApp ingresando aquí https://wa.me/595991622622 ¡Quedamos a tu disposición!",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:15:20.919677",
+          "likes": 0,
+          "parent_id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c13",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c15",
+          "text": "Algun teléfono con plan",
+          "author": "Hernan Quiñonez",
+          "published_at": "2025-12-08T18:15:20.919680",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 2
+        },
+        {
+          "id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c16",
+          "text": "¡Hola! Te invitamos a conocer nuestros los equipos que tenemos en stock https://tienda.claro.com.py/ para mas detalles podes contactar directamente con un asesor de ventas vía WhatsApp ingresando aquí https://wa.me/595991622622 ¡Quedamos a tu disposición!",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:15:20.919682",
+          "likes": 0,
+          "parent_id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c15",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c17",
+          "text": "Hernan Quiñonez 0991942000",
+          "author": "Claro Py Ventas - Claudia",
+          "published_at": "2025-12-08T18:15:20.919685",
+          "likes": 0,
+          "parent_id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c15",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c18",
+          "text": "Queres saber cuanto pago? Lo que ustedes quieren nomas ahora ya pago, hoy me vengo a enterar que me subieron nuevamente 10mil más a mi tarifa de fibra óptica, ya me subieron luego 10mil tiempo atrás y ahora de vuelta. No hay caso me voy a cambiar porque de que me sirve estar pagando el precio que ustedes ponen nomas ya y van subiendo",
+          "author": "Gloria Ovando",
+          "published_at": "2025-12-08T18:15:20.919687",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c19",
+          "text": "Claro Paraguay  un servicio que da pena, llamas al servicio técnico y te dicen no detectamos nada,  siendo que por inconvenientes es que uno se comunica y no porque me sobre el tiempo.",
+          "author": "Bianca Ojeda",
+          "published_at": "2025-12-08T18:38:20.919689",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0TyTZm4HHTQnGWpjhuQM2UXog6D4ayhNDVz_c20",
+          "text": "Necesito para ahora",
+          "author": "Simon Cabrera",
+          "published_at": "2025-12-06T18:50:20.919691",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY",
+        "platform": "facebook",
+        "url": "https://www.facebook.com/claropy/posts/pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUYUooAPHH9hCht8ayq4CjvoquidPNYS7l?comment_id=1937994753637618",
+        "text": "Mi sobrino haciendo la carta navideña",
+        "published_at": null,
+        "likes": 82000,
+        "comments_count": 20,
+        "shares": 57,
+        "media_type": "text"
+      },
+      "comments": [
+        {
+          "id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c0",
+          "text": "Ojala lea esto alguien d esta empresa!!! Me llaman 365 dias al dia 2 a 3 veces para decirme lo mismo ..... encima les comento mi inquietud y m cortan x la cara, luego al dia siguiente  m llaman d nuevo la misma cosa les digo hasta q m cortan; las llamadas se graban .... son muy mal educados/as deben tener educacion al tratar cn clientes y en mi caso jamas les trate mal al contrario soy conciente es su trabajo y deberian comunicar a sus superiores al menos mi caso y ver una solucion. Hoy viernes 23 m volvieron a llamar l atendí y l dije al escuchar q son d claro indique q le corto la llamada como m hacen a mí",
+          "author": "Marisa Barreto Salinas",
+          "published_at": "2025-12-08T18:22:35.595126",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 2
+        },
+        {
+          "id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c1",
+          "text": "Marisa Barreto Salinas ami no megusta ello te presa noma adema te cobra muyo y eso no da gusto avese quiero usar y avese no y automatico no me gusta",
+          "author": "Delia Rios Sanche",
+          "published_at": "2025-12-08T18:22:35.595146",
+          "likes": 0,
+          "parent_id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c0",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c2",
+          "text": "Marisa Barreto Salinas denunciable en Sedeco",
+          "author": "Leo Llanes",
+          "published_at": "2025-12-08T18:25:35.595150",
+          "likes": 0,
+          "parent_id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c0",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c3",
+          "text": "Hola quetal estoy comunicando a claro que no megusta que me preste saldo no me comviene a ute si pero ami no porfabor no ase poner tu trampa de mensaje para prestarme  porfa",
+          "author": "González ElRodri",
+          "published_at": "2025-12-08T18:43:35.595153",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c4",
+          "text": "Lamentamos el inconveniente que estuviste presentando, para poder brindarte un asesoramiento personalizado te invitamos a hablar con un asesor por medio de nuestro chat virtual ingresando al siguiente enlace: https://www.claro.com.py/chat. ¡Te esperamos!",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:43:35.595157",
+          "likes": 0,
+          "parent_id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c3",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c5",
+          "text": "Malisimo el servicio de atención al cliente jamás responden",
+          "author": "Julio Cesar Amarilla Alem",
+          "published_at": "2025-12-08T18:14:35.595160",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c6",
+          "text": "Alguien sabe cómo se cambia contraseña en wifi claro",
+          "author": "Maria Montania",
+          "published_at": "2025-12-08T18:13:35.595163",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c7",
+          "text": "Para poder brindarte un asesoramiento personalizado te invitamos a hablar con un asesor por medio de nuestro chat virtual ingresando al siguiente enlace: https://www.claro.com.py/chat  . ¡Te esperamos!",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:13:35.595166",
+          "likes": 0,
+          "parent_id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c6",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c8",
+          "text": "No tengo Internet",
+          "author": "Adrian Chavez",
+          "published_at": "2025-12-08T18:17:35.595168",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c9",
+          "text": "Nos gustaría asesorarte con respecto a lo mencionado, facilítanos tus datos en nuestro chat online https://www.claro.com.py/personas",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:17:35.595171",
+          "likes": 0,
+          "parent_id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c8",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c10",
+          "text": "Me siento ofendido con la empresa de claro por llamarme a toda hora",
+          "author": "Juan Gonzalez",
+          "published_at": "2025-12-08T18:18:35.595173",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c11",
+          "text": "¡Hola Juan! Nos gustaría ayudarle, le invitamos a escribirnos a través del chat de https://miclaro.claro.com.py/ o nuestra página oficial https://www.claro.com.py/chat para brindarle una atención personalizada. ¡Le esperamos!",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:18:35.595176",
+          "likes": 0,
+          "parent_id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c10",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c12",
+          "text": "Cuando repondrán la señal 19 hs sin conexión, una llovizna no más fue y ya nos dejan sin comunicación, Luque 2do barrio bella Vista",
+          "author": "Cynthia AlarcónMel",
+          "published_at": "2025-12-08T18:12:35.595179",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c13",
+          "text": "Holis",
+          "author": "Romina Caceres Caballero",
+          "published_at": "2025-12-08T18:15:35.595181",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 2
+        },
+        {
+          "id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c14",
+          "text": "Para brindarte una atención personalizada y detallada te invitamos a contactar directamente con un asesor de ventas vía WhatsApp ingresando aquí https://wa.me/595991622622",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:15:35.595188",
+          "likes": 0,
+          "parent_id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c13",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c15",
+          "text": "Romina Caceres Caballero 0991942000",
+          "author": "Claro Py Ventas - Claudia",
+          "published_at": "2025-12-08T18:15:35.595191",
+          "likes": 0,
+          "parent_id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c13",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c16",
+          "text": "Buen día un número para por mensajear me interesa",
+          "author": "Paty Vielman",
+          "published_at": "2025-12-08T18:42:35.595193",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c17",
+          "text": "¡Nos alegra de que estés interesado! para brindarte una atención personalizada y detallada te invitamos a contactarte directamente con un asesor de ventas vía WhatsApp ingresando aquí https://wa.me/595991622622. ¡Te esperamos!",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:42:35.595196",
+          "likes": 0,
+          "parent_id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c16",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c18",
+          "text": "Algún número de atención al cliente donde alguien conteste? Claro Paraguay",
+          "author": "Andy Franco",
+          "published_at": "2025-12-08T18:18:35.595198",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c19",
+          "text": "Indícanos tus datos por favor ingresando en nuestro chat online por medio de este link https://www.claro.com.py/chat  para brindarte una mejor atención.",
+          "author": "Claro Paraguay",
+          "published_at": "2025-12-08T18:18:35.595201",
+          "likes": 0,
+          "parent_id": "pfbid0T7YqpSNHBxxX13EaDZ6Ato3XzmC5CQAYUY_c18",
+          "replies_count": 0
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec",
+        "platform": "facebook",
+        "url": "https://www.facebook.com/claropy/posts/pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec1kiRvS9CoBaHN22hphp8QtoYxkXHb7l?comment_id=503501618774798",
+        "text": "¿Sabés cuánto consumen tus electrodomésticos?\nE... Ver más",
+        "published_at": null,
+        "likes": 40,
+        "comments_count": 34,
+        "shares": 23,
+        "media_type": "text"
+      },
+      "comments": [
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c0",
+          "text": "Desde hace muchos años soy cliente de Claro, buen cliente. Tenía un descuento en mi plan, que al renovarse disminuyeron el beneficio(eso fue en junio), este mes recibo la factura por un monto mayor al que me mencionaron como nuevo costo del plan \"porque todos los planes sufrieron incremento\". Hoy me comuniqué manifestando el descontento con eso, hice varias preguntas a la operadora que me estaba atendiendo a fin de cambiar a un plan de menor costo (menos GB), reitero, consulté sobre todas las ventajas y desventajas. Le pido el cambio de plan y después me dice que los 35,10 GB que tengo acumulado(y pagados) se pierden automáticamente al cambiar de plan.",
+          "author": "Lelia Bogado",
+          "published_at": "2024-12-08T18:50:49.137260",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 5
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c1",
+          "text": "Esto pierdo porque me sacan algo que pagué.",
+          "author": "Lelia Bogado",
+          "published_at": "2024-12-08T18:50:49.137279",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c0",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c2",
+          "text": "Lelia Bogado Me ha gustado esta nota en https://www.abc.com.py/edicion-impresa/economia/corte-suprema-falla-a-favor-de-usuaria-en-litigio-con-firma-telefonica-privada-1224989.html",
+          "author": "𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐨𝐫𝐢𝐨𝐉𝐮𝐫𝐢́𝐝𝐢𝐜𝐨𝐂𝐨𝐧𝐬𝐮𝐦𝐢𝐝𝐨r𝐏𝐲",
+          "published_at": "2024-12-08T18:50:49.137284",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c0",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c3",
+          "text": "Lelia Bogado VAMOS HACER UNA DENUNCIA COLECTIVA !!",
+          "author": "𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐨𝐫𝐢𝐨𝐉𝐮𝐫𝐢́𝐝𝐢𝐜𝐨𝐂𝐨𝐧𝐬𝐮𝐦𝐢𝐝𝐨r𝐏𝐲",
+          "published_at": "2024-12-08T18:50:49.137288",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c0",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c4",
+          "text": "Hola Lelia Bogado, ante cualquier duda o consulta también nos puede contactar en nuestro chat online ingresando en este link www.claro.com.py/chat para brindarte una mejor atención.",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:50:49.137291",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c0",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c5",
+          "text": "Estoy esperando a utilizar todos mis GB acumulados y haré la portabilidad a Personal, consigo mejor precio por la misma cantidad de GB... es más, me duplican los GB de mi plan y asociando al plan Hogar de Internet más Flow también duplican los Mbps.",
+          "author": "Lelia Bogado",
+          "published_at": "2024-12-08T18:50:49.137294",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c0",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c6",
+          "text": "Estoy PODRIDA CON LOS DE Claro Paraguay   ME ESTAN COBRANDO DE MAS POR EL SERVICIO Y YA ME TIENEN HARTA PORQUE NO FUNCIONA!!",
+          "author": "Rossana González F",
+          "published_at": "2024-12-08T18:50:49.137297",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c7",
+          "text": "Hola Rossana, facilítanos tus datos en nuestro chat online por medio de este link https://www.claro.com.py/chat para brindarte una mejor atención y ayudarte. ¡Quedamos atentos!",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:50:49.137300",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c6",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c8",
+          "text": "Buenas, quiero bloquear mi chip",
+          "author": "Donisa Beryllus Ord",
+          "published_at": "2024-12-08T18:50:49.137303",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 5
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c9",
+          "text": "Hola Donisa Beryllus Ord, facilítanos tus datos en nuestro chat online por medio de este link https://www.claro.com.py/chat para brindarte una mejor atención y ayudarte con tu consulta. ¡Quedamos atentos!",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:50:49.137306",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c8",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c10",
+          "text": "Claro Paraguay Sólo tienen opciones predeterminadas, no está la opción de consulta sobre bloqueo de Chips.",
+          "author": "Donisa Beryllus Ord",
+          "published_at": "2024-12-08T18:50:49.137309",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c8",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c11",
+          "text": "Hola Donisa Beryllus Ord, debes seleccionar la opción de contactarnos para conversar con un asesor. También podes comunicarte vía llamada al 0994 111 111. ¡Quedamos atentos!",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:50:49.137312",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c8",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c12",
+          "text": "Claro Paraguay Solo tengo estas opciones, estoy desde la computadora porque ahora no estoy contando con teléfono móvil, quiero bloquearlo por hurto justamente.",
+          "author": "Donisa Beryllus Ord",
+          "published_at": "2024-12-08T18:50:49.137315",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c8",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c13",
+          "text": "Donisa Beryllus Ord, podes seleccionar cualquiera de las opciones y luego la opción chatéanos para contactar con un asesor.",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:50:49.137318",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c8",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c14",
+          "text": "Necesito hablar con alguien de call center. No con el sistema!",
+          "author": "César Torres",
+          "published_at": "2024-12-08T18:50:49.137321",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 4
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c15",
+          "text": "César Torres ya te comunicaste ?",
+          "author": "Ester Duarte",
+          "published_at": "2024-12-08T18:50:49.137324",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c14",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c16",
+          "text": "Ester Duarte hace 4 meses ya de eso",
+          "author": "César Torres",
+          "published_at": "2024-12-08T18:50:49.137327",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c14",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c17",
+          "text": "Hola César, nos gustaria ayudarte con lo menciona te invitamos a continuar la consulta en nuestro chat online: https://www.claro.com.py/chat te aguardamos por ese medio",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:50:49.137336",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c14",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c18",
+          "text": "Nos gustaría ayudarte a solucionar el inconveniente y mejorar nuestro servicio. Ingresa a este link www.claro.com.py/chat para chatear en línea con un asesor.",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:50:49.137339",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c14",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c19",
+          "text": "Cómo puedo comunicarme",
+          "author": "Cinthia Pesoa",
+          "published_at": "2024-12-08T18:50:49.137342",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 8
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c20",
+          "text": "Cinthia Pesoa 0984.895.171",
+          "author": "Isaac David Caceres",
+          "published_at": "2024-12-08T18:50:49.137345",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c19",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c21",
+          "text": "Sera",
+          "author": "Adela Ayala",
+          "published_at": "2024-12-08T18:50:49.137347",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c19",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c22",
+          "text": "Claro",
+          "author": "Adela Ayala",
+          "published_at": "2024-12-08T18:50:49.137356",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c19",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c23",
+          "text": "Con",
+          "author": "Adela Ayala",
+          "published_at": "2024-12-08T18:50:49.137360",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c19",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c24",
+          "text": "Como",
+          "author": "Adela Ayala",
+          "published_at": "2024-12-08T18:50:49.137363",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c19",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c25",
+          "text": "P0r mi antena",
+          "author": "Adela Ayala",
+          "published_at": "2024-12-08T18:50:49.137366",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c19",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c26",
+          "text": "Cinthia Pesoa buenas te pudiste comunicar ??",
+          "author": "Claro Py",
+          "published_at": "2024-12-08T18:50:49.137369",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c19",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c27",
+          "text": "Hola Cinthia, nos gustaria ayudarte con lo menciona te invitamos a continuar la consulta en nuestro chat online: https://www.claro.com.py/chat te aguardamos por ese medio",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:50:49.137372",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c19",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c28",
+          "text": "Hola algún número para llamar a claro TV",
+          "author": "Sandra Lopez Lopez",
+          "published_at": "2024-12-08T18:50:49.137374",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 2
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c29",
+          "text": "Hola",
+          "author": "Ramón Gonzale",
+          "published_at": "2024-12-08T18:50:49.137377",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c28",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c30",
+          "text": "Hola Sandra, facilítanos tus datos en nuestro chat online por medio de este link https://www.claro.com.py/chat para brindarte una mejor atención y ayudarte con tu consulta o también podes comunicarte vía llamada al 0994 111 111. ¡Quedamos atentos!",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:50:49.137381",
+          "likes": 0,
+          "parent_id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c28",
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c31",
+          "text": "FERNANDO GIL DE CLARO ,LOS DE CLARO CORTAN EL TELEFONO !!",
+          "author": "Jose Amarilla",
+          "published_at": "2024-12-08T18:50:49.137383",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c32",
+          "text": "Nunca me queje de esta linea por que siempre me dio buen servicio hasta que llego mi turno, años que tengo plan  de claro y nunca tuve problemas  HASTA QUE PUSIERON WIFI A MI NOMBRE FALCIFICARON MI FIRMA Y LA LINEA CLARO ESTUVO INVOLUCRADO, COMO ES POSIBLE QUE ACEPTEN MI FIRMA SIN QUE YO ESTE PRESENTE O MI CI, UNA LOCURA ES, ENCIMA SE TIRAN LA PELOTA LLAME Y ME PRESENTE EN SHOPPING MARIANO SIN DARME RESPUESTAS QUE ME PRESENTE EN LA CASA CENTRAL DICE QUE ME VAN A DAR EL CONTRATO FIRMADO  AHORA QUE ESTOY EN LA CASA CENTRAL Y ME DICE QUE ELLOS NO TIENEN TAL CONTRATO A SU DISPOSICIÓN Y QUE ELLOS NO \"TIENEN TAL SISTEMA\" AHORA TENGO QUE PAGAR UNA DEUDA QUE NO ES MIA ??? UNA POR QUERÍA ES, COMO ES POSIBLE QUE ESTAFEN ASI",
+          "author": "Lorena Insaurralde",
+          "published_at": "2024-12-08T18:50:49.137386",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "pfbid0cKogVtXkmsgW23tAAB7eAiamXJYdDqRDec_c33",
+          "text": "CLARO TOMA COMO IDIOTAS A SUS CLIENTES !!",
+          "author": "Jose Amarilla",
+          "published_at": "2024-12-08T18:50:49.137389",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "3292480161048214",
+        "platform": "facebook",
+        "url": "https://www.facebook.com/watch/?v=3292480161048214",
+        "text": "¡Buena suerte, Checo! \n Todo nuestro apoyo para el GP UK el próximo domingo 7/7. ¡A toda velocidad!",
+        "published_at": null,
+        "likes": 0,
+        "comments_count": 61,
+        "shares": 0,
+        "media_type": "video"
+      },
+      "comments": [
+        {
+          "id": "3292480161048214_c0",
+          "text": "Nunca me queje de esta linea por que siempre me dio buen servicio hasta que llego mi turno, años que tengo plan  de claro y nunca tuve problemas  HASTA QUE PUSIERON WIFI A MI NOMBRE FALCIFICARON MI FIRMA Y LA LINEA CLARO ESTUVO INVOLUCRADO, COMO ES POSIBLE QUE ACEPTEN MI FIRMA SIN QUE YO ESTE PRESENTE O MI CI, UNA LOCURA ES, ENCIMA SE TIRAN LA PELOTA LLAME Y ME PRESENTE EN SHOPPING MARIANO SIN DARME RESPUESTAS QUE ME PRESENTE EN LA CASA CENTRAL DICE QUE ME VAN A DAR EL CONTRATO FIRMADO  AHORA QUE ESTOY EN LA CASA CENTRAL Y ME DICE QUE ELLOS NO TIENEN TAL CONTRATO A SU DISPOSICIÓN Y QUE ELLOS NO \"TIENEN TAL SISTEMA\" AHORA TENGO QUE PAGAR UNA DEUDA QUE NO ES MIA ??? UNA POR QUERÍA ES, COMO ES POSIBLE QUE ESTAFEN ASI",
+          "author": "Lorena Insaurralde",
+          "published_at": "2024-12-08T18:51:08.523858",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 2
+        },
+        {
+          "id": "3292480161048214_c1",
+          "text": "A mi mamá  le paso lo mismo un n# con plan activado a su nombre en el año 2014 ahra recién gua'u le salta esa deuda ella ni en... Ver más",
+          "author": "Bogarin Diana",
+          "published_at": "2024-12-08T18:51:08.523884",
+          "likes": 0,
+          "parent_id": "3292480161048214_c0",
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c2",
+          "text": "Hola Lorena Insaurralde, indícanos tus datos por favor ingresando en nuestro chat online por medio de este link www.claro.com.... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:51:08.523889",
+          "likes": 0,
+          "parent_id": "3292480161048214_c0",
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c3",
+          "text": "podrían verificar la señal de Internet, cobran los planes pero no dan   servicio",
+          "author": "Nancy Britez",
+          "published_at": "2024-12-08T18:51:08.523893",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c4",
+          "text": "Algún número de atención al cliente por favor.. pésimo servicio y cobran caro",
+          "author": "Beluuh Zorrilla",
+          "published_at": "2024-12-08T18:51:08.523897",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "3292480161048214_c5",
+          "text": "Hola Beluuh, Si deseas hablar con un representante de atención al cliente podes llamar al 0994111111, o facilítanos tus datos ... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:51:08.523900",
+          "likes": 0,
+          "parent_id": "3292480161048214_c4",
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c6",
+          "text": "Tigo es más caro pero si o si en el día es su servicio tecnico",
+          "author": "Delia Noguera",
+          "published_at": "2024-12-08T18:51:08.523904",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c7",
+          "text": "Porque el servicio Desde ayer no funciona",
+          "author": "Cabrera Noee",
+          "published_at": "2024-12-08T18:51:08.523908",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c8",
+          "text": "Es una vergüenza que te llamen para que te portes a claro y tu  internet también y te promete un regalo por hacerte cliente y después Oñembotavy ni siquiera se digna en responder eso no se hace su funcionario Jorge Aquino me prometió dos regalos por llevar con ustedes dos internet y portar dos líneas a claro y me prometió regalo  y ahora ni me responde no es por el regalo mi reclamo es porque me mintió para poder conseguir lo que necesitaba no es necesario mentir !!",
+          "author": "Victoria Ibañez",
+          "published_at": "2024-12-08T18:51:08.523911",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c9",
+          "text": "Que puedo hacer para que ese anuncio no me salga cada instante?  No me dejan ver mi serie tranquila",
+          "author": "Diana Russi",
+          "published_at": "2024-12-08T18:51:08.523914",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c10",
+          "text": "Ya no llamen cada rato para ofrecer fibra óptica fastidian 10 llamadas por días",
+          "author": "Isidro Caceres",
+          "published_at": "2024-12-08T18:51:08.523917",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c11",
+          "text": "Que es lo que esta pasando con el Internet, soy la única que desde las 10 de la mañana esta sin Internet y me responden con una contestadora y no me dejan hablar con nadie, me parece una total falta de respeto, siempre me pareció que tenían un exelente servicio pero desde hace un año más o menos que dejan mucho que desear es una lástima realmente",
+          "author": "Nicole Ionescu",
+          "published_at": "2024-12-08T18:51:08.523921",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c12",
+          "text": "Dejen de aser llamada a nuestros teléfonos privados, ya tuye Internet, línea, claro pésimo servicio dejen de molestar con sus llamadas a nuestras líneas privadas",
+          "author": "Hector Barrios",
+          "published_at": "2024-12-08T18:51:08.523924",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c13",
+          "text": "Alguien me puede llamar para saber que beneficios tiene una portabilidad",
+          "author": "Divina Rosa Martínez",
+          "published_at": "2024-12-08T18:51:08.523927",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c14",
+          "text": "Alguien me pueden ayudar a qué línea puedo llamar a claro atención al cliente",
+          "author": "Yeny Diaz",
+          "published_at": "2025-12-08T18:07:08.523930",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c15",
+          "text": "Alguien me puede decir por qué no tiene señal mi claro tv",
+          "author": "Villa Villa Villa Villa",
+          "published_at": "2024-12-08T18:51:08.523935",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c16",
+          "text": "una mrd su compañia la verdad que servicio mas deplorable te cobran 100 megas y te dan 20 megas con cortes cada 20 min una porqueria total",
+          "author": "Rodrigo FG Gonzales",
+          "published_at": "2024-12-08T18:51:08.523938",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c17",
+          "text": "Numero de atencion al cliente?",
+          "author": "Cirilo Ramón Sugastti Quiñonez",
+          "published_at": "2024-12-08T18:51:08.523942",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c18",
+          "text": "Hola claro una. Vergüenza ya es el internet por la zona de lambare",
+          "author": "Diego Py",
+          "published_at": "2024-12-08T18:51:08.523946",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 2
+        },
+        {
+          "id": "3292480161048214_c19",
+          "text": "es una joda solo cuando llamas a plaguearte levantan señal , dos a tres días vuelven a hacer lo mismo pero para facturar",
+          "author": "Nancy Britez",
+          "published_at": "2024-12-08T18:51:08.523949",
+          "likes": 0,
+          "parent_id": "3292480161048214_c18",
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c20",
+          "text": "Hola Diego Ibarrola, ante cualquier duda o consulta también nos puede contactar en nuestro chat online ingresando en este link... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:51:08.523952",
+          "likes": 0,
+          "parent_id": "3292480161048214_c18",
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c21",
+          "text": "Me llego l factura del mes de setiembre , ustedes suben el monto como del plan. Como se les antoja. Sin viso sin mensaje , sin nada. Esta peor que tigo y personal. Ya roban igual que ellos.",
+          "author": "Claudia Calabro Gardel",
+          "published_at": "2024-12-08T18:51:08.523955",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "3292480161048214_c22",
+          "text": "Hola Claudia, indícanos tus datos por favor ingresando en nuestro chat online por medio de este link www.claro.com.py/chat par... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:51:08.523959",
+          "likes": 0,
+          "parent_id": "3292480161048214_c21",
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c23",
+          "text": "Algún número para ablar con un representante de claro",
+          "author": "Ana Pereira",
+          "published_at": "2024-12-08T18:51:08.523962",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c24",
+          "text": "Claro necesito contacto para comunicarme",
+          "author": "Gloria Gloria",
+          "published_at": "2024-12-08T18:51:08.523965",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c25",
+          "text": "Pueden dejar de llamarnos al santo cohete todos los dias a todas horas?? impresionante los molestosos que son, como rompen las pelotas a sus clientes!! solo por eso estoy viendo para renunciar, encima nosostros los clientes debemos gestionar para que dejen de molestarnos!!, que clase de táctica marketinera tan horrible es esta? perder clientes de a monton? super inteligentes son!!",
+          "author": "Raul Marecos",
+          "published_at": "2024-12-08T18:51:08.523968",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c26",
+          "text": "Algún vendedor de Claro , para hacer portabilidad",
+          "author": "Alexis Ramirez",
+          "published_at": "2024-12-08T18:51:08.523971",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c27",
+          "text": "No usen claro es un asco el servicio pésimo servicio ni debería de existir está clase de empresas",
+          "author": "Pablo Ortiz",
+          "published_at": "2024-12-08T18:51:08.523974",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c28",
+          "text": "Claro Paraguay no funciona el asistente virtual, le puse todos mis datos correctos y me dice formato incorrecto",
+          "author": "Cardozo Mario",
+          "published_at": "2024-12-08T18:51:08.523977",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c29",
+          "text": "Que pasa con la señal de Wiffi??",
+          "author": "Tite Acuña",
+          "published_at": "2024-12-08T18:51:08.523980",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c30",
+          "text": "No sé cómo contactar con. Claro mi wifi no funciona y quiero saber por qué si todos los meses pago",
+          "author": "Laurita Ochipinti",
+          "published_at": "2024-12-08T18:51:08.523984",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c31",
+          "text": "Tienen iPhone para la línea claro? Costo",
+          "author": "Diana Duarte",
+          "published_at": "2024-12-08T18:51:08.523986",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c32",
+          "text": "A qué número me puedo comunicar con ustedes, el chat de su página no me funciona",
+          "author": "Teresa Almada",
+          "published_at": "2024-12-08T18:51:08.523989",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c33",
+          "text": "Pésimo servicio desde hace tres días no funciona la antena y no pueden tomar reclamo por qué está nublado . Un chiste está empresa estafadora y no podés mandar a cortar por qué según ellos todo figura en el contrato, tenés que pagar tres meses sin usar y demás .. si alguien  está pensando en mandar a instalar por favor gente no caigan",
+          "author": "Rosita Lescano",
+          "published_at": "2024-12-08T18:51:08.523993",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c34",
+          "text": "Por favor quiero que dejen de llamarme en mis lineas.. uso Tigo y no deseo tener claro Nunca .  Como puedo hacer para que no me llamen más",
+          "author": "Fran Gaona",
+          "published_at": "2024-12-08T18:51:08.523996",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c35",
+          "text": "No contestan en el NRO de atención al cliente.. le das opción hablar con un asistente y nunca nadie contesta ni por más que insistas",
+          "author": "Andres Palacios",
+          "published_at": "2024-12-08T18:51:08.523999",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c36",
+          "text": "Dejen de moles con sus llamadas, pésimo servicio es claro, no me gusta ya tuve, no me gusta, mi hija trabajo 6 meses y no le pagaron sinverguensas",
+          "author": "Hector Barrios",
+          "published_at": "2024-12-08T18:51:08.524002",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c37",
+          "text": "Dejen de llamar molestan nadie atiende más línea claro por idiota hacen eso",
+          "author": "Adolfo Genes",
+          "published_at": "2024-12-08T18:51:08.524006",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c38",
+          "text": "Estoy tratando de dar de baja mi internet y aun no me dan retorno. Sigo pagando alpedo",
+          "author": "Bruno Romero Peralta",
+          "published_at": "2024-12-08T18:51:08.524009",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c39",
+          "text": "Hola por si le interesa al privado",
+          "author": "Brandon R Salinas Fragueda",
+          "published_at": "2024-12-08T18:51:08.524012",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c40",
+          "text": "Hola me pueden contactar necesito hacer una consulta no soy cliente y me pide un número de teléfono para ingresar y no me permite",
+          "author": "Flavia Ortiz",
+          "published_at": "2024-12-08T18:51:08.524015",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c41",
+          "text": "Noo solución  no dan vivis en el chaco he'i 9 días me dejan sin servicio",
+          "author": "Delia Noguera",
+          "published_at": "2024-12-08T18:51:08.524019",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c42",
+          "text": "CLARO ESTA EN DECADENCIA ! LASTIMOSAMENTE",
+          "author": "Jose Amarilla",
+          "published_at": "2024-12-08T18:51:08.524022",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c43",
+          "text": "Llevo un año quejándome de la ineficacia del servicio y ni siquiera se dignan a gestionarme la baja",
+          "author": "Tiendas Guaranii",
+          "published_at": "2024-12-08T18:51:08.524025",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c44",
+          "text": "Hay que escracharle por todos lados. Esta empresa a veri si así mejoran su servicio",
+          "author": "Kcho Barrios",
+          "published_at": "2024-12-08T18:51:08.524028",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c45",
+          "text": "Buenas",
+          "author": "Cristhian Alcaraz",
+          "published_at": "2024-12-08T18:51:08.524031",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c46",
+          "text": "Hola servicio de claro?",
+          "author": "Pedro Estigarribia",
+          "published_at": "2024-12-08T18:51:08.524034",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c47",
+          "text": "Me pueden dar solucion por fa. Por ahor ya me dejan en visto en el messenger.  Antes solucionaban rapido los problemas.. ahora dejan en visto",
+          "author": "Jorge E. Ramirez",
+          "published_at": "2024-12-08T18:51:08.524036",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c48",
+          "text": "Hola buenas si me pueden contactar se me extravió un teléfono a plan que retire de ustedes y quiero saber si me pueden ayudar a recuperar 0983733861desde ya gracias",
+          "author": "Barrios Espinola Krlangas",
+          "published_at": "2024-12-08T18:51:08.524039",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c49",
+          "text": "Hola",
+          "author": "Graciela Palacio",
+          "published_at": "2024-12-08T18:51:08.524043",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c50",
+          "text": "Hola",
+          "author": "Eva Garay",
+          "published_at": "2025-12-08T18:03:08.524045",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c51",
+          "text": "Podrían dejar de llamarme 4 veces al día?",
+          "author": "Guido Villagra",
+          "published_at": "2025-12-08T18:04:08.524049",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c52",
+          "text": "Estaba muy conforme con el servicio hasta hoy, fui el domingo pasado a la sucursal del multiplaza para solicitar una refinanciacion y dar debaja el servicio de internet fibra y me dicen que solo por telefono se puede, llamas y no saben que decirte, pedis hablar con el departamento de cobranzas y no te pasan , por mensajes no te explican bien y medio te amenazan cuando consultas y pedis que te digan bien , hasta que por fin deciden llamarte me dicen que me van a refinanciar y que llame nuevamente para dar de baja mi servicio de fibra y que debo presentar el router a cualquier sucursal antes del 1ro de octubre para que no ingrese con la refinanciacion, llamo nuevamente para dar debaja me indican lo mismo y que ya esta en proceso , voy hoy domingo a la sucursal del multiplaza  para llevar el router y me dicen que no se puede porque ingreso con la refinanciacion y que no pueden hacer nada hoy porque no hay ningun jefe, no se puede así con ustedes es la segunda vez que voy a la sucursal , llame muchas veces , lo que te dicen en el call no es cierto entonces? Que es lo que pasa? Juegan con el cliente , por eso ya nadie les toma en serio .... hay que acercarse a sedeco tambien?",
+          "author": "Rivarola Martin",
+          "published_at": "2024-12-08T18:51:08.524052",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c53",
+          "text": "El colmo la atención al cliente de esta empresa dan asco irresponsables era algo urgente por el extravió de un teléfono a plan que retire de claro hasta ahora no tengo respuesta de ellos",
+          "author": "Kcho Barrios",
+          "published_at": "2024-12-08T18:51:08.524056",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c54",
+          "text": "12345631214151617177770808899990150",
+          "author": "Yohana Báez",
+          "published_at": "2025-12-08T18:07:08.524059",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c55",
+          "text": "Buenos días, en la sucursal de Caacupé acudió hoy sábado un señor mayor a hacer una consulta sobre sus gigas, y la señorita que le atendió le hablaba de VOS, le decía \"es que ya gastaste todo tu Internet, no se gasta solo, vos usaste todo\". Se notaba que el señor no entendía mucho, en estos casos creo que hay que tener mucha paciencia, pero, sobre todo, deberían hablarle de USTED a los clientes, en especial si es una persona mayor. Creo que deberían formar un poco mejor a sus empleados al respecto de eso. Educación y respeto ante todo, especialmente con los adultos mayores.",
+          "author": "Karin BePess",
+          "published_at": "2024-12-08T18:51:08.524062",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c56",
+          "text": "Algún supervisor que le importe la atención al cliente del WhatsApp del callcenter de esta empresa de medio pelo ?",
+          "author": "Kcho Barrios",
+          "published_at": "2024-12-08T18:51:08.524065",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c57",
+          "text": "Pueden dejar de llamarnos al santo cohete todos los dias a todas horas?? impresionante los molestosos que son, como rompen las pelotas a sus clientes!! solo por eso estoy viendo para renunciar, encima nosostros los clientes debemos gestionar para que dejen de molestarnos!!, que clase de táctica marketinera tan horrible es esta? perder clientes de a monton? super inteligentes son!!",
+          "author": "Romina Morán",
+          "published_at": "2024-12-08T18:51:08.524068",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c58",
+          "text": "Claro es basura",
+          "author": "Pablo Ortiz",
+          "published_at": "2024-12-08T18:51:08.524071",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c59",
+          "text": "Necesito un acesor urgente!!!",
+          "author": "José González",
+          "published_at": "2024-12-08T18:51:08.524074",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "3292480161048214_c60",
+          "text": "Claro la peor basura",
+          "author": "Pablo Ortiz",
+          "published_at": "2024-12-08T18:51:08.524077",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "470195735726906",
+        "platform": "facebook",
+        "url": "https://www.facebook.com/watch/?v=470195735726906",
+        "text": "¡Vamos Checo, a toda velocidad! \n Lo mejor en el GP UK este domingo 7/7.",
+        "published_at": null,
+        "likes": 0,
+        "comments_count": 21,
+        "shares": 0,
+        "media_type": "text"
+      },
+      "comments": [
+        {
+          "id": "470195735726906_c0",
+          "text": "Nunca me queje de esta linea por que siempre me dio buen servicio hasta que llego mi turno, años que tengo plan  de claro y nunca tuve problemas  HASTA QUE PUSIERON WIFI A MI NOMBRE FALCIFICARON MI FIRMA Y LA LINEA CLARO ESTUVO INVOLUCRADO, COMO ES POSIBLE QUE ACEPTEN MI FIRMA SIN QUE YO ESTE PRESENTE O MI CI, UNA LOCURA ES, ENCIMA SE TIRAN LA PELOTA LLAME Y ME PRESENTE EN SHOPPING MARIANO SIN DARME RESPUESTAS QUE ME PRESENTE EN LA CASA CENTRAL DICE QUE ME VAN A DAR EL CONTRATO FIRMADO  AHORA QUE ESTOY EN LA CASA CENTRAL Y ME DICE QUE ELLOS NO TIENEN TAL CONTRATO A SU DISPOSICIÓN Y QUE ELLOS NO \"TIENEN TAL SISTEMA\" AHORA TENGO QUE PAGAR UNA DEUDA QUE NO ES MIA ??? UNA POR QUERÍA ES, COMO ES POSIBLE QUE ESTAFEN ASI",
+          "author": "Lorena Insaurralde",
+          "published_at": "2024-12-08T18:51:20.363688",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 2
+        },
+        {
+          "id": "470195735726906_c1",
+          "text": "Lorena Insaurraldeiba a contratar está empresa para internet... Ahora ya no .. gracias por compartir tu experiencia",
+          "author": "Mirna Evelyn Gonzalez",
+          "published_at": "2024-12-08T18:51:20.363711",
+          "likes": 0,
+          "parent_id": "470195735726906_c0",
+          "replies_count": 0
+        },
+        {
+          "id": "470195735726906_c2",
+          "text": "Lorena Insaurralde denuncia ala empresa",
+          "author": "Flaquito'i Gauto",
+          "published_at": "2024-12-08T18:51:20.363716",
+          "likes": 0,
+          "parent_id": "470195735726906_c0",
+          "replies_count": 0
+        },
+        {
+          "id": "470195735726906_c3",
+          "text": "Hola quiero el Servicio de Internet Hogar",
+          "author": "Jesic Britez",
+          "published_at": "2024-12-08T18:51:20.363719",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 2
+        },
+        {
+          "id": "470195735726906_c4",
+          "text": "Jesic Britez no te recomiendo amigo es una basura y ya no podés salir sin pagar y un montón de perdida de tiempo y suben el pr... Ver más",
+          "author": "Pablo Ortiz",
+          "published_at": "2024-12-08T18:51:20.363722",
+          "likes": 0,
+          "parent_id": "470195735726906_c3",
+          "replies_count": 0
+        },
+        {
+          "id": "470195735726906_c5",
+          "text": "Hola Jesic Britez, nos alegra tu interés por adquirir nuestros servicios, podes visualizar los planes ingresando a https://www... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:51:20.363725",
+          "likes": 0,
+          "parent_id": "470195735726906_c3",
+          "replies_count": 0
+        },
+        {
+          "id": "470195735726906_c6",
+          "text": "CLARO ESTA EN DECADENCIA ! LASTIMOSAMENTE",
+          "author": "Jose Amarilla",
+          "published_at": "2024-12-08T18:51:20.363728",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "470195735726906_c7",
+          "text": "Un número para contacto necesito",
+          "author": "Ariel Tala",
+          "published_at": "2024-12-08T18:51:20.363731",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "470195735726906_c8",
+          "text": "Hola Ariel, Me alegra saber de tu interés, te invito a comunicarte con un vendedor al WhatsApp, ingresando acá: https://wa.me/595991622622",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:51:20.363734",
+          "likes": 0,
+          "parent_id": "470195735726906_c7",
+          "replies_count": 0
+        },
+        {
+          "id": "470195735726906_c9",
+          "text": "FERNANDO GIL DE CLARO  CORTAN EL TELEFONO !!",
+          "author": "Jose Amarilla",
+          "published_at": "2024-12-08T18:51:20.363736",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "470195735726906_c10",
+          "text": ",7",
+          "author": "Joel Aguilera",
+          "published_at": "2025-12-08T18:13:20.363743",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "470195735726906_c11",
+          "text": "CLARO TOMA COMO IDIOTAS A SUS CLIENTES !!",
+          "author": "Jose Amarilla",
+          "published_at": "2024-12-08T18:51:20.363748",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 8
+        },
+        {
+          "id": "470195735726906_c12",
+          "text": "Flaquito'i Gauto a mi también me asen lo mismo",
+          "author": "Daniel Gauto Gamarra",
+          "published_at": "2024-12-08T18:51:20.363751",
+          "likes": 0,
+          "parent_id": "470195735726906_c11",
+          "replies_count": 0
+        },
+        {
+          "id": "470195735726906_c13",
+          "text": "y ahora ni saldo para Whatsapp no tengo",
+          "author": "Flaquito'i Gauto",
+          "published_at": "2024-12-08T18:51:20.363754",
+          "likes": 0,
+          "parent_id": "470195735726906_c11",
+          "replies_count": 0
+        },
+        {
+          "id": "470195735726906_c14",
+          "text": "Perdón si mi perfil de WhatsApp es así",
+          "author": "Flaquito'i Gauto",
+          "published_at": "2024-12-08T18:51:20.363757",
+          "likes": 0,
+          "parent_id": "470195735726906_c11",
+          "replies_count": 0
+        },
+        {
+          "id": "470195735726906_c15",
+          "text": "Compraste un Pack de 1024MB, vence el 20/08/24 19:42hs. Completaste la compra con un Presta de Gs.6000. Costo del servicio Gs.2000\"  dise así",
+          "author": "Flaquito'i Gauto",
+          "published_at": "2024-12-08T18:51:20.363760",
+          "likes": 0,
+          "parent_id": "470195735726906_c11",
+          "replies_count": 0
+        },
+        {
+          "id": "470195735726906_c16",
+          "text": "@destacar",
+          "author": "Flaquito'i Gauto",
+          "published_at": "2024-12-08T18:51:20.363762",
+          "likes": 0,
+          "parent_id": "470195735726906_c11",
+          "replies_count": 0
+        },
+        {
+          "id": "470195735726906_c17",
+          "text": "Claro Paraguay xq son así",
+          "author": "Flaquito'i Gauto",
+          "published_at": "2024-12-08T18:51:20.363765",
+          "likes": 0,
+          "parent_id": "470195735726906_c11",
+          "replies_count": 0
+        },
+        {
+          "id": "470195735726906_c18",
+          "text": "Mira",
+          "author": "Flaquito'i Gauto",
+          "published_at": "2024-12-08T18:51:20.363768",
+          "likes": 0,
+          "parent_id": "470195735726906_c11",
+          "replies_count": 0
+        },
+        {
+          "id": "470195735726906_c19",
+          "text": "Flaquito'i Gauto qué injusto",
+          "author": "Daniel Gauto Gamarra",
+          "published_at": "2024-12-08T18:51:20.363770",
+          "likes": 0,
+          "parent_id": "470195735726906_c11",
+          "replies_count": 0
+        },
+        {
+          "id": "470195735726906_c20",
+          "text": "Hmmm",
+          "author": "Jocelin Riche",
+          "published_at": "2024-12-08T18:51:20.363774",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "498531782517862",
+        "platform": "facebook",
+        "url": "https://www.facebook.com/watch/?v=498531782517862",
+        "text": "Ya no falta nada para vivir todos tus deportes favoritos, juntos y en un mismo lugar",
+        "published_at": null,
+        "likes": 0,
+        "comments_count": 41,
+        "shares": 0,
+        "media_type": "text"
+      },
+      "comments": [
+        {
+          "id": "498531782517862_c0",
+          "text": "Nunca me queje de esta linea por que siempre me dio buen servicio hasta que llego mi turno, años que tengo plan  de claro y nunca tuve problemas  HASTA QUE PUSIERON WIFI A MI NOMBRE FALSIFICARON MI FIRMA Y LA LINEA CLARO ESTUVO INVOLUCRADO, COMO ES POSIBLE QUE ACEPTEN MI FIRMA SIN QUE YO ESTE PRESENTE O MI CI, UNA LOCURA ES, ENCIMA SE TIRAN LA PELOTA LLAME Y ME PRESENTE EN SHOPPING MARIANO SIN DARME RESPUESTAS QUE ME PRESENTE EN LA CASA CENTRAL DICE QUE ME VAN A DAR EL CONTRATO FIRMADO  AHORA QUE ESTOY EN LA CASA CENTRAL Y ME DICE QUE ELLOS NO TIENEN TAL CONTRATO A SU DISPOSICIÓN Y QUE ELLOS NO \"TIENEN TAL SISTEMA\" AHORA TENGO QUE PAGAR UNA DEUDA QUE NO ES MIA ??? UNA PORQUERÍA ES, COMO ES POSIBLE QUE ESTAFEN ASI",
+          "author": "Lorena Insaurralde",
+          "published_at": "2024-12-08T18:51:33.054212",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 3
+        },
+        {
+          "id": "498531782517862_c1",
+          "text": "Lorena Insaurralde al parecer están tan automatizados ,que le hacen más caso a su sistema que a los clientes . Una verdadera l... Ver más",
+          "author": "TU KP Inmobiliario",
+          "published_at": "2024-12-08T18:51:33.054233",
+          "likes": 0,
+          "parent_id": "498531782517862_c0",
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c2",
+          "text": "Lorena Insaurralde así mismo. El servicio cayó a pésimo y la gente de atención al cliente se pasa con la gente. Les solicitas ... Ver más",
+          "author": "Lui Caffarena",
+          "published_at": "2024-12-08T18:51:33.054238",
+          "likes": 0,
+          "parent_id": "498531782517862_c0",
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c3",
+          "text": "Hola Lorena Insaurralde, indícanos tus datos por favor ingresando en nuestro chat online por medio de este link www.claro.com.... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:51:33.054241",
+          "likes": 0,
+          "parent_id": "498531782517862_c0",
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c4",
+          "text": "Pésima la atención de claro ,no recomiendo esta línea,no te dan soluciones en atención al cliente",
+          "author": "Colo Adorno",
+          "published_at": "2024-12-08T18:51:33.054245",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c5",
+          "text": "A mí sique ni me atienden,,dan ochenta mil vueltas para decirme ,,el número es incorrecto,,que pasó? Antes eran muy responsables,hace como 20 años que tengo tv,,ahora me cortaron sin motivo,,pero llamo y no me atienden ,,,,, Salir únicamente, mañana mismo salgo a una oficina a dar de baja,,",
+          "author": "Vicente Coronel",
+          "published_at": "2024-12-08T18:51:33.054248",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 3
+        },
+        {
+          "id": "498531782517862_c6",
+          "text": "Vicente Coronel a nosotros nos cobraron algo que no           pedimos y encima que ya nos dijeron que enviemos a tal nro tal p... Ver más",
+          "author": "Hector Sosa",
+          "published_at": "2024-12-08T18:51:33.054251",
+          "likes": 0,
+          "parent_id": "498531782517862_c5",
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c7",
+          "text": "Hola Vicente Coronel, para más detalles y un asesoramiento personalizado te invitamos a contactar a nuestro chat virtual ingre... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:51:33.054254",
+          "likes": 0,
+          "parent_id": "498531782517862_c5",
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c8",
+          "text": "Hola Vicente Coronel, Si no le permite escribir en el chat, puede probar el acceso en https://www.claro.com.py/chat También pu... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:51:33.054256",
+          "likes": 0,
+          "parent_id": "498531782517862_c5",
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c9",
+          "text": "Es una empresa estafadora. Hacen de todo para agarrar cliente y despues te sobre facturan y supuestamente tenes que pagar para desvincularte. Son unos simberguenzas",
+          "author": "Mabel Ocampo",
+          "published_at": "2024-12-08T18:51:33.054258",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c10",
+          "text": "Alzaron 14.000 más el costo de claro música una burla es cada día están",
+          "author": "Oscar Fretes",
+          "published_at": "2024-12-08T18:51:33.054261",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 4
+        },
+        {
+          "id": "498531782517862_c11",
+          "text": "Oscar Fretes a mi me cobraron 20.000 por un supuesto préstamo de pack",
+          "author": "TU KP Inmobiliario",
+          "published_at": "2024-12-08T18:51:33.054264",
+          "likes": 0,
+          "parent_id": "498531782517862_c10",
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c12",
+          "text": "TU KP Inmobiliario yo cancele su plan  tenia 18.000 de saldo acumulado y 23gb acumulado lo cual desapareció impresionante como son",
+          "author": "Oscar Fretes",
+          "published_at": "2024-12-08T18:51:33.054266",
+          "likes": 0,
+          "parent_id": "498531782517862_c10",
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c13",
+          "text": "Hola Oscar, con mucho gusto queremos ayudarte desde este medio y verificar lo que nos mencionas, podrías por favor escribirnos... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:51:33.054269",
+          "likes": 0,
+          "parent_id": "498531782517862_c10",
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c14",
+          "text": "Oscar Fretes con lo difícil que es hoy en día conseguir clientes, están haciendo todo para perder clientes y mudarse a otras c... Ver más",
+          "author": "TU KP Inmobiliario",
+          "published_at": "2024-12-08T18:51:33.054271",
+          "likes": 0,
+          "parent_id": "498531782517862_c10",
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c15",
+          "text": "Porfavor se puede comunicar conmigo",
+          "author": "Rica Prieto",
+          "published_at": "2024-12-08T18:51:33.054273",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "498531782517862_c16",
+          "text": "Rica Prieto 0976327633",
+          "author": "Cielo Cuenca",
+          "published_at": "2024-12-08T18:51:33.054279",
+          "likes": 0,
+          "parent_id": "498531782517862_c15",
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c17",
+          "text": "Alguien me puede decir si Disney+ está en la grilla de claro TV",
+          "author": "Villa Villa Villa Villa",
+          "published_at": "2024-12-08T18:51:33.054282",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "498531782517862_c18",
+          "text": "Villa Villa Villa Villa 0976327633",
+          "author": "Cielo Cuenca",
+          "published_at": "2024-12-08T18:51:33.054284",
+          "likes": 0,
+          "parent_id": "498531782517862_c17",
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c19",
+          "text": "Muy injusto hacerme un débito por préstamo sin yo haberlo solicitado",
+          "author": "TU KP Inmobiliario",
+          "published_at": "2024-12-08T18:51:33.054287",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "498531782517862_c20",
+          "text": "Hola TU KP Inmobiliario, para más detalles y un asesoramiento personalizado te invitamos a contactar a nuestro chat virtual in... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:51:33.054289",
+          "likes": 0,
+          "parent_id": "498531782517862_c19",
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c21",
+          "text": "CLARO DESASTRE SU INTERNET",
+          "author": "Olimpista DE Cuna Amarilla",
+          "published_at": "2024-12-08T18:51:33.054292",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 3
+        },
+        {
+          "id": "498531782517862_c22",
+          "text": "Hola ahora no me anda para  ver videos...",
+          "author": "Mabel Martinez",
+          "published_at": "2024-12-08T18:51:33.054294",
+          "likes": 0,
+          "parent_id": "498531782517862_c21",
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c23",
+          "text": "Hola Mabel Martinez, Nos encantaría poder conocer mayor detalle sobre lo mencionado, podes ingresar a nuestro chat online en; ... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:51:33.054296",
+          "likes": 0,
+          "parent_id": "498531782517862_c21",
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c24",
+          "text": "Hola Olimpista DE Cuna Amarilla, para consultas o reclamos sobre nuestros servicios te invitamos a contactarnos ingresando a n... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:51:33.054299",
+          "likes": 0,
+          "parent_id": "498531782517862_c21",
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c25",
+          "text": "Que desastre es este Disney+ el partido de Suiza vs Italia se verá solo por Disney+",
+          "author": "Villa Villa Villa Villa",
+          "published_at": "2024-12-08T18:51:33.054301",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c26",
+          "text": "Tigo tigo  rra rra rraaa",
+          "author": "German E. Casanovas",
+          "published_at": "2024-12-08T18:51:33.054304",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c27",
+          "text": "Por favor dejen de llamar 100 veces al día son INSOPORTABLES",
+          "author": "Duarte Jessica",
+          "published_at": "2024-12-08T18:51:33.054306",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "498531782517862_c28",
+          "text": "Hola Duarte Jessica, facilítanos tus datos en nuestro chat online por medio de este link https://www.claro.com.py/chat para br... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:51:33.054309",
+          "likes": 0,
+          "parent_id": "498531782517862_c27",
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c29",
+          "text": "Excelente servicio Claro ojalá tb se caiga el sistema con mi factura",
+          "author": "Abg Nestor Ramon Espinola Ferreira",
+          "published_at": "2024-12-08T18:51:33.054311",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "498531782517862_c30",
+          "text": "Hola Nestor, con mucho gusto queremos ayudarte desde este medio y verificar lo que nos mencionas, podrías por favor escribirno... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:51:33.054315",
+          "likes": 0,
+          "parent_id": "498531782517862_c29",
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c31",
+          "text": "TIGO ARRAZAAAA",
+          "author": "Olimpista DE Cuna Amarilla",
+          "published_at": "2024-12-08T18:51:33.054317",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c32",
+          "text": "PESIMA ATENCION EN SUC PALMA.... LAS EMPLEADAS CARA DE OR....   Ni pelota te dan....",
+          "author": "Su Santagat",
+          "published_at": "2024-12-08T18:51:33.054320",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "498531782517862_c33",
+          "text": "Su Santagat así mismo es,",
+          "author": "Mabel Ocampo",
+          "published_at": "2024-12-08T18:51:33.054322",
+          "likes": 0,
+          "parent_id": "498531782517862_c32",
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c34",
+          "text": "0991861912",
+          "author": "Jorge Quiñones",
+          "published_at": "2024-12-08T18:51:33.054325",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c35",
+          "text": "0984621190",
+          "author": "Rica Prieto",
+          "published_at": "2024-12-08T18:51:33.054327",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c36",
+          "text": "Bárbaro ocultan los mensajes que verguenza me da está gente que tiene empleados paraguayos lastimosamente basura",
+          "author": "Kcho Barrios",
+          "published_at": "2024-12-08T18:51:33.054332",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c37",
+          "text": "Esta nublado por eso no funciona según claro ,.. que bosta basura de servicio tienen",
+          "author": "German E. Casanovas",
+          "published_at": "2024-12-08T18:51:33.054334",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "498531782517862_c38",
+          "text": "Hola German E. Casanovas, indícanos tus datos por favor ingresando en nuestro chat online por medio de este link www.claro.com... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:51:33.054337",
+          "likes": 0,
+          "parent_id": "498531782517862_c37",
+          "replies_count": 0
+        },
+        {
+          "id": "498531782517862_c39",
+          "text": "No usen claro es basura",
+          "author": "Pablo Ortiz",
+          "published_at": "2024-12-08T18:51:33.054339",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "498531782517862_c40",
+          "text": "Hola Fede Ortiz, nos gustaría conocer mas al respecto de lo mencionado, facilítanos tus datos en nuestro chat online https://w... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:51:33.054342",
+          "likes": 0,
+          "parent_id": "498531782517862_c39",
+          "replies_count": 0
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "1183978472760768",
+        "platform": "facebook",
+        "url": "https://www.facebook.com/watch/?v=1183978472760768",
+        "text": "La pelea del siglo",
+        "published_at": null,
+        "likes": 0,
+        "comments_count": 2,
+        "shares": 0,
+        "media_type": "video"
+      },
+      "comments": [
+        {
+          "id": "1183978472760768_c0",
+          "text": "Que onda con el Internet en Lambaré..? Desde la tarde no funciona... Llame y dicen que se iba a reparar en breve.. Y nada.. Qu... Ver más",
+          "author": "Estefi Leguizamón",
+          "published_at": "2024-12-08T18:51:40.033741",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "1183978472760768_c1",
+          "text": "buenos días... estoy sin equipo hace 1 semana por problemas de display. lo lleve al servicio técnico de Claro Paraguay. acepte... Ver más",
+          "author": "Claudio Ramírez Valiente",
+          "published_at": "2024-12-08T18:51:40.033763",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        }
+      ]
+    },
+    {
+      "post": {
+        "id": "990092922820496",
+        "platform": "facebook",
+        "url": "https://www.facebook.com/watch/?v=990092922820496",
+        "text": "Se aproxima una nueva carrera del gran Checo Pérez por el mundo a máxima velocidad ¿Estás listo?",
+        "published_at": null,
+        "likes": 0,
+        "comments_count": 16,
+        "shares": 0,
+        "media_type": "video"
+      },
+      "comments": [
+        {
+          "id": "990092922820496_c0",
+          "text": "A qué número puedo llamar desde mí tigo",
+          "author": "Aurora Oviedo",
+          "published_at": "2024-12-08T18:51:50.745778",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 2
+        },
+        {
+          "id": "990092922820496_c1",
+          "text": "Aurora Oviedo 0976327633",
+          "author": "Cielo Cuenca",
+          "published_at": "2024-12-08T18:51:50.745798",
+          "likes": 0,
+          "parent_id": "990092922820496_c0",
+          "replies_count": 0
+        },
+        {
+          "id": "990092922820496_c2",
+          "text": "Hola Aurora, para comunicarse con nosotros por favor facilítanos tus datos en nuestro chat online https://www.claro.com.py/cha... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:51:50.745803",
+          "likes": 0,
+          "parent_id": "990092922820496_c0",
+          "replies_count": 0
+        },
+        {
+          "id": "990092922820496_c3",
+          "text": "Nunca me queje de esta linea por que siempre me dio buen servicio hasta que llego mi turno, años que tengo plan  de claro y nunca tuve problemas  HASTA QUE PUSIERON WIFI A MI NOMBRE FALCIFICARON MI FIRMA Y LA LINEA CLARO ESTUVO INVOLUCRADO, COMO ES POSIBLE QUE ACEPTEN MI FIRMA SIN QUE YO ESTE PRESENTE O MI CI, UNA LOCURA ES, ENCIMA SE TIRAN LA PELOTA LLAME Y ME PRESENTE EN SHOPPING MARIANO SIN DARME RESPUESTAS QUE ME PRESENTE EN LA CASA CENTRAL DICE QUE ME VAN A DAR EL CONTRATO FIRMADO  AHORA QUE ESTOY EN LA CASA CENTRAL Y ME DICE QUE ELLOS NO TIENEN TAL CONTRATO A SU DISPOSICIÓN Y QUE ELLOS NO \"TIENEN TAL SISTEMA\" AHORA TENGO QUE PAGAR UNA DEUDA QUE NO ES MIA ??? UNA POR QUERÍA ES, COMO ES POSIBLE QUE ESTAFEN ASI",
+          "author": "Lorena Insaurralde",
+          "published_at": "2024-12-08T18:51:50.745807",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "990092922820496_c4",
+          "text": "Toda vez que se tenga WI fi podremos ver todos los eventos , la macana es que te cortan el servicio por más que pagues",
+          "author": "Abg Nestor Ramon Espinola Ferreira",
+          "published_at": "2024-12-08T18:51:50.745810",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "990092922820496_c5",
+          "text": "Para reclamos",
+          "author": "Aurora Oviedo",
+          "published_at": "2024-12-08T18:51:50.745812",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "990092922820496_c6",
+          "text": "Alguna persona que le importe su trabajo ? Escribi al chat web wasap ere erea y nadie te responde una de las empresas con mejor si no con las mejores promociones pero las personas que trabajan el servicio de atención al cliente y demas un fracasó esto se va a descomponer si siguen asi esta empresa va cerrar",
+          "author": "Barrios Espinola Krlangas",
+          "published_at": "2024-12-08T18:51:50.745815",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 2
+        },
+        {
+          "id": "990092922820496_c7",
+          "text": "Barrios Espinola Krlangas 0984215396",
+          "author": "Ingrid Baez",
+          "published_at": "2024-12-08T18:51:50.745818",
+          "likes": 0,
+          "parent_id": "990092922820496_c6",
+          "replies_count": 0
+        },
+        {
+          "id": "990092922820496_c8",
+          "text": "Hola Krlangas, indícanos tus datos por favor ingresando en nuestro chat online por medio de este link www.claro.com.py/chat pa... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:51:50.745880",
+          "likes": 0,
+          "parent_id": "990092922820496_c6",
+          "replies_count": 0
+        },
+        {
+          "id": "990092922820496_c9",
+          "text": "Hola me pueden pasar la línea baja de Claro Paraguay",
+          "author": "Griselda Vega Irala",
+          "published_at": "2024-12-08T18:51:50.745898",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "990092922820496_c10",
+          "text": "Hola Griselda Vega Irala, ¿Cómo estás? Para poder ayudarte con tu consulta, te pido que nos contactes por el chat de nuestra w... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:51:50.745902",
+          "likes": 0,
+          "parent_id": "990092922820496_c9",
+          "replies_count": 0
+        },
+        {
+          "id": "990092922820496_c11",
+          "text": "CLARO ESTA EN DECADENCIA ! LASTIMOSAMENTE",
+          "author": "Jose Amarilla",
+          "published_at": "2024-12-08T18:51:50.745921",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 0
+        },
+        {
+          "id": "990092922820496_c12",
+          "text": "Una porquería es su Internet, Claro Paraguay 2 veces ya cambie de plan y de mal en peor vamos",
+          "author": "Sara Calderon",
+          "published_at": "2024-12-08T18:51:50.745925",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "990092922820496_c13",
+          "text": "Sara Calderon ratas son ensima Carissimo es",
+          "author": "Ramo Zarza",
+          "published_at": "2025-12-08T18:14:50.745928",
+          "likes": 0,
+          "parent_id": "990092922820496_c12",
+          "replies_count": 0
+        },
+        {
+          "id": "990092922820496_c14",
+          "text": "Alguien me explica que paso con el canal 60?",
+          "author": "Carlos Hernán Báez",
+          "published_at": "2024-12-08T18:51:50.745935",
+          "likes": 0,
+          "parent_id": null,
+          "replies_count": 1
+        },
+        {
+          "id": "990092922820496_c15",
+          "text": "Hola Carlos Hernán Báez, Para asesorarte mejor necesitamos conversar con vos al privado. Ingresa a este link www.claro.com.py/... Ver más",
+          "author": "Claro Paraguay",
+          "published_at": "2024-12-08T18:51:50.745938",
+          "likes": 0,
+          "parent_id": "990092922820496_c14",
+          "replies_count": 0
+        }
+      ]
+    }
+  ]
+}

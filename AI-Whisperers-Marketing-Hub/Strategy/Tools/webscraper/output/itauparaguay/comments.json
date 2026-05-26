@@ -1,0 +1,1342 @@
+{
+  "metadata": {
+    "client": "itauparaguay",
+    "exported_at": "2025-12-08T17:51:16.895265+00:00",
+    "format": "json",
+    "version": "1.0",
+    "total_comments": 83,
+    "platforms": [
+      "facebook"
+    ]
+  },
+  "comments": [
+    {
+      "id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c0",
+      "platform": "facebook",
+      "post_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM",
+      "text": "Con ésta ñembo justicia disfrazada, deben salir perdiendo .. Es Campaña política.. se acercan las elecciones y tiene que haber fondos para la campaña y la consecuencia, ya ocacionaron al banco más honesto ...",
+      "author": {
+        "id": "Marcos Ramirez",
+        "username": "Marcos Ramirez",
+        "display_name": "Marcos Ramirez",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:04.126329",
+      "likes": 0,
+      "replies_count": 2,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c1",
+      "platform": "facebook",
+      "post_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM",
+      "text": "Marcos Ramirez tembó la erea",
+      "author": {
+        "id": "Carlos Velazquez Medina",
+        "username": "Carlos Velazquez Medina",
+        "display_name": "Carlos Velazquez Medina",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:04.126490",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c0"
+    },
+    {
+      "id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c2",
+      "platform": "facebook",
+      "post_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM",
+      "text": "Yo le dejé por simple hecho que me roba 20 mil o 40 mil que se queda en la cuenta, llamas y no saben que decir y a lo último te dice por mantenimiento",
+      "author": {
+        "id": "SOL Internet - Leoncio Alvarez - Dpto. Aliado Comercial",
+        "username": "SOL Internet - Leoncio Alvarez - Dpto. Aliado Comercial",
+        "display_name": "SOL Internet - Leoncio Alvarez - Dpto. Aliado Comercial",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:04.126504",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c0"
+    },
+    {
+      "id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c3",
+      "platform": "facebook",
+      "post_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM",
+      "text": "Habiliten una sucursal en Saltos del Guaira, aca es más seguro",
+      "author": {
+        "id": "Luis Pereira",
+        "username": "Luis Pereira",
+        "display_name": "Luis Pereira",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:04.126510",
+      "likes": 0,
+      "replies_count": 1,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c4",
+      "platform": "facebook",
+      "post_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM",
+      "text": "Luis Pereira más seguro que los asalten más de seguido si",
+      "author": {
+        "id": "Ahiban Jofiel",
+        "username": "Ahiban Jofiel",
+        "display_name": "Ahiban Jofiel",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:04.126516",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c3"
+    },
+    {
+      "id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c5",
+      "platform": "facebook",
+      "post_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM",
+      "text": "Nose si yo nomás pienso eso pero me da lastima los trabajadores del banco Ojalá puedan recuperar sus puestos de trabajo",
+      "author": {
+        "id": "Javier Antonio Paredes",
+        "username": "Javier Antonio Paredes",
+        "display_name": "Javier Antonio Paredes",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:04.126521",
+      "likes": 0,
+      "replies_count": 3,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c6",
+      "platform": "facebook",
+      "post_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM",
+      "text": "Javier Antonio Paredes operan desde sus casas sin problemas, no existe ningún problema con los funcionarios",
+      "author": {
+        "id": "Armando Acuña",
+        "username": "Armando Acuña",
+        "display_name": "Armando Acuña",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:04.126526",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c5"
+    },
+    {
+      "id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c7",
+      "platform": "facebook",
+      "post_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM",
+      "text": "Javier Antonio Paredes seguro tendrán suspención temporal hasta que puedan operar nuevamente.",
+      "author": {
+        "id": "Laura Bogado",
+        "username": "Laura Bogado",
+        "display_name": "Laura Bogado",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:04.126536",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c5"
+    },
+    {
+      "id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c8",
+      "platform": "facebook",
+      "post_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM",
+      "text": "Laura Bogado desde sus casas van a operar..",
+      "author": {
+        "id": "Emmanuel A. Diaz",
+        "username": "Emmanuel A. Diaz",
+        "display_name": "Emmanuel A. Diaz",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:04.126541",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c5"
+    },
+    {
+      "id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c9",
+      "platform": "facebook",
+      "post_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM",
+      "text": "Me UELE a algo raro",
+      "author": {
+        "id": "Sandra Paola Romero",
+        "username": "Sandra Paola Romero",
+        "display_name": "Sandra Paola Romero",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:04.126545",
+      "likes": 0,
+      "replies_count": 6,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c10",
+      "platform": "facebook",
+      "post_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM",
+      "text": "Sandra Paola Romero mmm justo pense algo así",
+      "author": {
+        "id": "Diana B. Almada",
+        "username": "Diana B. Almada",
+        "display_name": "Diana B. Almada",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:04.126550",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c9"
+    },
+    {
+      "id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c11",
+      "platform": "facebook",
+      "post_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM",
+      "text": "Diana B. Almada y si hay que invitarles sutilmente a abandonar Py",
+      "author": {
+        "id": "Sandra Paola Romero",
+        "username": "Sandra Paola Romero",
+        "display_name": "Sandra Paola Romero",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:04.126555",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c9"
+    },
+    {
+      "id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c12",
+      "platform": "facebook",
+      "post_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM",
+      "text": "Sandra Paola Romero itau es paraguayo,, no sean ueones",
+      "author": {
+        "id": "Ahiban Jofiel",
+        "username": "Ahiban Jofiel",
+        "display_name": "Ahiban Jofiel",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:04.126560",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c9"
+    },
+    {
+      "id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c13",
+      "platform": "facebook",
+      "post_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM",
+      "text": "Ahiban Jofiel es brasilero no se si sabes?",
+      "author": {
+        "id": "Sandra Paola Romero",
+        "username": "Sandra Paola Romero",
+        "display_name": "Sandra Paola Romero",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:04.126564",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c9"
+    },
+    {
+      "id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c14",
+      "platform": "facebook",
+      "post_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM",
+      "text": "Sandra Paola Romero es paraguayo",
+      "author": {
+        "id": "Ahiban Jofiel",
+        "username": "Ahiban Jofiel",
+        "display_name": "Ahiban Jofiel",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:04.126569",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c9"
+    },
+    {
+      "id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c15",
+      "platform": "facebook",
+      "post_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM",
+      "text": "Ahiban Jofiel Itaú es empresa brasilero en Paraguay solo tiene sucursales..",
+      "author": {
+        "id": "Edgar Jacquet EJ",
+        "username": "Edgar Jacquet EJ",
+        "display_name": "Edgar Jacquet EJ",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:04.126573",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c9"
+    },
+    {
+      "id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c16",
+      "platform": "facebook",
+      "post_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM",
+      "text": "Se vienen más hackeos para recuperar lo perdido?",
+      "author": {
+        "id": "Rod D Nathu",
+        "username": "Rod D Nathu",
+        "display_name": "Rod D Nathu",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:04.126578",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c17",
+      "platform": "facebook",
+      "post_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM",
+      "text": "Y eso nomas queda lamentarnos por ellos xq nuestro gobierno está lleno de narcopoliticos rápido para agarrar a jóvenes que se manifiestan pero lentos en detectar estas cosas graves",
+      "author": {
+        "id": "Capdevila Anna",
+        "username": "Capdevila Anna",
+        "display_name": "Capdevila Anna",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:04.126583",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c18",
+      "platform": "facebook",
+      "post_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM",
+      "text": "Solo una cosa xq ponen para llamar al 0216171000 y cuando llamas no existe sale xq quería hacer una consulta",
+      "author": {
+        "id": "Rocio Medina",
+        "username": "Rocio Medina",
+        "display_name": "Rocio Medina",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:04.126588",
+      "likes": 0,
+      "replies_count": 1,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c19",
+      "platform": "facebook",
+      "post_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM",
+      "text": "Hola Rocio, disculpanos las molestias ocasionadas, estamos acá para ayudarte. Podés realizar tu consulta al privado, así verificamos. Gracias por escribirnos.",
+      "author": {
+        "id": "Itaú",
+        "username": "Itaú",
+        "display_name": "Itaú",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:04.126592",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c18"
+    },
+    {
+      "id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c20",
+      "platform": "facebook",
+      "post_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM",
+      "text": "EXIJAN GARANTIAS AL GOBIERNO COMO PUEDE SER ESTO!!",
+      "author": {
+        "id": "Maria Laura Galeano Aguilar",
+        "username": "Maria Laura Galeano Aguilar",
+        "display_name": "Maria Laura Galeano Aguilar",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:04.126596",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c21",
+      "platform": "facebook",
+      "post_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM",
+      "text": "Que se siente que se les robe..",
+      "author": {
+        "id": "Daniel Gonzalez Sosa",
+        "username": "Daniel Gonzalez Sosa",
+        "display_name": "Daniel Gonzalez Sosa",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:04.126601",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM_c22",
+      "platform": "facebook",
+      "post_id": "pfbid02xSpjgNjFu6op6rLpxbPQY9NbG3TdRTEnM",
+      "text": "No ponen guardias seguro contra robos",
+      "author": {
+        "id": "Betty Velazquez",
+        "username": "Betty Velazquez",
+        "display_name": "Betty Velazquez",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:04.126605",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid0kQkgG9N1C9qmysKM89TQr8zCeXGBm2qqw1_c0",
+      "platform": "facebook",
+      "post_id": "pfbid0kQkgG9N1C9qmysKM89TQr8zCeXGBm2qqw1",
+      "text": "En corridas anteriores,  no había tantos inconvenientes. Solo colaborar y  correr. Incluso en el mismo día uno podía ir  a pagar y retirar la remera. Pues era solo eso: correr  o caminar. Sin dorsal ni medalla.  No era competencia.",
+      "author": {
+        "id": "Mirtha Manuela Castillo Páez",
+        "username": "Mirtha Manuela Castillo Páez",
+        "display_name": "Mirtha Manuela Castillo Páez",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:42:26.807460",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid0kQkgG9N1C9qmysKM89TQr8zCeXGBm2qqw1_c1",
+      "platform": "facebook",
+      "post_id": "pfbid0kQkgG9N1C9qmysKM89TQr8zCeXGBm2qqw1",
+      "text": "Puede otra persona retirar el kit",
+      "author": {
+        "id": "Erme Fleitas",
+        "username": "Erme Fleitas",
+        "display_name": "Erme Fleitas",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:42:26.807486",
+      "likes": 0,
+      "replies_count": 1,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid0kQkgG9N1C9qmysKM89TQr8zCeXGBm2qqw1_c2",
+      "platform": "facebook",
+      "post_id": "pfbid0kQkgG9N1C9qmysKM89TQr8zCeXGBm2qqw1",
+      "text": "Hola Erme, te respondimos al privado. Gracias por escribirnos.",
+      "author": {
+        "id": "Itaú",
+        "username": "Itaú",
+        "display_name": "Itaú",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:42:26.807493",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid0kQkgG9N1C9qmysKM89TQr8zCeXGBm2qqw1_c1"
+    },
+    {
+      "id": "pfbid0kQkgG9N1C9qmysKM89TQr8zCeXGBm2qqw1_c3",
+      "platform": "facebook",
+      "post_id": "pfbid0kQkgG9N1C9qmysKM89TQr8zCeXGBm2qqw1",
+      "text": "Donde ne puedo inscribir??",
+      "author": {
+        "id": "Emigdia Gimenez",
+        "username": "Emigdia Gimenez",
+        "display_name": "Emigdia Gimenez",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:26.807499",
+      "likes": 0,
+      "replies_count": 3,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid0kQkgG9N1C9qmysKM89TQr8zCeXGBm2qqw1_c4",
+      "platform": "facebook",
+      "post_id": "pfbid0kQkgG9N1C9qmysKM89TQr8zCeXGBm2qqw1",
+      "text": "¡Hola, Emigdia! Te comentamos que en este momento llegamos a la cantidad máxima de remeras. De igual forma podés ir a la corrida y sumar tus kilómetros para llegar a la meta.",
+      "author": {
+        "id": "Itaú",
+        "username": "Itaú",
+        "display_name": "Itaú",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:26.807505",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid0kQkgG9N1C9qmysKM89TQr8zCeXGBm2qqw1_c3"
+    },
+    {
+      "id": "pfbid0kQkgG9N1C9qmysKM89TQr8zCeXGBm2qqw1_c5",
+      "platform": "facebook",
+      "post_id": "pfbid0kQkgG9N1C9qmysKM89TQr8zCeXGBm2qqw1",
+      "text": "Itaúme puedo inscribir igual, no hace falta la remera. Como ?hago para inscribirme?",
+      "author": {
+        "id": "Angel A Britez",
+        "username": "Angel A Britez",
+        "display_name": "Angel A Britez",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:26.807509",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid0kQkgG9N1C9qmysKM89TQr8zCeXGBm2qqw1_c3"
+    },
+    {
+      "id": "pfbid0kQkgG9N1C9qmysKM89TQr8zCeXGBm2qqw1_c6",
+      "platform": "facebook",
+      "post_id": "pfbid0kQkgG9N1C9qmysKM89TQr8zCeXGBm2qqw1",
+      "text": "¡Hola, Angel! Te comentamos que en este momento llegamos a la cantidad máxima de inscriptos. De igual forma podés ir a la corrida y sumar tus kilómetros para llegar a la meta.",
+      "author": {
+        "id": "Itaú",
+        "username": "Itaú",
+        "display_name": "Itaú",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:26.807514",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid0kQkgG9N1C9qmysKM89TQr8zCeXGBm2qqw1_c3"
+    },
+    {
+      "id": "pfbid0kQkgG9N1C9qmysKM89TQr8zCeXGBm2qqw1_c7",
+      "platform": "facebook",
+      "post_id": "pfbid0kQkgG9N1C9qmysKM89TQr8zCeXGBm2qqw1",
+      "text": "Kit: remera y nro",
+      "author": {
+        "id": "Andrea Villalba",
+        "username": "Andrea Villalba",
+        "display_name": "Andrea Villalba",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:26.807518",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid0kQkgG9N1C9qmysKM89TQr8zCeXGBm2qqw1_c8",
+      "platform": "facebook",
+      "post_id": "pfbid0kQkgG9N1C9qmysKM89TQr8zCeXGBm2qqw1",
+      "text": "Gladys Medina Ara",
+      "author": {
+        "id": "Carlos Ferreira",
+        "username": "Carlos Ferreira",
+        "display_name": "Carlos Ferreira",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:42:26.807521",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid03Ez2d1qZKSNEZBGN6ew7mKgDGN272r24wK_c0",
+      "platform": "facebook",
+      "post_id": "pfbid03Ez2d1qZKSNEZBGN6ew7mKgDGN272r24wK",
+      "text": "Ni medalla no van a proveer... No es atractiva la iniciativa",
+      "author": {
+        "id": "Andrea Villalba",
+        "username": "Andrea Villalba",
+        "display_name": "Andrea Villalba",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:41:46.611180",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid02X5euvEhFqJySqEsd2naqcUhSbi5P957aB_c0",
+      "platform": "facebook",
+      "post_id": "pfbid02X5euvEhFqJySqEsd2naqcUhSbi5P957aB",
+      "text": "ES UNA VERDADERA VERGÜENZA LO QUE ITAU ESTÁ HACIENDO CON MI PERSONA, ESTOY EN BANCA PERSONAL, SUPUESTAMENTE SE PAGA PARA UNA ATENCIÓN PREFERENCIAL! EL OTRO DÍA ESTANDO EN EL EXTERIOR ME BLOQUEAN EL USO DE MI TARJETA DE CRÉDITO POR UN PIN DE SEGURIDAD, RÁPIDAMENTE ESCRIBO A ATENCIÓN AL CLIENTE 24hs, Y ME RESPONDE QUE SE LEVANTARÁ EL CLIP DE SEGURIDAD EN HORARIO LABORAL PARAGUAYO!!!! DONDE SE HA VISTO ESO???? ME DEJARON DESPROTEGIDA Y SIN PODER USAR MI TARJETA DE CRÉDITO!!!!! TRATO DE USAR MI TARJETA DE DÉBITO VISA!!!! Y TAMBIÉN TENÍA UN CLIP DE SEGURIDAD!!!!! NO ME DEJARON USAR MI DINERO!!!!!! Y YO EN EL EXTERIOR!!!!! VERGÜENZA TOTAL!!! UNA IMPOTENCIA Y SUFRIMIENTO INNECESARIO!!!!!! Y QUE HACEN PARA REMEDIAR???? VERGÜENZA TOTAL!!!!!!!!!!!!!",
+      "author": {
+        "id": "Letizia Ruiz",
+        "username": "Letizia Ruiz",
+        "display_name": "Letizia Ruiz",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:43:07.401086",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid02HefANcAqmeSSHU6thuDf3pLz9YNFQtvPF_c0",
+      "platform": "facebook",
+      "post_id": "pfbid02HefANcAqmeSSHU6thuDf3pLz9YNFQtvPF",
+      "text": "Ni medalla no van a proveer... No es atractiva la iniciativa",
+      "author": {
+        "id": "Andrea Villalba",
+        "username": "Andrea Villalba",
+        "display_name": "Andrea Villalba",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:42:27.233632",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c0",
+      "platform": "facebook",
+      "post_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su",
+      "text": "ES UNA VERDADERA VERGÜENZA LO QUE ITAU ESTÁ HACIENDO CON MI PERSONA, ESTOY EN BANCA PERSONAL, SUPUESTAMENTE SE PAGA PARA UNA ATENCIÓN PREFERENCIAL! EL OTRO DÍA ESTANDO EN EL EXTERIOR ME BLOQUEAN EL USO DE MI TARJETA DE CRÉDITO POR UN PIN DE SEGURIDAD, RÁPIDAMENTE ESCRIBO A ATENCIÓN AL CLIENTE 24hs, Y ME RESPONDE QUE SE LEVANTARÁ EL CLIP DE SEGURIDAD EN HORARIO LABORAL PARAGUAYO!!!! DONDE SE HA VISTO ESO???? ME DEJARON DESPROTEGIDA Y SIN PODER USAR MI TARJETA DE CRÉDITO!!!!! TRATO DE USAR MI TARJETA DE DÉBITO VISA!!!! Y TAMBIÉN TENÍA UN CLIP DE SEGURIDAD!!!!! NO ME DEJARON USAR MI DINERO!!!!!! Y YO EN EL EXTERIOR!!!!! VERGÜENZA TOTAL!!! UNA IMPOTENCIA Y SUFRIMIENTO INNECESARIO!!!!!! Y QUE HACEN PARA REMEDIAR???? VERGÜENZA TOTAL!!!!!!!!!!!!!",
+      "author": {
+        "id": "Letizia Ruiz",
+        "username": "Letizia Ruiz",
+        "display_name": "Letizia Ruiz",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:43:53.220068",
+      "likes": 0,
+      "replies_count": 1,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c1",
+      "platform": "facebook",
+      "post_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su",
+      "text": "Hola Letizia, sentimos lo ocurrido, te saluda Fredy. Nuestra intención es poder ayudarte, por favor facilitanos tu nº de C.I., nº de teléfono y dirección de correo electrónico al privado para verificar. Gracias por escribirnos.",
+      "author": {
+        "id": "Itaú",
+        "username": "Itaú",
+        "display_name": "Itaú",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:43:53.220095",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c0"
+    },
+    {
+      "id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c2",
+      "platform": "facebook",
+      "post_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su",
+      "text": "Que muchos problemas tienen en su sistema, desde ayer que no estoy pudiendo comprobar pagos ni realizarlos y hoy lo mismo! Deberían ponerse las pilas y solucionar cuánto antes, es mucha perdida para muchos, siempre tienen ese inconveniente Banco Itaú",
+      "author": {
+        "id": "Lorena Rojas",
+        "username": "Lorena Rojas",
+        "display_name": "Lorena Rojas",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:53.220103",
+      "likes": 0,
+      "replies_count": 1,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c3",
+      "platform": "facebook",
+      "post_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su",
+      "text": "Hola Lorena, te saluda Fredy. Nuestra intención es poder ayudarte, por favor facilitanos tu nº de C.I., nº de teléfono y dirección de correo electrónico al privado para verificar. Gracias por escribirnos.",
+      "author": {
+        "id": "Itaú",
+        "username": "Itaú",
+        "display_name": "Itaú",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:53.220108",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c2"
+    },
+    {
+      "id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c4",
+      "platform": "facebook",
+      "post_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su",
+      "text": "No podemos usar la app  qué paso ?",
+      "author": {
+        "id": "Miguel Vargas",
+        "username": "Miguel Vargas",
+        "display_name": "Miguel Vargas",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:53.220113",
+      "likes": 0,
+      "replies_count": 3,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c5",
+      "platform": "facebook",
+      "post_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su",
+      "text": "Hola Miguel, te respondimos al privado, si tenés otra consulta estamos a las órdenes.",
+      "author": {
+        "id": "Itaú",
+        "username": "Itaú",
+        "display_name": "Itaú",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:53.220117",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c4"
+    },
+    {
+      "id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c6",
+      "platform": "facebook",
+      "post_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su",
+      "text": "Itaú sigue sin funcionar",
+      "author": {
+        "id": "Romi Roa",
+        "username": "Romi Roa",
+        "display_name": "Romi Roa",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:53.220121",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c4"
+    },
+    {
+      "id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c7",
+      "platform": "facebook",
+      "post_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su",
+      "text": "Hola Romi, te saluda Fredy. Nuestra intención es poder ayudarte, por favor facilitanos tu nº de C.I., nº de teléfono y dirección de correo electrónico al privado para verificar. Gracias por escribirnos.",
+      "author": {
+        "id": "Itaú",
+        "username": "Itaú",
+        "display_name": "Itaú",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:53.220124",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c4"
+    },
+    {
+      "id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c8",
+      "platform": "facebook",
+      "post_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su",
+      "text": "Tienen que ponerse las pilas y empezar a solucionar los inconvenientes con la App. No puede ser que cada Mes o cada semana presenten los mismos inconvenientes!",
+      "author": {
+        "id": "Thalia Araceli",
+        "username": "Thalia Araceli",
+        "display_name": "Thalia Araceli",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:53.220128",
+      "likes": 0,
+      "replies_count": 1,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c9",
+      "platform": "facebook",
+      "post_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su",
+      "text": "Hola Thalia, no registramos inconveniente en el servicio que mencionás, ¿podrías facilitarnos la imagen que te aparece para verificar al privado? Muchas gracias.",
+      "author": {
+        "id": "Itaú",
+        "username": "Itaú",
+        "display_name": "Itaú",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:53.220132",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c8"
+    },
+    {
+      "id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c10",
+      "platform": "facebook",
+      "post_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su",
+      "text": "Desastre SOn no puedo entrar en la aplicación y incluso la plata que tenía ya no hay en mi cuenta",
+      "author": {
+        "id": "Jessica Perez Rojas",
+        "username": "Jessica Perez Rojas",
+        "display_name": "Jessica Perez Rojas",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:53.220137",
+      "likes": 0,
+      "replies_count": 1,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c11",
+      "platform": "facebook",
+      "post_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su",
+      "text": "Hola Jessica, te respondimos al privado para ayudarte. Gracias por escribirnos.",
+      "author": {
+        "id": "Itaú",
+        "username": "Itaú",
+        "display_name": "Itaú",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:53.220141",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c10"
+    },
+    {
+      "id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c12",
+      "platform": "facebook",
+      "post_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su",
+      "text": "Hola! No me deja ingresar a la app. Hay algún problema?",
+      "author": {
+        "id": "Liz Gaona",
+        "username": "Liz Gaona",
+        "display_name": "Liz Gaona",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:53.220145",
+      "likes": 0,
+      "replies_count": 1,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c13",
+      "platform": "facebook",
+      "post_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su",
+      "text": "Hola Liz, facilitanos por favor al privado una captura de pantalla del inconveniente para poder ayudarte. Muchas gracias por escribirnos.",
+      "author": {
+        "id": "Itaú",
+        "username": "Itaú",
+        "display_name": "Itaú",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:53.220150",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c12"
+    },
+    {
+      "id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c14",
+      "platform": "facebook",
+      "post_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su",
+      "text": "La app sigue sin funcionar",
+      "author": {
+        "id": "Barbi Chamorro Cuenca",
+        "username": "Barbi Chamorro Cuenca",
+        "display_name": "Barbi Chamorro Cuenca",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:53.220154",
+      "likes": 0,
+      "replies_count": 1,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c15",
+      "platform": "facebook",
+      "post_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su",
+      "text": "Hola Barbi, no registramos inconveniente en el servicio que mencionás, ¿podrías facilitarnos la imagen que te aparece para verificar al privado? Muchas gracias.",
+      "author": {
+        "id": "Itaú",
+        "username": "Itaú",
+        "display_name": "Itaú",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:53.220158",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c14"
+    },
+    {
+      "id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c16",
+      "platform": "facebook",
+      "post_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su",
+      "text": "2 días sin App, qué pasó?",
+      "author": {
+        "id": "Michael Rocha",
+        "username": "Michael Rocha",
+        "display_name": "Michael Rocha",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:53.220162",
+      "likes": 0,
+      "replies_count": 1,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c17",
+      "platform": "facebook",
+      "post_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su",
+      "text": "Hola Michael, indícanos por favor más detalles sobre tu mención al privado, así hacemos todo lo posible para ayudarte. Muchas gracias por escribirnos.",
+      "author": {
+        "id": "Itaú",
+        "username": "Itaú",
+        "display_name": "Itaú",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:53.220166",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c16"
+    },
+    {
+      "id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c18",
+      "platform": "facebook",
+      "post_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su",
+      "text": "Cuando va a función la APP???",
+      "author": {
+        "id": "Roxana Duarte",
+        "username": "Roxana Duarte",
+        "display_name": "Roxana Duarte",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:53.220174",
+      "likes": 0,
+      "replies_count": 1,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c19",
+      "platform": "facebook",
+      "post_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su",
+      "text": "Hola Roxana, indícanos por favor más detalles sobre tu mención junto con capturas de pantalla del inconveniente al privado, así hacemos todo lo posible para ayudarte. Muchas gracias por escribirnos.",
+      "author": {
+        "id": "Itaú",
+        "username": "Itaú",
+        "display_name": "Itaú",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:53.220179",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid0ZqRtRxmhUA34ZtxeiyWdYWkd4nWte8P3Su_c18"
+    },
+    {
+      "id": "pfbid0W8BCvWBuesT4n8sAQ7Mcgj4zCh9rknFfA6_c0",
+      "platform": "facebook",
+      "post_id": "pfbid0W8BCvWBuesT4n8sAQ7Mcgj4zCh9rknFfA6",
+      "text": "Buenas tardes gente de Itau... El jueves o viernes pase por la oficina central para bloquear o eliminar mi cuenta por \"estafa\" por parte del banco y me dijeron que en 24 a 48 hs. estarian bloqueando la cuenta y hasta ahora no estan haciendo.",
+      "author": {
+        "id": "Manuel Ayala",
+        "username": "Manuel Ayala",
+        "display_name": "Manuel Ayala",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:40:20.424422",
+      "likes": 0,
+      "replies_count": 2,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid0W8BCvWBuesT4n8sAQ7Mcgj4zCh9rknFfA6_c1",
+      "platform": "facebook",
+      "post_id": "pfbid0W8BCvWBuesT4n8sAQ7Mcgj4zCh9rknFfA6",
+      "text": "Hola Manuel, te saluda Fredy. Nuestra intención es poder ayudarte, por favor facilitanos tu nº de C.I., nº de teléfono y dirección de correo electrónico al privado para verificar. Gracias por escribirnos.",
+      "author": {
+        "id": "Itaú",
+        "username": "Itaú",
+        "display_name": "Itaú",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:40:20.424447",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid0W8BCvWBuesT4n8sAQ7Mcgj4zCh9rknFfA6_c0"
+    },
+    {
+      "id": "pfbid0W8BCvWBuesT4n8sAQ7Mcgj4zCh9rknFfA6_c2",
+      "platform": "facebook",
+      "post_id": "pfbid0W8BCvWBuesT4n8sAQ7Mcgj4zCh9rknFfA6",
+      "text": "Itaú ya les escribi al privado",
+      "author": {
+        "id": "Manuel Ayala",
+        "username": "Manuel Ayala",
+        "display_name": "Manuel Ayala",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:40:20.424454",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid0W8BCvWBuesT4n8sAQ7Mcgj4zCh9rknFfA6_c0"
+    },
+    {
+      "id": "pfbid0W8BCvWBuesT4n8sAQ7Mcgj4zCh9rknFfA6_c3",
+      "platform": "facebook",
+      "post_id": "pfbid0W8BCvWBuesT4n8sAQ7Mcgj4zCh9rknFfA6",
+      "text": "Ni medalla no van a proveer... No es atractiva la iniciativa",
+      "author": {
+        "id": "Andrea Villalba",
+        "username": "Andrea Villalba",
+        "display_name": "Andrea Villalba",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:43:20.424460",
+      "likes": 0,
+      "replies_count": 1,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid0W8BCvWBuesT4n8sAQ7Mcgj4zCh9rknFfA6_c4",
+      "platform": "facebook",
+      "post_id": "pfbid0W8BCvWBuesT4n8sAQ7Mcgj4zCh9rknFfA6",
+      "text": "Hola Andrea, es un gusto que nos escribras, al tratarse de un evento benéfico no se realizarán entregas de premios o medallas, todo lo recaudado se destina a donaciones. Si tenés otra consulta, estamos a las órdenes.",
+      "author": {
+        "id": "Itaú",
+        "username": "Itaú",
+        "display_name": "Itaú",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:43:20.424464",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid0W8BCvWBuesT4n8sAQ7Mcgj4zCh9rknFfA6_c3"
+    },
+    {
+      "id": "pfbid0W8BCvWBuesT4n8sAQ7Mcgj4zCh9rknFfA6_c5",
+      "platform": "facebook",
+      "post_id": "pfbid0W8BCvWBuesT4n8sAQ7Mcgj4zCh9rknFfA6",
+      "text": "Costo",
+      "author": {
+        "id": "Maria Elva Izembrandt",
+        "username": "Maria Elva Izembrandt",
+        "display_name": "Maria Elva Izembrandt",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:40:20.424469",
+      "likes": 0,
+      "replies_count": 1,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid0W8BCvWBuesT4n8sAQ7Mcgj4zCh9rknFfA6_c6",
+      "platform": "facebook",
+      "post_id": "pfbid0W8BCvWBuesT4n8sAQ7Mcgj4zCh9rknFfA6",
+      "text": "Hola Maria, es un gusto saludarte, podés ingresar a la página de Asunción Runners para inscribirte, el costo es de Gs. 88.000. Si tenés alguna otra duda, estamos para ayudarte.",
+      "author": {
+        "id": "Itaú",
+        "username": "Itaú",
+        "display_name": "Itaú",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:40:20.424473",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid0W8BCvWBuesT4n8sAQ7Mcgj4zCh9rknFfA6_c5"
+    },
+    {
+      "id": "pfbid0W8BCvWBuesT4n8sAQ7Mcgj4zCh9rknFfA6_c7",
+      "platform": "facebook",
+      "post_id": "pfbid0W8BCvWBuesT4n8sAQ7Mcgj4zCh9rknFfA6",
+      "text": "Ruben Izembrandt",
+      "author": {
+        "id": "Maria Elva Izembrandt",
+        "username": "Maria Elva Izembrandt",
+        "display_name": "Maria Elva Izembrandt",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:40:20.424478",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid0W8BCvWBuesT4n8sAQ7Mcgj4zCh9rknFfA6_c8",
+      "platform": "facebook",
+      "post_id": "pfbid0W8BCvWBuesT4n8sAQ7Mcgj4zCh9rknFfA6",
+      "text": "Gina Marlene Hill Kollmmann",
+      "author": {
+        "id": "Sandy Kollmann",
+        "username": "Sandy Kollmann",
+        "display_name": "Sandy Kollmann",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:40:20.424482",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid0W8BCvWBuesT4n8sAQ7Mcgj4zCh9rknFfA6_c9",
+      "platform": "facebook",
+      "post_id": "pfbid0W8BCvWBuesT4n8sAQ7Mcgj4zCh9rknFfA6",
+      "text": "Gladys Medina Ara",
+      "author": {
+        "id": "Carlos Ferreira",
+        "username": "Carlos Ferreira",
+        "display_name": "Carlos Ferreira",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:40:20.424485",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e_c0",
+      "platform": "facebook",
+      "post_id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e",
+      "text": "Deberían arreglar la APP de Itaú por favor, imposible entrar y si llamas no te atienden",
+      "author": {
+        "id": "Miguela Fleitas de González",
+        "username": "Miguela Fleitas de González",
+        "display_name": "Miguela Fleitas de González",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:39.119274",
+      "likes": 0,
+      "replies_count": 5,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e_c1",
+      "platform": "facebook",
+      "post_id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e",
+      "text": "Hola Miguela, indícanos por favor más detalles sobre tu mención junto con capturas de pantalla de lo que visualizas al privado, así hacemos todo lo posible para ayudarte. Muchas gracias por escribirnos.",
+      "author": {
+        "id": "Itaú",
+        "username": "Itaú",
+        "display_name": "Itaú",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:39.119304",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e_c0"
+    },
+    {
+      "id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e_c2",
+      "platform": "facebook",
+      "post_id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e",
+      "text": "Itaú no está funcionando la banca ni las líneas. No se puede pagar nada",
+      "author": {
+        "id": "Laura Adriana Lopez",
+        "username": "Laura Adriana Lopez",
+        "display_name": "Laura Adriana Lopez",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:39.119310",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e_c0"
+    },
+    {
+      "id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e_c3",
+      "platform": "facebook",
+      "post_id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e",
+      "text": "Itaú no funciona la banca web, ni la app, nadie atiende..! Que pasa?",
+      "author": {
+        "id": "Pame Alarcón",
+        "username": "Pame Alarcón",
+        "display_name": "Pame Alarcón",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:39.119315",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e_c0"
+    },
+    {
+      "id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e_c4",
+      "platform": "facebook",
+      "post_id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e",
+      "text": "Hola Pame, facilitanos por favor una captura de pantalla del inconveniente al privado así te ayudamos. Gracias por escribirnos.",
+      "author": {
+        "id": "Itaú",
+        "username": "Itaú",
+        "display_name": "Itaú",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:39.119320",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e_c0"
+    },
+    {
+      "id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e_c5",
+      "platform": "facebook",
+      "post_id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e",
+      "text": "No funciona nada en esta cagada de banco y no atienden las llamadas. Den la cara y saquen un comunicado! No pueden simplemente desaparecer!. Es nuestro dinero el que tienen secuestrado sin dar explicaciones.",
+      "author": {
+        "id": "Santiago Samudio III",
+        "username": "Santiago Samudio III",
+        "display_name": "Santiago Samudio III",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:39.119324",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e_c0"
+    },
+    {
+      "id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e_c6",
+      "platform": "facebook",
+      "post_id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e",
+      "text": "Pésimo servicio! una estafa las compras con tienda naranja, el PEOR banco",
+      "author": {
+        "id": "Victoria Delvalle",
+        "username": "Victoria Delvalle",
+        "display_name": "Victoria Delvalle",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:39.119329",
+      "likes": 0,
+      "replies_count": 1,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e_c7",
+      "platform": "facebook",
+      "post_id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e",
+      "text": "Hola Victoria, te saluda John. Nuestra intención es poder ayudarte, por favor facilitanos tu nº de C.I., nº de teléfono y dirección de correo electrónico privado para verificar. Gracias por escribirnos.",
+      "author": {
+        "id": "Itaú",
+        "username": "Itaú",
+        "display_name": "Itaú",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:39.119333",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e_c6"
+    },
+    {
+      "id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e_c8",
+      "platform": "facebook",
+      "post_id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e",
+      "text": "Tampoco puedo entrar a la app , cargo mi contraseña y no abre y vuelve a poner en pantalla el teclado de numeros",
+      "author": {
+        "id": "Vilma Emilce Cazal Gimenez",
+        "username": "Vilma Emilce Cazal Gimenez",
+        "display_name": "Vilma Emilce Cazal Gimenez",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:39.119337",
+      "likes": 0,
+      "replies_count": 2,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e_c9",
+      "platform": "facebook",
+      "post_id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e",
+      "text": "Hola Vilma, sentimos las molestias ocasionadas, actualmente ya se encuentra subsanado la intermitencia, te recomendamos intentar ingresar nuevamente a tu App Itaú Py y si persiste el inconveniente danos aviso para ayudarte. Gracias por escribirnos.",
+      "author": {
+        "id": "Itaú",
+        "username": "Itaú",
+        "display_name": "Itaú",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:39.119340",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e_c8"
+    },
+    {
+      "id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e_c10",
+      "platform": "facebook",
+      "post_id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e",
+      "text": "Itaú 20 minutos en línea esperando que onda enserió???",
+      "author": {
+        "id": "Carlos Antonio Bobadilla",
+        "username": "Carlos Antonio Bobadilla",
+        "display_name": "Carlos Antonio Bobadilla",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:40:39.119344",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e_c8"
+    },
+    {
+      "id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e_c11",
+      "platform": "facebook",
+      "post_id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e",
+      "text": "El peor banco sinceramente demasiado lentos son mucha burocracia al.pedo",
+      "author": {
+        "id": "Nathi Garay",
+        "username": "Nathi Garay",
+        "display_name": "Nathi Garay",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:39.119348",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e_c12",
+      "platform": "facebook",
+      "post_id": "pfbid05P3fVFDXwzzHBDtrYVoDBdTsnNufVET82e",
+      "text": "Ncsit un asesor del banco itau",
+      "author": {
+        "id": "Gladys Bogado",
+        "username": "Gladys Bogado",
+        "display_name": "Gladys Bogado",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:39.119352",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": null
+    },
+    {
+      "id": "1123249196022328_c0",
+      "platform": "facebook",
+      "post_id": "1123249196022328",
+      "text": "Ponete en modo All Inclusive",
+      "author": {
+        "id": "unknown",
+        "username": "unknown",
+        "display_name": "unknown",
+        "is_verified": false
+      },
+      "published_at": null,
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": null
+    },
+    {
+      "id": "1123249196022328_c1",
+      "platform": "facebook",
+      "post_id": "1123249196022328",
+      "text": "Porque lo importante es darte un premio único: podés ganar un viaje para 2 personas a Punta Cana.",
+      "author": {
+        "id": "unknown",
+        "username": "unknown",
+        "display_name": "unknown",
+        "is_verified": false
+      },
+      "published_at": null,
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": null
+    },
+    {
+      "id": "1123249196022328_c2",
+      "platform": "facebook",
+      "post_id": "1123249196022328",
+      "text": "Más información en el link de la bio.",
+      "author": {
+        "id": "unknown",
+        "username": "unknown",
+        "display_name": "unknown",
+        "is_verified": false
+      },
+      "published_at": null,
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": null
+    },
+    {
+      "id": "1123249196022328_c3",
+      "platform": "facebook",
+      "post_id": "1123249196022328",
+      "text": "Saw the opening & left 'em shook!  B-Boy Issin",
+      "author": {
+        "id": "unknown",
+        "username": "unknown",
+        "display_name": "unknown",
+        "is_verified": false
+      },
+      "published_at": null,
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": null
+    },
+    {
+      "id": "pfbid0cPQi8aSKQnrQ2LLx1MSz5CwkaFJojcQkx1_c0",
+      "platform": "facebook",
+      "post_id": "pfbid0cPQi8aSKQnrQ2LLx1MSz5CwkaFJojcQkx1",
+      "text": "Si es importante el ahorrar pero muy poco es el interés que paga el banco por un ahorro programado que me imagino que el banco eso lo usa para otorgar préstamo a otra persona entonces sería interesante que el banco pague un 2%  mensual de interés como ganancias sobre nuestro ahorro programado,a ver qué opinan señores ahorristas, es muy poco el 4% anual no soy administrador pero estoy estudiando este caso de ahorro programado",
+      "author": {
+        "id": "Gladys Almeida",
+        "username": "Gladys Almeida",
+        "display_name": "Gladys Almeida",
+        "is_verified": false
+      },
+      "published_at": "2025-12-08T14:39:12.927020",
+      "likes": 0,
+      "replies_count": 0,
+      "parent_id": null
+    }
+  ]
+}
