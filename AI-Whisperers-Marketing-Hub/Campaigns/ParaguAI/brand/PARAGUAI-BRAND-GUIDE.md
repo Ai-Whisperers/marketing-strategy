@@ -59,9 +59,11 @@ En imágenes y copy: la palabra **AI** del wordmark va en **mayúsculas** y colo
 
 ## Tipografía (creativos)
 
-- Sans-serif moderna: **Inter**, **DM Sans**, **Montserrat** o similar.
-- Títulos: bold/extra-bold. Cuerpo: regular/medium.
-- No usar serif decorativa en el lockup del logo.
+**Norma completa (título, subtítulo, cuerpo, precios, espaciado):** [TYPOGRAPHY-POST-STANDARD-es.md](TYPOGRAPHY-POST-STANDARD-es.md).
+
+- Familia principal: **Inter**; alternativas alineadas al estándar: **Plus Jakarta Sans**, **Montserrat**, **DM Sans** — instalación en [fonts/README.md](fonts/README.md).
+- Títulos: bold / extra-bold. Subtítulos: medium / semibold. Cuerpo: regular.
+- No usar serif decorativa en el lockup del logo ni como familia dominante en posts de producto salvo brief excepcional.
 
 ---
 
@@ -75,7 +77,9 @@ No generes PNG de campaña sin documento revisado:
 
 ---
 
-## Composición en imágenes sociales (1080×1080)
+## Composición en imágenes sociales (1080×1350 feed / 1080×1080 legacy)
+
+Normas de layout detalladas (feed / carrusel, márgenes, ratios, jerarquía): [INSTAGRAM-STANDARDS-es.md](INSTAGRAM-STANDARDS-es.md) §1.1 y regla Cursor `paraguai-instagram-promotional-layout`.
 
 1. **Logo:** esquina superior izquierda o inferior centrado — usar asset oficial o recomponer **pixel-fiel** al PNG de referencia.
 2. **URL:** `paragu-ai.com` en gris claro, pie de imagen (como OG oficial).

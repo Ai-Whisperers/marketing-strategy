@@ -1,0 +1,8 @@
+# Creativos ParaguAI (scripts PNG / automatización liviana)
+pillow>=10.2.0
+
+# Carrusel planes: solo Pillow. Depuración de layout sin dependencias extra:
+#   python scripts/build_carousel_planes_png.py --layout-debug
+
+# Opcional: capturas de demos en el navegador
+# playwright>=1.40.0

@@ -14,6 +14,7 @@ Antes de generar cualquier PNG en **`assets/creativos/`** (p. ej. `vertical-<slu
 
 | Documento | Uso |
 |-----------|-----|
+| [CREATIVOS-TOOLCHAIN-es.md](CREATIVOS-TOOLCHAIN-es.md) | **Stack de herramientas** (Pillow vs IA vs Figma), mejoras del pipeline y checklist |
 | [WORKFLOW-pre-imagen-es.md](WORKFLOW-pre-imagen-es.md) | Resumen del flujo y responsabilidades |
 | [../PARAGUAI-BRAND-GUIDE.md](../PARAGUAI-BRAND-GUIDE.md) | Logo, nombre, URL, tono |
 | [paraguai-brand-visual-rule.mdc](../../../../../.cursor/rules/campaigns/paraguai-brand-visual-rule.mdc) | Estándar visual obligatorio |

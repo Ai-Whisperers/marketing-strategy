@@ -1,0 +1,4 @@
+# Fuentes locales (opcional); no versionar binarios salvo política explícita del repo
+*.ttf
+*.otf
+!README.md

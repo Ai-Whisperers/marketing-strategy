@@ -40,6 +40,7 @@
 | 04 | [04-instagram-linkedin-posts-es.md](04-instagram-linkedin-posts-es.md) | Ejemplos / few-shot para el generador |
 | 05–08 | Posts por rubro (gym, salón, barbería, comida) | Legacy; preferir `verticals/` |
 | 09 | [09-post-web-llamativo-es.md](09-post-web-llamativo-es.md) | Post fuerte: negocio ↔ página web + creativo |
+| 10 | [10-carousel-planes-paraguai-es.md](10-carousel-planes-paraguai-es.md) | Carrusel 5 slides planes + `scripts/build_carousel_planes_png.py` |
 
 ## Assets (`assets/`)
 
