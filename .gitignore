@@ -61,6 +61,9 @@ prospects.db
 # Cursor local index cache
 .cursor/plans/
 
+# ParaguAI — PNG de revisión de layout (regenerar con build_carousel_planes_png.py --layout-debug)
+**/Campaigns/ParaguAI/assets/creativos/*-layout-debug.png
+
 # OS / tool artifacts
 Thumbs.db
 desktop.ini
